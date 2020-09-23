@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: canvas-apps
+name: Canvas apps
+shortname: Canvas apps
+parent: Power Apps
+keywords:
+  - canvas apps
+hashtags:
+  - "#CanvasApps"
+services:
+  learning: https://smartableai.github.io/microsoft-power-apps/api/learning/canvas-apps/
+  news: https://smartableai.github.io/microsoft-power-apps/api/news/canvas-apps/

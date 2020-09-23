@@ -1,0 +1,12 @@
+taxonomy: topic
+_id: common-data-service
+name: Common Data Service
+shortname: CDS
+parent: Power Apps
+keywords:
+  - Common Data Service
+hashtags:
+  - "#CommonDataService"
+services:
+  learning: https://smartableai.github.io/microsoft-power-apps/api/learning/common-data-service/
+  news: https://smartableai.github.io/microsoft-power-apps/api/news/common-data-service/
