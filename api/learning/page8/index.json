@@ -1,0 +1,1018 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 8,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-portals-access-common-data-service.md",
+      "title": "Access Common Data Service in Power Apps portals",
+      "excerpt": "The ability to show and interact with Common Data Service data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Common Data Service data in Power Apps portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-access-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/portals-access-common-data-service/",
+      "length": "PT50M",
+      "ratings": {
+        "count": 34,
+        "average": 4.382353
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-access-common-data-service-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds.md",
+      "title": "Power Apps Timer Value to Hours, Minutes, Seconds",
+      "excerpt": "#PowerApps #TimerControl Have you ever needed to track how long it's taking to complete a process in your Power App?  Using the Timer Control you can do that, however, the output of that timer value is stored in an unfriendly format.  In this video, I show how you can take that timer value and format",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds/",
+      "originalUrl": "https://youtube.com/watch?v=dDjOVwR1AXc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDjOVwR1AXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M14S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dDjOVwR1AXc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-design-guidance-on-creating-power-apps-solutions-one-dev-question-dona-sarkar.md",
+      "title": "Design guidance on creating Power Apps solutions | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar gives some advice on creating Power App solutions.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/get-started-test-drive/?WT.mc_id=onedevquestion-c9-donasa   Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-design-guidance-on-creating-power-apps-solutions-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-design-guidance-on-creating-power-apps-solutions-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=3lUQDCRFWnQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3lUQDCRFWnQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M13S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-13T08:09:15-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3lUQDCRFWnQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-do-power-apps-differ-from-azure-logic-apps-one-dev-question-dona-sarkar.md",
+      "title": "How do Power Apps differ from Azure Logic Apps? | One Dev Question: Dona Sarkar",
+      "excerpt": "Ever wondered the difference between Power Apps and Azure Logic Apps? In the One Dev Question series, Principal Cloud Advocate Dona Sarkar explains just how different they are.    For more information, visit: https://docs.microsoft.com/powerapps/powerapps-overview/?WT.mc_id=onedevquestion-c9-donasa",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-how-do-power-apps-differ-from-azure-logic-apps-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-how-do-power-apps-differ-from-azure-logic-apps-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=MDNPqXrlhCw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MDNPqXrlhCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-22T08:03:43-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MDNPqXrlhCw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-do-power-apps-support-accessibility-and-inclusiveness-one-dev-question-dona-sarkar.md",
+      "title": "How do Power Apps support accessibility and Inclusiveness? | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar explains how Power Apps supports accessibility and inclusiveness.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/accessible-apps/?WT.mc_id=onedevquestion-c9-donasa  Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-how-do-power-apps-support-accessibility-and-inclusiveness-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-how-do-power-apps-support-accessibility-and-inclusiveness-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=ju-XovgnGVY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ju-XovgnGVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M15S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-04T08:15:32-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ju-XovgnGVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-create-email-templates-in-powerapps-with-estimator-pro.md",
+      "title": "How to create email templates in PowerApps with Estimator Pro",
+      "excerpt": "Learn how to customize Outlook by creating dynamic email templates in PowerApps with Estimator Pro. By using Estimator Pro, you can view the location and details of your customer appointments, build project estimates, and send the details to customers all within a single app.   Learn more: https://web.powerapps.com/home?sampleapp_preview=estimatorpro",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-how-to-create-email-templates-in-powerapps-with-estimator-pro/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-how-to-create-email-templates-in-powerapps-with-estimator-pro/",
+      "originalUrl": "https://youtube.com/watch?v=ya5A4HLx27Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ya5A4HLx27Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M40S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-24T14:12:07-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ya5A4HLx27Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-find-available-meeting-times-with-meeting-capture.md",
+      "title": "How to find available meeting times with Meeting Capture",
+      "excerpt": "This video provides a deep dive into the Meeting Capture PowerApps sample template. Learn how to find available meeting times for all meeting attendees when building in the Meeting Capture app.  Learn more: https://powerapps.microsoft.com/en-us/blog/capture-meetings-notes-like-a-pro/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-how-to-find-available-meeting-times-with-meeting-capture/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-how-to-find-available-meeting-times-with-meeting-capture/",
+      "originalUrl": "https://youtube.com/watch?v=gSD8m6d_Gv0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gSD8m6d_Gv0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M9S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-20T09:00:58-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gSD8m6d_Gv0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-what-databases-do-power-apps-work-with-one-dev-question-dona-sarkar.md",
+      "title": "What databases do Power Apps work with? | One Dev Question: Dona Sarkar",
+      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar explains how she uses Power Apps and why.   For more information, visit: https://docs.microsoft.com/powerapps/developer/common-data-service/overview/?WT.mc_id=onedevquestion-c9-donasa    Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-what-databases-do-power-apps-work-with-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-what-databases-do-power-apps-work-with-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=e0Xh7KQlBvU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e0Xh7KQlBvU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M50S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-29T08:06:36-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e0Xh7KQlBvU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-where-are-power-apps-going-in-the-future-one-dev-question-dona-sarkar.md",
+      "title": "Where are Power Apps going in the future? | One Dev Question: Dona Sarkar",
+      "excerpt": "Wonder what is next for Power Apps? In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares some exciting news about the future of Power Apps.   For more information, visit: https://powerapps.microsoft.com/blog/?WT.mc_id=onedevquestion-c9-donasa  Try Azure for free: https://aka.ms/TryAzure7",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-where-are-power-apps-going-in-the-future-one-dev-question-dona-sarkar/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-where-are-power-apps-going-in-the-future-one-dev-question-dona-sarkar/",
+      "originalUrl": "https://youtube.com/watch?v=fPE5LJif0sw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fPE5LJif0sw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M41S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-06T08:04:16-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fPE5LJif0sw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-audit-logging.md",
+      "title": "PowerApps Audit Logging",
+      "excerpt": "In this video, you will learn how to track when users modify your data with PowerApps. We do this using the User() and Now() function combined with OnSuccess. Not terribly complicated but an effective solution for tracking that info you need.  Video on the User() function https://www.youtube.com/watch?v=FpXrF5NDZbI",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-audit-logging/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-audit-logging/",
+      "originalUrl": "https://youtube.com/watch?v=tNKcsuL72ks",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tNKcsuL72ks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M7S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-05-03T16:38:45-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tNKcsuL72ks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-random-text-function-make-your-own.md",
+      "title": "PowerApps Random Text Function - Make your own",
+      "excerpt": "In this video, you will learn how to get random text back for your PowerApps apps. Turns out there is not a random text function so I show you how to make your own combining Shuffle, First, and the Table function. I also give you a quick insight into the random options that PowerApps does have. Hope",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-random-text-function-make-your-own/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-random-text-function-make-your-own/",
+      "originalUrl": "https://youtube.com/watch?v=OxLYL4ZzsT8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OxLYL4ZzsT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M59S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-06-05T20:15:11-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OxLYL4ZzsT8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-adding-a-signature-line-to-powerapps-and-saving.md",
+      "title": "Adding a Signature Line to PowerApps and Saving",
+      "excerpt": "Learn how to save a signature line to a PowerApp and save it into a database as a binary column.   Register for the forever free class without a credit card: https://pragmaticworkstraining.com/virtual-aiad-free-registration/  We'd love to build your next app: https://pragmaticworks.com/consulting-services/managed-services/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-adding-a-signature-line-to-powerapps-and-saving/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-adding-a-signature-line-to-powerapps-and-saving/",
+      "originalUrl": "https://youtube.com/watch?v=dQKs0cTRX9I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dQKs0cTRX9I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-09-03T08:36:47-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dQKs0cTRX9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-app-in-a-day-free-training-class-to-learn-powerapps.md",
+      "title": "App in a Day Free Training Class to Learn PowerApps",
+      "excerpt": "The App In a Day class is a fantastic way to get started on your PowerApps learning journey. It takes you through learning Common Data Services (CDS) and building canvas and model-driven applications. You will also learn about Flow in this hands-on free class.   Register for the forever free class without",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-app-in-a-day-free-training-class-to-learn-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-app-in-a-day-free-training-class-to-learn-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=rhJ666zccjc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rhJ666zccjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-07-09T14:00:42-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rhJ666zccjc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder.md",
+      "title": "Artificial Intelligence in PowerApps with AI Builder",
+      "excerpt": "Free training every Tuesday at 11am EST https://pragmaticworks.com/resources/...   Do you want to learn how to use Artificial Intelligence in PowerApps?    In this demo-heavy presentation, you'll see how to integrate PowerApps applications into Power BI reports making your reports actionable.  Pragmatic",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder/",
+      "originalUrl": "https://youtube.com/watch?v=tVIpwCKwCxg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tVIpwCKwCxg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M9S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-10-31T05:11:26-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tVIpwCKwCxg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-building-your-first-model-driven-application-in-powerapps.md",
+      "title": "Building Your First Model Driven Application in PowerApps",
+      "excerpt": "Free trainings every Tuesday at 11am EST https://pragmaticworks.com/resources/free-webinars/   In this session, you’ll see how to store data into Common Data Services and build an easy to use application using PowerApps to compliment or replace your existing paperwork process.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-building-your-first-model-driven-application-in-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-building-your-first-model-driven-application-in-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=-S8rkDG9qDU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-S8rkDG9qDU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M58S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-06-05T07:05:04-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-S8rkDG9qDU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-creating-a-powerapps-leaderboard-groupby-and-countrows-functions.md",
+      "title": "Creating a PowerApps Leaderboard (GroupBy and CountRows functions)",
+      "excerpt": "PowerApp a Day Episode #10 (HR Shoutout App) -  Time to make our HR application fun by adding some gamification into our shoutout application. Learn how to build small reports with the GroupBy and Sum functions to create a leader board in PowerApps.  Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-creating-a-powerapps-leaderboard-groupby-and-countrows-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-creating-a-powerapps-leaderboard-groupby-and-countrows-functions/",
+      "originalUrl": "https://youtube.com/watch?v=q42ibovAqZc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q42ibovAqZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M31S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-17T07:50:34-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q42ibovAqZc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-creating-a-salesforcecom-application-with-powerapps.md",
+      "title": "Creating a SalesForce.com Application with PowerApps",
+      "excerpt": "PowerApp a Day Episode #14 (SalesPerson App) -  In this video, we'll create a new application that connects to SalesForce.com for a rep to review their leads and contacts from their phones.  Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training  Delegatable events:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-creating-a-salesforcecom-application-with-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-creating-a-salesforcecom-application-with-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=my0PvRaPFkI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/my0PvRaPFkI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M36S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-20T11:20:36-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/my0PvRaPFkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-how-to-use-powerapps-dataflows-to-load-and-reload-a-cds-entity.md",
+      "title": "How to Use PowerApps DataFlows to Load and Reload a CDS Entity",
+      "excerpt": "Learn how to create your first PowerApps DataFlow to load the Common Data Services (CDS) entity.   We love building apps and training companies! http://www.pragmaticworks.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-how-to-use-powerapps-dataflows-to-load-and-reload-a-cds-entity/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-how-to-use-powerapps-dataflows-to-load-and-reload-a-cds-entity/",
+      "originalUrl": "https://youtube.com/watch?v=8d8xVOqlxbU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8d8xVOqlxbU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M42S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-10-16T12:19:32-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8d8xVOqlxbU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-integrating-powerapps-with-power-bi.md",
+      "title": "Integrating PowerApps with Power BI",
+      "excerpt": "Free training every Tuesday at 11am EST https://pragmaticworks.com/resources/free-webinars/  Do you want to learn how to integrate PowerApps with Power BI?  In this demo-heavy presentation, you'll see how to integrate PowerApps applications into Power BI reports making your reports actionable.  Free",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-integrating-powerapps-with-power-bi/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-integrating-powerapps-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=PyCZ1gu_k5s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PyCZ1gu_k5s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-07-10T07:28:54-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PyCZ1gu_k5s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-ifthen-statements-and-solving-delegation-issues.md",
+      "title": "PowerApps If..Then Statements and Solving Delegation Issues",
+      "excerpt": "PowerApp a Day Episode #10 (Shoutout App) - Learn how to use If..Then statements and deal with challenges with SharePoint delegation in PowerApps  Pragmatic Works Training : https://pragmaticworks.com/training/on-demand-training",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-powerapps-ifthen-statements-and-solving-delegation-issues/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-powerapps-ifthen-statements-and-solving-delegation-issues/",
+      "originalUrl": "https://youtube.com/watch?v=22tZc6tAdd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/22tZc6tAdd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M38S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-14T11:36:05-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/22tZc6tAdd4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-refreshing-powerapps-datasources-on-a-timer.md",
+      "title": "Refreshing PowerApps DataSources on a Timer",
+      "excerpt": "PowerApp a Day Episode #24 - In this video, you'll learn how to refresh datasources in PowerApps on a periodic timer. This allows you to create a TV application that shows current people checked in for example.    Pragmatic Works Training : https://pragmaticworks.com/training/on-demand-training  Delegatable",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-refreshing-powerapps-datasources-on-a-timer/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-refreshing-powerapps-datasources-on-a-timer/",
+      "originalUrl": "https://youtube.com/watch?v=nWcQ5MsQ1Xw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nWcQ5MsQ1Xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M43S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-03-06T07:28:10-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nWcQ5MsQ1Xw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-texting-with-powerapps.md",
+      "title": "Texting with PowerApps",
+      "excerpt": "Eps 33: Learn two techniques to send text messages from a PowerApp application. One is through a Launch command and the other is with a 3rd party data connector, TxtSync.   For PowerApps training and App Building services, please reach out to us at https://www.pragmaticworks.com  The connector requires",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-texting-with-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-texting-with-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=9x3aJkV0s1Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9x3aJkV0s1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M29S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-07-08T09:31:22-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9x3aJkV0s1Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-using-the-patch-command-in-powerapps-for-parent-child-table-inserts.md",
+      "title": "Using the Patch Command in PowerApps for Parent Child Table Inserts",
+      "excerpt": "in this tutorial, you'll learn how to use the Patch command to take the primary key value from inserting into one table and inject it into a second table. This example is perfect for apps like shopping carts or inventory systems.  Here's the code:  ClearCollect(     colStageCustomer,     Patch(",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-using-the-patch-command-in-powerapps-for-parent-child-table-inserts/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-using-the-patch-command-in-powerapps-for-parent-child-table-inserts/",
+      "originalUrl": "https://youtube.com/watch?v=Qp458n1q2bo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qp458n1q2bo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M8S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-07-03T10:15:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Qp458n1q2bo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-using-the-powerapps-ai-builder-object-detector.md",
+      "title": "Using the PowerApps AI Builder Object Detector",
+      "excerpt": "Learn how to use the AI Builder for object detection. In this app build project, you'll see how to do automatic inventory by just taking pictures of what you want to inventory in PowerApps or Microsoft Flow.  Check out our great training at https://www.pragmaticworkstraining.com.   We love to build apps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-using-the-powerapps-ai-builder-object-detector/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-using-the-powerapps-ai-builder-object-detector/",
+      "originalUrl": "https://youtube.com/watch?v=R4LYI8f46ic",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R4LYI8f46ic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M12S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-11-01T08:21:54-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R4LYI8f46ic/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-authentication-user-management.md",
+      "title": "Authentication and user management in Power Apps portals",
+      "excerpt": "Learn how to authenticate with Power Apps portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-authentication-user-management/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/authentication-user-management/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 10,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/authentication-user-management-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-user-experience-portals.md",
+      "title": "Build user experience in Power Apps portals",
+      "excerpt": "A portal maker should consider specific details when designing and building portals. Implementing a portal solution requires knowledge of the specific business requirements and needs of the customer. Along with being simplistic and well-designed, a successful portal should provide functionality in consideration of geographical location, language, and accessibility needs. Additionally, portal makers should ensure that portal metadata is backed up to source control and deployed to test and production environments in a consistent and structured way.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-build-user-experience-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/build-user-experience-portals/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 10,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-user-experience-portals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-configure-security.md",
+      "title": "Configure Power Apps portals security",
+      "excerpt": "The concept of exposing Common Data Service on a public webpage is appealing for addressing numerous business requirements. However, careful consideration is necessary to avoid exposing private or sensitive data. This module will focus on helping you understand and configure portal security to protect static and dynamic content and limit visibility to specific audiences.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-configure-security/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/configure-security/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 9,
+        "average": 4.888889
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/configure-security-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-extend-power-app-portals.md",
+      "title": "Extend Power Apps portals",
+      "excerpt": "The world of business software applications has embraced a movement toward building apps that use low-code/no-code methods. This movement is one of the pillars of Microsoft Power Platform, including Power Apps portals. However, many projects often include functionality or features that can only be addressed with advanced software development techniques. This module explains how to extend portal functionality by using software development and how to use application lifecycle management (ALM) techniques to deploy portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-extend-power-app-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/extend-power-app-portals/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 26,
+        "average": 4.3461537
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/extend-power-app-portals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-how-to-build-model-driven-app.md",
+      "title": "How to build a model-driven app",
+      "excerpt": "How to build a model-driven app",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-how-to-build-model-driven-app/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/how-build-model-driven-app/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-integrate-common-data-service.md",
+      "title": "Integrate Power Apps portals with Common Data Service",
+      "excerpt": "The ability to find and interact with Common Data Service data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Common Data Service data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure entity lists, entity forms, and web forms to build powerful web applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-integrate-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/integrate-common-data-service/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 9,
+        "average": 4.7777777
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/integrate-common-data-service-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ],
+  "nextPage": 9
+}

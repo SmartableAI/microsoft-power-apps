@@ -4,6 +4,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-introduction-power-platform-extensibility-model.md",
+      "title": "Introduction to extending the Microsoft Power Platform",
+      "excerpt": "This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of the Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-introduction-power-platform-extensibility-model/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform-extensibility-model/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 725,
+        "average": 4.6331034
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-extensibility-model-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps.md",
       "title": "Use the UI and controls in a canvas app in Power Apps",
       "excerpt": "The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.",
@@ -798,6 +839,35 @@
       ]
     },
     {
+      "path": "_learning/videos/april-dunnam-powerapps-using-the-same-form-control-for-new-and-edit.md",
+      "title": "PowerApps: Using the Same Form Control for New and Edit",
+      "excerpt": "#PowerApps #PowerAppsForms In this video I show you a quick tip on how to use a function to switch your PowerApps Form Mode between New and Edit.  This enables you to cut down on the number of screens and form controls by using the same screen to handle new item and existing item inputs.   For more PowerApps,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-powerapps-using-the-same-form-control-for-new-and-edit/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-powerapps-using-the-same-form-control-for-new-and-edit/",
+      "originalUrl": "https://youtube.com/watch?v=72I2od3EteY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/72I2od3EteY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M56S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:33:04-07:00",
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/72I2od3EteY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-designing-power-platform-deployments.md",
       "title": "Design Microsoft Power Platform Dynamics 365 Deployments",
       "excerpt": "Design and deploy Microsoft Dynamics 365 apps on the Microsoft Power Platform. Best Practices during this process will decrease the chances of technical issues in the future related to poor application lifecycle management process and storage limitations. The first step before the customization and configuration of the solution takes place is the configuration of your online tenant and online environment",
@@ -1025,6 +1095,105 @@
       ]
     },
     {
+      "path": "_learning/collections/april-dunnam-intermediate-power-apps-topics-by-april-dunnam.md",
+      "title": "Intermediate Power Apps Topics by April Dunnam",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/april-dunnam-intermediate-power-apps-topics-by-april-dunnam/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/april-dunnam-intermediate-power-apps-topics-by-april-dunnam/",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "topItems": [
+        {
+          "path": "",
+          "title": "Power App Mutli Screen Form Controls",
+          "excerpt": "#PowerApps #PowerAppsForms  In this video I show how you can break out a form control over multiple screens. This helps provide a better User Experience by reducing scrolling.",
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/N8AsxE__Mw8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "type": "video",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Power Apps Timer Value to Hours, Minutes, Seconds",
+          "excerpt": "#PowerApps #TimerControl Have you ever needed to track how long it's taking to complete a process in your Power App?  Using the Timer Control you can do that, however, the output of that timer value is stored in an unfriendly format.  In this video, I show how you can take that timer value and format",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/dDjOVwR1AXc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "type": "video",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Power Apps Paginated Galleries",
+          "excerpt": "#PowerApps #Pagination #HowTo In this video, I demonstrate how to add pagination to your Power Apps Galleries.  This technique utilize collections, the LastN & FirstN functions and the With function to help break down your data source into bite sized chunks.  I've created a corresponding blog post which",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/LJJlomo0Kcc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "type": "video",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Power Apps Branding Screen and Theme",
+          "excerpt": "#PowerApps #PowerAppsPyramid   In this video I show how you can create a branding screen in your Power Apps applications that mimics your company brand standard and use that screen to create a custom re-usable theme.    This is an expansion on my \"App Makeover: Quick Tips for Beautiful PowerApps\" talk",
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/uAQa-Zg3yGk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "type": "video",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 17,
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N8AsxE__Mw8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-work-with-relational-data.md",
       "title": "Work with relational data in a Power Apps canvas app",
       "excerpt": "Learn how to work with relational data in Power Apps canvas apps.",
@@ -1095,121 +1264,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/administrating-power-platform-subscriptions-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
-      "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
-      "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/discover-customer-needs/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 423,
-        "average": 4.673759
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 65,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-author-advanced-formulas.md",
-      "title": "Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps",
-      "excerpt": "Do you have need for a complex formula in your app? This module can help you author that formula.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-advanced-formulas/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/author-advanced-formulas-powerapps/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 415,
-        "average": 4.6313252
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/author-advanced-formulas-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-data-source-limits.md",
-      "title": "Work with data source limits (delegation limits) in a Power Apps canvas app",
-      "excerpt": "Delegate data with Power Apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-data-source-limits/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/work-with-data-source-limits-powerapps-canvas-app/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 397,
-        "average": 4.6196475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-source-limits-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

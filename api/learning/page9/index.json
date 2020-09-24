@@ -1,0 +1,638 @@
+{
+  "title": "Learning Resources",
+  "path": "_learning",
+  "page": 9,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-power-virtual-agents.md",
+      "title": "Introduction to Power Virtual Agents",
+      "excerpt": "Introduction to Power Virtual Agents",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-introduction-to-power-virtual-agents/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-virtual-agents/",
+      "length": "PT17M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-liquid-template-language.md",
+      "title": "Work with Liquid template language in Power Apps portals",
+      "excerpt": "Liquid is an [open-source template language](http://dotliquidmarkup.org/?azure-portal=true) that is integrated natively into Microsoft Power Apps portals. It acts as a bridge between Common Data Service and the HTML or text output that is sent to the browser. Liquid can be used to add dynamic content to pages and to create a variety of custom templates. Additionally, Liquid provides access only to the data and operations that are explicitly allowed by the portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-liquid-template-language/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/liquid-template-language/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 9,
+        "average": 4.888889
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/liquid-template-language-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-portals-administration.md",
+      "title": "Power Apps portals administration",
+      "excerpt": "This module will focus on the Microsoft Power Apps Portals administration and using the Power Apps admin center. Additional actions and features are available that you can use to enhance portal functionality.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-administration/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/portals-administration/",
+      "length": "PT13M",
+      "ratings": {
+        "count": 21,
+        "average": 4.4761906
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-administration-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-portals-integration.md",
+      "title": "Integrate Power Apps portals with web-based technologies",
+      "excerpt": "Learn how to integrate Power Apps portals with web-based technologies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-integration/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/portals-integration/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 16,
+        "average": 4.8125
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-integration-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-portals-maintenance-troubleshooting.md",
+      "title": "Power Apps portals maintenance and troubleshooting",
+      "excerpt": "When building a Microsoft Power Apps portal, administrators should consider various techniques, best practices, and features. This module will cover the various troubleshooting tools that are available and explain the importance of using the Portal Checker tool.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-maintenance-troubleshooting/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/portals-maintenance-troubleshooting/",
+      "length": "PT22M",
+      "ratings": {
+        "count": 9,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-maintenance-troubleshooting-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-portals-metadata.md",
+      "title": "Work with Power Apps portals metadata",
+      "excerpt": "Makers are required to understand the various Power Apps portals metadata components so they can configure the portals app for a variety of unique requirements. This module uses the Portal Management app to configure various portals features by editing the portals metadata.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-metadata/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/portals-metadata/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 11,
+        "average": 4.7272725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-metadata-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-how-to-export-content-from-powerapps-to-onenote-using-meeting-capture.md",
+      "title": "How to export content from PowerApps to OneNote using Meeting Capture",
+      "excerpt": "Learn how the Meeting Capture sample app was built with a deep dive into the functions used to export content to OneNote.  Learn more: https://powerapps.microsoft.com/en-us/blog/capture-meetings-notes-like-a-pro/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-how-to-export-content-from-powerapps-to-onenote-using-meeting-capture/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-how-to-export-content-from-powerapps-to-onenote-using-meeting-capture/",
+      "originalUrl": "https://youtube.com/watch?v=D6kmeM0UFH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D6kmeM0UFH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M35S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-20T09:01:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D6kmeM0UFH0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-code-comments-inline-block-and-documentation.md",
+      "title": "PowerApps Code Comments inline block and documentation",
+      "excerpt": "In this video, you will learn how to add PowerApps Comments and documentation to your apps. Handy trick that will make future you happy. We cover inline comments, block comments, and a documentation screen.  Video on how I built the Password App https://www.youtube.com/watch?v=GiN47Is_634  PowerApps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-code-comments-inline-block-and-documentation/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-code-comments-inline-block-and-documentation/",
+      "originalUrl": "https://youtube.com/watch?v=KUunAjDbuKE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KUunAjDbuKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M55S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-06-14T09:57:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KUunAjDbuKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-brainstorming-and-gathering-your-powerapps-business-requirements.md",
+      "title": "Brainstorming and Gathering your PowerApps Business Requirements",
+      "excerpt": "PowerApp a Day Episode #7 (HR Shoutout App) -  Time to start up a new PowerApps application. In this live session, you'll watch a real brainstorming session while we build the application on the whiteboard and in mockup software Balsamiq.  Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-brainstorming-and-gathering-your-powerapps-business-requirements/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-brainstorming-and-gathering-your-powerapps-business-requirements/",
+      "originalUrl": "https://youtube.com/watch?v=vn9-mwjP7v4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vn9-mwjP7v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-11T11:28:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vn9-mwjP7v4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-integrating-microsoft-cognitive-services-computer-vision-api-into-powerapps.md",
+      "title": "Integrating Microsoft Cognitive Services Computer Vision API into PowerApps",
+      "excerpt": "PowerApp a Day Episode #19 (Caption App) - Learn how to use PowerApps and Microsoft Cognitive Services Computer Vision to automatically create captions on your images you upload.  Power App Training: https://pragmaticworks.com/Training/On-Demand-Training/Introduction-to-Powerapps  OnChange of the Photo:",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-integrating-microsoft-cognitive-services-computer-vision-api-into-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-integrating-microsoft-cognitive-services-computer-vision-api-into-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=KKon0Yqwu38",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KKon0Yqwu38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M16S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-27T12:20:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KKon0Yqwu38/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-integrating-microsoft-translation-services-and-weather-into-powerapps.md",
+      "title": "Integrating Microsoft Translation Services and Weather into PowerApps",
+      "excerpt": "PowerApp a Day Episode #17 (SalesPerson App) - In this video, you'll learn how to simplify communication with your customers with Microsoft Translation Services, built into your PowerApps application. Use the services to translate emails, text in input boxes and other cool techniques.  We also show how",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-integrating-microsoft-translation-services-and-weather-into-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-integrating-microsoft-translation-services-and-weather-into-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=4deOCqXCZho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4deOCqXCZho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M53S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-25T11:18:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4deOCqXCZho/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-kill-manual-processes-with-powerapps-and-flow.md",
+      "title": "Kill Manual Processes with PowerApps and Flow",
+      "excerpt": "Learn how to digitally transform your business processes, workflows and kill manual paperwork with PowerApps and Flow.  Need beautiful apps and reports built for your organization? Pragmatic Works can help you with our shared development service. http://www.powerplatformpros.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-kill-manual-processes-with-powerapps-and-flow/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-kill-manual-processes-with-powerapps-and-flow/",
+      "originalUrl": "https://youtube.com/watch?v=GSMjFdF8SKw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GSMjFdF8SKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M24S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-04-02T15:34:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GSMjFdF8SKw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-learn-power-platform-with-pragmatic-works-hackathons.md",
+      "title": "Learn Power Platform with Pragmatic Works Hackathons",
+      "excerpt": "Pragmatic Works Hackathons let you train your team by building PowerApps, Power BI and Azure solutions with one part training and one part building a prototype with your own data.  On-Demand Learning courses FREE trial: https://success.pragmaticworks.com/ondemandlearning-free-trial",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-learn-power-platform-with-pragmatic-works-hackathons/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-learn-power-platform-with-pragmatic-works-hackathons/",
+      "originalUrl": "https://youtube.com/watch?v=4Xl71GETuLI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Xl71GETuLI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M47S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-10-08T09:44:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4Xl71GETuLI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-making-powerapps-galleries-more-usable-with-the-templatefill-property.md",
+      "title": "Making PowerApps Galleries More Usable with the TemplateFill Property",
+      "excerpt": "App A day Episode 27: Learn how to use the TemplateFill property to make your PowerApps galleries more usable.  For more PowerApps training, visit http://www.pragmaticworkstraining.com  Or we're passionate about building apps for you: http://www.powerplatformpros.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-making-powerapps-galleries-more-usable-with-the-templatefill-property/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-making-powerapps-galleries-more-usable-with-the-templatefill-property/",
+      "originalUrl": "https://youtube.com/watch?v=zs7BnTR1H-M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zs7BnTR1H-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-05-21T13:44:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zs7BnTR1H-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook.md",
+      "title": "PowerApps Portals External Authentication with Facebook",
+      "excerpt": "Episode 36: Learn how to use external authentication provider, Facebook with PowerApps Portals to allow users to register and login to your site easily.   Check out our free PowerApps App In A Day Class: http://success.pragmaticworks.com/aiad  We'd love to build an app for you: http://www.pragmaticworks.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook/",
+      "originalUrl": "https://youtube.com/watch?v=egfnaXIqpwU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/egfnaXIqpwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-07-22T14:07:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/egfnaXIqpwU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin.md",
+      "title": "PowerApps Portals External Authentication with LinkedIn",
+      "excerpt": "Episode 35: Learn how to use external authentication provider, LinkedIn with PowerApps Portals to allow users to register and login to your site easily.   Check out our free PowerApps App In A Day Class: http://success.pragmaticworks.com/aiad  We'd love to build an app for you: http://www.pragmaticworks.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin/",
+      "originalUrl": "https://youtube.com/watch?v=8Zx2RBhwV4I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Zx2RBhwV4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M10S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-07-19T13:21:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8Zx2RBhwV4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapps-reusable-component-beginner-tutorial.md",
+      "title": "PowerApps Reusable Component Beginner Tutorial",
+      "excerpt": "PowerApp a Day Episode #23  -  Learn how to use one of the newest features in PowerApps: components. In this video you'll see how to create a basic one and re-use it across multiple screens. With these components you can build logic into a component and one change pushes to all screens that use it.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-powerapps-reusable-component-beginner-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-powerapps-reusable-component-beginner-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=1n9dUduWk4g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1n9dUduWk4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M30S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-03-01T12:39:53-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1n9dUduWk4g/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-saving-powerapps-user-preferences-across-sessions.md",
+      "title": "Saving PowerApps User Preferences Across Sessions",
+      "excerpt": "PowerApp a Day Episode #22  -  Learn how to use save user preferences and how to build a tutorial for your users that can be automatically skipped  in the future after they click Skip.  This pattern can be used for menus and color saving as well.   Power App Training: https://pragmaticworks.com/Training/On-Demand-Training/Introduction-to-Powerapps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-saving-powerapps-user-preferences-across-sessions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-saving-powerapps-user-preferences-across-sessions/",
+      "originalUrl": "https://youtube.com/watch?v=UcgzIa2uQrY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UcgzIa2uQrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M25S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-10-18T11:39:14-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UcgzIa2uQrY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-the-powerapps-quick-start-engagement-to-build-powerapps-quickly.md",
+      "title": "The PowerApps Quick Start Engagement to Build PowerApps Quickly",
+      "excerpt": "Most companies have tons of legacy applications sitting in Access databases or old technologies gathering dust. At Pragmatic Works, we love to transform organizations by modernizing those applications. The Quick Start engagement is a one-week engagement to build your first application and see the power",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-the-powerapps-quick-start-engagement-to-build-powerapps-quickly/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-the-powerapps-quick-start-engagement-to-build-powerapps-quickly/",
+      "originalUrl": "https://youtube.com/watch?v=A84WF0Z7TiA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A84WF0Z7TiA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M21S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-10-10T12:25:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A84WF0Z7TiA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

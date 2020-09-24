@@ -5,6 +5,8 @@ type: collection
 price: Free
 length: PT7H9M
 heat: 210
+removed: true
+published: false
 
 provider:
   name: Microsoft Learn
