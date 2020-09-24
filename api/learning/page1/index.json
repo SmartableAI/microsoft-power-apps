@@ -271,6 +271,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-navigation-canvas-app.md",
+      "title": "Navigation in a canvas app in Power Apps",
+      "excerpt": "App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-navigation-canvas-app/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/navigation-canvas-app/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 802,
+        "average": 4.694514
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 136,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-intro-power-platform.md",
       "title": "Power Platform - Introduction, business value, and demos",
       "excerpt": "Explore the capabilities of Power Platform applications, as seen in demonstrations and customer case studies.",
@@ -353,56 +394,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-portal-custom-web.md",
-      "title": "Build custom Power Apps portals web templates",
-      "excerpt": "Create custom Microsoft Power Apps portals web templates.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portal-custom-web/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/portal-custom-web/",
-      "length": "PT55M",
+      "path": "_learning/courses/microsoft-learn-connect-other-data.md",
+      "title": "Connecting to other data in a Power Apps canvas app",
+      "excerpt": "Learn how to connect to other data in Power Apps canvas app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-connect-other-data/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/connect-to-other-data-in-powerapps-canvas-app/",
+      "length": "PT32M",
       "ratings": {
-        "count": 36,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 111,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portal-custom-web-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-authentication-user-management.md",
-      "title": "Authentication and user management in Power Apps portals",
-      "excerpt": "Learn how to authenticate with Power Apps portals.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-authentication-user-management/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/authentication-user-management/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 10,
-        "average": 4.7
+        "count": 365,
+        "average": 4.6684933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -419,12 +419,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 110,
+      "heat": 123,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/authentication-user-management-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/connect-other-data-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -988,6 +988,118 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-use-advanced-data-options-and-connectors-in-power-apps.md",
+      "title": "Use advanced data options and connectors in Power Apps",
+      "excerpt": "Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-use-advanced-data-options-and-connectors-in-power-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-use-advanced-data-options-and-connectors-in-power-apps/",
+      "length": "PT2H21M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Work with relational data in a Power Apps canvas app",
+          "excerpt": "Learn how to work with relational data in Power Apps canvas apps.",
+          "heat": 66,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/work-with-relational-data-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Work with data source limits (delegation limits) in a Power Apps canvas app",
+          "excerpt": "Delegate data with Power Apps.",
+          "heat": 64,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-source-limits-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Connecting to other data in a Power Apps canvas app",
+          "excerpt": "Learn how to connect to other data in Power Apps canvas app.",
+          "heat": 123,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/connect-other-data-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Use custom connectors in a Power Apps canvas app",
+          "excerpt": "Learn how to use custom connectors in a Power Apps canvas app.",
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/custom-connectors-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 79,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/work-with-relational-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform.md",
       "title": "Architect solutions for Dynamics 365 and Power Platform",
       "excerpt": "Becoming a Solution Architect for Dynamics 365 and Power Platform.",
@@ -1379,159 +1491,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-use-advanced-data-options-and-connectors-in-power-apps.md",
-      "title": "Use advanced data options and connectors in Power Apps",
-      "excerpt": "Do you want to improve the user's experience in your canvas app? Do you want to use custom connectors to connect to data? This learning path will help you do both things. It will also focus on working with data source limits.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-use-advanced-data-options-and-connectors-in-power-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-use-advanced-data-options-and-connectors-in-power-apps/",
-      "length": "PT2H21M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Work with relational data in a Power Apps canvas app",
-          "excerpt": "Learn how to work with relational data in Power Apps canvas apps.",
-          "heat": 66,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/work-with-relational-data-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Work with data source limits (delegation limits) in a Power Apps canvas app",
-          "excerpt": "Delegate data with Power Apps.",
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-source-limits-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Connecting to other data in a Power Apps canvas app",
-          "excerpt": "Learn how to connect to other data in Power Apps canvas app.",
-          "heat": 63,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/connect-other-data-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Use custom connectors in a Power Apps canvas app",
-          "excerpt": "Learn how to use custom connectors in a Power Apps canvas app.",
-          "heat": 60,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/custom-connectors-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/work-with-relational-data-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-navigation-canvas-app.md",
-      "title": "Navigation in a canvas app in Power Apps",
-      "excerpt": "App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-navigation-canvas-app/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/navigation-canvas-app/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 802,
-        "average": 4.694514
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/videos/powerapps911-powerapps-with-a-sharepoint-list-learn-powerapps-tutorial.md",
       "title": "PowerApps with a SharePoint List - Learn PowerApps Tutorial",
       "excerpt": "This is the first PowerApps Tutorial video in what will hopefully become a regular series of how to do things in PowerApps. Here we will walk through creating your first PowerApps App using SharePoint data, we will also make a few quick customizations to get you pointed in the right direction. This will",
@@ -1555,6 +1514,100 @@
         }
       ],
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-developing-with-power-platform.md",
+      "title": "Introduction to developing with Power Platform",
+      "excerpt": "So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of Power Platform.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-introduction-to-developing-with-power-platform/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-introduction-to-developing-with-power-platform/",
+      "length": "PT2H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Power Platform developer resources",
+          "excerpt": "The goal of this module is to give a broad-scoped overview of the developer experience as it relates to the Power Platform.  It will cover a high-level introduction how the ecosystem is represented, with the intended audience being a software developer with limited experience in working with the Power Platform.",
+          "heat": 84,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-developing-power-platform-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Use developer tools to extend the Power Platform",
+          "excerpt": "This module will focus on the available developer tools that can help you perform development activities with the Microsoft Power Platform.",
+          "heat": 73,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/use-developer-tools-extend-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Introduction to extending the Microsoft Power Platform",
+          "excerpt": "This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of the Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code.",
+          "heat": 74,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-extensibility-model-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-developing-power-platform-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Power Apps"

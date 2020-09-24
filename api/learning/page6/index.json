@@ -4,64 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/videos/powerapps911-powerapps-password-screen.md",
-      "title": "PowerApps Password Screen",
-      "excerpt": "In this video, you will learn how to password protect a PowerApps screen and to make it more fun you will also learn how to send them to timeout if they try unsuccessfully more than 3 times. Lots of fun.   Video on conditional formatting and PopUps https://www.youtube.com/watch?v=IvapIsBbM-U  Video on",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-password-screen/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-password-screen/",
-      "originalUrl": "https://youtube.com/watch?v=GiN47Is_634",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GiN47Is_634\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M41S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2018-04-05T11:06:50-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GiN47Is_634/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-powerapps-shopping-cart.md",
-      "title": "PowerApps Shopping Cart",
-      "excerpt": "In this video, you will learn how to make a PowerApps Shopping Cart app. Not because you want to sell books but because it gives us the opportunity to explore some different behaviors and capabilities of PowerApps. Including:  * Collections * Forms * Text function for formatting currency * Collect function",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-shopping-cart/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-shopping-cart/",
-      "originalUrl": "https://youtube.com/watch?v=aOcQIMvdWW4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aOcQIMvdWW4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30M3S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2018-03-26T12:55:51-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aOcQIMvdWW4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/videos/powerapps911-powerapps-timer-control.md",
       "title": "PowerApps Timer Control",
       "excerpt": "In this video, you will learn about the PowerApps Timer Control. We build an example timer app that logs data to a collection, we look at how to use the timer to control navigation (put people in timeout), how to do a PowerApps Timer Reset, start, stop, and more. Fun times.  Video: PowerApps Collections",
@@ -987,6 +929,64 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/8CdUxw9jUGA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-power-bi-write-back-with-powerapps.md",
+      "title": "Power BI Write Back with PowerApps",
+      "excerpt": "Power Platform Pros Tips 2. Learn how to correct bad data in a Power BI report easily by integrating a PowerApp into your Power BI  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   On-Demand",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-power-bi-write-back-with-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-power-bi-write-back-with-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=LxuRzj0X348",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LxuRzj0X348\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M5S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2019-01-21T11:51:12-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LxuRzj0X348/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-powerapp-nested-galleries-and-the-office365-user-functions.md",
+      "title": "PowerApp Nested Galleries and the Office365 User Functions",
+      "excerpt": "PowerApp a Day Episode #3 (Time Card App) - We're now going to build an application from scratch using PowerApps to allow people to enter their time. You'll learn how to use nested galleries and integrate with the Office365 Functions to capture the user's email address.  Power Platform and PowerApps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-powerapp-nested-galleries-and-the-office365-user-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-powerapp-nested-galleries-and-the-office365-user-functions/",
+      "originalUrl": "https://youtube.com/watch?v=8TwFJC1C6x0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8TwFJC1C6x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M37S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-05T12:25:06-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8TwFJC1C6x0/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
