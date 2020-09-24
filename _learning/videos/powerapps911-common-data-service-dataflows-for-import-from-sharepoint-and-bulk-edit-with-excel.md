@@ -18,6 +18,12 @@ topics:
   - Power Apps
   - Common Data Service
 
-secured: "Wl3aj++DpHmgV+3dRJn2i5JrEQT9cXX7bEgq8U3Zxh3DRjJ+QhydkfoLRXHgPQ7EGvaHAE6DzirRbra4bImCula3Ifx6tq/7prMoZ3qCSThsSvXjMq44s3uQhD+FuZnz+4oACTQykkyM/mTsjMgDBTXEegiWm4rwvrZe1VmlID63AxHkr4s3H0sZerXZEaUTBT8A4kDKwilxdc9IiCvYcFl5yUMYwO3myesCGWQvwP7Opyzt92eP8Jx2ieQQ0btft2dB/WDFf7H25BoqPZGhnfmnlylNE5+n9iRTAYfUyjGixDNlb3q78T+fD1G2gJVb3gi541FtCN27pznNcJrr2fi8rprnDXI1Bmbca2B5g1kJbN+/nqomHrUH3xWYOXobETa1MmI4EVZW55+CfJqMPA==;S7cHNCsZYoHl2fw208gusQ=="
+images:
+  - url: https://i.ytimg.com/vi/BhLqg1jsbTI/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "P/F/bCkrMvhah0JqEd1fA/xt/7yKUqDRMowMSxtEdtaUsnFLnh/lKIH2XqU6oSyLGizwy2JcAofigD9nQfvgc+jHM7tAeO8hy/6vzUxAgN4GySgz/uNPOhgPZeqDbEeSU8q+peMa25qZsoVWiZERpGeU0zjgxU1fMedQLnAzeSuTffNV8Gwx7fJaKhSyE8IfNSHTE+6LSplRRwifhHHg5IE6P2I6EgcrKQhepS83Gqjq0bDBjUZp5s3keRdyNhZZFvsQMhm9CP/ETujF0zPKrOAj3frGJATuRQzkUSEPKjyXKTzFL8zkXRjVB09RqNejfkP0Bi/ccdh84XWnu8ptnCtupq5KK6wFT7AwWao9scqp0ChokxmarxsAX3O75raLC2CV1mdpsMzUzXN2qAEZJw==;ExNBSgOM7dNaOcDk2Qn0YA=="
 ---
 

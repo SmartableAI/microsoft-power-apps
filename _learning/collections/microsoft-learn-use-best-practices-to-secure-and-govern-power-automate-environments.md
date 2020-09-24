@@ -4,7 +4,7 @@ excerpt: "Is the Power Platform new to your organization? Are you looking to bet
 type: collection
 price: Free
 length: PT4H35M
-heat: 62
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -27,6 +27,6 @@ items:
 topics:
   - Power Apps
 
-secured: "yQCtUKNnL+vFfGE7OKO8NZIl3AutPiaaQLHHdZ+cbKtQFbLJV+ASwA9WDHkpj/q2IljbpImBPt3I9sToOFs3on3ANij+O3gXRHlgOk9aMkDbo/BQmctDJavMK4EIBNTF3JiF5eQ9tSFoQCMSIkgf1OSR/kDZ9PSbZ/W7btKwWZJDGvyXoGdI7XZeWLcwtHI8r+XANUDYtyhz3EuoO0VN/wjY90QhIEn15QyrY4G/6S8ABUyBv7ELDBiBlNYQsVH57qEAzbR4yFGtYuGQTX6v2ewoDMC4bkPMxmd7fwdWWDfsWcEzXS2rSNkXoK9TBN6tSRdX3ZpFnUlcfyCngR2IL5dKsb3czROz7kiPjBqzwQ0=;wp44+yyvG8dtlrT8QHAIjQ=="
+secured: "aNGxJnhLtncDFMC98a9V6nVeMSiZf/8LdLHFWmMHfr/M1Pr2B1O1GmpN2+LJ01OlzmCR+QXbpxBB5REKTUWCPurAnk9H7fZuKJxnhghRn6NuKv4kI1tmBkmXRT3P+bIOmIW+8NENOBoLmn64OZ23YFFlDv9C2P5/2AVO6ZeKVDTwcnmNiYlu8ilywZuMSaJmqXlrsu5mBxcQkjRs+6fqmbQ4WFMUHvqzr0oqTD8rrItgvFcm1Wv/Vc/qARxWR/ymRg63AbGuNuClCtTFziTTvgUMD2ISiTOYpqT3QZsCU6CJV5jeZNoiRFxb5JbVp4doc1fAj85xZe933K7aoI4/GJLsRqWC96dFGHZf85ts4zc=;oWnoECn7LbCb6eJPVZSidQ=="
 ---
 

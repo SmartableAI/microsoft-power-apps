@@ -4,6 +4,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service.md",
+      "title": "Create relationships, business rules, calculations, and rollups in Common Data Service",
+      "excerpt": "Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization's needs, and how to add calculations and rollup fields.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service/",
+      "length": "PT2H21M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Create a relationship between entities in Common Data Service",
+          "excerpt": "Do you need to create relationships between entities? This module will show how and why you can separate data into entities and how to relate between entities to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between entities in Common Data Service.",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Define and create business rules in Common Data Service",
+          "excerpt": "The ability to build business rules that ensure consistent business logic regardless of the app accessing that data set is imperative to a successful business operation. This module will show you how you can build business rules that are triggered anytime they are used within Common Data Service.",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/define-create-business-rules-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Create and define calculation or rollup fields in Common Data Service",
+          "excerpt": "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-relationship-between-cds-entities.md",
       "title": "Create a relationship between entities in Common Data Service",
       "excerpt": "Do you need to create relationships between entities? This module will show how and why you can separate data into entities and how to relate between entities to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between entities in Common Data Service.",
@@ -160,6 +254,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-use-admin-options-cds.md",
+      "title": "Use administration options for Common Data Service",
+      "excerpt": "Do you need to use administration options that are available for Common Data Service? This module will show you how you can use solutions within Common Data Service and administer environments.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-use-admin-options-cds/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/use-admin-options-cds/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 110,
+        "average": 4.327273
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-admin-options-cds-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-what-are-the-benefits-of-power-apps-for-professional-developers-one-dev-question-dona-sarkar.md",
       "title": "What are the benefits of Power Apps for professional developers? | One Dev Question: Dona Sarkar",
       "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares why Power Apps is important for professional developers.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/getting-started/?WT.mc_id=onedevquestion-c9-donasa    Try Azure for free: https://aka.ms/TryAzure7",
@@ -182,6 +317,14 @@
       },
       "publishedDateTime": "2020-05-20T08:16:54-07:00",
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FoLb43pu2H8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -203,6 +346,14 @@
       },
       "publishedDateTime": "2018-09-26T16:43:13-07:00",
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Gtzs1-IuXuY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -224,6 +375,14 @@
       },
       "publishedDateTime": "2018-05-08T08:28:30-07:00",
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XsCmhg5cFXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -245,6 +404,14 @@
       },
       "publishedDateTime": "2018-05-30T09:10:55-07:00",
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/V3feURQfY3M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -266,6 +433,14 @@
       },
       "publishedDateTime": "2018-05-07T09:58:43-07:00",
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/plKw_xfVfwY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -287,6 +462,14 @@
       },
       "publishedDateTime": "2018-06-25T12:58:25-07:00",
       "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HUX_0AA4-Hs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -328,39 +511,6 @@
           "isCached": true
         }
       ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-implementation-recommendations.md",
-      "title": "Implementation recommendations for Power Automate environments",
-      "excerpt": "Do you want prescriptive recommendations for how organizations should choose to implement security and governance? This module will provide recommendations based on popular use cases, including Office 365 and Dynamics 365 configurations. In addition, edge cases such as custom and HTTP connectors are discussed. Tooling will also be discussed, including the DLP Editor Tool, from the Center of Excellence (COE) toolkit, which allows administrators to understand the impact of the DLP change that they are about to make.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-implementation-recommendations/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/implementation-recommendations/",
-      "length": "PT1H14M",
-      "ratings": {
-        "count": 61,
-        "average": 4.672131
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -530,6 +680,14 @@
       },
       "publishedDateTime": "2020-05-18T07:58:40-07:00",
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xmjJZpSRCcs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -559,6 +717,14 @@
       },
       "publishedDateTime": "2018-08-20T09:01:10-07:00",
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mGyxyJL4gJk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -588,6 +754,14 @@
       },
       "publishedDateTime": "2018-08-24T14:12:11-07:00",
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/17L2w3kyiFE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -617,6 +791,14 @@
       },
       "publishedDateTime": "2018-06-25T12:30:40-07:00",
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MTsbjln1AcA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -646,6 +828,14 @@
       },
       "publishedDateTime": "2020-05-11T08:09:55-07:00",
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/StN0joFuSHA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -675,6 +865,14 @@
       },
       "publishedDateTime": "2020-04-20T08:07:05-07:00",
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J-Fz-l61sTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -704,6 +902,14 @@
       },
       "publishedDateTime": "2020-04-27T08:03:21-07:00",
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fpOvfX0OU6s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -725,6 +931,14 @@
       },
       "publishedDateTime": "2018-10-14T13:26:33-07:00",
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1tUkZJ3VM3g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -746,6 +960,14 @@
       },
       "publishedDateTime": "2018-12-11T14:25:43-08:00",
       "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1tJk7LxgocA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -956,35 +1178,6 @@
         }
       ],
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-design-guidance-on-creating-power-apps-solutions-one-dev-question-dona-sarkar.md",
-      "title": "Design guidance on creating Power Apps solutions | One Dev Question: Dona Sarkar",
-      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar gives some advice on creating Power App solutions.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/get-started-test-drive/?WT.mc_id=onedevquestion-c9-donasa   Try Azure for free: https://aka.ms/TryAzure7",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-design-guidance-on-creating-power-apps-solutions-one-dev-question-dona-sarkar/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-design-guidance-on-creating-power-apps-solutions-one-dev-question-dona-sarkar/",
-      "originalUrl": "https://youtube.com/watch?v=3lUQDCRFWnQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3lUQDCRFWnQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M13S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-13T08:09:15-07:00",
-      "heat": 51,
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps"

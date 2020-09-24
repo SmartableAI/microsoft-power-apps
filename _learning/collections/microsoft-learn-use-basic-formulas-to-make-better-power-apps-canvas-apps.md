@@ -4,7 +4,7 @@ excerpt: "Do you want to use formulas to improve functionality and change a beha
 type: collection
 price: Free
 length: PT2H16M
-heat: 73
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "wDL+TGExigxe0N2FEFKY/pi3hOpwrDeQejzKN5fp3wyluapvl8rvWzBrET8Pp4Cm2GvuwGS4lCecEgwlnbTBg5YXDLZXznbzcGSKuctEJG8YF1AGSocbyZm3xiaFvYGVJtIZAFlMyJPuVmAGvwrxQMioIpamCa2SlD/XIrZ3Qprqii4cuz89fS2bLWGew/TbvyNFwI6EiOchV6ElhkLTh1ky33/OAdDgAZ0Ei5CPHA5zz/2jL0FjMMDBA9GW9hdXvBSKPFm0XT1Un/bJsXqvi67RKyoMvSf9fQhJDzLhs3krbGiwFZOb59rALmBc2YSd+4vJetZ942J1p/kO6j8cW6+CxcqjdPP/OzHumEqA8DE=;1lxAgVQ3neJVqRe13jHJdw=="
+secured: "U8+Lvu3TuboY1Z+yNgPRhgoAlA8CYD/8BuGxgYhDBDPW5U9BXJ2fCQrmV/Fgy4QmBdWzinlV3PdrsBDTe1OXaqULXcLXf+a+o/+/dffmWERKA2+Gv24/qikF0o3AtaV65Qx9hvQk5/lgrUO3sIF1mz/6hNJ5/bNuwvPKZDcEjsh1bczh2rR48WlHpQtwruds3F/r9cNLR6k7Zr/9sRiCptBETgvPMHyTIpZDVfPiTOqhsOdaPqU7JAV/Ab57KHfpR9qt4DxP+ZOn9V47uzlkgtRQOhdQW1BfuFdbD3/8d+wZIf5ZxLJXsIM079wgOK+uf9Zi8XFQVDiadGEqeerC+FNnEXjB1sTIcKIyEy+Hi08=;1P+JJsfFdeBTS6ay5gXW1w=="
 ---
 

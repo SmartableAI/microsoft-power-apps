@@ -4,6 +4,65 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/powerapps911-build-a-consent-form-with-powerapps-using-the-pen-input-and-send-it-as-an-email-attachment.md",
+      "title": "Build a consent form with PowerApps using the Pen Input and send it as an email attachment",
+      "excerpt": "In this video, we build a mobile consent form with PowerApps to help teach some of its core concepts including how to send the Pen Input as an email attachment.  Video on customizing this form with popups and conditional formatting https://www.youtube.com/watch?v=IvapIsBbM-U  Video on sending an email",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-build-a-consent-form-with-powerapps-using-the-pen-input-and-send-it-as-an-email-attachment/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-build-a-consent-form-with-powerapps-using-the-pen-input-and-send-it-as-an-email-attachment/",
+      "originalUrl": "https://youtube.com/watch?v=ycPO7Y3Cyu0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ycPO7Y3Cyu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M57S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-01-26T11:43:06-08:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ycPO7Y3Cyu0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-common-data-service-dataflows-for-import-from-sharepoint-and-bulk-edit-with-excel.md",
+      "title": "Common Data Service Dataflows for Import from SharePoint and bulk Edit with Excel",
+      "excerpt": "In this video, we continue our journey of learning CDS together. To make learning easier I think importing data from somewhere you know, like SharePoint or SQL is the way to go. So I show you how to do so with Dataflows. Then because data always needs cleaned up we talk about the Excel add in that allows",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-common-data-service-dataflows-for-import-from-sharepoint-and-bulk-edit-with-excel/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-common-data-service-dataflows-for-import-from-sharepoint-and-bulk-edit-with-excel/",
+      "originalUrl": "https://youtube.com/watch?v=BhLqg1jsbTI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BhLqg1jsbTI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M25S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-07-05T10:59:26-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BhLqg1jsbTI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
       "path": "_learning/videos/powerapps911-powerapps-pdf-from-table-data.md",
       "title": "PowerApps PDF from table data",
       "excerpt": "In this video, you will learn about creating PDFs with PowerApps and Flow. This is taking the concept we covered in an earlier video and going two steps deeper by pulling in dynamic data and building an HTML table on the fly with the Concat function. Exciting stuff.  Intro to creating a PDF with PowerApps",
@@ -18,6 +77,14 @@
       },
       "publishedDateTime": "2018-11-26T12:06:35-08:00",
       "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bfXV_GXc_JM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -39,6 +106,14 @@
       },
       "publishedDateTime": "2018-04-27T16:24:57-07:00",
       "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D_Kb7AXSE0s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -60,6 +135,14 @@
       },
       "publishedDateTime": "2018-08-07T12:59:15-07:00",
       "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N8DWvS7P9lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -81,6 +164,14 @@
       },
       "publishedDateTime": "2018-06-29T05:51:53-07:00",
       "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jmh8eeQVAIc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -102,6 +193,14 @@
       },
       "publishedDateTime": "2018-04-21T11:18:07-07:00",
       "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FpXrF5NDZbI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -135,7 +234,7 @@
           "path": "",
           "title": "Introduction to web resources",
           "excerpt": "This module will focus on educating developers on how to write HTML web resources in support of presenting custom presentation logic within the Microsoft Power Platform user experience.",
-          "heat": 118,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png",
@@ -258,6 +357,14 @@
       },
       "publishedDateTime": "2018-02-15T12:29:46-08:00",
       "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/H9yYzPg0LwM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -320,6 +427,14 @@
       },
       "publishedDateTime": "2018-04-13T13:14:42-07:00",
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CO6xfbjnYwc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -341,6 +456,14 @@
       },
       "publishedDateTime": "2018-04-14T13:43:59-07:00",
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RisTtTc9aOY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -362,6 +485,14 @@
       },
       "publishedDateTime": "2017-12-27T13:49:39-08:00",
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7CpRC5AM_Is/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -383,6 +514,14 @@
       },
       "publishedDateTime": "2018-05-04T17:14:28-07:00",
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9aXP48XECDc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -404,6 +543,14 @@
       },
       "publishedDateTime": "2018-08-12T06:34:24-07:00",
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/60ondObDBH0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -425,6 +572,14 @@
       },
       "publishedDateTime": "2018-03-06T11:31:33-08:00",
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DF4KX1oSrVI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -446,6 +601,14 @@
       },
       "publishedDateTime": "2020-07-05T10:50:33-07:00",
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1L633HIvNGE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -468,6 +631,14 @@
       },
       "publishedDateTime": "2018-09-01T12:56:23-07:00",
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-KrFjx9GATA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -489,6 +660,14 @@
       },
       "publishedDateTime": "2018-06-21T07:40:15-07:00",
       "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DylxsXIUyDc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -540,7 +719,7 @@
           "path": "",
           "title": "Use administration options for Common Data Service",
           "excerpt": "Do you need to use administration options that are available for Common Data Service? This module will show you how you can use solutions within Common Data Service and administer environments.",
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/use-admin-options-cds-social.png",
@@ -695,47 +874,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-use-admin-options-cds.md",
-      "title": "Use administration options for Common Data Service",
-      "excerpt": "Do you need to use administration options that are available for Common Data Service? This module will show you how you can use solutions within Common Data Service and administer environments.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-use-admin-options-cds/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/use-admin-options-cds/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 110,
-        "average": 4.327273
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-admin-options-cds-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/videos/microsoft-how-to-build-a-people-picker-in-powerapps-with-azure-ad.md",
       "title": "How to build a people picker in PowerApps with Azure AD",
       "excerpt": "Learn how to create a people picker component in Azure Active Directory in PowerApps. Dive deep into the Out of Office sample app allowing you to set your out-of-office message and clear out your calendar for the duration of your absence. Test it out!   Learn more: https://web.powerapps.com/home?sampleapp_preview=outofoffice",
@@ -758,6 +896,14 @@
       },
       "publishedDateTime": "2018-08-24T14:11:55-07:00",
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xs_hWRNCwuA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -787,6 +933,14 @@
       },
       "publishedDateTime": "2018-08-24T14:12:01-07:00",
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9c2NMT74xUA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -808,6 +962,14 @@
       },
       "publishedDateTime": "2018-03-08T13:48:28-08:00",
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uqx_h4Ym8ng/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -829,6 +991,14 @@
       },
       "publishedDateTime": "2018-04-05T11:06:50-07:00",
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GiN47Is_634/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -850,6 +1020,14 @@
       },
       "publishedDateTime": "2018-03-26T12:55:51-07:00",
       "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aOcQIMvdWW4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -871,101 +1049,15 @@
       },
       "publishedDateTime": "2018-03-30T21:07:15-07:00",
       "heat": 54,
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service.md",
-      "title": "Create relationships, business rules, calculations, and rollups in Common Data Service",
-      "excerpt": "Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization's needs, and how to add calculations and rollup fields.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service/",
-      "length": "PT2H21M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Create a relationship between entities in Common Data Service",
-          "excerpt": "Do you need to create relationships between entities? This module will show how and why you can separate data into entities and how to relate between entities to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between entities in Common Data Service.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Define and create business rules in Common Data Service",
-          "excerpt": "The ability to build business rules that ensure consistent business logic regardless of the app accessing that data set is imperative to a successful business operation. This module will show you how you can build business rules that are triggered anytime they are used within Common Data Service.",
-          "heat": 53,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/define-create-business-rules-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Create and define calculation or rollup fields in Common Data Service",
-          "excerpt": "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set.",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
-          "width": 800,
-          "height": 400,
+          "url": "https://i.ytimg.com/vi/Xe2NI2aTGvY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
-      "type": "collection",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps"

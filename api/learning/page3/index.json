@@ -4,6 +4,211 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/powerapps911-powerapps-pdf-generator-using-microsoft-flow-pdf-converter.md",
+      "title": "PowerApps PDF Generator using Microsoft Flow PDF Converter",
+      "excerpt": "In this video, you will learn how to create a PDF using the power of PowerApps, Flow, and OneDrive. We walk through everything from generating the HTML, to filling in the variables, adding Flow actions, and finally sending content from PowerApps to the PDF. Very cool.  John Liu's original blog post on",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-pdf-generator-using-microsoft-flow-pdf-converter/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-pdf-generator-using-microsoft-flow-pdf-converter/",
+      "originalUrl": "https://youtube.com/watch?v=2rfAQe1kK8M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2rfAQe1kK8M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M50S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-08-18T14:24:13-07:00",
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2rfAQe1kK8M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-get-started-with-power-apps-portals.md",
+      "title": "Get Started with Power Apps portals",
+      "excerpt": "Get started creating Power Apps portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-get-started-with-power-apps-portals/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-get-started-with-power-apps-portals/",
+      "length": "PT3H8M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Power Apps portals",
+          "excerpt": "Extend Common Data Service interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Common Data Service data by using portals.",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/intro-portals-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Explore Power Apps portals",
+          "excerpt": "Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/explore-portals-social.png",
+              "width": 642,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Discover Power Apps portals features",
+          "excerpt": "Power Apps portals provide a common set of core features to app makers to build powerful portal applications. Numerous Power Apps features map directly to Microsoft Dynamics 365 apps that are specific to particular business requirements and external audiences. Other Dynamics 365 applications, such as Marketing and Supply Chain Management, also use components of portals or alternate technologies.",
+          "heat": 52,
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Power Apps portals architecture",
+          "excerpt": "This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals.",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/portals-architecture-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-portals-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-use-best-practices-to-secure-and-govern-power-automate-environments.md",
+      "title": "Use best practices to secure and govern Power Automate environments",
+      "excerpt": "Is the Power Platform new to your organization? Are you looking to better understand how you can improve your organization’s productivity, without compromising your security posture, while enabling governance? Take this learning path, to identify best practices for securing and governing Power Automate environments. We will share tools and templates that can be used to ensure you are productive as you secure and govern the Power Platform.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-use-best-practices-to-secure-and-govern-power-automate-environments/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-use-best-practices-to-secure-and-govern-power-automate-environments/",
+      "length": "PT4H35M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Introduction to Power Automate security and governance",
+          "excerpt": "Do you want to learn about how to help secure and govern Power Platform apps like Power Automate? This module focuses on introducing Power Platform environments and their role in creating Data Loss Prevention (DLP) policies by using examples and use cases. A brief introduction and overview of tools will also be discussed, including Power Platform and Power Automate Admin experiences and the Power Platform Center of Excellence (COE) toolkit.",
+          "heat": 53,
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Plan and manage your Power Automate environment",
+          "excerpt": "Every organization has unique requirements based on their size, location, data residency requirements, and desire for democratized access to tools like Power Apps and Power Automate. This module discusses considerations that impact how an organization chooses to secure and govern their Power Platform environments.",
+          "heat": 52,
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Implementation recommendations for Power Automate environments",
+          "excerpt": "Do you want prescriptive recommendations for how organizations should choose to implement security and governance? This module will provide recommendations based on popular use cases, including Office 365 and Dynamics 365 configurations. In addition, edge cases such as custom and HTTP connectors are discussed. Tooling will also be discussed, including the DLP Editor Tool, from the Center of Excellence (COE) toolkit, which allows administrators to understand the impact of the DLP change that they are about to make.",
+          "heat": 112,
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "",
+          "title": "Manage environmental changes in Power Automate",
+          "excerpt": "Learn best practices for communicating changes to Data Loss Prevention (DLP) policies, find out about how people are using Power Automate, discover who in your organization is creating and sharing flows, learn what connections are being used within your Power Automate environments, and observe how connections are established within your Power Automate environments.",
+          "heat": 51,
+          "type": "course",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 63,
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-other-data.md",
       "title": "Connecting to other data in a Power Apps canvas app",
       "excerpt": "Learn how to connect to other data in Power Apps canvas app.",
@@ -100,6 +305,14 @@
       },
       "publishedDateTime": "2018-01-16T06:51:27-08:00",
       "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e2_BGekECfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -121,6 +334,14 @@
       },
       "publishedDateTime": "2018-11-11T10:54:30-08:00",
       "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pjs0ZsnJZXo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -142,6 +363,14 @@
       },
       "publishedDateTime": "2018-05-02T10:12:07-07:00",
       "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ovLIwnj6QjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -163,6 +392,14 @@
       },
       "publishedDateTime": "2018-02-23T11:05:56-08:00",
       "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fqH1U0_TanI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -184,6 +421,14 @@
       },
       "publishedDateTime": "2017-12-01T12:03:58-08:00",
       "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bF7WkqtxKB0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -205,79 +450,15 @@
       },
       "publishedDateTime": "2018-04-06T11:34:31-07:00",
       "heat": 63,
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-use-best-practices-to-secure-and-govern-power-automate-environments.md",
-      "title": "Use best practices to secure and govern Power Automate environments",
-      "excerpt": "Is the Power Platform new to your organization? Are you looking to better understand how you can improve your organization’s productivity, without compromising your security posture, while enabling governance? Take this learning path, to identify best practices for securing and governing Power Automate environments. We will share tools and templates that can be used to ensure you are productive as you secure and govern the Power Platform.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-use-best-practices-to-secure-and-govern-power-automate-environments/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-use-best-practices-to-secure-and-govern-power-automate-environments/",
-      "length": "PT4H35M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
+      "images": [
         {
-          "path": "",
-          "title": "Introduction to Power Automate security and governance",
-          "excerpt": "Do you want to learn about how to help secure and govern Power Platform apps like Power Automate? This module focuses on introducing Power Platform environments and their role in creating Data Loss Prevention (DLP) policies by using examples and use cases. A brief introduction and overview of tools will also be discussed, including Power Platform and Power Automate Admin experiences and the Power Platform Center of Excellence (COE) toolkit.",
-          "heat": 53,
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Plan and manage your Power Automate environment",
-          "excerpt": "Every organization has unique requirements based on their size, location, data residency requirements, and desire for democratized access to tools like Power Apps and Power Automate. This module discusses considerations that impact how an organization chooses to secure and govern their Power Platform environments.",
-          "heat": 52,
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Implementation recommendations for Power Automate environments",
-          "excerpt": "Do you want prescriptive recommendations for how organizations should choose to implement security and governance? This module will provide recommendations based on popular use cases, including Office 365 and Dynamics 365 configurations. In addition, edge cases such as custom and HTTP connectors are discussed. Tooling will also be discussed, including the DLP Editor Tool, from the Center of Excellence (COE) toolkit, which allows administrators to understand the impact of the DLP change that they are about to make.",
-          "heat": 52,
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Manage environmental changes in Power Automate",
-          "excerpt": "Learn best practices for communicating changes to Data Loss Prevention (DLP) policies, find out about how people are using Power Automate, discover who in your organization is creating and sharing flows, learn what connections are being used within your Power Automate environments, and observe how connections are established within your Power Automate environments.",
-          "heat": 51,
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
+          "url": "https://i.ytimg.com/vi/43ekj5MlNJU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
-      "size": 5,
-      "heat": 62,
-      "type": "collection",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps"
@@ -307,6 +488,14 @@
           "title": "What are the benefits of Power Apps for professional developers? | One Dev Question: Dona Sarkar",
           "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares why Power Apps is important for professional developers.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/getting-started/?WT.mc_id=onedevquestion-c9-donasa    Try Azure for free: https://aka.ms/TryAzure7",
           "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/FoLb43pu2H8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "type": "video",
           "topics": [
             "Power Apps"
@@ -317,6 +506,14 @@
           "title": "Best way to start Power Apps for a non-professional developer? | One Dev Question: Dona Sarkar",
           "excerpt": "Sometimes services like Power Apps can be daunting. In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares some tips for getting started and explains why you do not have to be a professional developer to use Power Apps.   For more information, visit: https://docs.microsoft.com/learn/modules/get-started-with-powerapps/?WT.mc_id=onedevquestion-c9-donasa",
           "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/xmjJZpSRCcs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "type": "video",
           "topics": [
             "Power Apps"
@@ -327,6 +524,14 @@
           "title": "Design guidance on creating Power Apps solutions | One Dev Question: Dona Sarkar",
           "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar gives some advice on creating Power App solutions.   For more information, visit: https://docs.microsoft.com/powerapps/maker/canvas-apps/get-started-test-drive/?WT.mc_id=onedevquestion-c9-donasa   Try Azure for free: https://aka.ms/TryAzure7",
           "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/3lUQDCRFWnQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "type": "video",
           "topics": [
             "Power Apps"
@@ -337,6 +542,14 @@
           "title": "Is there an Open Source community around Power Apps? | One Dev Question: Dona Sarkar",
           "excerpt": "Ever wanted to contribute to Power Apps? In the One Dev Question series, Principal Cloud Advocate Dona Sarkar shares how you can contribute to Power Apps. #poweraddicts   For more information, visit: https://powerusers.microsoft.com/?WT.mc_id=onedevquestion-c9-donasa   Try Azure for free: https://aka.ms/TryAzure7",
           "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/StN0joFuSHA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
           "type": "video",
           "topics": [
             "Power Apps"
@@ -345,6 +558,14 @@
       ],
       "size": 10,
       "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FoLb43pu2H8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "collection",
       "topics": [
         "Power Apps"
@@ -377,47 +598,6 @@
         "Advanced"
       ],
       "heat": 62,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-manage-clients.md",
-      "title": "Manage Dynamics 365 clients",
-      "excerpt": "Manage every Microsoft Dynamics 365 user with access to all the functionality and data included on their solution through a client. Let's focus on the pros and cons of every client and best practices when deploying these clients.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-manage-clients/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/manage-clients/",
-      "length": "PT1H23M",
-      "ratings": {
-        "count": 363,
-        "average": 4.2396693
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/managing-dynamics-365-clients-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
       "type": "course",
       "price": "Free",
       "topics": [
@@ -521,6 +701,14 @@
       },
       "publishedDateTime": "2018-04-09T18:59:09-07:00",
       "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gX5q_V3U8-s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -542,6 +730,14 @@
       },
       "publishedDateTime": "2018-06-19T18:48:08-07:00",
       "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xgznk4XlPCo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -563,6 +759,14 @@
       },
       "publishedDateTime": "2018-03-16T06:11:45-07:00",
       "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FaTnOOc34os/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -599,47 +803,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-manage-fields-within-entity-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-custom-connectors.md",
-      "title": "Use custom connectors in a Power Apps canvas app",
-      "excerpt": "Learn how to use custom connectors in a Power Apps canvas app.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-custom-connectors/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/use-custom-connectors-in-powerapps-canvas-app/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 304,
-        "average": 4.5098686
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/custom-connectors-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -740,6 +903,14 @@
       },
       "publishedDateTime": "2018-03-05T12:17:55-08:00",
       "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5vVFgaEBYuM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -971,6 +1142,47 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-custom-connectors.md",
+      "title": "Use custom connectors in a Power Apps canvas app",
+      "excerpt": "Learn how to use custom connectors in a Power Apps canvas app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-custom-connectors/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/use-custom-connectors-in-powerapps-canvas-app/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 304,
+        "average": 4.5098686
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/custom-connectors-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
       "title": "Work with requirements as a solution architect for Power Platform and Dynamics 365",
       "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
@@ -1059,6 +1271,14 @@
       },
       "publishedDateTime": "2020-08-09T09:28:27-07:00",
       "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kVEtj7QdRYY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1081,6 +1301,14 @@
       },
       "publishedDateTime": "2018-01-26T12:06:40-08:00",
       "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IvapIsBbM-U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1088,46 +1316,44 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-build-a-consent-form-with-powerapps-using-the-pen-input-and-send-it-as-an-email-attachment.md",
-      "title": "Build a consent form with PowerApps using the Pen Input and send it as an email attachment",
-      "excerpt": "In this video, we build a mobile consent form with PowerApps to help teach some of its core concepts including how to send the Pen Input as an email attachment.  Video on customizing this form with popups and conditional formatting https://www.youtube.com/watch?v=IvapIsBbM-U  Video on sending an email",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-build-a-consent-form-with-powerapps-using-the-pen-input-and-send-it-as-an-email-attachment/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-build-a-consent-form-with-powerapps-using-the-pen-input-and-send-it-as-an-email-attachment/",
-      "originalUrl": "https://youtube.com/watch?v=ycPO7Y3Cyu0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ycPO7Y3Cyu0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M57S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
+      "path": "_learning/courses/microsoft-learn-web-resources-power-platform.md",
+      "title": "Introduction to web resources",
+      "excerpt": "This module will focus on educating developers on how to write HTML web resources in support of presenting custom presentation logic within the Microsoft Power Platform user experience.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-web-resources-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/web-resources-power-platform/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 214,
+        "average": 4.635514
       },
-      "publishedDateTime": "2018-01-26T11:43:06-08:00",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 58,
-      "type": "video",
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-common-data-service-dataflows-for-import-from-sharepoint-and-bulk-edit-with-excel.md",
-      "title": "Common Data Service Dataflows for Import from SharePoint and bulk Edit with Excel",
-      "excerpt": "In this video, we continue our journey of learning CDS together. To make learning easier I think importing data from somewhere you know, like SharePoint or SQL is the way to go. So I show you how to do so with Dataflows. Then because data always needs cleaned up we talk about the Excel add in that allows",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-common-data-service-dataflows-for-import-from-sharepoint-and-bulk-edit-with-excel/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-common-data-service-dataflows-for-import-from-sharepoint-and-bulk-edit-with-excel/",
-      "originalUrl": "https://youtube.com/watch?v=BhLqg1jsbTI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BhLqg1jsbTI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M25S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-07-05T10:59:26-07:00",
-      "heat": 58,
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service"
       ]
     }
   ],

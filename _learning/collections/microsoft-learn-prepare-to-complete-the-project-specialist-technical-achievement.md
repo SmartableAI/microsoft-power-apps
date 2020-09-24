@@ -4,9 +4,7 @@ excerpt: "Prepare to complete the Project Specialist Technical Achievement"
 type: collection
 price: Free
 length: PT7H9M
-heat: 209
-removed: true
-published: false
+heat: 210
 
 provider:
   name: Microsoft Learn
@@ -31,6 +29,6 @@ images:
     height: 320
     isCached: true
 
-secured: "H6TS0fqvItvR9H3S07Bxpm2qHSLZs9u9Gh107YXvtgqbffAJ92An/abWaClHuUr2j/n39er43qRDNgnTIGLf/tw26mzcZ0bM9IC5hjV7tUm30udlglr0J949zlCoOxEeQ6X5z2ikrV/TrxmUDH8oDnakkBVCF+XPZFjsIGJWroqlziUj20DFV66g0HnLMfI1nLJ1oRJo+Te05OHhZvs570OyJgWUrh7DwL+lcJILt6SXPbqItnUn4Yu9bTC8aq/RbMlVICfHYzXpm+dmPOfPJdOnNcv8ls0pbwBt7vkb/lsev7DkFflL4ZYBwG7Dps9bAOuO4PMbcG2J8+G5qmYqapLDCE1o11D+RN2k0o9kgPg=;Y1ca6aTiUfwTN5GdKa8Ntg=="
+secured: "cz+QfHc1NG+NV/op/MIavgSan5BlvsTt3kE8ZBKIMWS+ab0rsE381rqn1YIJIztt7I2z9EEkJ2KSmjiNfY7Zuht+L0OgMSU/ObqNJLohePb7kZT2tUY9zaLI2LoGClm52erJUmhfqBTXGx8hW6yIrCqJkJ9Rt/MQOumJgnsEG8SzxYacjBKAFfuy9/ta6VYCulL65WnlqGKU0B78TntIJui6FmECGM8MVTFJ5tNzqcNH6VgbZRhF0aoTJx3mRgGaEeJ+PTP1cCDu3BSlLzEiaanF+I/oWZk3sOzX3K3yTRGzoBXeSIT7MPYc2nbPssTYhR7Rpx/zOJZ4EAxIQ2OPvzXb7hIgXPNTrQm5pM/0rUs=;5rhT7XxyG35i1UXcj0iJFw=="
 ---
 

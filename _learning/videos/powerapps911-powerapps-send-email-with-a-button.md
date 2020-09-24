@@ -17,6 +17,12 @@ provider:
 topics:
   - Power Apps
 
-secured: "ziFfNSKLk7aRTGDMsSPJmT2gL208OTm4eLm77hwbx0oz4MrRkdHeh9/k9qjz/OxAp1rmepmsU9LkskCTETxO/wS3xzmIxouGm3VjcLFiK4n1J5x2KKPqGRS62JIevWtIRUUzle8XSSkt7COQl4ytF2pcWDdbeL4iXpyxrPPTyiJqYMw4RPTAJaq+niu70saxly3oP20dfbvRcB5P0Wcsxc0bObAkGuboQ6EMXJOSyyhSX09TbxEZAroaxyqIdSa8Jp+8ntUNE7VU00SvSLT5nMY3HAW4ms4eF8saFk4UETJVzaPDn4BtsZqKXO8cyELcVxzKeTTC8vFnEmMGWMtbv5q/ej3dDPTFBdT3YjCLwsh/6WkkmsKfz4EebSb6ZPy5KIphJH/MejqpyuriJeHzgw==;wjxobwkLCR8YM85WuiwGOQ=="
+images:
+  - url: https://i.ytimg.com/vi/bF7WkqtxKB0/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "o5oJ5u6Sq7ZbmGz3pDNiU+nBdI4lKqVhsVrmlf0atiTzttWyv/Sv69tyyq4Z1XO/THRdVrQfRiLmUpVzYpLxsy5dMcgG9HR535zGDav2XVt9kcV0l8XiHnRkCIgCx/gstqdOHnTpIJLDcKWnh0HuhUulXoELxn4dfIq3y2w6hLAx5QZH6hCUq+XJQgMH8UuxCNKhhFSZ2rhCriNHAXTgsxrlnwPcS0W6hcEK7fvILpCEXhYm61cs9WX2r5AQ4g/cnSsFa/BQngCnepJNsZfCCGQUAhM2yPzqMBsZ6YxFDegZtpnl/qbmbCFg0YWDOOg/6mN0HgG37wXXl0gleP3qDFnPFBm45UcM/D257Ua8i6MNbtDFbf9YJG/bosV4oPNY8lULlYFonkKREFZo9LbJqg==;kQ+zzmjrukKLkcFGPY5Lxw=="
 ---
 

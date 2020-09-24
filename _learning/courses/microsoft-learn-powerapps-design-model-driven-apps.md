@@ -8,7 +8,7 @@ length: PT1H14M
 ratings:
   count: 2043
   average: 4.488987
-heat: 102
+heat: 103
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power Apps
 
-secured: "A7A4riYwifEcBQudnJlJ8n7uFAFp8I6r6AwnIUIWfyjyzPxTJ7b6LDulgp837vFMTZE9yMy7EPnrAqCIkzvK9hvZWP7ZQbSgrSK51vK+5OAlNfcP0t+x3tFXWakPGGBB2Yq+mWK/1YdYj+DEkuDqEbI1dkkSqDhFT/6msWKqYBTuoGvWbGJvJkk9iNA2R/x+6RVGjmWqaWtKNuQ+hQl15xJZLp/HTPbuuTwLFxPAIsYv83qmJvLJ/qO0fcNCTv3AOcmKJ+xAoVF88hzruuCaBRprmaJtQIHizZWF+ohUdSBqhyDGK0C0nS3ODIW7dG3SE2k8mVU/hbHrReuhZFKIta9NWtFFDEXHzPV8k80fK98vSCIi/Sm87zrCuVblfyhx6c1c5qKncjC5vpQjw9p6Sg==;dZtG/dD1+Hyt5n3g19ZNUg=="
+secured: "h+aXyAy50ZNDRDYxQsPpsSXZ99QqUqkG86y6M4lUXD/F1+D19nN9TAhLmbtKoOwVofCurmCBKcq5G0LD22nj0tKTzS/KdwwNgjcKWfLgXhvgXGbmWRiPMt6HA5N6JsgGT6APVNmqL1ezMlUPgj9NMd6bXFy/EsOd0X9OHp98i3w/074CFLhkR0Z0ovw6tWVdc/60Tp8Uxsxv/9U1P5kPHEcvwn4hY+67l8Ki9xtqEXaqoRRGIG984iqCANJd4h0qhxOsTHYYYC8IJrJmInHneg+OWB5LiPYaqf9Gapfm5SEDeQcOX9QiwMb0PVEbKrsYe1EFl+gQmTdM/QlBwFJP/eIgRIEKc0H4DiALxFJxkPWGFkI4ZJmvchJOx8tF6E0XciKxT/oH2HIYe2rF1F/9BQ==;SB5oJGmJ2jVv3T67spbvVw=="
 ---
 

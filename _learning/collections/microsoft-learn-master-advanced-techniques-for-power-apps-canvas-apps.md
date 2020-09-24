@@ -4,7 +4,7 @@ excerpt: "Do you want to make sure your app is the best it can be? This learning
 type: collection
 price: Free
 length: PT2H35M
-heat: 78
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "aqhvLswXdtt47meKT/HY1hnRETvLPaUspPfSQCg3YGRaC9J5NFQj0EBTj5PBOEhaCuBB9HQOTB9M6h2ymzVRZl1o4rDMTiSitmK8WDRXabAd+Krig2Y/DyGSjtMFWpBFM5fmKzTSSjjq+xzBz9j040k9L2ZEer1JXNNuvUUdYFuF/nWZh3w5JkIFitaxFlBuddKZNJK7Hmne4Y2TCa648YBAugGJIhjQeqq0RISrbt9e3uogU9Ne/0C3dSf8hXfc5xn8NLJb6vM5RsS9WdFMK8BwgDZNK/KU8KRD1y7rJacDwzkWcOQSa/WvBjU3tJy5C+2III7RSGBdbhcErOoNge+G/qVLeE/edit8sgi5s6A=;foXxxrRqfpi6xd4IgrO3YQ=="
+secured: "0efxA1Hh4ZfXZcgwzwoBFCv0sdK4rIEEK6NC9Xq8cEbhCpooN7Ekj0bxsZsdxd5VIasduzQX3SUIKTVmHPC4LYBItTwmpPVpurAK1wW48jvgXZ5FfgIUk20PJ22FXJFFff3xUjrKAgULLx4WL2hoVRQSWwDpvLhLEv5BgmXm+maht9GlQk7cdk7qcs+55FqNh5odDCFIoecSsrLQB62cx1jYTbWcyPI/op3uzqFYFSHKBc/xSKYvjzJMzDBMS5wYd/IZqOzR0uFM9BZNBxXpkR8JJxTmuiJ8lch27ST5chUzDRRfJJf6LxCBeu8oNzu6q9rSftjQCJlN71+mhBs7K9mU87q0jKTzkdZDxec4+Lc=;eKOomAktNTxB4xhyEHJSwg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "The app user experience often defines the success of your app. This le
 type: collection
 price: Free
 length: PT1H58M
-heat: 74
+heat: 73
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Hf+u2opStZw/NIbl0jOk7mOESqDn4yV7nb8OvUicwnSEFJmw37+N5HEOUdrjotORll2ZAW4x5b+nqA5Et7jbmYyWfpB591K0usch/namVF8PMCusLwEJ2aBmvYS4Cat+xfwcB+/OPpTiDYGAfYgYE75n1A7gAluxeamtFkgLZus/PhmHoFEyt6ak5vr2ZgbnAonSPxCMX7PAkkeD1rFocb1vTDFiEPs659b+2m6IrRAqw1orTWefHyU4e8UZ4c9yVpHaaqmoz3GeIE5SsF4aHm07cB9/7zVZG4COx//1pyr1tX+DKcOH7Mybwgx7ukt27G6M3DvHJcq0kZO5T6NZnmdgr171zr9ZFdZaMDYtEKU=;uFMmxxNzINiwR4DS97U51Q=="
+secured: "FBWnHsTFOMvgvGIWzddh97Rm/70Jkuqqva6bDMHuRGrbaOcMpApY2elzysQypL6PGF+ug4TA0xmdzvNEB775bBy2dn4wXdEW8qzNXsPSysJzfpNO0RMHo3ar3QMTAhrPlk8DunyPV0vmeh3rEf2YgiYvY4iN4QxVu+CDrmKT90tGn/iEMF6YTzCpUUTk/Z482zy0RVXw/WeDk5yzHFMQQqpkGDDQT6K93dgY8nyz+h3Mbj7pLrNNAjNsoVFnG5WVq1M1iVPbR0iHJiV0CFKsD8Jb16RHIw/BrxGTFDdtYn6e93JXzXsbdPdR1NXvNraR4WM8E6Urv0P+meFimXjnC+Qvw3iAOe1q6Oeu27Zl2RI=;1bqQZriynGujcd7lUVaUpA=="
 ---
 
