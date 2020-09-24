@@ -4,7 +4,7 @@ excerpt: "This learning path introduces you to creating a model-driven app in Po
 type: collection
 price: Free
 length: PT2H52M
-heat: 100
+heat: 101
 
 provider:
   name: Microsoft Learn
