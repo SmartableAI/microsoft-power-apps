@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-powerapps-manage.md",
-      "title": "Manage apps in Power Apps",
-      "excerpt": "Manage app versions, app sharing, and environments in Power Apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-manage/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/",
-      "length": "PT42M",
+      "path": "_learning/courses/microsoft-learn-powerapps-get-started.md",
+      "title": "Get started with Power Apps",
+      "excerpt": "Learn the basics of Power Apps and how you can use it in your organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-get-started/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps/",
+      "length": "PT1H3M",
       "ratings": {
-        "count": 5591,
-        "average": 4.6751924
+        "count": 14912,
+        "average": 4.657189
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,56 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 211,
+      "heat": 210,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-with-powerapps-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
+      "title": "Introduction to Power Platform",
+      "excerpt": "Introduction to Power Platform",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-introduction-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 10932,
+        "average": 4.700055
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 191,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
@@ -91,7 +140,7 @@
           "path": "",
           "title": "Manage apps in Power Apps",
           "excerpt": "Manage app versions, app sharing, and environments in Power Apps.",
-          "heat": 211,
+          "heat": 151,
           "type": "course",
           "topics": [
             "Power Apps"
@@ -99,7 +148,7 @@
         }
       ],
       "size": 3,
-      "heat": 210,
+      "heat": 161,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-with-powerapps-social.png",
@@ -115,88 +164,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-powerapps-get-started.md",
-      "title": "Get started with Power Apps",
-      "excerpt": "Learn the basics of Power Apps and how you can use it in your organization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-get-started/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps/",
-      "length": "PT1H3M",
-      "ratings": {
-        "count": 14901,
-        "average": 4.6572714
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 210,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-started-with-powerapps-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
-      "title": "Introduction to Power Platform",
-      "excerpt": "Introduction to Power Platform",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-introduction-power-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 10905,
-        "average": 4.7001376
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 191,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-powerapps-customize.md",
       "title": "Customize a canvas app in Power Apps",
       "excerpt": "Learn how to customize an app by adding controls, images, and logic.",
@@ -204,8 +171,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/",
       "length": "PT38M",
       "ratings": {
-        "count": 6685,
-        "average": 4.6620793
+        "count": 6691,
+        "average": 4.661336
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -223,6 +190,39 @@
         "Beginner"
       ],
       "heat": 161,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-powerapps-manage.md",
+      "title": "Manage apps in Power Apps",
+      "excerpt": "Manage app versions, app sharing, and environments in Power Apps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-manage/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 5599,
+        "average": 4.675299
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 151,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -319,8 +319,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-app-solution/",
       "length": "PT21M",
       "ratings": {
-        "count": 3599,
-        "average": 4.7021394
+        "count": 3601,
+        "average": 4.702305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -353,33 +353,85 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps.md",
-      "title": "Common Data Service Relationships and Lookups with Power Apps canvas apps",
-      "excerpt": "In this video, you will learn how to setup and use Lookup columns in the Common Data Service aka CDS aka Dataflex. We talk about Filter, Patch, Collections, Forms, and more all while helping you build better relationships in your Power Apps Canvas Apps. I also skip all of the \"relationship\" jokes I wanted",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-common-data-service-relationships-and-lookups-with-power-apps-canvas-apps/",
-      "originalUrl": "https://youtube.com/watch?v=kVEtj7QdRYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVEtj7QdRYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M47S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
+      "path": "_learning/courses/microsoft-learn-portal-custom-web.md",
+      "title": "Build custom Power Apps portals web templates",
+      "excerpt": "Create custom Microsoft Power Apps portals web templates.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portal-custom-web/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/portal-custom-web/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 36,
+        "average": 4.5
       },
-      "publishedDateTime": "2020-08-09T09:28:27-07:00",
-      "heat": 120,
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 111,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kVEtj7QdRYY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/portal-custom-web-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps",
-        "Common Data Service"
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-authentication-user-management.md",
+      "title": "Authentication and user management in Power Apps portals",
+      "excerpt": "Learn how to authenticate with Power Apps portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-authentication-user-management/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/authentication-user-management/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 10,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/authentication-user-management-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
       ]
     },
     {
@@ -390,8 +442,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 2043,
-        "average": 4.488987
+        "count": 2053,
+        "average": 4.4900146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -485,8 +537,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps-common-data-service/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 1918,
-        "average": 4.5312824
+        "count": 1921,
+        "average": 4.5299325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -547,8 +599,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-model-driven-apps-common-data-service/",
       "length": "PT37M",
       "ratings": {
-        "count": 1584,
-        "average": 4.5719695
+        "count": 1588,
+        "average": 4.571159
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -609,8 +661,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 1313,
-        "average": 4.671744
+        "count": 1320,
+        "average": 4.673485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1181,8 +1233,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-environments/",
       "length": "PT42M",
       "ratings": {
-        "count": 840,
-        "average": 4.582143
+        "count": 841,
+        "average": 4.5826397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1503,100 +1555,6 @@
         }
       ],
       "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-introduction-to-developing-with-power-platform.md",
-      "title": "Introduction to developing with Power Platform",
-      "excerpt": "So, you want to be a Power Platform developer! This learning path is the first step in learning about the platform, tools, and the ecosystem of Power Platform.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-introduction-to-developing-with-power-platform/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-introduction-to-developing-with-power-platform/",
-      "length": "PT2H22M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Introduction to Power Platform developer resources",
-          "excerpt": "The goal of this module is to give a broad-scoped overview of the developer experience as it relates to the Power Platform.  It will cover a high-level introduction how the ecosystem is represented, with the intended audience being a software developer with limited experience in working with the Power Platform.",
-          "heat": 84,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-developing-power-platform-social.png",
-              "width": 642,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Use developer tools to extend the Power Platform",
-          "excerpt": "This module will focus on the available developer tools that can help you perform development activities with the Microsoft Power Platform.",
-          "heat": 73,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/use-developer-tools-extend-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        },
-        {
-          "path": "",
-          "title": "Introduction to extending the Microsoft Power Platform",
-          "excerpt": "This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of the Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code.",
-          "heat": 74,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-extensibility-model-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "type": "course",
-          "topics": [
-            "Power Apps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-developing-power-platform-social.png",
-          "width": 642,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "type": "collection",
       "price": "Free",
       "topics": [
         "Power Apps"
