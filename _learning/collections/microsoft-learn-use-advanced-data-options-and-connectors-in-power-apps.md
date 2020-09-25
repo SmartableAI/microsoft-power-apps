@@ -4,7 +4,7 @@ excerpt: "Do you want to improve the user's experience in your canvas app? Do yo
 type: collection
 price: Free
 length: PT2H21M
-heat: 79
+heat: 76
 
 provider:
   name: Microsoft Learn
