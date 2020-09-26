@@ -2,7 +2,7 @@
 title: "One Dev Question on Power Apps"
 excerpt: "With Dona Sarkar, who leads an advocacy team for the Power Platform."
 type: collection
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft

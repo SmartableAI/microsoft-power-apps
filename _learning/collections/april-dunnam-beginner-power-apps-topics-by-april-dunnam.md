@@ -2,7 +2,7 @@
 title: "Beginner Power Apps Topics by April Dunnam"
 excerpt: "If you are new to Power Apps then this playlist is for you!  It's full of beginner level Power Apps topics to get you started building low code apps"
 type: collection
-heat: 98
+heat: 75
 
 provider:
   name: April Dunnam

@@ -4,7 +4,7 @@ excerpt: "Becoming a Solution Architect for Dynamics 365 and Power Platform."
 type: collection
 price: Free
 length: PT3H57M
-heat: 78
+heat: 33
 
 provider:
   name: Microsoft Learn

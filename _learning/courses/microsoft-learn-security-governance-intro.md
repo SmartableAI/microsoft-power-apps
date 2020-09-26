@@ -8,7 +8,7 @@ length: PT47M
 ratings:
   count: 99
   average: 4.585859
-heat: 53
+heat: 45
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power Apps
 
-secured: "HvGdCKn0n+4tImCAWVpq9MmgG4yAWhCxTo9xHpykHnyPKjluCxfeOlhQN62xepZ5g2UjdMomM2DPLC1Xag4jeIRAv7Ow5jpf8DpjV0G86izKqUt+e2MTBZRFBOef4+gfo6tCB40PWiBNcvU000T2OkA3TA3+C7i5OK5eyKIdi2B4UwFsoJWXx7mAYSE7R5Bs8513qNAncF37pgoKWMSKQWxw+5VIyiqk3dfVPihvl4P1AZDiAjAmitlyPdtqr98Rw2ZHIYIfry+UMJlJognbL3Wgn12ltxLb6Mb/NXzAa1OyCGBwRpXgo7sIiw+QaNH7QJ+mF9bBfcbB+AEpE4WLQJWmYK4oVbvF+In8MHFgXzwBU4AsUCZnSNl3ldwn/rsGuNov0i0glnrjE7T8JlbaPg==;NB1YygMZTILgVkMSwULmZA=="
+secured: "Dn1rbHf1dOX+MgbX1iwqcwZQlvvseKgrJxLKToqs0FITlRFdHhsWLg6x1kYEFxyHx/+dYz/e6fwSJgHRozjTgukhE8lFj2LSsXwXNSZQzIofbjRMoTJogIX45mQJas92H9sR9egXyVqx5YkAGKOMrg49rPEYsw1XP+ltLNtnER3ZU9f9YI/AXgZfMR637jV/1yi5jVcRWreLhkj5AmeGxp95obgG02e+OWCHi5UX3VRcXPWOmuabDih0dlVClVNl4HmM8DyCIP028ZbxZIlDcGadlX3jKUxa/5QD6RQ8jO63be6vYCXzEzY/oQaGcXa99qPW2rDIvXMvYRaCZSy7V37CgDDn6KML8pDzyLC4K2B9NtEdfFRQowwtdmXWUdOIn/p1ejeppovxE/aUnlrxWG/jjXl512359gj6HYCEYd4=;c4CPZjkiO5mrvAHNcxAh+Q=="
 ---
 

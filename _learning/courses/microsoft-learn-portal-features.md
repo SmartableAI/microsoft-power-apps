@@ -8,7 +8,7 @@ length: PT30M
 ratings:
   count: 68
   average: 4.529412
-heat: 52
+heat: 46
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power Apps
 
-secured: "cxXXVlVsQCR5OC+bsofji56Rm6Fm7wLM/h9rDyBDDN7Iog40wXDFRm5ulnODsmn23NYTt1o0qIdhz5OUFwGYC+cF56ou1ODTIsEhZguZ8GCb3Xhfv2GcT00xI/ICO7WdKzEDo2T2aqRMGSLmOMTvIuIsUCnfz8blc8j3TwJVnaiMSyE26kVkuHnbsd/OyWej3CGAYNbetdgQ+FiS9A0gpa2gsvDtcl4jYFxNreQ2DEJG1DrtoXKC7HQJfJBPkiNH5dXtO43QrbswI/UPXOckXbeH1lo342t7ptSkhZ3/7/mLaTfUmzD7N197OZSXsD4uYTXgcVPPKqhpNjNEBInx1e1U32a8hb3Gh8VgxRfYnLXB0t2BlNJQjJq83vUNd4SZyV50gKUrgwWAQ8ew2E4Fpw==;C98aenXtdaWgFFRzIRfXBQ=="
+secured: "aPmt3ev1MQII1midYOiFBFbObVxRwqvGZeag+OyL4wE7I21fUaRC9BpT2Dr/scJWEcO2bDusbV6MwFr+db7wcE7CYveD1QtJTR19xhVqxax6xRYkyRRDmuTDjpnKCEAnGud8IiekUMkt4FAZ/skrEYX/jEnmA+gDYQkUqkQXR+xBhncnlyyUuujFCTPIV7wCI4Kz/mPMHeku0iklCPUEPZBI3OkacKkY0QDhvIWwldye5EvFt+QcXAz6KhWdvW8gMGKVH+Y+V21FTPRfdAsCrWyfw8A/egQC7vrEfgIufpsmNWEs7vZwQSyeV2ye64LicVPYlps8dF4d66LRx1xPOkfkPkVqQT8cuSwSGOMtHDNjiz+5YnypY9rLvQI/ile9967uS6U3GvBZEL2GXvGKbVCm13R9h9hqEsqY3TTq47s=;tNjKacasGHkyywQT8zB9gA=="
 ---
 
