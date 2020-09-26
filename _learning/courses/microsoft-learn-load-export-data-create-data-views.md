@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT40M
 ratings:
-  count: 311
-  average: 4.62701
+  count: 312
+  average: 4.625
 heat: 31
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Common Data Service
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/load-export-data-create-data-views-social.png

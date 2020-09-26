@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H14M
 ratings:
-  count: 2191
-  average: 4.504792
+  count: 2200
+  average: 4.505909
 heat: -34
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Model-driven apps
 
 secured: "xrYEW+lHGto1e0OSS/DpAvq1obRIMX5imQWkYNW45vSLsA/M8lGZrwFYPjx//4XncqgDW9ebaGmvnInAhIefarV26iqazN2czxo88+KFZ+Y6hM9A3+00FWBAVWB95bZbsunM+ZfcyBYgbm4RAAnKp3m0Gu8l7F8pr0+drpQPHqMpIuA640cjc7sFB+/mfHYMa8lE33Cr0tzoPjDQR/1gBm0a4z6X77uI4ShYd5WqEgjIqc01tv4QoNfZs8R8MkzUCSrp/botyjq+UEVpuge/A27wMJpHEsqL7OQE+Vs+Vwc66XBg1hTFeNQMh6+LxZldGJ9c5ozDhCf1QQwDwM8YF2nCgz7HD1+PpBV1VzNtjElVvY/2XTnN6VKJ+kP1VhUO7Wv1qU1CD5sHZhO5GhaW3ZgGTMAOBzVcxVLjyVVMsU0=;SfG1VsRmhatDlE3nBro3hw=="
 ---

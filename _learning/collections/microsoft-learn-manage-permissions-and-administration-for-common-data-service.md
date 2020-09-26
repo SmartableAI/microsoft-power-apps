@@ -23,6 +23,7 @@ items:
 
 topics:
   - Power Apps
+  - Common Data Service
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/get-started-security-roles-social.png

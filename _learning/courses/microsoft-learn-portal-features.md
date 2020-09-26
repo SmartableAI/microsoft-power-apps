@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Portals
 
 secured: "aPmt3ev1MQII1midYOiFBFbObVxRwqvGZeag+OyL4wE7I21fUaRC9BpT2Dr/scJWEcO2bDusbV6MwFr+db7wcE7CYveD1QtJTR19xhVqxax6xRYkyRRDmuTDjpnKCEAnGud8IiekUMkt4FAZ/skrEYX/jEnmA+gDYQkUqkQXR+xBhncnlyyUuujFCTPIV7wCI4Kz/mPMHeku0iklCPUEPZBI3OkacKkY0QDhvIWwldye5EvFt+QcXAz6KhWdvW8gMGKVH+Y+V21FTPRfdAsCrWyfw8A/egQC7vrEfgIufpsmNWEs7vZwQSyeV2ye64LicVPYlps8dF4d66LRx1xPOkfkPkVqQT8cuSwSGOMtHDNjiz+5YnypY9rLvQI/ile9967uS6U3GvBZEL2GXvGKbVCm13R9h9hqEsqY3TTq47s=;tNjKacasGHkyywQT8zB9gA=="
 ---

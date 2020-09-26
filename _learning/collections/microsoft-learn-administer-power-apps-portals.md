@@ -25,6 +25,7 @@ items:
 
 topics:
   - Power Apps
+  - Portals
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/portals-administration-social.png

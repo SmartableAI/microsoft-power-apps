@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT32M
 ratings:
-  count: 365
-  average: 4.6684933
+  count: 366
+  average: 4.669399
 heat: 22
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/connect-other-data-social.png

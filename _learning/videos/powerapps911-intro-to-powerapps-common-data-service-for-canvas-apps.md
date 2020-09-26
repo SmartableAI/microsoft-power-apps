@@ -17,6 +17,7 @@ provider:
 topics:
   - Power Apps
   - Common Data Service
+  - Canvas apps
 
 images:
   - url: https://i.ytimg.com/vi/49O1UW-tkyo/maxresdefault.jpg

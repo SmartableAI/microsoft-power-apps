@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Portals
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/extend-power-app-portals-social.png

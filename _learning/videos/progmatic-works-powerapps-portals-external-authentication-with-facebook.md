@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Power Apps
+  - Portals
 
 images:
   - url: https://i.ytimg.com/vi/egfnaXIqpwU/maxresdefault.jpg

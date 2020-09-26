@@ -4,7 +4,7 @@ excerpt: "Do you want to use formulas to improve functionality and change a beha
 type: collection
 price: Free
 length: PT2H16M
-heat: 11
+heat: -11
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,7 @@ items:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/change-properties-social.png

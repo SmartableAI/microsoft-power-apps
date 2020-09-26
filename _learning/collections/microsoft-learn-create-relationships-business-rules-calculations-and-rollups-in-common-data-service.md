@@ -24,6 +24,7 @@ items:
 
 topics:
   - Power Apps
+  - Common Data Service
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png

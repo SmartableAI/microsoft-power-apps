@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Common Data Service
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/intro-cds-developers-power-platform-social.png

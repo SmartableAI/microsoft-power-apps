@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/change-behaviors-social.png

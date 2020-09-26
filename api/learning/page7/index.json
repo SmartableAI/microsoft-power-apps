@@ -4,47 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-portals-administration.md",
-      "title": "Power Apps portals administration",
-      "excerpt": "This module will focus on the Microsoft Power Apps Portals administration and using the Power Apps admin center. Additional actions and features are available that you can use to enhance portal functionality.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-administration/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/portals-administration/",
-      "length": "PT13M",
-      "ratings": {
-        "count": 21,
-        "average": 4.4761906
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 49,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-administration-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-portals-integration.md",
       "title": "Integrate Power Apps portals with web-based technologies",
       "excerpt": "Learn how to integrate Power Apps portals with web-based technologies.",
@@ -82,7 +41,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {
@@ -123,7 +83,9 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service",
+        "Portals"
       ]
     },
     {
@@ -197,7 +159,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {
@@ -271,7 +234,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -312,7 +276,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {
@@ -411,7 +376,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {
@@ -452,7 +418,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {
@@ -526,7 +493,8 @@
           ],
           "type": "course",
           "topics": [
-            "Power Apps"
+            "Power Apps",
+            "Common Data Service"
           ]
         },
         {
@@ -544,7 +512,8 @@
           ],
           "type": "course",
           "topics": [
-            "Power Apps"
+            "Power Apps",
+            "Common Data Service"
           ]
         },
         {
@@ -562,7 +531,8 @@
           ],
           "type": "course",
           "topics": [
-            "Power Apps"
+            "Power Apps",
+            "Common Data Service"
           ]
         }
       ],
@@ -579,7 +549,8 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -620,7 +591,8 @@
           ],
           "type": "course",
           "topics": [
-            "Power Apps"
+            "Power Apps",
+            "Common Data Service"
           ]
         },
         {
@@ -638,7 +610,8 @@
           ],
           "type": "course",
           "topics": [
-            "Power Apps"
+            "Power Apps",
+            "Common Data Service"
           ]
         }
       ],
@@ -655,7 +628,8 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -696,7 +670,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -737,7 +712,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -778,7 +754,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -819,7 +796,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {
@@ -860,7 +838,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -995,7 +974,8 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Model-driven apps"
       ]
     },
     {
@@ -1118,7 +1098,8 @@
           ],
           "type": "course",
           "topics": [
-            "Power Apps"
+            "Power Apps",
+            "Common Data Service"
           ]
         },
         {
@@ -1136,7 +1117,8 @@
           ],
           "type": "course",
           "topics": [
-            "Power Apps"
+            "Power Apps",
+            "Common Data Service"
           ]
         },
         {
@@ -1154,7 +1136,8 @@
           ],
           "type": "course",
           "topics": [
-            "Power Apps"
+            "Power Apps",
+            "Common Data Service"
           ]
         },
         {
@@ -1172,7 +1155,8 @@
           ],
           "type": "course",
           "topics": [
-            "Power Apps"
+            "Power Apps",
+            "Common Data Service"
           ]
         }
       ],
@@ -1189,7 +1173,8 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -1288,8 +1273,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/working-with-option-sets/",
       "length": "PT39M",
       "ratings": {
-        "count": 289,
-        "average": 4.6401386
+        "count": 290,
+        "average": 4.637931
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1318,7 +1303,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -1359,7 +1345,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Canvas apps"
       ]
     },
     {
@@ -1370,8 +1357,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/load-export-data-create-data-views/",
       "length": "PT40M",
       "ratings": {
-        "count": 311,
-        "average": 4.62701
+        "count": 312,
+        "average": 4.625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1400,7 +1387,8 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Common Data Service"
       ]
     },
     {
@@ -1434,6 +1422,48 @@
       "price": "Free",
       "topics": [
         "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-fields-within-entity.md",
+      "title": "Create and manage fields within an entity in Common Data Service",
+      "excerpt": "Do you want to create new data fields or leverage exiting standardized fields for your business solutions?  This module will show you how to manage or create new fields within an entity in Common Data Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-manage-fields-within-entity/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-fields-within-entity/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 330,
+        "average": 4.5545454
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 29,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-fields-within-entity-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
       ]
     }
   ],

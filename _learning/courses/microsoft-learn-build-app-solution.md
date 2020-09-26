@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT21M
 ratings:
-  count: 3628
-  average: 4.701764
+  count: 3629
+  average: 4.701846
 heat: -2147483598
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/build-app-solution-social.png

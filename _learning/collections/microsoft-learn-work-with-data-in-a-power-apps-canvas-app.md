@@ -4,7 +4,7 @@ excerpt: "Do you need to connect an app to access data? Then this learning path 
 type: collection
 price: Free
 length: PT2H44M
-heat: -13
+heat: -9
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,7 @@ items:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 secured: "OuCLc4Zc2o2EMUUBDA1fYNYHxB3N3hF4PwRopmWYoq5J80t91K6yqCFQ6aHQEpWD6TnB79Mx7mOgb/ekm9XpFrRgAjtyF6y09nWEGGlZEvXKL90Q2NQ3oUB9naoi9go/lPWSyaPrOGsy9QP69LjjZ+4GLhF3eWZ9h7yzDViOa4hfrJokSqwzCPxXDh0mEhwZCGTHNGa76mCRkVJV82Dv142JQb3+HqajW6XQfIG8+qOl8i2hwJPs3Oyw6/irMFdQ7tpuAAb8Alim5N+uSbkDLsQLTwz6S9VKBvBY/jx6ZBn0NA5t8gQXXgzCgCVWMOo0kkQfTGBCtq2Q9flVYwdV4VjKnyWFD+cT7M5US4nlo7w=;irJ80mkphdJ5scatwjuwbA=="
 ---

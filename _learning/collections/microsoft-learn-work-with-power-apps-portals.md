@@ -27,6 +27,7 @@ items:
 
 topics:
   - Power Apps
+  - Portals
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/explore-portals-studio-social.png

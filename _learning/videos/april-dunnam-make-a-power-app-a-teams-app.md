@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Power Apps
+  - Teams integration
 
 images:
   - url: https://i.ytimg.com/vi/UmMhQSom_EE/hqdefault.jpg

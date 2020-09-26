@@ -4,7 +4,7 @@ excerpt: "The app user experience often defines the success of your app. This le
 type: collection
 price: Free
 length: PT1H58M
-heat: 20
+heat: -20
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,7 @@ items:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png

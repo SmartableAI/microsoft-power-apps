@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT35M
 ratings:
-  count: 481
-  average: 4.5841994
+  count: 482
+  average: 4.585062
 heat: 12
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/work-with-relational-data-social.png

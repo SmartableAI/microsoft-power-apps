@@ -4,7 +4,7 @@ excerpt: "Do you want to create apps to help make your business more efficient? 
 type: collection
 price: Free
 length: PT2H23M
-heat: 50
+heat: -2147483648
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,7 @@ items:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/get-started-with-powerapps-social.png

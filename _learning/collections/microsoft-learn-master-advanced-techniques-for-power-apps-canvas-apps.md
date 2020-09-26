@@ -25,6 +25,7 @@ items:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/use-imperative-dev-techniques-social.png

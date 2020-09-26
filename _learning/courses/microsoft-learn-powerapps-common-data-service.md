@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H1M
 ratings:
-  count: 1983
-  average: 4.538578
+  count: 1988
+  average: 4.5392356
 heat: -2147483598
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Common Data Service
 
 secured: "VY5isS6MZss8d3Qx4YcItvq3lRmY0+x0pTVqOp/5ZeOMFyATxHijuf0zT/2+pjuTfCv+31K40/lLnR2NrBzp7JPkQL7m5d6xiKjU/Tqq/qKbThxDnMtlcakdrSLV214IIM2BipPoyNDYyQ2+YSiG52g6k+IN47q/WIqF9tf8WNc8Q6e5jJVM1TOP0qnPazCj2WRmroa9QtSw1+7Xugjy1Pk0eMXDiaZBV/h3Kz8yDtG2S0a0G7IdBksYDOhk9yEe+5KJ+XugXkViuiIJlwBRfrqhdM6LSPLxqgzJ3NNutzky0Um2Zsao7s8jYm/YsbebiMp1UVmDOTz3HBaXQB5w8CT3+IrKDcKN360q5QkSZBfiALvHJ4Cb0I7h0RhIs5u2ZbaHPuhH/khYcSzX0LfHh7yLTUgt7keAwCWRSgXDqXg=;RPodixjCqT1+mcEYLeF2dQ=="
 ---

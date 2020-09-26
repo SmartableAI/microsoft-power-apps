@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT39M
 ratings:
-  count: 289
-  average: 4.6401386
+  count: 290
+  average: 4.637931
 heat: 32
 
 provider:
@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Common Data Service
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/working-with-option-sets-social.png

@@ -23,6 +23,8 @@ levels:
 
 topics:
   - Power Apps
+  - Common Data Service
+  - Portals
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/integrate-common-data-service-social.png

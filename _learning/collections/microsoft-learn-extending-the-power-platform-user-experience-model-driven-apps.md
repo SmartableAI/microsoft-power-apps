@@ -24,6 +24,7 @@ items:
 
 topics:
   - Power Apps
+  - Model-driven apps
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png

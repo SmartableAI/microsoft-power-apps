@@ -23,6 +23,7 @@ levels:
 
 topics:
   - Power Apps
+  - Portals
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/portals-metadata-social.png
