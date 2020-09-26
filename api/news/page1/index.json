@@ -10,7 +10,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-bi-embedded-as-system-dashboard-in-model-driven-apps-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,8 @@
         "news"
       ],
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Model-driven apps"
       ]
     },
     {
@@ -60,7 +61,7 @@
       "originalUrl": "https://www.geekwire.com/2020/low-code-competition-grows-microsoft-integrates-power-apps-github-teams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -98,7 +99,8 @@
         "news"
       ],
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Teams integration"
       ]
     },
     {
@@ -210,7 +212,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/now-in-preview-customize-teams-with-built-in-power-platform-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -248,7 +250,8 @@
         "news"
       ],
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Teams integration"
       ]
     },
     {
@@ -352,6 +355,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-14-september-16th-power-apps-community-call-canvas-app-design-components-themes-and-connecting-power-virtual-agents-to-ms-graph.md",
+      "title": "September 16th Power Apps community call: Canvas App Design, components, themes and connecting Power Virtual Agents to MS Graph",
+      "excerpt": "For the September Power Apps community call hosted by Todd Baginski has guest speakers Geetha Sivasailam walking through a collection of Power Apps tips and tricks for incredible designs. Emmanuel Gallis will then share his component and theming tools for making Power Apps application creation even faster",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/september-16th-power-apps-community-call-canvas-app-design-components-themes-and-connecting-power-virtual-agents-to-ms-graph/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/september-16th-power-apps-community-call-canvas-app-design-components-themes-and-connecting-power-virtual-agents-to-ms-graph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-default-image.png",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-14T02:11:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-power-apps-portals-web-api-support-public-preview.md",
       "title": "Power Apps portals Web API support (public preview)",
       "excerpt": "Portals Web API enables building a richer user experience inside Power Apps portals pages. You can use Web API to create, update, and delete operations across Common Data Service entities (excluding configuration entities) from your portal pages.",
@@ -360,7 +414,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-web-api-support-public-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -398,7 +452,8 @@
         "news"
       ],
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {
@@ -410,7 +465,7 @@
       "originalUrl": "https://powerapps.microsoft.com/en-us/blog/troubleshoot-forms-in-a-model-driven-app/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -448,7 +503,8 @@
         "news"
       ],
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Model-driven apps"
       ]
     },
     {
@@ -610,7 +666,7 @@
       "originalUrl": "https://youtube.com/watch?v=Bf7Ln6uAwxE",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bf7Ln6uAwxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 137,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -648,7 +704,8 @@
         "news"
       ],
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {
@@ -710,7 +767,7 @@
       "originalUrl": "https://youtube.com/watch?v=6NPtZSMH0h4",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6NPtZSMH0h4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 137,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -748,7 +805,8 @@
         "news"
       ],
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {

@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-19T09:21:51Z
 originalUrl: "https://powerapps.microsoft.com/en-us/blog/troubleshoot-forms-in-a-model-driven-app/"
 webUrl: "https://powerapps.microsoft.com/en-us/blog/troubleshoot-forms-in-a-model-driven-app/"
 type: article
-quality: 72
-heat: 72
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power Apps
+  - Model-driven apps
 
 images:
   - url: "https://powerapps.microsoft.com/images/shared/social/social-default-image.png"

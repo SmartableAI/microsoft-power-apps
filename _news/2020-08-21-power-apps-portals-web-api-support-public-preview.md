@@ -6,8 +6,8 @@ publishedDateTime: 2020-08-21T19:46:50Z
 originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-web-api-support-public-preview/"
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-apps-portals-web-api-support-public-preview/"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power Apps
+  - Portals
 
 images:
   - url: "https://powerapps.microsoft.com/images/shared/social/social-default-image.png"

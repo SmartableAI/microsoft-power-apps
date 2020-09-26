@@ -8,8 +8,8 @@ webUrl: "https://www.geekwire.com/2020/low-code-competition-grows-microsoft-inte
 ampWebUrl: "https://www.geekwire.com/2020/low-code-competition-grows-microsoft-integrates-power-apps-github-teams/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/low-code-competition-grows-microsoft-integrates-power-apps-github-teams/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Power Apps
+  - Teams integration
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/09/Satya-Nadella-1000x563-1-630x355.jpg"

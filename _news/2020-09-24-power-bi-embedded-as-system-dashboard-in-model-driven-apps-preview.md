@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-24T09:47:39Z
 originalUrl: "https://powerapps.microsoft.com/en-us/blog/power-bi-embedded-as-system-dashboard-in-model-driven-apps-preview/"
 webUrl: "https://powerapps.microsoft.com/en-us/blog/power-bi-embedded-as-system-dashboard-in-model-driven-apps-preview/"
 type: article
-quality: 72
-heat: 72
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power Apps
+  - Model-driven apps
 
 images:
   - url: "https://powerapps.microsoft.com/images/shared/social/social-default-image.png"

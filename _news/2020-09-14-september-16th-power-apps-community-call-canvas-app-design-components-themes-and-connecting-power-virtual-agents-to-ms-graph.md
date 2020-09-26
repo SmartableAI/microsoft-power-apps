@@ -6,9 +6,9 @@ publishedDateTime: 2020-09-14T09:11:22Z
 originalUrl: "https://powerapps.microsoft.com/en-us/blog/september-16th-power-apps-community-call-canvas-app-design-components-themes-and-connecting-power-virtual-agents-to-ms-graph/"
 webUrl: "https://powerapps.microsoft.com/en-us/blog/september-16th-power-apps-community-call-canvas-app-design-components-themes-and-connecting-power-virtual-agents-to-ms-graph/"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power Apps
+  - Canvas apps
 
 images:
   - url: "https://powerapps.microsoft.com/images/shared/social/social-default-image.png"

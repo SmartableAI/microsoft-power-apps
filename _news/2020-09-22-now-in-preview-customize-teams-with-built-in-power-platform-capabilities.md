@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-22T08:00:00Z
 originalUrl: "https://powerapps.microsoft.com/en-us/blog/now-in-preview-customize-teams-with-built-in-power-platform-capabilities/"
 webUrl: "https://powerapps.microsoft.com/en-us/blog/now-in-preview-customize-teams-with-built-in-power-platform-capabilities/"
 type: article
-quality: 71
-heat: 71
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power Apps
+  - Teams integration
 
 images:
   - url: "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2020/09/Power-Apps-Home-in-Teams-vP.png"

@@ -5,8 +5,8 @@ excerpt: "In this overview video, we will highlight some of the new capabilities
 publishedDateTime: 2019-08-26T15:00:16Z
 originalUrl: "https://youtube.com/watch?v=6NPtZSMH0h4"
 type: video
-quality: 137
-heat: 137
+quality: 154
+heat: 154
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6NPtZSMH0h4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - Power Apps
+  - Portals
 
 images:
   - url: "https://i.ytimg.com/vi/6NPtZSMH0h4/maxresdefault.jpg"
