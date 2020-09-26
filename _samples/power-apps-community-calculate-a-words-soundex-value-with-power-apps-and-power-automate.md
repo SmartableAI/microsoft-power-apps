@@ -4,7 +4,7 @@ excerpt: "Title: Calculate a word's soundex value with Power Automate Descriptio
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Calculate-a-word-s-soundex-value-with-Power-Apps-and-Power/td-p/616853
 type: download
 publishedDateTime: 2020-07-06T12:32:00Z
-heat: 110
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/562/1/Soundex%20Calc.msapp"

@@ -1,0 +1,307 @@
+{
+  "title": "Samples",
+  "path": "_samples",
+  "page": 5,
+  "value": [
+    {
+      "path": "_samples/power-apps-community-loop-faster-than-timer-control.md",
+      "title": "Loop faster than Timer Control",
+      "excerpt": "I succeeded in implementing a loop that is faster than Timer Control. This is about 30 times faster than the timer. Blog (Japanese):",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-loop-faster-than-timer-control/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-loop-faster-than-timer-control/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Loop-faster-than-Timer-Control/td-p/256147",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Takuma",
+            "type": "profile",
+            "name": "Takuma"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/136/2/FastLoopSample.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-22T13:57:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/136/1/capture.JPG",
+          "width": 571,
+          "height": 454,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-matrix-clock-display.md",
+      "title": "Matrix Clock Display",
+      "excerpt": "I Express the &amp;quot;5x8 LCD Character Display&amp;quot; with PowerApps. This Apps is not using Images.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-matrix-clock-display/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-matrix-clock-display/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Matrix-Clock-Display/td-p/245961",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "R_t_A_n_M",
+            "type": "profile",
+            "name": "R_t_A_n_M"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/119/2/MatrixClockDisplay.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-04T08:40:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/119/1/MatrixClockDisplay.PNG",
+          "width": 1082,
+          "height": 611,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-one-more-colorpicker.md",
+      "title": "One More Colorpicker",
+      "excerpt": "A very simple Color Picker with SVG Example for gradient.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-one-more-colorpicker/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-one-more-colorpicker/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/One-More-Colorpicker/td-p/375980",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "VanlindtMarc",
+            "type": "profile",
+            "name": "VanlindtMarc"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/274/2/TestColor.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-03T21:39:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/274/1/2019-10-04%2013_37_28-TestColor%20-%20Enregistr%C3%A9es%20(non%20publi%C3%A9es)%20-%20PowerApps.png",
+          "width": 1061,
+          "height": 630,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powerapp-to-download-f1-calendar-2020-2021-dutch-time.md",
+      "title": "PowerApp to download - F1 calendar 2020-2021 Dutch time",
+      "excerpt": "Hello, I've build my first app yesterday. It's a calendar with all F1 races and Dutch times. It uses an Excel sheet which can be adjusted in the App",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-powerapp-to-download-f1-calendar-2020-2021-dutch-time/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-powerapp-to-download-f1-calendar-2020-2021-dutch-time/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerApp-to-download-F1-calendar-2020-2021-Dutch-time/td-p/465036",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SBobbink",
+            "type": "profile",
+            "name": "SBobbink"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/424/2/N3a43c5b5-e5a3-4e0e-9007-9aea6fc73c30-document.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-02-08T21:20:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/424/3/Screenshot_20200209-144204_Power%20Apps.jpg",
+          "width": 1440,
+          "height": 2960,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-rhythm-composer-pa-08.md",
+      "title": "Rhythm Composer PA-08",
+      "excerpt": "This Apps is Rhythm Composer. This Apps will record your voice, music, sounds for 16 channels and play them sequentially at the specified tempo. I",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-rhythm-composer-pa-08/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-rhythm-composer-pa-08/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Rhythm-Composer-PA-08/td-p/211197",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "R_t_A_n_M",
+            "type": "profile",
+            "name": "R_t_A_n_M"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/86/3/Rhythm%20Composer.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-28T15:15:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/86/1/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3.PNG",
+          "width": 1276,
+          "height": 633,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-sound-maker.md",
+      "title": "Sound Maker",
+      "excerpt": "It's a musical score creation &amp; playing app. You can input 2 parts and 32 notes per part. There are the following restrictions: Possible input scales",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-sound-maker/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-sound-maker/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Sound-Maker/td-p/188871",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "j-kodama",
+            "type": "profile",
+            "name": "j-kodama"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/59/2/SoundMaker.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-12-05T12:54:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/59/1/Screenshot_20181206-133137.png",
+          "width": 720,
+          "height": 1280,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

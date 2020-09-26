@@ -1,0 +1,1258 @@
+{
+  "title": "Samples",
+  "path": "_samples",
+  "page": 2,
+  "value": [
+    {
+      "path": "_samples/power-apps-community-color-picker-component.md",
+      "title": "Color Picker (Component)",
+      "excerpt": "Just a little concept idea I was working on. A configurable Color Picker.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-color-picker-component/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-color-picker-component/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Color-Picker-Component/td-p/268469",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gabrz",
+            "type": "profile",
+            "name": "Gabrz"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/163/2/ColorPicker.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-04-16T04:35:00-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/163/1/ColorPicker.png",
+          "width": 373,
+          "height": 314,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-gauges-in-svg.md",
+      "title": "Gauges in SVG",
+      "excerpt": "Contribution with some meters in SVG, inspiration for allies in improving UI design. next resposive SVG on powerapps screens.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-gauges-in-svg/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-gauges-in-svg/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Gauges-in-SVG/td-p/668970",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Serginho",
+            "type": "profile",
+            "name": "Serginho"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/620/1/Components%20Gauges%20SVG.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-08-25T11:14:00-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/173168i501FBD5690199FEE/image-size/large?v=1.0&px=999",
+          "width": 998,
+          "height": 497,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-responsive-design-template.md",
+      "title": "Responsive Design Template",
+      "excerpt": "In the following post, I explain the three attached companion apps/components. I use the two components to design a fully responsive app, the Sample",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-responsive-design-template/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-responsive-design-template/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Responsive-Design-Template/td-p/417884",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "KickingApps",
+            "type": "profile",
+            "name": "KickingApps"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/339/4/screenSimulator.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-02T22:59:00-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/339/6/Screen%20Shot%202020-05-06%20at%208.08.02%20PM.png",
+          "width": 543,
+          "height": 41,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-sample-teams-demo-app.md",
+      "title": "Sample Teams Demo App",
+      "excerpt": "Join this webinar to see how PowerApps and Teams work together to create more powerful business solutions in a snap! We'll show you how to leverage",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-sample-teams-demo-app/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-sample-teams-demo-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Sample-Teams-Demo-App/td-p/86326",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Audrie-MSFT",
+            "type": "profile",
+            "name": "Audrie-MSFT"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/18/4/Sample%20Teams%20App.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-01-31T01:38:00-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/18/3/teamsimage.PNG",
+          "width": 2433,
+          "height": 749,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-travel-request-demo-powerapps.md",
+      "title": "Travel Request Demo PowerApps",
+      "excerpt": "Travel Request Demo PowerApps Platform: PowerApps Created By: Muhammad Sumair Sheikh Email: sumairsheikh89@gmail.com Features I have created a simple",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-travel-request-demo-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-travel-request-demo-powerapps/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Travel-Request-Demo-PowerApps/td-p/644799",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "sumairsheikh89",
+            "type": "profile",
+            "name": "sumairsheikh89"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/587/1/Travel%20Request%20Demo%20App.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-08-01T06:10:00-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/165970i14C9B470061EC8CA/image-size/large?v=1.0&px=999",
+          "width": 998,
+          "height": 554,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-appsweeper-v01.md",
+      "title": "AppSweeper v0.1",
+      "excerpt": "Basic fundamentals of an old game called MineSweeper. Things to Improve: - An ending to the game, playtime and a highscore list? - Figure out a",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-appsweeper-v01/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-appsweeper-v01/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/AppSweeper-v0-1/td-p/278152",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gabrz",
+            "type": "profile",
+            "name": "Gabrz"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/177/2/AppSweeper.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-05-05T17:35:00-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/177/1/AppSweeper.JPG",
+          "width": 508,
+          "height": 447,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-drivers-license-pdf417-barcode-data-extraction.md",
+      "title": "Drivers License PDF417 Barcode Data Extraction",
+      "excerpt": "This app shows you how to extract data from a drivers license barcode. There is an incredible amount of data in every drivers license; being able to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-drivers-license-pdf417-barcode-data-extraction/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-drivers-license-pdf417-barcode-data-extraction/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Drivers-License-PDF417-Barcode-Data-Extraction/td-p/463649",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "EricLott",
+            "type": "profile",
+            "name": "EricLott"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/423/3/License%20Scanner.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-02-06T09:41:00-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/423/1/Main.jpg",
+          "width": 1566,
+          "height": 879,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-simple-roulette-app.md",
+      "title": "Simple Roulette app",
+      "excerpt": "I have PowerApp-ize the Roulette shared from May Alhajri on Twitter. Background Math is simple; again I have used Hyperbolic Tangent If you have any",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-simple-roulette-app/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-simple-roulette-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Simple-Roulette-app/td-p/420440",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "h-nagao",
+            "type": "profile",
+            "name": "h-nagao"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/347/2/SimpleRoulette.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-05T15:29:00-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/347/1/PAize.png",
+          "width": 1664,
+          "height": 821,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-songwriting-app.md",
+      "title": "Songwriting App",
+      "excerpt": "Hi, I have created a songwriting app! This app is you can songwriting as you like. Please see the video about how to play. This is tweet that",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-songwriting-app/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-songwriting-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Songwriting-App/td-p/434189",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "korune",
+            "type": "profile",
+            "name": "korune"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/373/2/Songwriting.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-12-27T12:00:00-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/373/3/Songwriting.png",
+          "width": 1587,
+          "height": 892,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-canteenapp.md",
+      "title": "CanteenApp",
+      "excerpt": "A simple canvas app that allows users to order food at their office canteen on their mobile devices. It has substantial business value as this is",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-canteenapp/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-canteenapp/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/CanteenApp/td-p/606412",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "lugi",
+            "type": "profile",
+            "name": "lugi"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/554/1/CanteenApp.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-06-24T08:54:00-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/155030i8265126F7F2403DB/image-size/large?v=1.0&px=999",
+          "width": 306,
+          "height": 306,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-design-patterns-from-mr-dang-part-1.md",
+      "title": "Design Patterns from Mr. Dang (Part 1)",
+      "excerpt": "Attached is an app that contains samples of common patterns used in my apps. Watch the video above for a walk through of how they function and how",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-design-patterns-from-mr-dang-part-1/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-design-patterns-from-mr-dang-part-1/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Design-Patterns-from-Mr-Dang-Part-1/td-p/175205",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "mr-dang",
+            "type": "profile",
+            "name": "mr-dang"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/29/2/Samples%20(1).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-01T10:02:00-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/29/1/Screenshot%20(106).png",
+          "width": 3000,
+          "height": 2000,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-powerfont.md",
+      "title": "PowerFont",
+      "excerpt": "A PowerApp example of using custom fonts with the help of SVGs More info at: https://www.powernimbus.com/2019/04/using-custom-fonts-in-powerapps/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-powerfont/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-powerfont/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/PowerFont/td-p/272163",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Eickhel",
+            "type": "profile",
+            "name": "Eickhel"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/173/2/PowerFont.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-04-23T17:09:00-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/180102iCD205EC4F2E81A49/image-size/large?v=1.0&px=999",
+          "width": 999,
+          "height": 332,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-the-lazy-template.md",
+      "title": "The Lazy Template",
+      "excerpt": "Here is my template app from the community call on 17/7/2019. The only thing you need to do is to put your app id in the marked space in the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-the-lazy-template/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-the-lazy-template/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/The-Lazy-Template/td-p/323030",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Anonymous",
+            "type": "profile",
+            "name": "Anonymous"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/208/2/LazyTemplate.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-07-17T06:23:00-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/208/1/Template.JPG",
+          "width": 680,
+          "height": 386,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-upload-tag-multiple-file-attachments-with-power-apps.md",
+      "title": "Upload & tag multiple file attachments with Power Apps",
+      "excerpt": "In this Microsoft PowerApps video, we will upload multiple files, tag and validate each file independently and upload to SharePoint list. This",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-upload-tag-multiple-file-attachments-with-power-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-upload-tag-multiple-file-attachments-with-power-apps/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Upload-amp-tag-multiple-file-attachments-with-Power-Apps/td-p/650284",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "RezaDorrani",
+            "type": "profile",
+            "name": "RezaDorrani"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/596/1/Tag%20Multiple%20Files.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-08-06T02:57:00-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com/t5/image/serverpage/image-id/167626iB23371B6C2BCBA44/image-size/large?v=1.0&px=999",
+          "width": 999,
+          "height": 562,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-add-a-notification-dot-to-powerapps-controls.md",
+      "title": "Add a Notification Dot to PowerApps Controls",
+      "excerpt": "Hello everyone! In this tutorial app, I walk you through the process of adding a notification dot to a button. This process can be used to get a",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-add-a-notification-dot-to-powerapps-controls/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-add-a-notification-dot-to-powerapps-controls/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Add-a-Notification-Dot-to-PowerApps-Controls/td-p/442857",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "EricLott",
+            "type": "profile",
+            "name": "EricLott"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/391/3/PowerApps_NotificationDots.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2020-01-11T16:47:00-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/391/2/PowerApps_1.png",
+          "width": 300,
+          "height": 180,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-animated-drop-shadow.md",
+      "title": "Animated Drop Shadow",
+      "excerpt": "Hi, I was inspired by @mr-dang 's use of SVG+XML to create images and have created this pulsating drop shadow example, which shows how vector graphic",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-animated-drop-shadow/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-animated-drop-shadow/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Animated-Drop-Shadow/td-p/208121",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "iAm_ManCat",
+            "type": "profile",
+            "name": "iAm_ManCat"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/81/2/Animated%20Drop%20Shadow.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-21T23:12:00-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/81/1/App%20Icon.png",
+          "width": 1434,
+          "height": 957,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-barcode-battler.md",
+      "title": "Barcode Battler",
+      "excerpt": "Last Update 2018/11/7 (JST) ”COM Battle Mode Added” This Apps is Generate Player Using Barcode, and play combat game. It seems that importing into",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-barcode-battler/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-barcode-battler/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Barcode-Battler/td-p/175776",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "R_t_A_n_M",
+            "type": "profile",
+            "name": "R_t_A_n_M"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/36/3/Barcode%20Battler.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-03T01:48:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/36/1/BarcodeBattler_Opening.png",
+          "width": 1745,
+          "height": 929,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-icebreakers.md",
+      "title": "Icebreakers",
+      "excerpt": "The &amp;quot;Handshake problem&amp;quot; is a classic math problem: &amp;quot;How many handshakes would take place if everyone in a room were to shake hands",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-icebreakers/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-icebreakers/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Icebreakers/td-p/189925",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mr-Dang-MSFT",
+            "type": "profile",
+            "name": "Mr-Dang-MSFT"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/61/2/Icebreakers%20(91).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-12-09T04:45:00-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/61/1/Screenshot%20(7).png",
+          "width": 4500,
+          "height": 3000,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-international-womens-day.md",
+      "title": "International Women's Day",
+      "excerpt": "How does a # PowerAddict celebrate the International Women's Day? Uses PowerApps to create an app that fetches new articles about #",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-international-womens-day/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-international-womens-day/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/International-Women-s-Day/td-p/248860",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ThatAPIGuy",
+            "type": "profile",
+            "name": "ThatAPIGuy"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/133/2/N9f9dbbf0-7bcb-4a7d-bfc8-3e0a51243e03-document.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-03-10T03:40:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/133/1/Womens_Day_PowerApps_First_Frame.png",
+          "width": 852,
+          "height": 480,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-microsoft-business-applications-summit-mbas-2019-sessions-app.md",
+      "title": "Microsoft Business Applications Summit (MBAS) 2019 Sessions App",
+      "excerpt": "Use this app to share all the sessions at Microsoft Business Applications Summit (MBAS) 2019 related to PowerApps, Microsoft Flow, CDS &amp; AI Builder.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-microsoft-business-applications-summit-mbas-2019-sessions-app/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-microsoft-business-applications-summit-mbas-2019-sessions-app/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Microsoft-Business-Applications-Summit-MBAS-2019-Sessions-App/td-p/319894",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "pratapladhani",
+            "type": "profile",
+            "name": "pratapladhani"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/206/3/MBAS-2019-PowerApps-and-Flow-Sessions.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-07-11T09:39:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/206/1/MBAS-App-Screenshot.png",
+          "width": 1920,
+          "height": 951,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-motion-patterns-with-parametric-equations.md",
+      "title": "Motion Patterns with Parametric Equations",
+      "excerpt": "This application shows the implementation of motion patterns such as Lissajous, Rose, Spiral, and Hypothrochoid curves following parametric",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-motion-patterns-with-parametric-equations/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-motion-patterns-with-parametric-equations/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Motion-Patterns-with-Parametric-Equations/td-p/206073",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SanAndresMan1",
+            "type": "profile",
+            "name": "SanAndresMan1"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/79/2/Parametric%20Motion.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-01-16T23:30:00-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/79/1/parametric02.png",
+          "width": 1656,
+          "height": 929,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-numeric-keypad.md",
+      "title": "Numeric Keypad",
+      "excerpt": "Numeric Keypad integration allows user to enter numeric input into multiple input fields. Mr. Dang was a tremendous help in working out the bugs and",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-numeric-keypad/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-numeric-keypad/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Numeric-Keypad/td-p/175267",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "KickingApps",
+            "type": "profile",
+            "name": "KickingApps"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/30/3/PhoneTemplate_NumKey%20(2).msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-01T13:28:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/30/1/Keypad.JPG",
+          "width": 435,
+          "height": 318,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-piano-with-recording-playback-function.md",
+      "title": "Piano with Recording & Playback function",
+      "excerpt": "This is the Piano app. It consists of only a few audio controls, rectangles and timer control. In order to reduce the sound source data size due to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-piano-with-recording-playback-function/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-piano-with-recording-playback-function/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Piano-with-Recording-amp-Playback-function/td-p/183219",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "j-kodama",
+            "type": "profile",
+            "name": "j-kodama"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/45/4/piano.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-21T23:36:00-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/45/3/piano.png",
+          "width": 2062,
+          "height": 1319,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-sample-buttons-and-animations-for-navigation.md",
+      "title": "Sample Buttons and Animations for Navigation",
+      "excerpt": "Here is a simple app demostration buttons and icons for navigation controls within your PowerApps. It covers basic buttons and how to round corners",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-sample-buttons-and-animations-for-navigation/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-sample-buttons-and-animations-for-navigation/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Sample-Buttons-and-Animations-for-Navigation/td-p/298357",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Anonymous",
+            "type": "profile",
+            "name": "Anonymous"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/192/2/NavigationExamples.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2019-06-10T06:10:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/192/1/NavExamples.png",
+          "width": 1920,
+          "height": 1150,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_samples/power-apps-community-throwing-a-ball.md",
+      "title": "Throwing a Ball",
+      "excerpt": "This app simulates the motion of throwing a ball based on concrete physics. Time development of ball is basically given by the motion of projectile",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/samples/power-apps-community-throwing-a-ball/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/sample/power-apps-community-throwing-a-ball/",
+      "originalUrl": "https://powerusers.microsoft.com/t5/Community-App-Samples/Throwing-a-Ball/td-p/180730",
+      "provider": {
+        "name": "Power Apps Community",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "h-nagao",
+            "type": "profile",
+            "name": "h-nagao"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "url": "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/39/1/ShootingBall.msapp",
+          "type": "download",
+          "title": "Download Source Code",
+          "attribution": "Power Apps Community"
+        }
+      ],
+      "publishedDateTime": "2018-11-15T16:24:00-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://powerusers.microsoft.com//jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/39/2/screenshot.png",
+          "width": 1527,
+          "height": 857,
+          "isCached": true
+        }
+      ],
+      "type": "download",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ],
+  "nextPage": 3
+}

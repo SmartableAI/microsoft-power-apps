@@ -4,7 +4,7 @@ excerpt: "This app tracks body weight exercises and shows you your progress. The
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Exercise-Tracker-App/td-p/649156
 type: download
 publishedDateTime: 2020-08-05T12:47:00Z
-heat: 52
+heat: 112
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/591/1/Exercise%20Tracker_offline.msapp"
