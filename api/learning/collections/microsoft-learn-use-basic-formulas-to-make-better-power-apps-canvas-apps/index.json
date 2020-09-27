@@ -1,0 +1,133 @@
+{
+  "title": "Use basic formulas to make better Power Apps canvas apps",
+  "path": "_learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps.md",
+      "title": "Author a basic formula to change properties in a Power Apps canvas app",
+      "excerpt": "Want to enhance your Power Apps canvas app? You can use basic formulas to make changes to control properties.  This will include changing the format, position, simple calculations, and implementing conditional formatting.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/author-basic-formula-change-properties-powerapps/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 1048,
+        "average": 4.6173663
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": -87,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps.md",
+      "title": "Author a basic formula to change behaviors in a Power Apps canvas app",
+      "excerpt": "Learn how to author a basic formula to change behaviors in a Power Apps canvas app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/author-basic-formula-change-behaviors-powerapps/",
+      "length": "PT51M",
+      "ratings": {
+        "count": 688,
+        "average": 4.59593
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": -11,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/change-behaviors-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps.md",
+      "title": "Author a basic formula that uses tables and records in a Power Apps canvas app",
+      "excerpt": "Learn how to author a basic formula that uses tables and records in a Power Apps canvas app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/author-basic-formula-tables-records-powerapps/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 627,
+        "average": 4.5773525
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": -3,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/tables-and-records-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    }
+  ]
+}

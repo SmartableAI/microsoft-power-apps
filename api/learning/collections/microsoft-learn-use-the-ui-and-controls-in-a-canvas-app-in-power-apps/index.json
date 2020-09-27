@@ -1,0 +1,133 @@
+{
+  "title": "Use the UI and controls in a canvas app in Power Apps",
+  "path": "_learning/collections/microsoft-learn-use-the-ui-and-controls-in-a-canvas-app-in-power-apps.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-navigation-canvas-app.md",
+      "title": "Navigation in a canvas app in Power Apps",
+      "excerpt": "App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-navigation-canvas-app/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/navigation-canvas-app/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 805,
+        "average": 4.695652
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": -39,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/navigation-canvas-app-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-how-to-build-ui-canvas-app.md",
+      "title": "How to build the UI in a canvas app in Power Apps",
+      "excerpt": "Do you want to build a better UI for app users? This module helps you do that using themes, icons, images, personalization, different form factors, and controls.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-how-to-build-ui-canvas-app/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/how-to-build-ui-canvas-app/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 711,
+        "average": 4.684951
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": -20,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/how-to-build-ui-canvas-app-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-controls-canvas-apps.md",
+      "title": "Use and understand Controls in a canvas app in Power Apps",
+      "excerpt": "Controls help create a better experience for the user and collect the appropriate data. This module will help you understand and use Controls.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-controls-canvas-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/controls-canvas-apps/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 684,
+        "average": 4.6681285
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": -15,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/controls-canvas-apps-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    }
+  ]
+}

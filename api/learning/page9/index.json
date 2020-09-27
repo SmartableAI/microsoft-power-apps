@@ -4,47 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-introduction-power-platform-extensibility-model.md",
-      "title": "Introduction to extending the Microsoft Power Platform",
-      "excerpt": "This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of the Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-introduction-power-platform-extensibility-model/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform-extensibility-model/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 726,
-        "average": 4.633609
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": -23,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-extensibility-model-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-manage-environments.md",
       "title": "Create and manage environments in Common Data Service",
       "excerpt": "An environment is a space to store, manage, and share your organization's business data that is stored within an instance of a Common Data Service database.  You can set up one or many environments, depending on the needs of your organization. This module explores these environments and how you can use them with instances of Common Data Service databases.",
@@ -52,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-environments/",
       "length": "PT42M",
       "ratings": {
-        "count": 848,
-        "average": 4.5849056
+        "count": 852,
+        "average": 4.580986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -94,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 2200,
-        "average": 4.505909
+        "count": 2257,
+        "average": 4.511298
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -128,8 +87,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/navigation-canvas-app/",
       "length": "PT33M",
       "ratings": {
-        "count": 804,
-        "average": 4.6952734
+        "count": 805,
+        "average": 4.695652
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,6 +114,40 @@
           "isCached": true
         }
       ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-external-data.md",
+      "title": "Work with external data in a Power Apps canvas app",
+      "excerpt": "Do you need to connect an app to access data? Then this module is for you. It focuses on connecting your app to a data source.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-work-with-external-data/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/work-with-external-data/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 912,
+        "average": 4.5526314
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": -56,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -212,8 +205,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/author-basic-formula-change-properties-powerapps/",
       "length": "PT42M",
       "ratings": {
-        "count": 1047,
-        "average": 4.617001
+        "count": 1048,
+        "average": 4.6173663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -270,11 +263,34 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service.md",
           "title": "Introduction to model-driven apps and Common Data Service",
           "excerpt": "Do you want to quickly build apps with little to no code? This module will focus on the building blocks of Common Data Service and model-driven apps. These key components will help you build quick business apps in your organization.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/intro-model-driven-apps-common-data-service/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 1683,
+            "average": 4.583482
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": -89,
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Model-driven apps",
@@ -282,22 +298,68 @@
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-powerapps-common-data-service.md",
           "title": "Get started with Common Data Service",
           "excerpt": "Common Data Service lets you securely store and manage data that's used by business applications. Standard and custom entities within Common Data Service provide a secure and cloud-based storage option for your data.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-common-data-service/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps-common-data-service/",
+          "length": "PT1H1M",
+          "ratings": {
+            "count": 2012,
+            "average": 4.5417495
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": -2147483598,
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-powerapps-design-model-driven-apps.md",
           "title": "Get started with model-driven apps in Power Apps",
           "excerpt": "Model-driven app design is an approach that focuses on quickly adding components to your apps. These components include dashboards, forms, views, and charts. With no code, or very little, you can make apps that are simple or very complex. Unlike in canvas app development, where the designer has total control over the app layout, much of the layout in model-driven apps is determined by the components you add. In other words, the emphasis is more on quickly viewing your business data and making decisions than on intricate app design.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-design-model-driven-apps/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
+          "length": "PT1H14M",
+          "ratings": {
+            "count": 2257,
+            "average": 4.511298
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": -34,
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Model-driven apps"
@@ -320,8 +382,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-model-driven-apps-common-data-service/",
       "length": "PT37M",
       "ratings": {
-        "count": 1661,
-        "average": 4.5815773
+        "count": 1683,
+        "average": 4.583482
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -355,8 +417,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-developing-power-platform/",
       "length": "PT37M",
       "ratings": {
-        "count": 1122,
-        "average": 4.6595364
+        "count": 1124,
+        "average": 4.6601424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -396,8 +458,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-app-solution/",
       "length": "PT21M",
       "ratings": {
-        "count": 3629,
-        "average": 4.701846
+        "count": 3648,
+        "average": 4.702851
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -479,8 +541,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-apps/",
       "length": "PT18M",
       "ratings": {
-        "count": 4260,
-        "average": 4.7276998
+        "count": 4270,
+        "average": 4.728103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -520,8 +582,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 11460,
-        "average": 4.702443
+        "count": 11634,
+        "average": 4.7029395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -561,8 +623,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps-common-data-service/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 1988,
-        "average": 4.5392356
+        "count": 2012,
+        "average": 4.5417495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -595,8 +657,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/",
       "length": "PT38M",
       "ratings": {
-        "count": 6893,
-        "average": 4.6647325
+        "count": 6959,
+        "average": 4.6651816
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -629,8 +691,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 15217,
-        "average": 4.659
+        "count": 15313,
+        "average": 4.659766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -670,8 +732,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/",
       "length": "PT42M",
       "ratings": {
-        "count": 5795,
-        "average": 4.6790338
+        "count": 5868,
+        "average": 4.6799593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -719,9 +781,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-powerapps-get-started.md",
           "title": "Get started with Power Apps",
           "excerpt": "Learn the basics of Power Apps and how you can use it in your organization.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-get-started/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps/",
+          "length": "PT1H3M",
+          "ratings": {
+            "count": 15313,
+            "average": 4.659766
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": -2147483598,
           "images": [
             {
@@ -732,27 +816,74 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-powerapps-customize.md",
           "title": "Customize a canvas app in Power Apps",
           "excerpt": "Learn how to customize an app by adding controls, images, and logic.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-customize/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 6959,
+            "average": 4.6651816
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": -2147483598,
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Canvas apps"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-powerapps-manage.md",
           "title": "Manage apps in Power Apps",
           "excerpt": "Manage app versions, app sharing, and environments in Power Apps.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-manage/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 5868,
+            "average": 4.6799593
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": -2147483598,
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]

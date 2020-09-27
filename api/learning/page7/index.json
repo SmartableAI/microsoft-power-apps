@@ -4,48 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-portals-integration.md",
-      "title": "Integrate Power Apps portals with web-based technologies",
-      "excerpt": "Learn how to integrate Power Apps portals with web-based technologies.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-integration/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/portals-integration/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 16,
-        "average": 4.8125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 49,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-integration-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-portals-access-common-data-service.md",
       "title": "Access Common Data Service in Power Apps portals",
       "excerpt": "The ability to show and interact with Common Data Service data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Common Data Service data in Power Apps portals.",
@@ -129,8 +87,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/portals-architecture/",
       "length": "PT26M",
       "ratings": {
-        "count": 60,
-        "average": 4.633333
+        "count": 61,
+        "average": 4.622951
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -246,8 +204,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals/",
       "length": "PT44M",
       "ratings": {
-        "count": 89,
-        "average": 4.719101
+        "count": 90,
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +312,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/portal-features/",
       "length": "PT30M",
       "ratings": {
-        "count": 68,
-        "average": 4.529412
+        "count": 69,
+        "average": 4.5072465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -388,8 +346,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals-studio/",
       "length": "PT40M",
       "ratings": {
-        "count": 113,
-        "average": 4.6106195
+        "count": 114,
+        "average": 4.5964913
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -479,9 +437,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-create-relationship-between-cds-entities.md",
           "title": "Create a relationship between entities in Common Data Service",
           "excerpt": "Do you need to create relationships between entities? This module will show how and why you can separate data into entities and how to relate between entities to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between entities in Common Data Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-relationship-between-cds-entities/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-relationship-between-cds-entities/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 102,
+            "average": 4.5882354
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 44,
           "images": [
             {
@@ -492,15 +472,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-define-create-business-rules.md",
           "title": "Define and create business rules in Common Data Service",
           "excerpt": "The ability to build business rules that ensure consistent business logic regardless of the app accessing that data set is imperative to a successful business operation. This module will show you how you can build business rules that are triggered anytime they are used within Common Data Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-define-create-business-rules/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/define-create-business-rules/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 100,
+            "average": 4.66
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 44,
           "images": [
             {
@@ -511,15 +514,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-create-define-calculation-rollup-fields.md",
           "title": "Create and define calculation or rollup fields in Common Data Service",
           "excerpt": "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-define-calculation-rollup-fields/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-define-calculation-rollup-fields/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 74,
+            "average": 4.6486487
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 46,
           "images": [
             {
@@ -530,6 +556,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
@@ -577,9 +604,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-get-started-security-roles.md",
           "title": "Get started with security roles in Common Data Service",
           "excerpt": "Do you want to use security roles to limit user permissions? This module will show you how you can set permissions to limit access to an environment or limit which users can view, edit, or delete data in an environment within Common Data Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-get-started-security-roles/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/get-started-security-roles/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 129,
+            "average": 4.581395
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 42,
           "images": [
             {
@@ -590,15 +639,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-use-admin-options-cds.md",
           "title": "Use administration options for Common Data Service",
           "excerpt": "Do you need to use administration options that are available for Common Data Service? This module will show you how you can use solutions within Common Data Service and administer environments.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-use-admin-options-cds/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/use-admin-options-cds/",
+          "length": "PT35M",
+          "ratings": {
+            "count": 110,
+            "average": 4.327273
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 44,
           "images": [
             {
@@ -609,6 +681,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
@@ -907,9 +980,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-web-resources-power-platform.md",
           "title": "Introduction to web resources",
           "excerpt": "This module will focus on educating developers on how to write HTML web resources in support of presenting custom presentation logic within the Microsoft Power Platform user experience.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-web-resources-power-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/web-resources-power-platform/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 214,
+            "average": 4.635514
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 35,
           "images": [
             {
@@ -920,14 +1015,37 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-common-actions-client-script-power-platform.md",
           "title": "Performing common actions with client script",
           "excerpt": "The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during the Microsoft Power Platform implementations.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-common-actions-client-script-power-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/common-actions-client-script-power-platform/",
+          "length": "PT1H27M",
+          "ratings": {
+            "count": 163,
+            "average": 4.6748466
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 39,
           "images": [
             {
@@ -938,14 +1056,37 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform.md",
           "title": "Automate business process flows with client script",
           "excerpt": "This module will focus on educating developers on how to perform common techniques in regard to automating business process flows, along with explaining the context of when these scenarios might be applied.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/automate-business-process-flow-client-script-power-platform/",
+          "length": "PT1H31M",
+          "ratings": {
+            "count": 146,
+            "average": 4.678082
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 41,
           "images": [
             {
@@ -956,6 +1097,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
@@ -1084,9 +1226,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-create-manage-environments.md",
           "title": "Create and manage environments in Common Data Service",
           "excerpt": "An environment is a space to store, manage, and share your organization's business data that is stored within an instance of a Common Data Service database.  You can set up one or many environments, depending on the needs of your organization. This module explores these environments and how you can use them with instances of Common Data Service databases.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-manage-environments/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-environments/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 852,
+            "average": 4.580986
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": -34,
           "images": [
             {
@@ -1097,15 +1261,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-create-manage-entities.md",
           "title": "Create and manage entities in Common Data Service",
           "excerpt": "Common Data Service entities are similar to tables in a database. Every instance of a Common Data Service database includes a base set of entities that provide structure for data that is commonly used by business applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-manage-entities/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-entities/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 708,
+            "average": 4.611582
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": -13,
           "images": [
             {
@@ -1116,15 +1303,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-create-manage-fields-within-entity.md",
           "title": "Create and manage fields within an entity in Common Data Service",
           "excerpt": "Do you want to create new data fields or leverage exiting standardized fields for your business solutions?  This module will show you how to manage or create new fields within an entity in Common Data Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-manage-fields-within-entity/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-fields-within-entity/",
+          "length": "PT1H3M",
+          "ratings": {
+            "count": 333,
+            "average": 4.5555553
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": 29,
           "images": [
             {
@@ -1135,15 +1345,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-working-with-option-sets.md",
           "title": "Working with option sets in Common Data Service",
           "excerpt": "Do you want to create standardized choice lists that you can use across all of your Power Apps?  This module will show you how to create new or use standard choice lists called option sets in Common Data Service.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-working-with-option-sets/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/working-with-option-sets/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 291,
+            "average": 4.6391754
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
           "heat": 32,
           "images": [
             {
@@ -1154,6 +1387,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service"
@@ -1201,9 +1435,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-becoming-solution-architect.md",
           "title": "Becoming a solution architect for Dynamics 365 and Power Platform",
           "excerpt": "Learn how to become a solution architect.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-becoming-solution-architect/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/becoming-solution-architect/",
+          "length": "PT1H43M",
+          "ratings": {
+            "count": 619,
+            "average": 4.704362
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
           "heat": -4,
           "images": [
             {
@@ -1214,36 +1470,106 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
           "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
           "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/discover-customer-needs/",
+          "length": "PT36M",
+          "ratings": {
+            "count": 425,
+            "average": 4.670588
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
           "heat": 17,
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-propose-solution.md",
           "title": "Propose a solution as a Solution Architect for Power Platform and Dynamics 365",
           "excerpt": "Learn how to propose a solution.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-propose-solution/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/propose-solution/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 304,
+            "average": 4.6546054
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
           "heat": 28,
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
           "title": "Work with requirements as a solution architect for Power Platform and Dynamics 365",
           "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/work-with-requirements/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 270,
+            "average": 4.725926
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
           "heat": 30,
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
@@ -1273,8 +1599,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/working-with-option-sets/",
       "length": "PT39M",
       "ratings": {
-        "count": 290,
-        "average": 4.637931
+        "count": 291,
+        "average": 4.6391754
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1315,8 +1641,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/use-custom-connectors-in-powerapps-canvas-app/",
       "length": "PT41M",
       "ratings": {
-        "count": 307,
-        "average": 4.5114007
+        "count": 309,
+        "average": 4.514563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1357,8 +1683,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/load-export-data-create-data-views/",
       "length": "PT40M",
       "ratings": {
-        "count": 312,
-        "average": 4.625
+        "count": 313,
+        "average": 4.6261983
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1432,8 +1758,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-fields-within-entity/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 330,
-        "average": 4.5545454
+        "count": 333,
+        "average": 4.5555553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1464,6 +1790,215 @@
       "topics": [
         "Power Apps",
         "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-master-advanced-techniques-for-power-apps-canvas-apps.md",
+      "title": "Master advanced techniques for Power Apps canvas apps",
+      "excerpt": "Do you want to make sure your app is the best it can be? This learning path will help you use advanced formulas and perform custom updates. It will also focus on performance checks and testing.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-master-advanced-techniques-for-power-apps-canvas-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-master-advanced-techniques-for-power-apps-canvas-apps/",
+      "length": "PT2H35M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-use-imperative-dev-techniques.md",
+          "title": "Use imperative development techniques for canvas apps in Power Apps",
+          "excerpt": "Learn how to use imperative vs. declarative development.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-use-imperative-dev-techniques/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/use-imperative-dev-techniques-powerapps-canvas-app/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 492,
+            "average": 4.72561
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 8,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/use-imperative-dev-techniques-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-author-advanced-formulas.md",
+          "title": "Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps",
+          "excerpt": "Do you have need for a complex formula in your app? This module can help you author that formula.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-advanced-formulas/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/author-advanced-formulas-powerapps/",
+          "length": "PT32M",
+          "ratings": {
+            "count": 416,
+            "average": 4.6322117
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 18,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/author-advanced-formulas-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-perform-custom-updates.md",
+          "title": "Perform custom updates in a Power Apps canvas app",
+          "excerpt": "With some Power Apps canvas apps, a form is not the solution.  This module will focus on how to perform custom updates when your data is not in a form.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-perform-custom-updates/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/perform-custom-updates-powerapps-canvas-app/",
+          "length": "PT38M",
+          "ratings": {
+            "count": 349,
+            "average": 4.710602
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 24,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/perform-custom-updates-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-testing-performance-checks.md",
+          "title": "Complete testing and performance checks in a Power Apps canvas app",
+          "excerpt": "Do you want to test your app and improve it's performance? This module will help you understand how to test an app and improve performance.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-testing-performance-checks/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/testing-performance-checks-powerapps/",
+          "length": "PT39M",
+          "ratings": {
+            "count": 347,
+            "average": 4.726225
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 24,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/testing-performance-checks-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 28,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-imperative-dev-techniques-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
       ]
     }
   ],

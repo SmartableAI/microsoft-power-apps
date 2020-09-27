@@ -1,0 +1,217 @@
+{
+  "title": "Get started using Common Data Service",
+  "path": "_learning/collections/microsoft-learn-get-started-using-common-data-service.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-environments.md",
+      "title": "Create and manage environments in Common Data Service",
+      "excerpt": "An environment is a space to store, manage, and share your organization's business data that is stored within an instance of a Common Data Service database.  You can set up one or many environments, depending on the needs of your organization. This module explores these environments and how you can use them with instances of Common Data Service databases.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-manage-environments/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-environments/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 852,
+        "average": 4.580986
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -34,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-environments-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-entities.md",
+      "title": "Create and manage entities in Common Data Service",
+      "excerpt": "Common Data Service entities are similar to tables in a database. Every instance of a Common Data Service database includes a base set of entities that provide structure for data that is commonly used by business applications.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-manage-entities/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-entities/",
+      "length": "PT44M",
+      "ratings": {
+        "count": 708,
+        "average": 4.611582
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": -13,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-entities-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-create-manage-fields-within-entity.md",
+      "title": "Create and manage fields within an entity in Common Data Service",
+      "excerpt": "Do you want to create new data fields or leverage exiting standardized fields for your business solutions?  This module will show you how to manage or create new fields within an entity in Common Data Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-manage-fields-within-entity/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-fields-within-entity/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 333,
+        "average": 4.5555553
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 29,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-manage-fields-within-entity-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-working-with-option-sets.md",
+      "title": "Working with option sets in Common Data Service",
+      "excerpt": "Do you want to create standardized choice lists that you can use across all of your Power Apps?  This module will show you how to create new or use standard choice lists called option sets in Common Data Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-working-with-option-sets/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/working-with-option-sets/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 291,
+        "average": 4.6391754
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/working-with-option-sets-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-load-export-data-create-data-views.md",
+      "title": "Load/export data and create data views in Common Data Service",
+      "excerpt": "Common Data Service lets you load data into or export entities from other entities by using Microsoft Excel. You can also create views to quickly review data that is stored within an entity.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-load-export-data-create-data-views/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/load-export-data-create-data-views/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 313,
+        "average": 4.6261983
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 31,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/load-export-data-create-data-views-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    }
+  ]
+}

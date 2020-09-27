@@ -1,0 +1,130 @@
+{
+  "title": "Extending the Power Platform user experience Model Driven apps",
+  "path": "_learning/collections/microsoft-learn-extending-the-power-platform-user-experience-model-driven-apps.md",
+  "page": 1,
+  "value": [
+    {
+      "path": "_learning/courses/microsoft-learn-web-resources-power-platform.md",
+      "title": "Introduction to web resources",
+      "excerpt": "This module will focus on educating developers on how to write HTML web resources in support of presenting custom presentation logic within the Microsoft Power Platform user experience.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-web-resources-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/web-resources-power-platform/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 214,
+        "average": 4.635514
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 35,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-common-actions-client-script-power-platform.md",
+      "title": "Performing common actions with client script",
+      "excerpt": "The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during the Microsoft Power Platform implementations.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-common-actions-client-script-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/common-actions-client-script-power-platform/",
+      "length": "PT1H27M",
+      "ratings": {
+        "count": 163,
+        "average": 4.6748466
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 39,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/common-actions-client-script-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform.md",
+      "title": "Automate business process flows with client script",
+      "excerpt": "This module will focus on educating developers on how to perform common techniques in regard to automating business process flows, along with explaining the context of when these scenarios might be applied.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/automate-business-process-flow-client-script-power-platform/",
+      "length": "PT1H31M",
+      "ratings": {
+        "count": 146,
+        "average": 4.678082
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/automate-business-process-flow-client-script-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@ excerpt: "Do you need to connect an app to access data? Then this learning path 
 type: collection
 price: Free
 length: PT2H44M
-heat: -9
+heat: -13
 
 provider:
   name: Microsoft Learn

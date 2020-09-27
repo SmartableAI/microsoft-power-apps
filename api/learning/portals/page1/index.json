@@ -4,6 +4,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-build-user-experience-portals.md",
+      "title": "Build user experience in Power Apps portals",
+      "excerpt": "A portal maker should consider specific details when designing and building portals. Implementing a portal solution requires knowledge of the specific business requirements and needs of the customer. Along with being simplistic and well-designed, a successful portal should provide functionality in consideration of geographical location, language, and accessibility needs. Additionally, portal makers should ensure that portal metadata is backed up to source control and deployed to test and production environments in a consistent and structured way.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-build-user-experience-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/build-user-experience-portals/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 10,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/build-user-experience-portals-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained.md",
       "title": "Power Apps Canvas vs Model Driven vs Portals Explained",
       "excerpt": "#PowerApps #PowerAppsTypes #Beginner Are you new to Power Apps?  Then this video is for you!  After you watch my video on \"How to Get Started with Power Apps\", this video is a good next step in that learning path.   I'll explain what Power Apps is and go over the three different types of Power Apps that",
@@ -17,7 +59,7 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-09-17T07:11:46-07:00",
-      "heat": 81,
+      "heat": 84,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/M_tvnAmHMZY/maxresdefault.jpg",
@@ -57,9 +99,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-portals-administration.md",
           "title": "Power Apps portals administration",
           "excerpt": "This module will focus on the Microsoft Power Apps Portals administration and using the Power Apps admin center. Additional actions and features are available that you can use to enhance portal functionality.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-administration/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/portals-administration/",
+          "length": "PT13M",
+          "ratings": {
+            "count": 21,
+            "average": 4.4761906
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 49,
           "images": [
             {
@@ -70,15 +134,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-portals-integration.md",
           "title": "Integrate Power Apps portals with web-based technologies",
           "excerpt": "Learn how to integrate Power Apps portals with web-based technologies.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-integration/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/portals-integration/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 16,
+            "average": 4.8125
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 49,
           "images": [
             {
@@ -89,15 +176,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-authentication-user-management.md",
           "title": "Authentication and user management in Power Apps portals",
           "excerpt": "Learn how to authenticate with Power Apps portals.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-authentication-user-management/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/authentication-user-management/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 10,
+            "average": 4.7
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 50,
           "images": [
             {
@@ -108,15 +218,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-portals-maintenance-troubleshooting.md",
           "title": "Power Apps portals maintenance and troubleshooting",
           "excerpt": "When building a Microsoft Power Apps portal, administrators should consider various techniques, best practices, and features. This module will cover the various troubleshooting tools that are available and explain the importance of using the Portal Checker tool.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-maintenance-troubleshooting/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/portals-maintenance-troubleshooting/",
+          "length": "PT22M",
+          "ratings": {
+            "count": 9,
+            "average": 4.6666665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 50,
           "images": [
             {
@@ -127,6 +260,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
@@ -174,9 +308,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-explore-portals-studio.md",
           "title": "Explore Power Apps portals Studio",
           "excerpt": "Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, entity lists, and entity forms.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-explore-portals-studio/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals-studio/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 114,
+            "average": 4.5964913
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 45,
           "images": [
             {
@@ -187,15 +343,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-portals-metadata.md",
           "title": "Work with Power Apps portals metadata",
           "excerpt": "Makers are required to understand the various Power Apps portals metadata components so they can configure the portals app for a variety of unique requirements. This module uses the Portal Management app to configure various portals features by editing the portals metadata.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-metadata/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/portals-metadata/",
+          "length": "PT49M",
+          "ratings": {
+            "count": 11,
+            "average": 4.7272725
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 50,
           "images": [
             {
@@ -206,15 +385,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-integrate-common-data-service.md",
           "title": "Integrate Power Apps portals with Common Data Service",
           "excerpt": "The ability to find and interact with Common Data Service data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Common Data Service data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure entity lists, entity forms, and web forms to build powerful web applications.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-integrate-common-data-service/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/integrate-common-data-service/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 9,
+            "average": 4.7777777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 50,
           "images": [
             {
@@ -225,6 +427,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service",
@@ -232,9 +435,31 @@
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-liquid-template-language.md",
           "title": "Work with Liquid template language in Power Apps portals",
           "excerpt": "Liquid is an [open-source template language](http://dotliquidmarkup.org/?azure-portal=true) that is integrated natively into Microsoft Power Apps portals. It acts as a bridge between Common Data Service and the HTML or text output that is sent to the browser. Liquid can be used to add dynamic content to pages and to create a variety of custom templates. Additionally, Liquid provides access only to the data and operations that are explicitly allowed by the portals.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-liquid-template-language/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/liquid-template-language/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 9,
+            "average": 4.888889
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 50,
           "images": [
             {
@@ -245,6 +470,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
@@ -292,9 +518,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-intro-portals.md",
           "title": "Introduction to Power Apps portals",
           "excerpt": "Extend Common Data Service interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Common Data Service data by using portals.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-intro-portals/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/intro-portals/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 128,
+            "average": 4.6015625
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 43,
           "images": [
             {
@@ -305,15 +553,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-explore-portals.md",
           "title": "Explore Power Apps portals",
           "excerpt": "Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-explore-portals/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals/",
+          "length": "PT44M",
+          "ratings": {
+            "count": 90,
+            "average": 4.7
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 46,
           "images": [
             {
@@ -324,26 +595,72 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-portal-features.md",
           "title": "Discover Power Apps portals features",
           "excerpt": "Power Apps portals provide a common set of core features to app makers to build powerful portal applications. Numerous Power Apps features map directly to Microsoft Dynamics 365 apps that are specific to particular business requirements and external audiences. Other Dynamics 365 applications, such as Marketing and Supply Chain Management, also use components of portals or alternate technologies.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portal-features/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/portal-features/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 69,
+            "average": 4.5072465
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 46,
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-portals-architecture.md",
           "title": "Power Apps portals architecture",
           "excerpt": "This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-architecture/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/portals-architecture/",
+          "length": "PT26M",
+          "ratings": {
+            "count": 61,
+            "average": 4.622951
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 47,
           "images": [
             {
@@ -354,6 +671,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
@@ -371,6 +689,48 @@
         }
       ],
       "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-to-power-apps-portals.md",
+      "title": "Introduction to Power Apps portals",
+      "excerpt": "Introduction to Power Apps portals",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-introduction-to-power-apps-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-apps-portals/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 10,
+        "average": 4.9
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -437,48 +797,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/authentication-user-management-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-build-user-experience-portals.md",
-      "title": "Build user experience in Power Apps portals",
-      "excerpt": "A portal maker should consider specific details when designing and building portals. Implementing a portal solution requires knowledge of the specific business requirements and needs of the customer. Along with being simplistic and well-designed, a successful portal should provide functionality in consideration of geographical location, language, and accessibility needs. Additionally, portal makers should ensure that portal metadata is backed up to source control and deployed to test and production environments in a consistent and structured way.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-build-user-experience-portals/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/build-user-experience-portals/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 10,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-user-experience-portals-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -573,48 +891,6 @@
       "topics": [
         "Power Apps",
         "Common Data Service",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-to-power-apps-portals.md",
-      "title": "Introduction to Power Apps portals",
-      "excerpt": "Introduction to Power Apps portals",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-introduction-to-power-apps-portals/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-apps-portals/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 6,
-        "average": 5.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
         "Portals"
       ]
     },
@@ -828,9 +1104,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-portals-access-common-data-service.md",
           "title": "Access Common Data Service in Power Apps portals",
           "excerpt": "The ability to show and interact with Common Data Service data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Common Data Service data in Power Apps portals.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-access-common-data-service/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/portals-access-common-data-service/",
+          "length": "PT50M",
+          "ratings": {
+            "count": 34,
+            "average": 4.382353
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 48,
           "images": [
             {
@@ -841,6 +1139,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Common Data Service",
@@ -848,9 +1147,31 @@
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-extend-power-app-portals.md",
           "title": "Extend Power Apps portals",
           "excerpt": "The world of business software applications has embraced a movement toward building apps that use low-code/no-code methods. This movement is one of the pillars of Microsoft Power Platform, including Power Apps portals. However, many projects often include functionality or features that can only be addressed with advanced software development techniques. This module explains how to extend portal functionality by using software development and how to use application lifecycle management (ALM) techniques to deploy portals.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-extend-power-app-portals/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/extend-power-app-portals/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 27,
+            "average": 4.3703704
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 49,
           "images": [
             {
@@ -861,15 +1182,38 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-portal-custom-web.md",
           "title": "Build custom Power Apps portals web templates",
           "excerpt": "Create custom Microsoft Power Apps portals web templates.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portal-custom-web/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/portal-custom-web/",
+          "length": "PT55M",
+          "ratings": {
+            "count": 37,
+            "average": 4.5135136
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
           "heat": 49,
           "images": [
             {
@@ -880,6 +1224,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps",
             "Portals"
@@ -1122,8 +1467,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/portals-architecture/",
       "length": "PT26M",
       "ratings": {
-        "count": 60,
-        "average": 4.633333
+        "count": 61,
+        "average": 4.622951
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1164,8 +1509,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals/",
       "length": "PT44M",
       "ratings": {
-        "count": 89,
-        "average": 4.719101
+        "count": 90,
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,8 +1551,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/portal-features/",
       "length": "PT30M",
       "ratings": {
-        "count": 68,
-        "average": 4.529412
+        "count": 69,
+        "average": 4.5072465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1240,8 +1585,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals-studio/",
       "length": "PT40M",
       "ratings": {
-        "count": 113,
-        "average": 4.6106195
+        "count": 114,
+        "average": 4.5964913
       },
       "provider": {
         "name": "Microsoft Learn",

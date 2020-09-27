@@ -27,9 +27,31 @@
       ],
       "topItems": [
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-web-resources-power-platform.md",
           "title": "Introduction to web resources",
           "excerpt": "This module will focus on educating developers on how to write HTML web resources in support of presenting custom presentation logic within the Microsoft Power Platform user experience.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-web-resources-power-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/web-resources-power-platform/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 214,
+            "average": 4.635514
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 35,
           "images": [
             {
@@ -40,14 +62,37 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-common-actions-client-script-power-platform.md",
           "title": "Performing common actions with client script",
           "excerpt": "The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during the Microsoft Power Platform implementations.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-common-actions-client-script-power-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/common-actions-client-script-power-platform/",
+          "length": "PT1H27M",
+          "ratings": {
+            "count": 163,
+            "average": 4.6748466
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 39,
           "images": [
             {
@@ -58,14 +103,37 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
         },
         {
-          "path": "",
+          "path": "_learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform.md",
           "title": "Automate business process flows with client script",
           "excerpt": "This module will focus on educating developers on how to perform common techniques in regard to automating business process flows, along with explaining the context of when these scenarios might be applied.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-automate-business-process-flow-client-script-power-platform/index.json",
+          "webUrl": "https://docs.microsoft.com/learn/modules/automate-business-process-flow-client-script-power-platform/",
+          "length": "PT1H31M",
+          "ratings": {
+            "count": 146,
+            "average": 4.678082
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
           "heat": 41,
           "images": [
             {
@@ -76,6 +144,7 @@
             }
           ],
           "type": "course",
+          "price": "Free",
           "topics": [
             "Power Apps"
           ]
@@ -106,8 +175,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 2200,
-        "average": 4.505909
+        "count": 2257,
+        "average": 4.511298
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -140,8 +209,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-model-driven-apps-common-data-service/",
       "length": "PT37M",
       "ratings": {
-        "count": 1661,
-        "average": 4.5815773
+        "count": 1683,
+        "average": 4.583482
       },
       "provider": {
         "name": "Microsoft Learn",
