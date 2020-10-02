@@ -9,12 +9,12 @@ provider:
   name: Facebook
   domain: facebook.com
   images:
-    - url: "https://smartableai.github.io/microsoft-power-bi/assets/images/organizations/facebook.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/facebook.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Power BI
+  - Power Apps
 
 images:
   - url: https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/120292882_10158689386832394_4688406155968038307_n.jpg?_nc_cat=107&_nc_sid=825194&_nc_ohc=o6MXtv6tZYoAX-x5Vjg&_nc_ht=scontent-sea1-1.xx&oh=e8ab5f72caa9784d5317e4c81d4b2162&oe=5F945F86
