@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 69
-  average: 4.5072465
-heat: 46
+  count: 72
+  average: 4.513889
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Portals
 
-secured: "aPmt3ev1MQII1midYOiFBFbObVxRwqvGZeag+OyL4wE7I21fUaRC9BpT2Dr/scJWEcO2bDusbV6MwFr+db7wcE7CYveD1QtJTR19xhVqxax6xRYkyRRDmuTDjpnKCEAnGud8IiekUMkt4FAZ/skrEYX/jEnmA+gDYQkUqkQXR+xBhncnlyyUuujFCTPIV7wCI4Kz/mPMHeku0iklCPUEPZBI3OkacKkY0QDhvIWwldye5EvFt+QcXAz6KhWdvW8gMGKVH+Y+V21FTPRfdAsCrWyfw8A/egQC7vrEfgIufpsmNWEs7vZwQSyeV2ye64LicVPYlps8dF4d66LRx1xPOkfkPkVqQT8cuSwSGOMtHDNjiz+5YnypY9rLvQI/ile9967uS6U3GvBZEL2GXvGKbVCm13R9h9hqEsqY3TTq47s=;tNjKacasGHkyywQT8zB9gA=="
+secured: "mUdDkFxKNqqrtMS+KYquYepA4pwBVcF5hG9vVN0JF59ZccszGoQyB2fwC58uz3TyCbOduTvAmXB9F3BD/6WM3TpO1b3Ocfc3zSihsytUdZqH+t3nfJncXviWShilZWxFSJQ8bn7JFpDd2pOkeT0/TFcJDi9X1/6/YbOzo1jtRRKrGtxMRuX2mkbScWdsF3Jtrkt5lxp8mAG2QRGbijSYHHKI4KZgDPjD8oeRwRjcPo+ctt48hHA06q90yV39p628TvNRd/kFemdUSQLQKbbjSnMv4MnaOLzlz3xyeQsuk/xEAIwMyeK3Nf+Ig5jGcaG6iww9NEzE8lpDGviN6MnK1ja8wH6zh5mi+MFwgq5LK1jdL6aqI6cEMxhIEIy8GZ/g4vrD1P7GzJ4kE36J4y0L3Tq0QJSmPkCNZ8ehqxWrBLc=;bYtkFaRFYS5h3qpMljUAVg=="
 ---
 

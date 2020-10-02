@@ -4,7 +4,7 @@ excerpt: "So, you want to be a Power Platform developer! This learning path is t
 type: collection
 price: Free
 length: PT2H22M
-heat: -23
+heat: 55
 
 provider:
   name: Microsoft Learn

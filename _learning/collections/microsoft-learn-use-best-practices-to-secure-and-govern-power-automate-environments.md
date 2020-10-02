@@ -4,7 +4,7 @@ excerpt: "Is the Power Platform new to your organization? Are you looking to bet
 type: collection
 price: Free
 length: PT4H35M
-heat: 55
+heat: 60
 
 provider:
   name: Microsoft Learn
