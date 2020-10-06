@@ -18,7 +18,7 @@ website: https://t.co/enJuiGEQZc
 twitter:
   username: aprildunnam
   url: https://twitter.com/aprildunnam
-  followers: 5303
+  followers: 5302
 
 linkedin:
   url: https://www.linkedin.com/public-profile/in/april-dunnam
@@ -27,7 +27,7 @@ topics:
   - Power Apps
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1168642203180253185/vnc83eOg_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1313252080405172225/ACsVJFqU_400x400.jpg
     width: 400
     height: 400
     isCached: true
