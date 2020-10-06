@@ -4,6 +4,89 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-get-started-security-roles.md",
+      "title": "Get started with security roles in Common Data Service",
+      "excerpt": "Do you want to use security roles to limit user permissions? This module will show you how you can set permissions to limit access to an environment or limit which users can view, edit, or delete data in an environment within Common Data Service.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-get-started-security-roles/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/get-started-security-roles/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 141,
+        "average": 4.5531917
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-security-roles-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-power-platform.md",
+      "title": "Power Platform - Introduction, business value, and demos",
+      "excerpt": "Explore the capabilities of Power Platform applications, as seen in demonstrations and customer case studies.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-intro-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-to-power-platform-mba/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 3663,
+        "average": 4.7480206
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-shape-data.md",
       "title": "Shape data in a Power Apps canvas app",
       "excerpt": "When you create a canvas app, do you need to show the user all the data? What if you want to show only the data that is relevant to them? This module will help you address this issue.",
@@ -247,35 +330,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N03fzzhjzDE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/april-dunnam-powerapps-reorder-gallery-items.md",
-      "title": "PowerApps Reorder Gallery Items",
-      "excerpt": "#PowerApps #Galleries In this video I walk you through how you can create an inline reordering mechanism for a Power Apps gallery.  I'll show how to dynamically reorder gallery items with up and down arrows to move them around.    You'll learn: ✅  How to add items to a collection ✅  How to delete items",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-powerapps-reorder-gallery-items/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-powerapps-reorder-gallery-items/",
-      "originalUrl": "https://youtube.com/watch?v=vuBuPxOY8uM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vuBuPxOY8uM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M53S",
-      "provider": {
-        "name": "April Dunnam",
-        "domain": "aprildunnam.com"
-      },
-      "publishedDateTime": "2020-08-12T18:50:55-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vuBuPxOY8uM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -906,35 +960,6 @@
           "url": "https://i.ytimg.com/vi/my0PvRaPFkI/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-how-to-use-powerapps-dataflows-to-load-and-reload-a-cds-entity.md",
-      "title": "How to Use PowerApps DataFlows to Load and Reload a CDS Entity",
-      "excerpt": "Learn how to create your first PowerApps DataFlow to load the Common Data Services (CDS) entity.   We love building apps and training companies! http://www.pragmaticworks.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-how-to-use-powerapps-dataflows-to-load-and-reload-a-cds-entity/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-how-to-use-powerapps-dataflows-to-load-and-reload-a-cds-entity/",
-      "originalUrl": "https://youtube.com/watch?v=8d8xVOqlxbU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8d8xVOqlxbU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M42S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-10-16T12:19:32-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8d8xVOqlxbU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],

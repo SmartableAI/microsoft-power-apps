@@ -45,6 +45,35 @@
       ]
     },
     {
+      "path": "_learning/videos/april-dunnam-powerapps-reorder-gallery-items.md",
+      "title": "PowerApps Reorder Gallery Items",
+      "excerpt": "#PowerApps #Galleries In this video I walk you through how you can create an inline reordering mechanism for a Power Apps gallery.  I'll show how to dynamically reorder gallery items with up and down arrows to move them around.    You'll learn: ✅  How to add items to a collection ✅  How to delete items",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-powerapps-reorder-gallery-items/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-powerapps-reorder-gallery-items/",
+      "originalUrl": "https://youtube.com/watch?v=vuBuPxOY8uM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vuBuPxOY8uM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M53S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-08-12T18:50:55-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vuBuPxOY8uM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-authentication-user-management.md",
       "title": "Authentication and user management in Power Apps portals",
       "excerpt": "Learn how to authenticate with Power Apps portals.",
@@ -84,6 +113,40 @@
       "topics": [
         "Power Apps",
         "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-write-data.md",
+      "title": "Write data in a Power Apps canvas app",
+      "excerpt": "Learn how to write data in a Power Apps canvas app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-write-data/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/write-data/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 662,
+        "average": 4.6117826
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
       ]
     },
     {
@@ -1235,64 +1298,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2rfAQe1kK8M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/april-dunnam-how-to-get-started-with-power-apps.md",
-      "title": "How to get started with Power Apps",
-      "excerpt": "#PowerApps #Beginner  The most common question that I'm asked is \"I'm new to Power Apps, how do I get started?\"  Learning any new technology can be overwhelming.  In this video I list the steps you need to take to start learning Power Apps.  If you are brand new to Power Apps then this is the video to",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-how-to-get-started-with-power-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-how-to-get-started-with-power-apps/",
-      "originalUrl": "https://youtube.com/watch?v=-H4ljf4FuTE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-H4ljf4FuTE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M3S",
-      "provider": {
-        "name": "April Dunnam",
-        "domain": "aprildunnam.com"
-      },
-      "publishedDateTime": "2020-06-24T21:03:20-07:00",
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-H4ljf4FuTE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more.md",
-      "title": "PowerApps Combobox - Search, Filter, Default values, and more",
-      "excerpt": "In this video, you will learn about the PowerApps Combobox. There are examples for configuring, searching, filtering, selected vs. selecteditems, default vs defaultitems, datasources, items, and more. Lots of things to learn on this control  For more help check out PowerApps911 https://www.powerapps911.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more/",
-      "originalUrl": "https://youtube.com/watch?v=pjs0ZsnJZXo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pjs0ZsnJZXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M51S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2018-11-11T10:54:30-08:00",
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pjs0ZsnJZXo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

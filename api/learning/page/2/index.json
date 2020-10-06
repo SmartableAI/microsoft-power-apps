@@ -4,6 +4,64 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/april-dunnam-how-to-get-started-with-power-apps.md",
+      "title": "How to get started with Power Apps",
+      "excerpt": "#PowerApps #Beginner  The most common question that I'm asked is \"I'm new to Power Apps, how do I get started?\"  Learning any new technology can be overwhelming.  In this video I list the steps you need to take to start learning Power Apps.  If you are brand new to Power Apps then this is the video to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-how-to-get-started-with-power-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-how-to-get-started-with-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=-H4ljf4FuTE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-H4ljf4FuTE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M3S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-06-24T21:03:20-07:00",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-H4ljf4FuTE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more.md",
+      "title": "PowerApps Combobox - Search, Filter, Default values, and more",
+      "excerpt": "In this video, you will learn about the PowerApps Combobox. There are examples for configuring, searching, filtering, selected vs. selecteditems, default vs defaultitems, datasources, items, and more. Lots of things to learn on this control  For more help check out PowerApps911 https://www.powerapps911.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=pjs0ZsnJZXo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pjs0ZsnJZXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M51S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-11-11T10:54:30-08:00",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pjs0ZsnJZXo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-build-app-solution.md",
       "title": "How to build a canvas app",
       "excerpt": "How to build a canvas app",
@@ -2480,64 +2538,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_learning/videos/april-dunnam-power-app-mutli-screen-form-controls.md",
-      "title": "Power App Mutli Screen Form Controls",
-      "excerpt": "#PowerApps #PowerAppsForms  In this video I show how you can break out a form control over multiple screens. This helps provide a better User Experience by reducing scrolling.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-app-mutli-screen-form-controls/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-app-mutli-screen-form-controls/",
-      "originalUrl": "https://youtube.com/watch?v=N8AsxE__Mw8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N8AsxE__Mw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M33S",
-      "provider": {
-        "name": "April Dunnam",
-        "domain": "aprildunnam.com"
-      },
-      "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N8AsxE__Mw8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/april-dunnam-power-apps-editable-table.md",
-      "title": "Power Apps Editable Table",
-      "excerpt": "#PowerApps #EditableTables #InlineEditing  In this video I'll walk you through all of the steps needed to create a repeating, inline editable table within Power Apps similar to what you would see in SharePoint's Quick Edit Mode, Excel and InfoPath repeating tables.   Here's a breakdown of what's covered:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-apps-editable-table/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-apps-editable-table/",
-      "originalUrl": "https://youtube.com/watch?v=mj4mKS1hS7M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mj4mKS1hS7M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M42S",
-      "provider": {
-        "name": "April Dunnam",
-        "domain": "aprildunnam.com"
-      },
-      "publishedDateTime": "2020-09-02T20:29:13-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mj4mKS1hS7M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

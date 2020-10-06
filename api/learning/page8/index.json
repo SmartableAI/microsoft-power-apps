@@ -4,6 +4,39 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-implementation-recommendations.md",
+      "title": "Implementation recommendations for Power Automate environments",
+      "excerpt": "Do you want prescriptive recommendations for how organizations should choose to implement security and governance? This module will provide recommendations based on popular use cases, including Office 365 and Dynamics 365 configurations. In addition, edge cases such as custom and HTTP connectors are discussed. Tooling will also be discussed, including the DLP Editor Tool, from the Center of Excellence (COE) toolkit, which allows administrators to understand the impact of the DLP change that they are about to make.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-implementation-recommendations/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/implementation-recommendations/",
+      "length": "PT1H14M",
+      "ratings": {
+        "count": 64,
+        "average": 4.65625
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-integrate-common-data-service.md",
       "title": "Integrate Power Apps portals with Common Data Service",
       "excerpt": "The ability to find and interact with Common Data Service data on a website is one of the core benefits of implementing a Power Apps portal. Several methods are available for you to display Common Data Service data. Learning and knowing about these different options will help you have successful portal implementations. This module will focus on the techniques that you can use to configure entity lists, entity forms, and web forms to build powerful web applications.",
@@ -1153,40 +1186,6 @@
       "price": "Free",
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-write-data.md",
-      "title": "Write data in a Power Apps canvas app",
-      "excerpt": "Learn how to write data in a Power Apps canvas app.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-write-data/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/write-data/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 662,
-        "average": 4.6117826
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
       ]
     }
   ],

@@ -4,6 +4,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-write-data.md",
+      "title": "Write data in a Power Apps canvas app",
+      "excerpt": "Learn how to write data in a Power Apps canvas app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-write-data/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/write-data/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 662,
+        "average": 4.6117826
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-create-a-canvas-app-in-power-apps.md",
       "title": "Create a canvas app in Power Apps",
       "excerpt": "Do you want to create apps to help make your business more efficient? Then, this path is for you. It introduces you to Power Apps, helps you create and customize an app, and then manage and distribute it.",
@@ -783,7 +817,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -1617,40 +1651,6 @@
           "isCached": true
         }
       ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-write-data.md",
-      "title": "Write data in a Power Apps canvas app",
-      "excerpt": "Learn how to write data in a Power Apps canvas app.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-write-data/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/write-data/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 662,
-        "average": 4.6117826
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
       "type": "course",
       "price": "Free",
       "topics": [
