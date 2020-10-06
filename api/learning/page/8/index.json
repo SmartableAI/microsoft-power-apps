@@ -4,6 +4,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-how-to-build-ui-canvas-app.md",
+      "title": "How to build the UI in a canvas app in Power Apps",
+      "excerpt": "Do you want to build a better UI for app users? This module helps you do that using themes, icons, images, personalization, different form factors, and controls.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-how-to-build-ui-canvas-app/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/how-to-build-ui-canvas-app/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 717,
+        "average": 4.6820083
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/how-to-build-ui-canvas-app-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-implementation-recommendations.md",
       "title": "Implementation recommendations for Power Automate environments",
       "excerpt": "Do you want prescriptive recommendations for how organizations should choose to implement security and governance? This module will provide recommendations based on popular use cases, including Office 365 and Dynamics 365 configurations. In addition, edge cases such as custom and HTTP connectors are discussed. Tooling will also be discussed, including the DLP Editor Tool, from the Center of Excellence (COE) toolkit, which allows administrators to understand the impact of the DLP change that they are about to make.",
@@ -129,8 +171,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/intro-portals/",
       "length": "PT48M",
       "ratings": {
-        "count": 137,
-        "average": 4.5985403
+        "count": 138,
+        "average": 4.6014495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -288,39 +330,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-manage-environmental-changes.md",
-      "title": "Manage environmental changes in Power Automate",
-      "excerpt": "Learn best practices for communicating changes to Data Loss Prevention (DLP) policies, find out about how people are using Power Automate, discover who in your organization is creating and sharing flows, learn what connections are being used within your Power Automate environments, and observe how connections are established within your Power Automate environments.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-manage-environmental-changes/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/manage-environmental-changes/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 48,
-        "average": 4.6875
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-navigation-canvas-app.md",
       "title": "Navigation in a canvas app in Power Apps",
       "excerpt": "App users can only navigate through the navigation options provided by an app developer, and this module is designed to help you build a good navigation experience for your canvas app.",
@@ -402,6 +411,39 @@
       "topics": [
         "Power Apps",
         "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-plan-manage-environment.md",
+      "title": "Plan and manage your Power Automate environment",
+      "excerpt": "Every organization has unique requirements based on their size, location, data residency requirements, and desire for democratized access to tools like Power Apps and Power Automate. This module discusses considerations that impact how an organization chooses to secure and govern their Power Platform environments.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-plan-manage-environment/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/plan-manage-environment/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 77,
+        "average": 4.5844154
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
       ]
     },
     {
@@ -518,49 +560,6 @@
       "price": "Free",
       "topics": [
         "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-portals-access-common-data-service.md",
-      "title": "Access Common Data Service in Power Apps portals",
-      "excerpt": "The ability to show and interact with Common Data Service data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Common Data Service data in Power Apps portals.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-access-common-data-service/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/portals-access-common-data-service/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 37,
-        "average": 4.4054055
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-access-common-data-service-social.png",
-          "width": 642,
-          "height": 325,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service",
         "Portals"
       ]
     },
@@ -1130,8 +1129,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
-        "count": 276,
-        "average": 4.728261
+        "count": 277,
+        "average": 4.729242
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1163,8 +1162,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/write-data/",
       "length": "PT48M",
       "ratings": {
-        "count": 662,
-        "average": 4.6117826
+        "count": 663,
+        "average": 4.61086
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,6 +4,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/april-dunnam-power-app-mutli-screen-form-controls.md",
+      "title": "Power App Mutli Screen Form Controls",
+      "excerpt": "#PowerApps #PowerAppsForms  In this video I show how you can break out a form control over multiple screens. This helps provide a better User Experience by reducing scrolling.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-app-mutli-screen-form-controls/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-app-mutli-screen-form-controls/",
+      "originalUrl": "https://youtube.com/watch?v=N8AsxE__Mw8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N8AsxE__Mw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M33S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N8AsxE__Mw8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/april-dunnam-power-apps-editable-table.md",
       "title": "Power Apps Editable Table",
       "excerpt": "#PowerApps #EditableTables #InlineEditing  In this video I'll walk you through all of the steps needed to create a repeating, inline editable table within Power Apps similar to what you would see in SharePoint's Quick Edit Mode, Excel and InfoPath repeating tables.   Here's a breakdown of what's covered:",
@@ -838,35 +867,6 @@
           "url": "https://i.ytimg.com/vi/SaDEVOgOlYY/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-powerapps-canvas-vs-model-driven-applications.md",
-      "title": "PowerApps Canvas vs Model-Driven Applications",
-      "excerpt": "PowerApps a Day #26 - In this video, you'll learn the differences between Canvas and Model Driven Applications in PowerApps.   For more PowerApps training, visit http://www.pragmaticworkstraining.com  Or we're passionate about building apps for you: http://www.powerplatformpros.com  - - - - - - - - -",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-powerapps-canvas-vs-model-driven-applications/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-powerapps-canvas-vs-model-driven-applications/",
-      "originalUrl": "https://youtube.com/watch?v=fhIlC1mSO_4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fhIlC1mSO_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M51S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-05-03T12:29:04-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fhIlC1mSO_4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],

@@ -4,15 +4,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service.md",
-      "title": "Introduction to model-driven apps and Common Data Service",
-      "excerpt": "Do you want to quickly build apps with little to no code? This module will focus on the building blocks of Common Data Service and model-driven apps. These key components will help you build quick business apps in your organization.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-model-driven-apps-common-data-service/",
-      "length": "PT37M",
+      "path": "_learning/courses/microsoft-learn-portals-access-common-data-service.md",
+      "title": "Access Common Data Service in Power Apps portals",
+      "excerpt": "The ability to show and interact with Common Data Service data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Common Data Service data in Power Apps portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-access-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/portals-access-common-data-service/",
+      "length": "PT50M",
       "ratings": {
-        "count": 1859,
-        "average": 4.598171
+        "count": 37,
+        "average": 4.4054055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,15 +27,23 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 148,
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-access-common-data-service-social.png",
+          "width": 642,
+          "height": 325,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
         "Power Apps",
-        "Model-driven apps",
-        "Common Data Service"
+        "Common Data Service",
+        "Portals"
       ]
     },
     {
@@ -46,8 +54,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps-common-data-service/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2183,
-        "average": 4.5570316
+        "count": 2195,
+        "average": 4.5589976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -69,6 +77,41 @@
       "price": "Free",
       "topics": [
         "Power Apps",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service.md",
+      "title": "Introduction to model-driven apps and Common Data Service",
+      "excerpt": "Do you want to quickly build apps with little to no code? This module will focus on the building blocks of Common Data Service and model-driven apps. These key components will help you build quick business apps in your organization.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-model-driven-apps-common-data-service/",
+      "length": "PT37M",
+      "ratings": {
+        "count": 1876,
+        "average": 4.59968
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 68,
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Model-driven apps",
         "Common Data Service"
       ]
     },
@@ -103,8 +146,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-environments/",
           "length": "PT42M",
           "ratings": {
-            "count": 888,
-            "average": 4.5900903
+            "count": 889,
+            "average": 4.5905514
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -145,8 +188,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-entities/",
           "length": "PT44M",
           "ratings": {
-            "count": 737,
-            "average": 4.621438
+            "count": 738,
+            "average": 4.621951
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -187,8 +230,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-fields-within-entity/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 355,
-            "average": 4.5661974
+            "count": 358,
+            "average": 4.5698323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -381,8 +424,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-environments/",
       "length": "PT42M",
       "ratings": {
-        "count": 888,
-        "average": 4.5900903
+        "count": 889,
+        "average": 4.5905514
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -423,8 +466,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/load-export-data-create-data-views/",
       "length": "PT40M",
       "ratings": {
-        "count": 341,
-        "average": 4.6422286
+        "count": 344,
+        "average": 4.6424417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -465,8 +508,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-entities/",
       "length": "PT44M",
       "ratings": {
-        "count": 737,
-        "average": 4.621438
+        "count": 738,
+        "average": 4.621951
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -507,8 +550,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-fields-within-entity/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 355,
-        "average": 4.5661974
+        "count": 358,
+        "average": 4.5698323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -644,8 +687,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-security-roles/",
           "length": "PT48M",
           "ratings": {
-            "count": 141,
-            "average": 4.5531917
+            "count": 143,
+            "average": 4.5524473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -746,8 +789,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-security-roles/",
       "length": "PT48M",
       "ratings": {
-        "count": 141,
-        "average": 4.5531917
+        "count": 143,
+        "average": 4.5524473
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -937,8 +980,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-define-calculation-rollup-fields/",
           "length": "PT42M",
           "ratings": {
-            "count": 75,
-            "average": 4.64
+            "count": 76,
+            "average": 4.644737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1121,8 +1164,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/create-define-calculation-rollup-fields/",
       "length": "PT42M",
       "ratings": {
-        "count": 75,
-        "average": 4.64
+        "count": 76,
+        "average": 4.644737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1322,49 +1365,6 @@
       "topics": [
         "Power Apps",
         "Common Data Service"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-portals-access-common-data-service.md",
-      "title": "Access Common Data Service in Power Apps portals",
-      "excerpt": "The ability to show and interact with Common Data Service data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Common Data Service data in Power Apps portals.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-access-common-data-service/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/portals-access-common-data-service/",
-      "length": "PT50M",
-      "ratings": {
-        "count": 37,
-        "average": 4.4054055
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-access-common-data-service-social.png",
-          "width": 642,
-          "height": 325,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Common Data Service",
-        "Portals"
       ]
     }
   ],

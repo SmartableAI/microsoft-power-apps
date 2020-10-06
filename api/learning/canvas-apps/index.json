@@ -4,40 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-shape-data.md",
-      "title": "Shape data in a Power Apps canvas app",
-      "excerpt": "When you create a canvas app, do you need to show the user all the data? What if you want to show only the data that is relevant to them? This module will help you address this issue.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-shape-data/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/shape-data/",
-      "length": "PT58M",
-      "ratings": {
-        "count": 691,
-        "average": 4.59479
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 131,
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-create-a-canvas-app-in-power-apps.md",
       "title": "Create a canvas app in Power Apps",
       "excerpt": "Do you want to create apps to help make your business more efficient? Then, this path is for you. It introduces you to Power Apps, helps you create and customize an app, and then manage and distribute it.",
@@ -68,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 16175,
-            "average": 4.666028
+            "count": 16254,
+            "average": 4.666974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -109,8 +75,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/",
           "length": "PT38M",
           "ratings": {
-            "count": 7542,
-            "average": 4.6731634
+            "count": 7593,
+            "average": 4.6741734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -143,8 +109,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/",
           "length": "PT42M",
           "ratings": {
-            "count": 6577,
-            "average": 4.688764
+            "count": 6655,
+            "average": 4.689707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -194,8 +160,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/",
       "length": "PT38M",
       "ratings": {
-        "count": 7542,
-        "average": 4.6731634
+        "count": 7593,
+        "average": 4.6741734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +194,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-app-solution/",
       "length": "PT21M",
       "ratings": {
-        "count": 3804,
-        "average": 4.705047
+        "count": 3810,
+        "average": 4.705512
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -564,8 +530,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/author-basic-formula-change-properties-powerapps/",
           "length": "PT42M",
           "ratings": {
-            "count": 1065,
-            "average": 4.6169014
+            "count": 1066,
+            "average": 4.617261
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -783,7 +749,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -799,8 +765,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/write-data/",
           "length": "PT48M",
           "ratings": {
-            "count": 662,
-            "average": 4.6117826
+            "count": 663,
+            "average": 4.61086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -843,8 +809,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/author-basic-formula-change-properties-powerapps/",
       "length": "PT42M",
       "ratings": {
-        "count": 1065,
-        "average": 4.6169014
+        "count": 1066,
+        "average": 4.617261
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -927,8 +893,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/controls-canvas-apps/",
       "length": "PT44M",
       "ratings": {
-        "count": 692,
-        "average": 4.66763
+        "count": 693,
+        "average": 4.66811
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -954,6 +920,40 @@
           "isCached": true
         }
       ],
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-shape-data.md",
+      "title": "Shape data in a Power Apps canvas app",
+      "excerpt": "When you create a canvas app, do you need to show the user all the data? What if you want to show only the data that is relevant to them? This module will help you address this issue.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-shape-data/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/shape-data/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 691,
+        "average": 4.59479
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1110,8 +1110,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/controls-canvas-apps/",
           "length": "PT44M",
           "ratings": {
-            "count": 692,
-            "average": 4.66763
+            "count": 693,
+            "average": 4.66811
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1632,8 +1632,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/write-data/",
       "length": "PT48M",
       "ratings": {
-        "count": 662,
-        "average": 4.6117826
+        "count": 663,
+        "average": 4.61086
       },
       "provider": {
         "name": "Microsoft Learn",

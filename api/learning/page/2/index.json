@@ -4,6 +4,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/april-dunnam-how-to-get-started-with-power-apps.md",
+      "title": "How to get started with Power Apps",
+      "excerpt": "#PowerApps #Beginner  The most common question that I'm asked is \"I'm new to Power Apps, how do I get started?\"  Learning any new technology can be overwhelming.  In this video I list the steps you need to take to start learning Power Apps.  If you are brand new to Power Apps then this is the video to",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-how-to-get-started-with-power-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-how-to-get-started-with-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=-H4ljf4FuTE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-H4ljf4FuTE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M3S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-06-24T21:03:20-07:00",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-H4ljf4FuTE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more.md",
       "title": "PowerApps Combobox - Search, Filter, Default values, and more",
       "excerpt": "In this video, you will learn about the PowerApps Combobox. There are examples for configuring, searching, filtering, selected vs. selecteditems, default vs defaultitems, datasources, items, and more. Lots of things to learn on this control  For more help check out PowerApps911 https://www.powerapps911.com",
@@ -40,8 +69,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/build-app-solution/",
       "length": "PT21M",
       "ratings": {
-        "count": 3804,
-        "average": 4.705047
+        "count": 3810,
+        "average": 4.705512
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -451,8 +480,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-environments/",
           "length": "PT42M",
           "ratings": {
-            "count": 888,
-            "average": 4.5900903
+            "count": 889,
+            "average": 4.5905514
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -493,8 +522,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-entities/",
           "length": "PT44M",
           "ratings": {
-            "count": 737,
-            "average": 4.621438
+            "count": 738,
+            "average": 4.621951
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -535,8 +564,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/create-manage-fields-within-entity/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 355,
-            "average": 4.5661974
+            "count": 358,
+            "average": 4.5698323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -820,8 +849,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-apps-portals/",
       "length": "PT25M",
       "ratings": {
-        "count": 92,
-        "average": 4.6847825
+        "count": 97,
+        "average": 4.659794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1183,8 +1212,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/becoming-solution-architect/",
           "length": "PT1H43M",
           "ratings": {
-            "count": 630,
-            "average": 4.7079363
+            "count": 631,
+            "average": 4.7083993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1290,8 +1319,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 276,
-            "average": 4.728261
+            "count": 277,
+            "average": 4.729242
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1363,8 +1392,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-portals/",
           "length": "PT48M",
           "ratings": {
-            "count": 137,
-            "average": 4.5985403
+            "count": 138,
+            "average": 4.6014495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2032,7 +2061,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -2098,7 +2127,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "type": "course",
           "price": "Free",
           "topics": [
@@ -2332,8 +2361,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/how-build-model-driven-app/",
       "length": "PT24M",
       "ratings": {
-        "count": 105,
-        "average": 4.571429
+        "count": 112,
+        "average": 4.589286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2509,35 +2538,6 @@
       "topics": [
         "Power Apps",
         "Teams integration"
-      ]
-    },
-    {
-      "path": "_learning/videos/april-dunnam-power-app-mutli-screen-form-controls.md",
-      "title": "Power App Mutli Screen Form Controls",
-      "excerpt": "#PowerApps #PowerAppsForms  In this video I show how you can break out a form control over multiple screens. This helps provide a better User Experience by reducing scrolling.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-app-mutli-screen-form-controls/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-app-mutli-screen-form-controls/",
-      "originalUrl": "https://youtube.com/watch?v=N8AsxE__Mw8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N8AsxE__Mw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M33S",
-      "provider": {
-        "name": "April Dunnam",
-        "domain": "aprildunnam.com"
-      },
-      "publishedDateTime": "2020-05-18T07:39:58-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N8AsxE__Mw8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
       ]
     }
   ],
