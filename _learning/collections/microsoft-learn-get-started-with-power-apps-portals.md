@@ -4,7 +4,7 @@ excerpt: "Get started creating Power Apps portals."
 type: collection
 price: Free
 length: PT3H8M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn

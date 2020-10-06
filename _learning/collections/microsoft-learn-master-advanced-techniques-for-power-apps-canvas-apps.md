@@ -4,7 +4,7 @@ excerpt: "Do you want to make sure your app is the best it can be? This learning
 type: collection
 price: Free
 length: PT2H35M
-heat: 63
+heat: 60
 
 provider:
   name: Microsoft Learn

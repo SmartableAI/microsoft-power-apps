@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 427
-  average: 4.672131
-heat: 113
+  count: 428
+  average: 4.6728973
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power Apps
 
-secured: "irOELvGZKkofyO2AUgk1Gmd7Bj6zwIyGmCmf0vpxjn7DAMrGT1X//mXPEMe7ZwUCE0YNQTpzUF9jQnz+xl+vCbe7RPXr7ZJ/eshgltmNJm/pePUQyrUZ6knptSOgoyL1ShhoVE8efsCTVg8v3N2VGoMPtbfQx1ApeiyXpOPl0pkRF39yyZ+qtfPFxGlJwy5XRIrrA9d7qs4iB9/KNa1Hsq2XQ1za31I5nR0obiUGLJ+XB4mQvrsI9s/2nse4F2uDa0PdiEg4TWv28TmUc7HisBz7SQw4GDM6RUauTto9Di8u/bUcVoCAbXt2teQTKDDcbrjY67E7viSTRxQFxQz9ceW1mx6o3BZhkn6M3GTpBbSUrbttwPccvCZY1rAHAvCrjws/yyqQfTQAzZzEVrinU1OW1Qhk5C+ZfetUDmL2YpM=;xopqIHeKOpRVQg0EhIpDdQ=="
+secured: "0pH8mmZvzG8faQb+plqX8oihxl6jSjYYXroaUuwvWosfr5Z2CHz/mCt0kfMGHHOl7IaaVo8+theexq18pQ039XGrjx6tP3QW2H2qqrhLTTzy8caxo0gdDpvXoiR7lK0+drtjT7sLGF9naA1n9horOjBnODI5yWx2exSnzHZlhSKFiHKADqzYDlHYwqeIm7m8zGz9vWKmJ4tWGjfrtHSmMf81yLXy4FYIimnller2FBCb0b1J5wUSbLhHPlIz+eMXhdEJXQFUIDZH0qt4baA9lmVYg8LWMiZvGF1mDG7wU8WLjtnas0WqI0ETNPEL+Cz3Zf7uWfwHRxMvrXm+cWXaE18gHUtoASddCIOdVc9Fwr9pFU/TVO/mnrjDO9cehrfs7kyFBCOKF0iPxVzaieu/xF3lIWHkmn1cRxbHd+rS5LU=;hjnE205Th79XdmIgSOTUNA=="
 ---
 

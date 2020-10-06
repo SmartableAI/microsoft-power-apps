@@ -8,7 +8,7 @@ length: PT30M
 ratings:
   count: 72
   average: 4.513889
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Portals
 
-secured: "mUdDkFxKNqqrtMS+KYquYepA4pwBVcF5hG9vVN0JF59ZccszGoQyB2fwC58uz3TyCbOduTvAmXB9F3BD/6WM3TpO1b3Ocfc3zSihsytUdZqH+t3nfJncXviWShilZWxFSJQ8bn7JFpDd2pOkeT0/TFcJDi9X1/6/YbOzo1jtRRKrGtxMRuX2mkbScWdsF3Jtrkt5lxp8mAG2QRGbijSYHHKI4KZgDPjD8oeRwRjcPo+ctt48hHA06q90yV39p628TvNRd/kFemdUSQLQKbbjSnMv4MnaOLzlz3xyeQsuk/xEAIwMyeK3Nf+Ig5jGcaG6iww9NEzE8lpDGviN6MnK1ja8wH6zh5mi+MFwgq5LK1jdL6aqI6cEMxhIEIy8GZ/g4vrD1P7GzJ4kE36J4y0L3Tq0QJSmPkCNZ8ehqxWrBLc=;bYtkFaRFYS5h3qpMljUAVg=="
+secured: "crTsYPp6SOCAygFk6OL4xWxPqgT44NE3DiQzXihfOX+PjIwqon1Pg/krrOdY/w/XNG7EnnFhjtNKxCrfNwxFn/yhWVfNl8T725GpzyUtVW2Blg5QqvcKJw8fmU6bL3x6O5OO1rM02ZNfFRKkm8JQsr930NtBVgBApEVw42rbpZV2bdQoIQKER5WIfFJuSOyxBqdBAD+XRUy76Ax2uKzmGfVtBE0XgxtcvOxrY1rMznge7MphIKEH8Borl1UzhxI+SNiRxEfVAxk5j16FmzH/u73LBGl4oqc8mf9J0qhhea3FNjPzk7mXwWptfFjsofpRMI8FHW2IM2GrYdo7rxtHVk5NiXTn6Zs99sn5RQ1jzOElhMKhVY8mtHohjZoVARAuUv7DyX3kOo+7hwOGsRVinsYo+CHnACofWzknv2aDzJY=;pImoSzV0/XalbLyv6+bXZA=="
 ---
 

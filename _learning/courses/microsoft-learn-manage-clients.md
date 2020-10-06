@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H23M
 ratings:
-  count: 365
-  average: 4.2438354
+  count: 367
+  average: 4.242507
 heat: 85
 removed: true
 published: false
@@ -32,6 +32,6 @@ images:
     height: 400
     isCached: true
 
-secured: "xqI9Rle/I9hwEcYsjJL959x5z++c6ogWYAsreZccz8HgCC5ZxTc2b3T9BAYLUK0m8PU9LVhnIrmWvwJ4/P7Gx/uKupWKmojTHJNyn1Y0i7RxneiFrGahCtd9m9JmX0dtBua68Pij/wAVda2gantUOMY5ifg/9/R3/b0nz04JxMrRD5mb5CRTNs5ZtbFK4EqwsBnQjCF6ssIh+A8zhJJfyx79XOxRpU98cMiCR4NF8nq756CDzzFIV/3kIZbEwpwtL70qdfZie5Ch4MlchYD2iCjQ9AuIlDDAkg+KrHQuBPQ3mz1/KLfp5AotJH/9LUB0pqCFT1TR9X9fixNmlD3NUjpId18wzE6gbNlfZnqhnRZe1e0oqLMcTPS2GYmsHgI/Me68EO+inHuJe/5npwq9Hdr+O9lvSQAYKofv/eawnYo=;1J7CFt4QBWeD7THn1cMYOg=="
+secured: "cLtE5jop7Tnx7sRiWh+2DNVJlMEe86BpnXPb74g8FJ11+9juIXvrSq80WCZkvQ+yXkoQof+nueGLL87qoBQ9WFqYfWZYbKn+zR7T9bwY8S1tMr3S4ZHErlMasBGQQkGVRc+gff4bWFA874lrEawnhx6qkFgm6oMq+mafy+yqGX1zZNCGURP7jePg17Ac1t4HbD6qKPROiDn+eBeBTFZ8vD6whP8M7o8xnBJYbjqEeCoVyDf9la/vof3dXEOIrs23hcgsG+iSjcTOkwkd2cuWoTRYqKthUeVgMCV2eU5Zzjy/DmYFKqPPYXFmoqA42/TDIwViKZ7m+z8gBp1zELv4ciNS3AoeKV/MUeS3m6ll9cRJxnAoolT48LF7IP9ejjRrZ3XEXoFMDQ07oQK9lXAdXSmoEfOWi7/R4xCWX20qrFQ=;etXlYwalUb0crljc5dJaFw=="
 ---
 

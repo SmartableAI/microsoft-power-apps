@@ -4,7 +4,7 @@ excerpt: "Do you want to use formulas to improve functionality and change a beha
 type: collection
 price: Free
 length: PT2H16M
-heat: 55
+heat: 51
 
 provider:
   name: Microsoft Learn
