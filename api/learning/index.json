@@ -4,35 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/powerapps911-scheduled-flow-and-sharepoint-odata-query-using-recurrence-to-check-for-overdue-approvals.md",
-      "title": "Scheduled Flow and SharePoint oData query - Using Recurrence to check for overdue approvals",
-      "excerpt": "Sometimes you need things to happen on a schedule. For that Flow has the recurrence trigger. In this video, you will learn how to nag approvers to follow up on their approvals thanks to fun with flow. Together we build a Scheduled Flow  that uses Recurrence to check for overdue approvals. We cover the",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-scheduled-flow-and-sharepoint-odata-query-using-recurrence-to-check-for-overdue-approvals/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-scheduled-flow-and-sharepoint-odata-query-using-recurrence-to-check-for-overdue-approvals/",
-      "originalUrl": "https://youtube.com/watch?v=qGqqQjGMun8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qGqqQjGMun8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M4S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-10-04T15:25:18-07:00",
-      "heat": 179,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qGqqQjGMun8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
       "title": "Introduction to Power Platform",
       "excerpt": "Introduction to Power Platform",
@@ -40,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 13396,
-        "average": 4.710809
+        "count": 13404,
+        "average": 4.7106833
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -58,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 145,
+      "heat": 225,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-social.png",
@@ -74,23 +45,23 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-power-apps-filter-multiple-selections-exact-or-all-options-try-again.md",
-      "title": "Power Apps filter multiple selections - Exact or All options - Try again",
-      "excerpt": "In this video, we get nerdier than usual and explore how to filter multi selections with the help of ForAll and GroupBy. We also have a bonus lesson on breaking down a formula to show it complex to simple to help you better learn.  Sorry for duplicate upload. The first one wouldn't render in HD for some",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-power-apps-filter-multiple-selections-exact-or-all-options-try-again/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-power-apps-filter-multiple-selections-exact-or-all-options-try-again/",
-      "originalUrl": "https://youtube.com/watch?v=YYizaX6gXW0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YYizaX6gXW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M59S",
+      "path": "_learning/videos/powerapps911-powerapps-scrollable-screen.md",
+      "title": "PowerApps Scrollable Screen",
+      "excerpt": "In this show, you will learn how the Power Apps Scrollable Screen also sometimes called Canvas1. The idea is the control gives you flexibility to have dynamic content on the screen that will automatically scroll if it gets too big. So fun!  Power Apps Training at https://training.PowerApps911.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-scrollable-screen/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-scrollable-screen/",
+      "originalUrl": "https://youtube.com/watch?v=0lNK9Bx4QKE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0lNK9Bx4QKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M13S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2020-07-14T06:10:38-07:00",
-      "heat": 140,
+      "publishedDateTime": "2020-09-06T12:37:07-07:00",
+      "heat": 151,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YYizaX6gXW0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0lNK9Bx4QKE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -103,44 +74,15 @@
       ]
     },
     {
-      "path": "_learning/videos/april-dunnam-powerapps-horizontal-progress-bar.md",
-      "title": "PowerApps Horizontal Progress Bar",
-      "excerpt": "#PowerApps #ProgressBar #Components In this video I demo a horizontal progress bar solution for Power Apps and show you how to build it.  You'll learn about:  ✅  Components ✅  Dynamically setting gallery wrap count ✅  Dynamically switching object colors",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-powerapps-horizontal-progress-bar/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-powerapps-horizontal-progress-bar/",
-      "originalUrl": "https://youtube.com/watch?v=r-bTu1srBkY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r-bTu1srBkY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M41S",
-      "provider": {
-        "name": "April Dunnam",
-        "domain": "aprildunnam.com"
-      },
-      "publishedDateTime": "2020-07-29T21:35:13-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r-bTu1srBkY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
-      "title": "Work with requirements as a solution architect for Power Platform and Dynamics 365",
-      "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/work-with-requirements/",
-      "length": "PT23M",
+      "path": "_learning/courses/microsoft-learn-intro-portals.md",
+      "title": "Introduction to Power Apps portals",
+      "excerpt": "Extend Common Data Service interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Common Data Service data by using portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-intro-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-portals/",
+      "length": "PT48M",
       "ratings": {
-        "count": 277,
-        "average": 4.729242
+        "count": 138,
+        "average": 4.6014495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,13 +97,22 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Intermediate"
       ],
       "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-portals-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {
@@ -225,8 +176,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 16321,
-            "average": 4.6667485
+            "count": 16327,
+            "average": 4.6668096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -266,8 +217,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/",
           "length": "PT38M",
           "ratings": {
-            "count": 7652,
-            "average": 4.6755095
+            "count": 7654,
+            "average": 4.6755943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -300,8 +251,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/",
           "length": "PT42M",
           "ratings": {
-            "count": 6731,
-            "average": 4.690982
+            "count": 6733,
+            "average": 4.691074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -351,8 +302,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/get-started-with-powerapps/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 16321,
-        "average": 4.6667485
+        "count": 16327,
+        "average": 4.6668096
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,8 +343,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/manage-apps-in-powerapps/",
       "length": "PT42M",
       "ratings": {
-        "count": 6731,
-        "average": 4.690982
+        "count": 6733,
+        "average": 4.691074
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -484,8 +435,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/",
       "length": "PT38M",
       "ratings": {
-        "count": 7652,
-        "average": 4.6755095
+        "count": 7654,
+        "average": 4.6755943
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -614,8 +565,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 1989,
-        "average": 4.708899
+        "count": 1990,
+        "average": 4.7090454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1044,6 +995,64 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/FaTnOOc34os/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-sharepoint-lookup-column.md",
+      "title": "PowerApps SharePoint LookUp Column",
+      "excerpt": "In this video, you will learn how to recreate the SharePoint LookUp column functionality that you want instead of using the mean SharePoint look up column that is built in. Lots of fun in this video.  For PowerApps Consulting check out https://www.PowerApps911.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-sharepoint-lookup-column/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-sharepoint-lookup-column/",
+      "originalUrl": "https://youtube.com/watch?v=43ekj5MlNJU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/43ekj5MlNJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M36S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-04-06T11:34:31-07:00",
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/43ekj5MlNJU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more.md",
+      "title": "PowerApps Combobox - Search, Filter, Default values, and more",
+      "excerpt": "In this video, you will learn about the PowerApps Combobox. There are examples for configuring, searching, filtering, selected vs. selecteditems, default vs defaultitems, datasources, items, and more. Lots of things to learn on this control  For more help check out PowerApps911 https://www.powerapps911.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-combobox-search-filter-default-values-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=pjs0ZsnJZXo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pjs0ZsnJZXo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M51S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-11-11T10:54:30-08:00",
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pjs0ZsnJZXo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
