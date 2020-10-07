@@ -5,6 +5,8 @@ type: collection
 price: Free
 length: PT4H35M
 heat: 60
+removed: true
+published: false
 
 provider:
   name: Microsoft Learn

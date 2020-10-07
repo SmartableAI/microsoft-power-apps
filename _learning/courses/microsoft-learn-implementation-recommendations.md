@@ -9,6 +9,8 @@ ratings:
   count: 64
   average: 4.65625
 heat: 50
+removed: true
+published: false
 
 provider:
   name: Microsoft Learn
