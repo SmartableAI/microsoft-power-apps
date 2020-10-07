@@ -7,6 +7,8 @@ price: Free
 length: PT25M4S
 publishedDateTime: 2020-10-04T22:25:18Z
 heat: 179
+removed: true
+published: false
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qGqqQjGMun8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
