@@ -4,7 +4,7 @@ excerpt: "This app is used to measure the contrast ratio between two colors. It 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Color-contrast-analyzer-app/td-p/384255
 type: download
 publishedDateTime: 2019-10-16T15:26:00Z
-heat: 52
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/288/2/Color%20Contrast%20Analyzer.msapp"

@@ -4,7 +4,7 @@ excerpt: "This app provides simulation of swinging pendulum and expains its back
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Pendulum-Simulator/td-p/183547
 type: download
 publishedDateTime: 2018-11-23T07:34:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/46/2/PendulumSimulator.msapp"

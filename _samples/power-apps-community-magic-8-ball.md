@@ -4,7 +4,7 @@ excerpt: "Inspired by , and , my maiden attempt with accelerometer in #PowerApps
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Magic-8-Ball/td-p/424646
 type: download
 publishedDateTime: 2019-12-11T21:11:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/354/2/8%20Ball.msapp"

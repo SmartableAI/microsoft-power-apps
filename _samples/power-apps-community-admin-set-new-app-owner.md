@@ -4,7 +4,7 @@ excerpt: "Using the Power Platform and PowerApps Admin Connector, this simple ap
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Admin-Set-New-App-Owner/td-p/328887
 type: download
 publishedDateTime: 2019-07-26T08:41:00Z
-heat: 52
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/216/3/PowerApps%20Admin%20-%20Set%20Owner.msapp"

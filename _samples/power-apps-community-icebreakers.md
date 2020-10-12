@@ -4,7 +4,7 @@ excerpt: "The &amp;quot;Handshake problem&amp;quot; is a classic math problem: &
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Icebreakers/td-p/189925
 type: download
 publishedDateTime: 2018-12-09T12:45:00Z
-heat: 53
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/61/2/Icebreakers%20(91).msapp"

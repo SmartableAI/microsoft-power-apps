@@ -4,7 +4,7 @@ excerpt: "Use this app to share all the sessions at Microsoft Business Applicati
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Microsoft-Business-Applications-Summit-MBAS-2019-Sessions-App/td-p/319894
 type: download
 publishedDateTime: 2019-07-11T16:39:00Z
-heat: 53
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/206/3/MBAS-2019-PowerApps-and-Flow-Sessions.msapp"

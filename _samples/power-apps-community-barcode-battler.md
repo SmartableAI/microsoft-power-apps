@@ -4,7 +4,7 @@ excerpt: "Last Update 2018/11/7 (JST) ”COM Battle Mode Added” This Apps is G
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Barcode-Battler/td-p/175776
 type: download
 publishedDateTime: 2018-11-03T08:48:00Z
-heat: 53
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/36/3/Barcode%20Battler.msapp"

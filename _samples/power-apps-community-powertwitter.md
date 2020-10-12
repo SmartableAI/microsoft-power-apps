@@ -4,7 +4,7 @@ excerpt: "A pixel-by-pixel implementation of Twitter's homepage in a canvas Powe
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/PowerTwitter/td-p/189845
 type: download
 publishedDateTime: 2018-12-08T12:40:00Z
-heat: 61
+heat: 53
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/60/5/PowerTwitter.msapp"

@@ -4,7 +4,7 @@ excerpt: "Travel Request Demo PowerApps Platform: PowerApps Created By: Muhammad
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Travel-Request-Demo-PowerApps/td-p/644799
 type: download
 publishedDateTime: 2020-08-01T13:10:00Z
-heat: 56
+heat: 54
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/587/1/Travel%20Request%20Demo%20App.msapp"

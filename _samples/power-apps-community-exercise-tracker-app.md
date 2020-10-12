@@ -4,7 +4,7 @@ excerpt: "This app tracks body weight exercises and shows you your progress. The
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Exercise-Tracker-App/td-p/649156
 type: download
 publishedDateTime: 2020-08-05T12:47:00Z
-heat: 112
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/591/1/Exercise%20Tracker_offline.msapp"
@@ -31,7 +31,7 @@ images:
     height: 573
     isCached: true
 
-secured: "OldPSGHWwgx9WH0+ovlEpgOvd9ZLasrvVaxXROWW4cDFCGwyzktHKw5CZZYwau0gjjvF5M+AiH60IdS4D+Rw4Ow12XQAttyEZnLUI22D/4OySlm3aUTwc+8EuxqETtYEaryPDgMKDl8ZOKsbcshymW9q3NBpPJXcDa8yPQshnTsCUmq9/cTQGJkCvqzxYLRp7W0D9rDixHTi1694sGHt6yTPvrSwEGhz/hZ59Xtjhjf4dBlG49H+2zAdgB2Do/LZClpedgwnsPo9QIfjARW0bPNQrP8gxfsaTvH+q8cop08n9/ZyPSaPtIaMR/x4+20Q3wNJXtkrx3RkCnMrEoMEDc9tVKrZRvEGkRiI/4dXRPteIbKQx4BIcvXUy1SAQTDy+EerAv4LCJOGPpLuywDwsg==;scYIO7/L2ix0TBL6OZcqKA=="
+secured: "oPn3cetHzZPdrG/WoLqT3s4NHu5ZXjrb1jnpkNsuvdjp9PFUrAt2fMqrW1vtMifeMDYjzaHm7J54f03f/Aj/lYQWgvVVVNy1b4f9pXXwKgcf65an3U8Gz7mySnaN7cH+pRf7ff/AFRztWMBxzzcq2+h516XBqccr+tR9ubG1wdloY05OKVHKpEbDRizpkXRZTaIzmPhh7Pt15DlbDiqDJMLnpzxKu/ZlWRBUK0gNBzq1sI1DucYCZPUzlRvkLXeGtL5OHUkB/Co0kLOy9SE7NrND+nf5fz4+e19DrXfSHBtXfmq578dHVYySPY6OnCrTFLJ2uaJxe7yOltCFNySx7U164FHarZqdkqZc+Huw/qdye7o0LzCwaVAMYUW8PoUDSqEqRso0puCatECBJ00GBmgD/gGeFRu4z5xhigvmwXjXCjxcgc+ImVx2oOHLyJw8;lLZ/SyDt+NlVtSkUeco0tg=="
 ---
 <p>This app tracks body weight exercises and shows you your progress.&nbsp; There are 2 versions of the app, an offline app which only tracks the previous month and an online app which tracks your all time progress and saves the records in a SharePoint list.&nbsp;&nbsp;3 columns make up the list:</p><p>&nbsp;</p><p>Exercise: Text</p><p>Reps: Number</p><p>ExerciseDate: Date</p><p>&nbsp;</p><p>There is an auto cleanup of the local collection for anything older than a month.&nbsp; To deal with the delegation issue with SharePoint, it checks for when there are more than 500 rows in the list, copies the totals into variables then writes back 4 records consolidating the records into one for each exercise.&nbsp;</p><p>&nbsp;</p><p>I've attached both versions of the app if anyone wanted to try it out.</p><p>&nbsp;</p><p>Thanks!</p><p><span class="videoUrl hidden">watch?v=jpvr5qslccg</span></p>
 

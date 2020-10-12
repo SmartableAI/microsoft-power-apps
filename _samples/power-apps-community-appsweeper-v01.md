@@ -4,7 +4,7 @@ excerpt: "Basic fundamentals of an old game called MineSweeper. Things to Improv
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/AppSweeper-v0-1/td-p/278152
 type: download
 publishedDateTime: 2019-05-06T00:35:00Z
-heat: 55
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/177/2/AppSweeper.msapp"

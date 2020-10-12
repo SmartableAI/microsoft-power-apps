@@ -4,7 +4,7 @@ excerpt: "Inline help information component to be reused across your PowerApps f
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Info-Component/td-p/248841
 type: download
 publishedDateTime: 2019-03-10T09:30:00Z
-heat: 52
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/132/2/InfoComponent_20190227.msapp"

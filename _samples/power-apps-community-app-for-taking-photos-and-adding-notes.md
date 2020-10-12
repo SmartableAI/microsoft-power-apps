@@ -4,7 +4,7 @@ excerpt: "App was inspired by a comment with a question posted some time ago und
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/App-for-taking-photos-and-adding-notes/td-p/289368
 type: download
 publishedDateTime: 2019-05-25T15:36:00Z
-heat: 61
+heat: 55
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/186/2/AddNotesToImage.msapp"

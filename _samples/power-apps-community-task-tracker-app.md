@@ -4,6 +4,7 @@ excerpt: "Its a simple app for tracking Team work progress and update their task
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Task-tracker-App/td-p/707907
 type: download
 publishedDateTime: 2020-10-02T21:54:00Z
+heat: 61
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/654/1/Ncf81fdce-574f-4b13-a4fe-aa02d8010789-document.msapp"

@@ -4,7 +4,7 @@ excerpt: "This application shows the implementation of motion patterns such as L
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Motion-Patterns-with-Parametric-Equations/td-p/206073
 type: download
 publishedDateTime: 2019-01-17T07:30:00Z
-heat: 53
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/79/2/Parametric%20Motion.msapp"

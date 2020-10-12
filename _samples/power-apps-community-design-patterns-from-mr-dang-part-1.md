@@ -4,7 +4,7 @@ excerpt: "Attached is an app that contains samples of common patterns used in my
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Design-Patterns-from-Mr-Dang-Part-1/td-p/175205
 type: download
 publishedDateTime: 2018-11-01T17:02:00Z
-heat: 54
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/29/2/Samples%20(1).msapp"

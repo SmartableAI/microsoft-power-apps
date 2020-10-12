@@ -4,7 +4,7 @@ excerpt: "Formativ_ is an app I showcased during an Open House livestream I held
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Design-Patterns-from-Mr-Dang-Part-2/td-p/198929
 type: download
 publishedDateTime: 2019-01-01T17:50:00Z
-heat: 65
+heat: 61
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/70/2/formativ_.msapp"

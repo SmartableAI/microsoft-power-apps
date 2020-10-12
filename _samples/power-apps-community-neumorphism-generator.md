@@ -4,7 +4,7 @@ excerpt: "This app helps in the design and implementation of HTML-based rectangu
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Neumorphism-Generator/td-p/539729
 type: download
 publishedDateTime: 2020-04-26T17:01:00Z
-heat: 58
+heat: 55
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/509/2/Neumorphism%20Generator.msapp"

@@ -4,7 +4,7 @@ excerpt: "#PowerAppsChamp Trading Cards App - v1 This project started from a tut
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Champs-Trading-Cards-App-v1/td-p/416029
 type: download
 publishedDateTime: 2019-11-30T16:40:00Z
-heat: 63
+heat: 56
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/332/2/PowerApps%20Champs%20Trading%20Cards%20App.msapp"

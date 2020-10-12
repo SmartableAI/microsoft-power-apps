@@ -4,7 +4,7 @@ excerpt: "I am the head of the &amp;quot; Japan Power Apps Orchestra &amp;quot;.
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Glass-Harp-App/td-p/421293
 type: download
 publishedDateTime: 2019-12-08T05:12:00Z
-heat: 58
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/349/2/GlassHarpLight.msapp"

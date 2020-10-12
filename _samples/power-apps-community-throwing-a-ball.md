@@ -4,7 +4,7 @@ excerpt: "This app simulates the motion of throwing a ball based on concrete phy
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Throwing-a-Ball/td-p/180730
 type: download
 publishedDateTime: 2018-11-16T00:24:00Z
-heat: 53
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/39/1/ShootingBall.msapp"

@@ -4,7 +4,7 @@ excerpt: "(if you downloaded this before 12:40 Jan 20th 2019, please re-download
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Branding-Template-App-V2/td-p/363582
 type: download
 publishedDateTime: 2019-09-17T17:24:00Z
-heat: 96
+heat: 87
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/245/12/iAm_ManCat%20Branding%20Template%20App%20Tablet%20V2.msapp"

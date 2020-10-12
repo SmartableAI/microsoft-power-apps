@@ -4,7 +4,7 @@ excerpt: "How does a # PowerAddict celebrate the International Women's Day? Uses
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/International-Women-s-Day/td-p/248860
 type: download
 publishedDateTime: 2019-03-10T10:40:00Z
-heat: 53
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/133/2/N9f9dbbf0-7bcb-4a7d-bfc8-3e0a51243e03-document.msapp"

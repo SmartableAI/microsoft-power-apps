@@ -4,7 +4,7 @@ excerpt: "This apps is a game Santa gathers presents. Let's get presents within 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Santa-Game/td-p/184143
 type: download
 publishedDateTime: 2018-11-26T03:50:00Z
-heat: 57
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/47/2/SantaGame.msapp"

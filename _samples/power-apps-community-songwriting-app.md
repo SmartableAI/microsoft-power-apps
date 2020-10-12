@@ -4,7 +4,7 @@ excerpt: "Hi, I have created a songwriting app! This app is you can songwriting 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Songwriting-App/td-p/434189
 type: download
 publishedDateTime: 2019-12-27T20:00:00Z
-heat: 55
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/373/2/Songwriting.msapp"

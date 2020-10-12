@@ -4,7 +4,7 @@ excerpt: "This is sample app including &amp;quot;custom calendar&amp;quot; compo
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Custom-Calendar-component/td-p/239959
 type: download
 publishedDateTime: 2019-02-20T06:41:00Z
-heat: 57
+heat: 58
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/112/3/CustomCalendar.msapp"

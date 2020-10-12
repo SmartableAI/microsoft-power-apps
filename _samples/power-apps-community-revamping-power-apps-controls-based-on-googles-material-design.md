@@ -4,7 +4,7 @@ excerpt: "Power Apps controls, although powerful, provide limited branding and c
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Revamping-Power-Apps-controls-based-on-Google-s-Material-Design/td-p/465416
 type: download
 publishedDateTime: 2020-02-10T00:04:00Z
-heat: 68
+heat: 65
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/427/2/The%20Power%20Addict%20-%20Google%20Material%20Design.msapp"

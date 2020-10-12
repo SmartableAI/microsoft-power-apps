@@ -4,7 +4,7 @@ excerpt: "In the following post, I explain the three attached companion apps/com
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Responsive-Design-Template/td-p/417884
 type: download
 publishedDateTime: 2019-12-03T06:59:00Z
-heat: 56
+heat: 55
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/339/4/screenSimulator.msapp"

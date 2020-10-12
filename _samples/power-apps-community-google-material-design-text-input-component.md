@@ -4,7 +4,7 @@ excerpt: "A few months ago, I had shared (on my blog) and here in the community,
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Google-Material-Design-Text-Input-Component/td-p/530161
 type: download
 publishedDateTime: 2020-04-17T13:03:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/503/2/GoogleMaterialDesignTextInput.msapp"

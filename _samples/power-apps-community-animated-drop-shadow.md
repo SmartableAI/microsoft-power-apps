@@ -4,7 +4,7 @@ excerpt: "Hi, I was inspired by @mr-dang 's use of SVG+XML to create images and 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Animated-Drop-Shadow/td-p/208121
 type: download
 publishedDateTime: 2019-01-22T07:12:00Z
-heat: 53
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/81/2/Animated%20Drop%20Shadow.msapp"

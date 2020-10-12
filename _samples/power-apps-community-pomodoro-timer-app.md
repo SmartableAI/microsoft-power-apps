@@ -4,7 +4,7 @@ excerpt: "Hello Everyone!, This power app was built to check out features and wh
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Pomodoro-timer-app/td-p/659179
 type: download
 publishedDateTime: 2020-08-14T15:20:00Z
-heat: 52
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/615/1/Pomodoro%20App.msapp"

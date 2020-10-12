@@ -4,7 +4,7 @@ excerpt: "This App uses a component to setup a 7-segment clock digit. The compon
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Digital-Clock-using-Components/td-p/246018
 type: download
 publishedDateTime: 2019-03-04T20:39:00Z
-heat: 52
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/120/2/Digital%20Clock%20-%20Components.msapp"

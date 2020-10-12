@@ -4,7 +4,7 @@ excerpt: "This app includes samples of animation effects leveraging simple mathe
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Canvas-App-Animation-Effects/td-p/373391
 type: download
 publishedDateTime: 2019-10-01T08:23:00Z
-heat: 60
+heat: 56
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/257/2/Animation.msapp"

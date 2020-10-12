@@ -4,7 +4,7 @@ excerpt: "This is customized toggle component using only 2 button controls. This
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Custom-Toggle-control-as-Component/td-p/281416
 type: download
 publishedDateTime: 2019-05-10T21:16:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/181/2/CustomTgl.msapp"

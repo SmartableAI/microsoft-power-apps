@@ -4,7 +4,7 @@ excerpt: "This App is Speed Meter created by PowerApps. Speed and Compass inform
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/HUD-App/td-p/282328
 type: download
 publishedDateTime: 2019-05-13T17:44:00Z
-heat: 52
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/182/5/HUD%20Speed%20Meter.msapp"

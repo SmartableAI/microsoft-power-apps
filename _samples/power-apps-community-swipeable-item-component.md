@@ -4,7 +4,7 @@ excerpt: "Hi, I've made this component of an item you can swipe to the left and 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Swipeable-Item-Component/td-p/263585
 type: download
 publishedDateTime: 2019-04-07T08:02:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/146/5/SwipeableItem_v01.msapp"

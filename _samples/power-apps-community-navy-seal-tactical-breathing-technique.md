@@ -4,7 +4,7 @@ excerpt: "This technique, known as combat or tactical breathing, is an excellent
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Navy-SEAL-Tactical-Breathing-Technique/td-p/210200
 type: download
 publishedDateTime: 2019-01-25T08:54:00Z
-heat: 52
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/85/2/SEAL%20Breather.msapp"

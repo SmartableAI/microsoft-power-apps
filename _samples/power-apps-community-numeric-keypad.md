@@ -4,7 +4,7 @@ excerpt: "Numeric Keypad integration allows user to enter numeric input into mul
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Numeric-Keypad/td-p/175267
 type: download
 publishedDateTime: 2018-11-01T20:28:00Z
-heat: 53
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/30/3/PhoneTemplate_NumKey%20(2).msapp"

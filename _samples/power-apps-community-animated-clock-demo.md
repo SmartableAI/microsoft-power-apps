@@ -4,7 +4,7 @@ excerpt: "My first app I'm sharing is just a demo of how to create an &amp;quot;
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Animated-Clock-Demo/td-p/186829
 type: download
 publishedDateTime: 2018-12-02T13:46:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/55/2/Animated%20Clock%20Demo.msapp"

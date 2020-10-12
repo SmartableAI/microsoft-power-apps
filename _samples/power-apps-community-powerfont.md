@@ -4,7 +4,7 @@ excerpt: "A PowerApp example of using custom fonts with the help of SVGs More in
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/PowerFont/td-p/272163
 type: download
 publishedDateTime: 2019-04-24T00:09:00Z
-heat: 54
+heat: 55
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/173/2/PowerFont.msapp"

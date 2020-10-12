@@ -4,7 +4,7 @@ excerpt: "Here is my template app from the community call on 17/7/2019. The only
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/The-Lazy-Template/td-p/323030
 type: download
 publishedDateTime: 2019-07-17T13:23:00Z
-heat: 54
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/208/2/LazyTemplate.msapp"

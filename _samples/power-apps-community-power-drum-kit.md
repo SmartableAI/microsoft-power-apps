@@ -4,7 +4,7 @@ excerpt: "I am the head of the &amp;quot; Japan Power Apps Orchestra &amp;quot;.
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Drum-Kit/td-p/432993
 type: download
 publishedDateTime: 2019-12-24T08:45:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/370/2/Power_Drum_Kit_v5.msapp"

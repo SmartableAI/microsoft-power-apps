@@ -4,7 +4,7 @@ excerpt: "Contribution with some meters in SVG, inspiration for allies in improv
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Gauges-in-SVG/td-p/668970
 type: download
 publishedDateTime: 2020-08-25T18:14:00Z
-heat: 56
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/620/1/Components%20Gauges%20SVG.msapp"

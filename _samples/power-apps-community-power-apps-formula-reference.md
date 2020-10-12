@@ -4,7 +4,7 @@ excerpt: "Announcing the Power Apps Formula Reference! I am very excited to anno
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Power-Apps-Formula-Reference/td-p/650191
 type: download
 publishedDateTime: 2020-08-06T08:27:00Z
-heat: 133
+heat: 141
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/595/1/Power%20Apps%20Formula%20Reference.msapp"

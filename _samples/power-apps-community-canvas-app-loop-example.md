@@ -4,7 +4,7 @@ excerpt: "Coming from the &amp;quot;developer&amp;quot; world, coding with loops
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Canvas-App-Loop-Example/td-p/342527
 type: download
 publishedDateTime: 2019-08-16T08:12:00Z
-heat: 57
+heat: 59
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/228/1/Loop%20Demo%20Canvas%20App.msapp"

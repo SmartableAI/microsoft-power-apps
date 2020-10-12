@@ -4,7 +4,7 @@ excerpt: "This app shows you how to extract data from a drivers license barcode.
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Drivers-License-PDF417-Barcode-Data-Extraction/td-p/463649
 type: download
 publishedDateTime: 2020-02-06T17:41:00Z
-heat: 55
+heat: 59
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/423/3/License%20Scanner.msapp"

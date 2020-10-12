@@ -31,7 +31,7 @@ images:
     height: 522
     isCached: true
 
-secured: "dCr82LU2kGb2EHo5Ng+q9bkrCHL2dxRPsBSAp/FIhUmSHN7o8NuXylIL2LnKQ7e+oG1uFF8DXk2NB47N22hkjD0DnCMJjwuYcR3BZfeqwubfNjO2jKzOfG48l95QuKGztKaQqDwBZ570Tgyeyk3UpQLJ59IhvuY4z00sVMuXXWnvkNdD1aHOddA/B8PaTXcNtVckgpTAtKywmYp/TPJ2qPizecLGqjwXply/e6UMIRpgzpeL+YMxuKWABKEn+t6uca+caorqJoiC4NBiz0JjmKAtv95QaBt/2itvh/t7JbgnCBjIn/lw2uFHXAn9Pvp4CnmG5PLaGpz6NZN+kZ78AHr8Z16mCQgI0D3Im7ZqsRfkK8kbyWpLZHBG2mg/0Dbwzqp3zypjnTURZVYtgNBoEw==;XRujnd8wt398N52j4S9/2g=="
+secured: "5mkcH5FxDCW3du6vr21Fr5R9JWafh1KHWQ4QTmogVjl54O2+cdl3BHfvsylLoAe2AcPuL5TgJqHNqJjkk2vWwVfbeA+XzM5wpk+D3ldIS9CIwliDZp9Fbn+13CTLrvtulwCFuCD7Z0tmfAU2MV3CGkDHL2H7NW+prZtbL/eHlmDUqbe1gOz8Kcm0iozeIvFP6myBzGa1zvPtAS35rdO8SWbGTx/x5qT8EbngCN20zIH2/tdfysIHOuWpJ7TSSVjOsRwSyltN4oS3UBbGu8bf7jeePTNpGaokVNO6FXfT3DPXpVpHxL1niVC1sie0t9usvw0V0DEIlvm1tn5yzoeCT3oFDTq65pWT3A5bivvV4Lv+gQflxrh6AnYhjz8aKJ7rbZx7IJUxGAD6IsdypgV8qOMfmsOiyWzYPBtiOPHqsW9jSj3XxPuoIqQWI0g/3A+7;CSIe8siCO8m5KKz+ZOBa4w=="
 ---
 <p>Circle Slider can move by drag and drop.</p><p>Timer control is not used.</p><p>OnChange event of a slider is used instead of Timer control.</p><p>&nbsp;</p><p><span class="lia-inline-image-display-wrapper lia-image-align-inline" image-alt="D&amp;D.gif" style="width: 464px;"><img src="https://powerusers.microsoft.com/t5/image/serverpage/image-id/81980iFDE1961152A28833/image-size/large?v=1.0&amp;px=999" title="D&amp;D.gif" alt="D&amp;D.gif" li-image-url="https://powerusers.microsoft.com/t5/image/serverpage/image-id/81980iFDE1961152A28833?v=1.0" li-image-display-id="'81980iFDE1961152A28833'" li-message-uid="'343494'" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"></span></p>
 

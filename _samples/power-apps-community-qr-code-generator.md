@@ -4,7 +4,7 @@ excerpt: "This app allows you to generate QR code image and Scan any QR image (&
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/QR-Code-generator/td-p/199745
 type: download
 publishedDateTime: 2019-01-03T08:33:00Z
-heat: 74
+heat: 81
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/74/2/SimpleQRCode.msapp"

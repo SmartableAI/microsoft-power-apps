@@ -4,7 +4,7 @@ excerpt: "This is simple component converting Text including Full-width alphanum
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Text-conversion-component-from-Full-width-to-Half-width/td-p/412040
 type: download
 publishedDateTime: 2019-11-25T04:47:00Z
-heat: 52
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/328/4/full-halfConversion.msapp"

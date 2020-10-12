@@ -4,7 +4,7 @@ excerpt: "A simple canvas app that allows users to order food at their office ca
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/CanteenApp/td-p/606412
 type: download
 publishedDateTime: 2020-06-24T15:54:00Z
-heat: 54
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/554/1/CanteenApp.msapp"

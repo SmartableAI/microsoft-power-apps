@@ -4,7 +4,7 @@ excerpt: "This demo is a proof of concept/template for adding an app store to a 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Power-App-Store/td-p/442805
 type: download
 publishedDateTime: 2020-01-11T13:16:00Z
-heat: 60
+heat: 53
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/390/3/Power%20App%20Store%20Demo.msapp"

@@ -4,7 +4,7 @@ excerpt: "-----------download file is at the bottom of the page, click on 29 sec
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/29-seconds-A-fun-game-to-play-with-your-colleagues-with-MS-Teams/td-p/536670
 type: download
 publishedDateTime: 2020-04-23T05:49:00Z
-heat: 91
+heat: 114
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/507/2/29%20Seconds_final_v1.msapp"

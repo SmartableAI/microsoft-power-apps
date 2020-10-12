@@ -4,7 +4,7 @@ excerpt: "Solved: I prepared a stunning animation that gives your PowerApps app 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Fancy-background-animations-in-PowerApps/td-p/269339
 type: download
 publishedDateTime: 2019-04-17T18:51:00Z
-heat: 59
+heat: 60
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/165/2/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB-%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%83%8C%E6%99%AF%E3%82%A2%E3%83%97%E3%83%AA.msapp"

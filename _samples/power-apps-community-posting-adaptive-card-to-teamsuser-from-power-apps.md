@@ -4,7 +4,7 @@ excerpt: "This app allow you to send Adaptive Card to Teams channel or User dire
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Posting-Adaptive-Card-to-Teams-User-from-Power-Apps/td-p/571127
 type: download
 publishedDateTime: 2020-05-25T00:33:00Z
-heat: 58
+heat: 60
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/534/2/Send%20Adaptive%20Cards.msapp"

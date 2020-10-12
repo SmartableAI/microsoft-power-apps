@@ -4,7 +4,7 @@ excerpt: "This app showcases the use of 2 data sources within the same applicati
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Challenge-PowerApps-with-two-Data-Sources/td-p/234981
 type: download
 publishedDateTime: 2019-02-10T16:43:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/99/2/Sales%20Contact%20-%20Two%20Sources.msapp"

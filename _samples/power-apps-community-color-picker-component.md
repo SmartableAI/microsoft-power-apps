@@ -4,7 +4,7 @@ excerpt: "Just a little concept idea I was working on. A configurable Color Pick
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Color-Picker-Component/td-p/268469
 type: download
 publishedDateTime: 2019-04-16T11:35:00Z
-heat: 56
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/163/2/ColorPicker.msapp"

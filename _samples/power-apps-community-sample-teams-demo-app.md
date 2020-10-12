@@ -4,7 +4,7 @@ excerpt: "Join this webinar to see how PowerApps and Teams work together to crea
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Sample-Teams-Demo-App/td-p/86326
 type: download
 publishedDateTime: 2018-01-31T09:38:00Z
-heat: 56
+heat: 55
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/18/4/Sample%20Teams%20App.msapp"

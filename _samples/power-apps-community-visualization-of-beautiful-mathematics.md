@@ -4,7 +4,7 @@ excerpt: "This app represents beautiful trajectory of circular motions of two ba
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Visualization-of-Beautiful-Mathematics/td-p/260215
 type: download
 publishedDateTime: 2019-03-31T22:44:00Z
-heat: 53
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/141/2/BeautyOfMath.msapp"

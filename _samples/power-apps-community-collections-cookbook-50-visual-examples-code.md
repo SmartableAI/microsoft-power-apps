@@ -4,7 +4,7 @@ excerpt: "Welcome to the PowerApps “Collections Cookbook”. Inside you will f
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Collections-Cookbook-50-Visual-Examples-amp-Code/td-p/437594
 type: download
 publishedDateTime: 2020-01-05T20:42:00Z
-heat: 92
+heat: 75
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/377/16/Collections%20Cookbook%2020200324.msapp"

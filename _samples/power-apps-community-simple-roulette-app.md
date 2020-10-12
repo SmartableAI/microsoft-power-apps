@@ -4,7 +4,7 @@ excerpt: "I have PowerApp-ize the Roulette shared from May Alhajri on Twitter. B
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Simple-Roulette-app/td-p/420440
 type: download
 publishedDateTime: 2019-12-05T23:29:00Z
-heat: 55
+heat: 53
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/347/2/SimpleRoulette.msapp"

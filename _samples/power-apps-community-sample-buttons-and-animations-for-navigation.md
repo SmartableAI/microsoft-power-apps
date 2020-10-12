@@ -31,7 +31,7 @@ images:
     height: 1150
     isCached: true
 
-secured: "u3WfWbYAI9k6VIM9AHIY6UyCwJ2FjMW2S2Er/UeNBDhjJmAs9fq+jqNXLcEKSIo346+kgqpDS/+8ESjpQ/C+nR8NKvVJ42aGe2ExO0yOj1+M8wSehauqxg9nF2QpOGq9VZ3r1QHQjsffFThddMWOv9o8N/ckEE8LOf/clQQ++xSFrtWerDxKuDaf00g1rOtBBxfJQvHe06S8iqJBTafadjAYSYk4O64VI9lMvEXf0VjaywOttEYgISKnZf4R8BsVf9o92IfsMd0wQneOEL9lSPZSULlKB3/2IWlv3V4EuHkxZWjjX1z9ByqRaX6LGFLlvDffIATXyXkMbxPceh6Ma6h2aRWyj6TEXUXt6lmP2VUqCvCO+ETWFpaM/3GmBGD9u1rI2WtFApvzoAvv0xTq3A==;pt/63H0djCKu8ZcXRaEopA=="
+secured: "5okPgsXtRz+3aZBuD5g5HlqLxcizyLteU1PBxQXzv9EUkLhYYQ1Wb8qiciTQS3R1biR/D8u0PjcIEdT7NfjK0c/yIj8Pl5qQxZ5tgAmt4dXMSWvQYn1QTb/1NyDAXqiuKYs5zNMESB4RQGHQwZ7G1JVxkeR7RqbkTRYVVTVRdPywMgyYksdSWl40IJXw7nHwFCY2ke0pHrRz0IslK8o7JSaVa4OifRsd6KA1vmCX8bruqbLwO2YQxmUd860PCbqrcBwCSNbWY/ZRk83c5nc9hWnghNrrjBKSRlZUwJhfPykryHTJOfx4NTGAQoEcVYy6GNAwgexPOCs79PzMCXiMIysBYyakOrgZfnL2u0KQGvw1LZErNJNvupzGNSlz5EA4ZnI0i4ak97i9HdALJhHoKpxnW5HMEsDgalBu3jdDJ2m/Xu9/G5TYcDdKBler4b9j;isMGAp99pbvYl+/XXjYe/g=="
 ---
 <p>Here is a simple app demostration buttons and icons for navigation controls within your PowerApps.</p><p>&nbsp;</p><p>It covers basic buttons and how to round corners to make tabs as well as showing how to build animations into your navigation controls if you want to add a little bit of cool into your apps as well.&nbsp;</p><p>&nbsp;</p><p>Feel free to download the zip file and use as is - reach out to me with questions or ideas to extend these ideas too!</p><p>&nbsp;</p><p>&nbsp;</p><p><span class="videoUrl">watch?v=Ngl-Gc6VeUU</span></p>
 

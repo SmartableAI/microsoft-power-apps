@@ -4,7 +4,7 @@ excerpt: "In this Microsoft PowerApps video, we will upload multiple files, tag 
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Upload-amp-tag-multiple-file-attachments-with-Power-Apps/td-p/650284
 type: download
 publishedDateTime: 2020-08-06T09:57:00Z
-heat: 54
+heat: 52
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/596/1/Tag%20Multiple%20Files.msapp"
@@ -31,7 +31,7 @@ images:
     height: 562
     isCached: true
 
-secured: "8rnrXG8TdCM/b+QhDRwO4ptHH+hEL7lbkBzynfW0lNtibHUrJUkqn3LdWYFW+Yxyf+NbCxXJ10hU+Xeoevx3hR9Kld3C+aPGOBTewJoVwEuSZ3xeQvbBHoioHPrqGizdQP9bTeLCJLIDoVSsu/j4DTWerBnD20wylbr1IB24gypP+cCvkFdqOa/co5Vo3yHpUMMqMS117rZUC/rq1WEpT1bTDv/Y8w3lDq1y7w4vfEu4plRDnBdNRbWHgmolCASSz/9wgwbk55L1elm/05GuhCC+f9m6yaAuyfd5+XskTRVSXsSCHFXzJ/fL+NJbkJZi/iSLkMMlWJzan4+qGbVtsNnK6IlM9Ot3mQ46HZMZy+tmWHoSi3iNzrFf3Z7WPvuAyOS/gmMaMItb6z3/wVk/kQ==;vyCnnKi2HRuZmFZ+IWIGJg=="
+secured: "ufFLD2R3woR7COOnrgO85AWSU/P6TylWVW3nHaFFVTWrMBEsl5jg9IGnIt1wBRG1yNYkz2E4R3CBXPucfjF0sktAJx9gaA8y4pF+KOwKSfzl3+OW/Ia2gzyjiPv3mVvfhmkmwJICr6AYed+P8DmmwOpBDqIGJYJKRj2Pk/ErWliFL1Ftf3PwaCJaJ6EWVJvFDi1tU18WKPAIzE80nxamnR2hCUW2z+6yEmmDSVeBxUmYK7JyFU2+fiSsU+vxo9SlkJmOcJCDFzu874syPPn2yRSTSxCbJzx2mWfmE0FWrEeCbl/taExJ7Fonf1NPQLEapTBRntshugnDKt3Jj63v0M21TaHY9oiM3KVwbj8HcbA2Tfe0WvBXNURU6gM+GzJGd4C0G9TUgjl1+PJ/28LCU5hAEK76k0vQZmCE/mAvle2OY1qQIiQFS+0FjbkviBzu;buDllsUYkA64c7INvDi9Pw=="
 ---
 <p><span>In this Microsoft PowerApps video, we will upload multiple files, tag and validate each file independently and upload to SharePoint list. </span></p>
 <p>&nbsp;</p>

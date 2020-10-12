@@ -4,7 +4,7 @@ excerpt: "Hello, inspired by a video by Audrie Gordon ( https://www.youtube.com/
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Conference-and-Events-App-for-Attendees/td-p/199250
 type: download
 publishedDateTime: 2019-01-02T10:19:00Z
-heat: 61
+heat: 56
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/71/2/Conference%20App%20Template.msapp"

@@ -4,7 +4,7 @@ excerpt: "Some change in this new version. GUI : Before : After : New features :
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/SVG-Gradient-Button-Generator-for-PowerApps-V-0-2-Update-15/td-p/378843
 type: download
 publishedDateTime: 2019-10-09T07:24:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/279/5/Cr%C3%A9ation%20bouton%20PowerApps%20(1).msapp"

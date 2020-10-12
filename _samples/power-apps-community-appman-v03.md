@@ -4,7 +4,7 @@ excerpt: "Here's another incomplete app that I will not get to for a while. I th
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Appman-v0-3/td-p/263790
 type: download
 publishedDateTime: 2019-04-08T00:38:00Z
-heat: 57
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/149/2/AppMan%20-%20v0.5.msapp"

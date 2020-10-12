@@ -4,7 +4,7 @@ excerpt: "It is possible to set increment slider values in your references. So i
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Using-slider-value-increments/td-p/109881
 type: download
 publishedDateTime: 2018-04-24T16:39:00Z
-heat: 52
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/23/1/Slider%20Increment%20App.msapp"

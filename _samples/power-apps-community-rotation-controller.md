@@ -4,7 +4,7 @@ excerpt: "I combined the controllers to create drag and drop. And I got a contro
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Rotation-controller/td-p/254895
 type: download
 publishedDateTime: 2019-03-20T22:28:00Z
-heat: 52
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/135/2/RotationController.msapp"

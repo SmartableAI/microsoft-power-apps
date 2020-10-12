@@ -4,7 +4,7 @@ excerpt: "My customers are always wanting the ability whenever i build an app th
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Change-Manager-Approver-Component/td-p/246900
 type: download
 publishedDateTime: 2019-03-06T05:15:00Z
-heat: 52
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/126/1/ChangeManager.msapp"

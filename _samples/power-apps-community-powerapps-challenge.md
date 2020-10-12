@@ -4,7 +4,7 @@ excerpt: "Solved: These apps / flows are a demo of the 3 tasks mentioned in this
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/PowerApps-Challenge/td-p/213765
 type: download
 publishedDateTime: 2019-02-02T23:32:00Z
-heat: 52
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/88/2/N7a1d163d-5c2e-46ee-bfcd-0f404752bb88-document.msapp"

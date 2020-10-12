@@ -4,7 +4,7 @@ excerpt: "A sample to illustrate how to use AI Builder Formulas for Sentiment An
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/AI-Builder-Formulas-for-Sentiment-Analysis-Key-Phrase-and-Entity/td-p/576602
 type: download
 publishedDateTime: 2020-05-28T16:48:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/537/2/ChucksAIApp.msapp"

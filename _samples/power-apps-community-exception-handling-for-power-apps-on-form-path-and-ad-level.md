@@ -4,7 +4,7 @@ excerpt: "In this App, I have coved the exception handling for the most common e
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Exception-Handling-for-Power-Apps-on-Form-Path-and-AD-level/td-p/695097
 type: download
 publishedDateTime: 2020-09-21T16:08:00Z
-heat: 59
+heat: 56
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/647/1/Exceptional%20Handling%20in%20Power%20Apps.msapp"

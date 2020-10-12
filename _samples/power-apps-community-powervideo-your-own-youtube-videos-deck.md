@@ -4,7 +4,7 @@ excerpt: "An app that helps you watch videos ONLY from the YouTube channels that
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/PowerVideo-Your-own-YouTube-videos-deck/td-p/261670
 type: download
 publishedDateTime: 2019-04-03T05:44:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/143/2/N3b299eb3-6c64-4d7a-afa1-42e1cf545853-document.msapp"

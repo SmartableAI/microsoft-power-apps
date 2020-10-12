@@ -4,7 +4,7 @@ excerpt: "This is a Spirograph app. It uses SVG path for creating a sense of the
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Spirograph/td-p/175447
 type: download
 publishedDateTime: 2018-11-02T06:01:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/31/2/Spirograph.msapp"

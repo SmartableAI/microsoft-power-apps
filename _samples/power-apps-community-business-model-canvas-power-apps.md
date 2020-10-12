@@ -4,7 +4,7 @@ excerpt: "Power Apps allow you to create useful applications for your company, t
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Business-Model-Canvas-Power-Apps/td-p/675491
 type: download
 publishedDateTime: 2020-09-01T13:38:00Z
-heat: 58
+heat: 53
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/624/1/The%20business%20model%20canvas.msapp"

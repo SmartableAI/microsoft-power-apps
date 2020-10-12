@@ -4,7 +4,7 @@ excerpt: "This app implements and demonstrates the use of components to implemen
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Numeric-Up-Down-Control-with-persisted-button-pressed-event/td-p/257237
 type: download
 publishedDateTime: 2019-03-25T21:40:00Z
-heat: 51
+heat: 50
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/139/2/NumericUpDown%20-%20App%20and%20Component.msapp"

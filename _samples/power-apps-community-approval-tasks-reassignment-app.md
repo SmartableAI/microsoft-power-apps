@@ -4,7 +4,7 @@ excerpt: "This application allows administrator to reassign any existing and pen
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Approval-tasks-reassignment-app/td-p/342522
 type: download
 publishedDateTime: 2019-08-16T08:01:00Z
-heat: 52
+heat: 53
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/221/2/Reassign%20Tasks.msapp"

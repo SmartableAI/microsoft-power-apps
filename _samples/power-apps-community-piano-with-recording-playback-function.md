@@ -4,7 +4,7 @@ excerpt: "This is the Piano app. It consists of only a few audio controls, recta
 originalUrl: https://powerusers.microsoft.com/t5/Community-App-Samples/Piano-with-Recording-amp-Playback-function/td-p/183219
 type: download
 publishedDateTime: 2018-11-22T07:36:00Z
-heat: 53
+heat: 51
 
 actions:
   - url: "https://powerusers.microsoft.com/jgvjg48436/attachments/jgvjg48436/AppFeedbackGallery/45/4/piano.msapp"
