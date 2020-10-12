@@ -31,7 +31,7 @@ images:
     height: 3000
     isCached: true
 
-secured: "bMN1WiYJ6JUA8bgoIkc+ZAoiqtkn1nNA0rNZhTq3eBX2AJSAzXVVCBQoJ2GJtqUKyzQZEjjWg+4Rl+vvDHO8tKk4tMdHCFLX9IX6hQ4ujdEzO7eHT452RZI9Y4WcA7Uj907JGdVX/LxqMXUO7tiFZOAl1G9Qk+iOBhDUV41cE9PLCsHjp7lWGzfotAuNYVKViAN3ZcLd2NMaqwOiENH6ZxPuo5CGoCfLfuTbTnFGJH8e+/YGaAVtOn5Ks3JN2lNAs//rAHu5KlSqbLTzs4bIQ1gCesOaGMcIEx7/Uhq6L3q41sN6mO2e7ciMsFnAtUHGtsuwshvPkKoDLI0EhgrmyXCDvcxuprAa0eA6FTtBx/CvVxuX4IDYUBAkZOBRl6qqrcz5sLmLXlA4XPkWkx+/jw==;LTLj3XE/r+OywxKURaTVWA=="
+secured: "cKciaJ2m1O18YQJevvspzttRDNrsRrpxrZz9eDCEMDEqYOXlFj8du6FKLICrMBEAyMbNOYniy5Y1EtBb6Vn11dZf5mxSSfQxsW6ullPy/Dp+GZghK5pCVdylCVFnHkiunhDXhER+ZfEHwNgUeIJfVaJHmxcBdjFEqzBVF2nOwxruR00OXGmIUy/LVS9ovo1d6QyncFc7xPZTp1J5vtazfEwWRc8A5kT/cVZzFz8NLANptZj9m6+QjBbH4+T1VJswXwT6ieYOs90eBPkCuhfgnHw+DqAHwVCGdnH6ln9uPMUcEhPOrbg86ij+zMLh+8UjenK7CjlpbwC96CxfRx+NU7UlY//BONI3aEYXZHKROsiTIY0tExBWJjrARI7lT2EG0GRJ6ZMkLGMbQS2Jxt/xpbiJdbFH8r29oiaVv922E97VjFI9PuvXsGgxOV587D5L;r3/t6oL98DAK4tea+T+zHg=="
 ---
 <p>Translation apps from the app store are good. Microsoft translator has a thoughtful UI for taking turns speaking. Google Translator has a camera with AR capabilities.</p>
 <p>&nbsp;</p>

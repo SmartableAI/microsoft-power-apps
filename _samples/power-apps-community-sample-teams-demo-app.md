@@ -31,7 +31,7 @@ images:
     height: 749
     isCached: true
 
-secured: "pZ3VjRMdKId0e9IKN2llSJ9w6L854sStywuCVuEkbTNDLTRpss8MIbLntbSYZJn/EZcZaBgDhwd0d1StkHzTS/NsqM2KIjQA4q2RkQNGKg1WgRfkFdXEKbXw0/4thIXYiiQnRvneNeaBbCRgxt5d0j+FLoaqHCGOFpiHOzmkS+bMF4Jt0ZD7VXQjvu153yTfgw74jkq9d1W8hTr3jrSgILZSJ/pfDukhbVwOiZmGEFPvQpWVfu47XHuazpi/AR2pm/RVcVFdRqyvnYphmwr5NAT6DDdm24g22kGWLbcZfZU6iwK+oCOeREcoxKuMdWj3zDpNLUnCJeq+gbWMHllG74ATfxapt8be5TiCQ9fGq4D6gVHDnMOhUalNhNwb/xYfunVI5aTb5+LjNKD+x1Ib0w==;27bo/sPb0mjLvL3RXkiHbQ=="
+secured: "CqWFR/HsLnQgwBEDD3TBgVnbof/y8eZTKyzzsQatbXt0B8GDhrF5Jwwj2BG01wzjVfiyN/KmRbtCPUwOYifDbY7AeYmRHwSbifoRsjU50Rl4I30wnRvIPxfnIWh47eTzcptiheFDz2TRAvlEQmoQST1RaGAkIzI4AZEDeu5NwCgwFmnXfo/zVQfZP/tEqbSC/ymDojvBcoRDU6J3DtxriM+UZL/oyYy3/XjC67u8NB96YD5h6cnKXBGvvxG62QS/R26a41qlfbWOrenoDarrvYCcUuNde/xj+8rIJCtvmxywaIVegjpx6osZI8dnXFOG1llnvGerqUJt8FNcCLM1qDW1Q69OlU2IJkGAWRVb9mUXwSCYp9wULvZLefaI4waz2rmc3wkGXGLlRTIwN63pZ+xVIPbUJ370nmYtOTopEaRDQ83OIQ/6dz2jn6T6LXm+;2dmPOqYx7YTokaSSYx2N7A=="
 ---
 <p>Join this webinar to see how PowerApps and Teams work together to create more powerful business solutions in a snap! We'll show you how to leverage PowerApps within your Teams channels, and give you some new ideas on how to leverage these products together for improved team collaboration. In this demo, we create a business scenario where PowerApps helps facilitate the creation of support bridges in Microsoft Teams directly from a SharePoint List Intake Form!</p>
 <p>&nbsp;</p>

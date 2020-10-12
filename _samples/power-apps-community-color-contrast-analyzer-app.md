@@ -31,7 +31,7 @@ images:
     height: 2208
     isCached: true
 
-secured: "AknZQNlKp6ZuEDYwtQdWGU0HXq58/ONnST+jRuYnpFeaBW7Tg8SY+3kovWf9sLLegaMQDFzRqEhaohkgWjORBRfLKI0RUqYiM2pXBN9dX0T4KG6hClehJIwQb8pL+HfbXMeSR1D5EevoN/Nf/UK10JKw1M/WhsjXoXU6NrMhk5oc+5XayvbGlnjg3XPL0vosc5nd/6lLkQPdXrbaMFeqR3KvKAYA6aSXLcOe4MMKenVmHffZQwFJzhTKWKlJfN5CuDMvQ7eXBtdUsuBDFzm9RvMFrNZAjUUVhOknMIykmeR0ae14c4TNFv6Au7T9qtmDZfEE4Jfw9T4lk3SpzlMTx7Yyz7yigc+CFavAgdJs+TurcKCrj7UrL3hf8Cz/hjtSSoK5MWBsoY1xt/Nm1zBexQ==;tWrqI8smoc6pLy+mP5lfVQ=="
+secured: "kbwL6WswtKM6m8W40qA1szp+rFReKbX8CVbYguErUXSO9zk+ibFvbJI6Fc5rEHfQtR8G4KfvUVvkx8nYni5M63yzAngmFlzrXUw9aTJm+1n68gqs987Vf+ZZL4sG3lrbFd0jmNZHYMY9d1Jibgdn8oKWugOb2mXOrleOEpDEJUc5QXfgDqZMWHNRtt8qkOS/YtM3d6VGUuZhBBcXcQC6F45Ajw8KlA1jV/Nm0I/9Qhg07T52+Oyahpgy/HRwpYQX96ZJQDfVsIQSfDlpm632gTHs47RP0LF+4Hk6oS2M61n15GZwc2t+yQLC0jDb3UgRNJirrUDcgjBvh/FseQm3s2+NEdWSK7HREl9XPdpvHVY4a+UWCT8x7MSIbJCtSDeGCL4QMxEp6M/XBXm9anlQ2Dnyjlq7rr2tbKHmU/AW7gTQ4KGuCKf9MPE7MDjXRUW5;lts66KOjMGeona31a2HJbQ=="
 ---
 <p>This app is used to measure the contrast ratio between two colors. It can also be used to convert between RGB and hex colors. There are some helpful links to some Web Content Accessibility Guidelines sections that are of note for color-related considerations as well as a link to the WebAIM website which served as the inspiration for some of the app design.&nbsp;</p>
 <p>&nbsp;</p>

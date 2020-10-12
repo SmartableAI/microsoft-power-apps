@@ -31,7 +31,7 @@ images:
     height: 566
     isCached: true
 
-secured: "+ao3bccI+UsQzAk3pfuuGlPJOI3rHPh7S0H92JbwNEpbCAA1ILthSzAIjMsAq6B/VjRnRbZbahOBh4yY1M/abrMofbXMztBX3L/OsJo0TR2I6NWXzYDJrNLdtqjiv+8xJm58UCBFT9JS+S4WW6DHgORj9ru8j5DA/GYp1+aTDQNnfwVPPYa1pXlNZDqd8AkRmCjQUYK+2+ln5sTCHW5LfALcdKkb6FsrjHHcVcw1GkvKX6HdW5Mwq/nmZXNL2OvEvvNg4UafU1djcePEsiUStC/Up0bJi6cQSQdDxKRhZ7fHW4IRcV5dWdN6Sy0E5KVtm8Uwp5Dt6lxm4hatmQFl6WPCeYR5svNY/1jOQqP+uf7rJY9z8T50+2OjEpKov4Sy3/+Hvnr0gZ9ZEhqsAvlQ5w==;DRWv6kvATZGK4ipNjygc6g=="
+secured: "zv8XshaGimOiHWO/ZdloKZUmr+yTam2JYuVIf3Xwmjdyy5oWhUTSgdZVhIVhRxi/vXcXrTBA3USChQhos70ySIJvYQo0kwq9nyJCm0Q2opNK8YtN0YVXfA+SIXA7msxwLquCXqqNkBYO25otiab7aNUcx6hcuJJpCcJx2vQ+AY047Mv3Uak+UZI4PEYwLX3JIUkzdG2APjC4Q4GFqbCrZV2D9eYXDlCopNmkuT7hSlwS8L7pqObjeGWOhMLRwnX9NBhMFXTa9rnzaXnJ0himArTbSngfP1DJA6p08/fw8+TBTgZuY0d505sYFyvRLOA7/z7LX/9sIiM8cTaoCq6nDAoG2cAx1DlbqhwpuWWuCMJfFzuYQ+kZdMuF4SQJU3dnPUHLcueNFJsAE8Kic+1gJwDr/mXDrxwynukRhWtaFFmvb9K5E/gUSDZ82UGnvEkB;g49fY+KWhMPXg6HYFaWL2w=="
 ---
 <p>I have been working on an app using the App Maker connector that would bring governance and support documentation closer to the app creator.</p>
 <p>The app will show users their apps, and allow them to check compliance status and submit a support form.&nbsp;</p>

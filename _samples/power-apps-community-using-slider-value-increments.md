@@ -31,7 +31,7 @@ images:
     height: 855
     isCached: true
 
-secured: "p9zcZyAQF+a4wbEyYxRKJmuDvvovROQzTqm5T1UjHqq2f4RwXmayEtgQfZgEeQZh+tkJy5H/uIEuPHYJQEeClFCRd7dnXaMlg6Y6pdJnUcTUv7lcGBOgcXznphQpsbQr6/R3svCN496T1GHdHVyXMMUt25xtDP+mpO6swLQQVan5BLBJw6VdkY6y6HRYu6p1qN5IcGL6+mwrR1pgw2MQAvX8Z44nqxOfHx7QeBLWV7vFYQdVQ121svI9IjbYaQj6RY8O8Z2jZmRbRpbRS08pgKX9hZdcls6K2KJnjshCxc+lG+gKKIArRXHh/B8fCJWC/7Xglr4jGmNAlUTrXIKUBZf1B573P/LAjKoUcmV7wqHvZzlzenidWvwGoIJgx0tk6EiLOUjgnQeQZeToxqrNxA==;Vo1387zfpDU0WB2X/jMPQQ=="
+secured: "rvL06LDN9/hGBB+Aa3yKtZo1ZSw3M1uW5mOQjjJcSpBNVzdF0VnlfDK5ktusYWAMtQ7dIvKdTw2Kiay9WIUn9RmSvZ9OiD6srmAYfeoVJlTkhErJVxb+HvnsV7dSJ9J+1fZq2JOMdBgcQwVP2ESpCwX22gTTeaDu2a1zRhEJ4bMe+C880KtYroxz2+4V/d3Y1hNcifY8NrqxcnM76shslbMT8a4fvxMUhuyN0lPidfiuKxsGNgNehjsC0jM1dJNTDCAU3myg0c4kmv0+o0O3ORcRGHHTFedWTcy3Io+Mu+lODHzL58NTO9sh+y2D36HQKu3tHadixi16iDRF1DpwkFMkThAfJ4PT/fwOGJPS66Z4vyjzQ9AX0aOc7pOSuYxACrL55Z7Zfz4Tu+ivluedhju7nT/yqEHYjcsVnKdKzi+Gl/ikY3knv4MDZfF0LSug;6YTQ5x/VwIaFp5apPkBTKA=="
 ---
 <p>It is possible to set increment slider values in your references. So if you want the default value of an input field to be set to an increment other than 1, then just times the slider value by your increment.</p>
 <p>&nbsp;</p>

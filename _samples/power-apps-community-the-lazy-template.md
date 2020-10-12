@@ -31,7 +31,7 @@ images:
     height: 386
     isCached: true
 
-secured: "xxhqbYYDxl0jgwHI/ZH6ygzi5M1QTFB7oX7wVhEIwEnvUJBtHaIvAcUB/3pPXTxJGmyg8x0focjQeeiJ7GFTpE8aIXK7qUt2i7rm27vW0eQciInxeWFMjK4szpwewoac+4w2TqqH/Vt+bLd3v/71Hvcn4lwBX43QqAc9pkXmIICb3Mz89qvO4V4ZewbkNYUX8m7VNfEvqspevWy5+x8RojZy1ZczwAovbAnZtn/9XhwojnpyypHNwX8ZkwGL9460lrX/VzuVLu/Z5trkVV45W1O21EAJZkst+G2RYfBHEFt4dj1AsWYld5B5oRxyPTPD03mEztycpkyQAmP5dkuvGz1xktYx8De7ZlZKMw4NUCmdpf7CwPCVEI+0q7gTkGv2VqsPMbvbxKK/7WUINseLJQ==;JMZFO8dCDl0C2tbsTWUseQ=="
+secured: "YdDcvqRaQylghol+7iXH8Z9bVXZhvSZYpno7IIQ16oTdqZF+FRDiWvVFpLO5t4uBTabuFK/U9YCtR7voHZS2N/Qu15wa7sjN6YsJT1mtTWB2gzmy7eGm4WproJXHTZOKNjhfYmYs7nut3NIIARDBt2vcJOF+iJE5NQJl/nv0z1GT+atIER4TnDBSIw0hUpYVMub7qnoXDHFLipFD8tCWmm7QwKXr9fvo6ScEJH3XNdpfNkEBmRYe9Va5gRNWkL+cLaniHfThcG0TAEhWeehKQeUsnZ5hOhfMWdNW3ShA7T0I3aRrx3e8qLip+LGtrmNDqSaDPKaO1TP+GmgGf68echDhCunSN+Mnh6SHliqAyBttBTUYA2oUvGt/jUjMI3Up+y+z7v8QZb++ko8oQJP4tjnDbAITiI4MP0Am/RigKqBWp61nSQK5V0LHJV3wfuZf;OpkRAb+pCOyCUkV/6mzN6Q=="
 ---
 <p>Here is my template app from the community call on 17/7/2019.</p><p>&nbsp;</p><p>The only thing you need to do is to put your app id in the marked space in the onvisible of the template.</p><p>&nbsp;</p><p>I would then copy that function to the landing page of the app.</p>
 

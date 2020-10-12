@@ -31,7 +31,7 @@ images:
     height: 926
     isCached: true
 
-secured: "ryTrN+UZ8pVj0y2UybRltxdc0BA0OCgq9aB2DY9jF148W9AeU2wIIwhTKi8INMEya5QwL2QYI3DETW6d+tsAd80ljqWJdmx5XJmOvjB/q9bmAsYeZkrrycgOubXhfLTbyxBnTmlGmOP/MaqMgHG2EnTuzEeWHOrB/dd32XDSU+sbEB3WOFZtFqssZl386dKcP0zs4OAsoV93wF4/zsRml9K3CnaCgOaXO/8xsVw0Y0Aga0wTdWx/c6SLhumY7UKk5P3mlR7nry20yGpln8tpL/aAeMpeuuasJY1dnKaGcbkYFCxA6iT/XRCXru4rThwQ/sRu5qJKWckOTJJ0/f/lwq4gZprPWHyC4XFfGUNybCLll3T7xKmYPq7HHTgGRVS50LyUx4rtBaXM3+iZlRsodQ==;AOy8zvW9io+ov2jKh0cDQQ=="
+secured: "H8sfJVDDef6Ma8YrAz42blUhesEpz17efMszyzt2aH7VZSDnV487VZUW8Rn8kp2V8rzu+fHq93fHHvlJwDPH5uFM0Jye8n2GjAlUVcN6yeX+73WHmhWA9jOx2PKdMQyg7f6lGjuVWIOY0V5b8jz5+kJAADjwCnNw5yiPZi2mj/odnIuyL0TfKyJMoEf2Me6iw1naZ+hQGsnr+poNpZdKDruX2qzs52xDbTeq3lBDiUXEH/ZZ42u4gZHQQqEUYbQOeJl589DsiGnhL3mzaijvmCpkez4nFLc0lc0zOyWHjwxslUYdoTfe8X+ATK3DzG2AGGJz88zlW5XDpn193eLIO93qN9EcFntfiNiQSHqqOon92qs5AMrynD7/MEQqQ0KiyG0VgzDGIfoskjNiesx1x113AR/nYX2RmuTdbr09EZH3SXLEE2VrUEOdi3G4oycF;Z0YNUfQ0k9QDNF7+yXYSeA=="
 ---
 <p>This apps is a game Santa gathers presents.</p><p>Let's&nbsp;get&nbsp;presents within the time limit.&nbsp;</p><p>&nbsp;</p><p>blog(<span>Japanese</span>) : <a href="https://qiita.com/tomikiya/items/a9095bfb74c9b342bd0f" target="_blank" rel="nofollow noopener noreferrer">https://qiita.com/tomikiya/items/a9095bfb74c9b342bd0f</a></p><p><span class="videoUrl">watch?v=ZTMoB74P7sI</span></p>
 

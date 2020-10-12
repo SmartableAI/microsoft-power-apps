@@ -31,7 +31,7 @@ images:
     height: 633
     isCached: true
 
-secured: "86N2zhk7/ky+6LISnAlXFTNA71P8yHAW8ufyg+5wHZQPHlTo7hVpsrM7QHYcgdjvLwkBtYIlwGyP5GhwV7tSzI+Gi9dJvtW6Ah+wxqrnTrcA9wFXqLEvxkOuHZpGZW/dF+DDEPNZSEbCnD+p45h3xbZU2EmnfJIW6KI4Q2j1+FTtBgd5tZpqYAp0vr5aOxOg/o9WWhLObP6oxVlqE6zIb61+s+cieKnWR56chWNCCH533HHqUs8JOy/rb095+TPODv8FQpvxuvOSneFymiCfGHPigSlRkQF79qQSTrK3cuK1fNUkCR9HrKKQ/8anwl8KLPHngwQSjeDrV/JXQmedwM/3qGj02VrP1yS74wqeiEdXfD73tGEQwliBaevr7Vkc0KMxfhMXCm0hC0RE3ugVTA==;Hqwmkbnm88A5E1URDYAK6Q=="
+secured: "23pipkhpUTHYWcAAcGT9diDeIBQbpBTvJURJpGR4MtZPTSyg1mAZC5lkAvkA5aYfTsOR+IjqDlz6hRR610lciLpn0gS5ry7WnUpePMnj5WrmtM4GGLPeu9JtpxfZk6fN/oR8JsAYVDHZBO+xvV+HmsFgt+gFjgMyEskIjlZavh8r3E2K7Wf93p18sfJyUoQo9U//76ac5WvrEx1OjczSQ1npXi/UPT8GoBOdtzjToTEMmXiBSpJRnEPDH3xxhxWB3lQgwdrvoQG9cy0LY4vxRfzhFse17TGQwnuGBC1IosQvVrAHQyksaKfk1pFscgE7ODwMpGhgIDGqp2psEPRfSpStuVNyOAPC+feptkDieiWv5JXBLTQEFhbnizYvwZm1BsgWhbWS7/IPvSMkykN/jI92jdT3P8Yt6GL01qO3QRBFLQVx1eo0w5//pSS2aqSI;S2FKQq18VEJKO2mgPgQleQ=="
 ---
 <p>This Apps is Rhythm Composer.</p><p><span>This Apps will record your voice, music, sounds for 16 channels and play them sequentially at the specified tempo.</span></p><p><span>I made with reference to Roland's TR-08.</span></p><p><span><a href="https://www.roland.com/jp/products/tr-08/" target="_blank" rel="nofollow noopener noreferrer">https://www.roland.com/jp/products/tr-08/</a></span></p><p>&nbsp;</p><p><span>Your Enjoy Original Music Creation!</span></p><p>&nbsp;</p>
 

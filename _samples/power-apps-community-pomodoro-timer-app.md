@@ -31,7 +31,7 @@ images:
     height: 556
     isCached: true
 
-secured: "s5MBEBrjbeP7wMrr8lyd2mg3V0GiAj78u2FR5TacYoyTUxLPVhZuw30jgHWqvPgXoTaUBALoPox6lQbwy6BRxyIaZAD+c9ZdbM19stlZzH6gpWb3WXAO7BCoNv4al5R57+xCM0bwKaowmecr1QHHFWoryYFXao1BxJakIg7rB5/S2p6QNNc+i9a76vElbHUlpCELD9n2YwXnCag+ho9opJ9YP3n/jQryYB898675EW8IZVFKOo96KeODalnG6sju9kzG2nSksSQbpn8MYN7+XkPcl2RrHQ+x+FTLPtnwXGZjY1qIuYR8cimcNy1Gl4dVKtrZOd+faY7MnXsFhMbNKr2sNSjtlO//SIOHasuaa/6oSfKJicbw/Mm3LQasyJ3peRb2Eedk7wfJIwBxRaQLJg==;OSJsVmV7dHUabdQBL067LQ=="
+secured: "cRahRakGxbtMa8Mk1MPkWXiesWxQmcSKFonIogIip6eRgucJmOYpdqjJ9aSq5CoHmAMuyPSMP1w1oG1JNEt2RODX/MaF4vn9kCBfgGABAu/r3t6oyABQRvGEedkHc5N8IbqGEzU4YBsF6VokHU0WLYb0rp9nnxcf1gFfyAKD+V5YQ8YU0MXKAFzi0AiBaTkEUmbvpjkwWiALTLqIQVf2hPPVG2SiUBlX43Fir2J3OJWZkg7yDWDRRamWYSDRANzIqIOxW/US2OYeCGV5GGbf4u6tpYgOBLdzF05sjUUAIlVsFZjrwzNVePgR0qmH8K7bQ1cRt/4zip1CE8DAQ6TrTgWgOOmobckWMvo8Ld6cnuwgB/2iaxOrgNtYnQO5tPRDghKFvpGK7dWRv2cUtZI31bXqitIn3GR28deyyCRKx4qLLF7BlE4+CFae0R0SgHE6;fBPWyIOj4yjh9xdmwESO0w=="
 ---
 <p>Hello Everyone!,</p><p>&nbsp;</p><p>This power app was built to check out features and what more can be achieved using a timer control in power apps.</p><p>&nbsp;</p><p>&nbsp;</p><p>Main ambition of this app is to&nbsp;</p><p>&nbsp;</p><p>- Help users concentrate on tasks by setting task times</p><p>- Enable toggle timer creation in power apps.</p><p>- Utilize simple components to design the application most effective way.</p><p>&nbsp;</p><p>Here's the link for everyone to download the app and test it on your side.</p><p>I am also adding .msapp file.</p><p>&nbsp;</p><p>I encourage any feedback about the application.</p><p>You can also follow me at <a title="PowerCards" href="https://technostack.co.in" target="_blank" rel="noopener nofollow noopener noreferrer">PowerCards</a></p>
 

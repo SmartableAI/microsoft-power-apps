@@ -31,7 +31,7 @@ images:
     height: 720
     isCached: true
 
-secured: "kDjf2VApvmxtocbDFD3ExdV5A/dqOPbAjRpodgcraIE1Nr/HjUYbhRC8YYdQdhEppQhNr7lP2NKyTNJXV8CXZXXDeO4RayW8tNo2+zWx0gfJvCraeWzPTSaE6FXidn+hcQf9gpnjKzFlxQSJPrCMGxAePU/Yc4IBuFZE/oHnIyWsAFM9HdZwjyOecHa0wMmeUWoqqZAZJvCqRRBAoR1fslWasxVYOiDPKLdklQ9Uq98PtBUXH3s+7P5uptQbX6F2iBYpK4bLuv+In+oB5Xkh7lm4NYth6NUOHn+4RfgIb74dpTjp9jZBqSzeiqwW7RbPkxiPY53daadi0bjq9uz3+SJjiGSVhpl1g37g8fGLlcPin+rIrZagMRTD46Lk5aOtGDARTN0nDa9wW7FlB60fsA==;gIc2jmC6WtqZw4pyJBMkMQ=="
+secured: "rWQmv/B/Z62hzopHEzbkN5xF2okx6a0O/1IitDx4FcMzngjMz88A9uH4qIghWE9xcF8ik13dRWXBMmUpUxmJLJdEHDkOK4M97rSRmduwzDkNZPxM8xpVPeQGZWgsnhuAQbc0QMahjUi7Glfz7C5qGrDx5Pg3p61QJ+itr176y8VkRVm3fBUxJKwsdSAXf4WYkf5Kib76v60hRHDsvYSrolyFykjSmmyi26C+pPJ6ZlQqIdabyjT6BTVyPPNIqx1twffiPSoPbXapyQHMIu7kE43LDEB3i2vbRWO50ttnZTtQGYoMXd/L4jWV4knmAfu7gyYoL4nYD4D1IOz3AlqjL0uRdokHZiP6xZuZxNUATr5TwDCQ2onRbvQnqLFf/ibQa4NxzVhJpIOwJoZzglu589J2gq0aphEG3BOEBHFoqyLnU10ewJ5zLrHxTbWUz4ql;qksHjnX9DivjK50kdSJzaw=="
 ---
 <p>My first app I'm sharing is just a demo of how to create an "analog" clock using the Timer control and trigonometry.&nbsp; I'll be posting two videos on YouTube.</p><p>&nbsp;</p><ul><li><a href="https://youtu.be/HSsXjnVM0XU" target="_blank" rel="nofollow noopener noreferrer">Part 1: App Overview Demo</a></li><li><a href="https://youtu.be/2ezlCJATPgY" target="_blank" rel="nofollow noopener noreferrer">Part 2: How the app works</a></li></ul><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p><span class="videoUrl">watch?v=HSsXjnVM0XU</span></p>
 

@@ -31,7 +31,7 @@ images:
     height: 510
     isCached: true
 
-secured: "12ftZqriJpqGsjA5fPq06fqh3u+He9CVKhZw57XTGiUeEytupL3XgqVZsSHqpxEWN737yRcaY+Lmhe6dYDR5Q49HMYU1VkvuT20YmWYKhGkydw9jXqUfUlLYVEJ/XPO3Qz3Y/jlG8OvMTKquuvx9OyIOBBhXNaNvGRo7Nq5Sm9mzcHNGngENlwtnMCyg0NkfqqihoqhKzTIEvOs9RF7RbZ6JGZaDaDg38RWA3xNTsnpFUPZkmvDv01CFUVf1HuHiz+8rlKcr/RxpSx/grDr/YgThYRyhJPw4BF+nHVHHt0qe8MGE54JVmx1aHue6rT+j90T/ve9N2D9LkqeSvcxrJnG5CL2cTlbiSeZRx0MlDqldmPlLQyJ/Id8RZbFQ1AR/YC/bk/UO17C3ajQWIR18nA==;bJJ9IHXb5BzAFQpVyMiJFQ=="
+secured: "7Gwf6KYBdDP7EnrfnMEXPojFddt1VTbpq4l5++5wYsRo7VEIylfieFLsFt7Xl74GJ3AaOx0NThard38RdNu0buh1624h1E1CqdzEzkihsa/r2iucghC8QSmG/XQTja3gqNk5BjOazsSsJuZJk+W1uDvx+qzuLhgW/SC/bu1i3pjS8lWJLDcHsswEyaQgLukpzSTZIWjOGu1eweit7hIZrc49c3gn1YqYAG3r3x8V5NxpKeJmCLsVmnhRwbCdVSFLV899B2Qxh0c9+jePFOU9SZzDNQRKhVWhNLvDFFudT8xlgLnh7wdlBiqHAswGPuasNYrnes1HIu1yFoUnQ0aXxo+0hc+KYDIqkXi/F/Kux+7VO87M6HemgGRbQPbMFyVoecdVbMXJCMrUksw6kNOMonh3ykpcizRLfVlOetqpvpxqdDGinRf1vz9BDbxMCris;8S5TYH4sQOQ5KPl3xmlajA=="
 ---
 <p>This app includes samples of animation effects leveraging simple mathematics - Hyperbolic Tangent</p><p>I dont put comments in the formulae, you can find basic functions for motions.</p><p><em>Heyperbolic tangent : (Exp(T) -1)/(Exp(T) +1) </em></p><p>where T =&nbsp;factor * Timer.Value-constant</p><p>&nbsp;</p><p>Please let me know if any questions <img class="lia-deferred-image lia-image-emoji" src="/html/emoticons/1f642.png" alt=":slightly_smiling_face:" title=":slightly_smiling_face:"></p>
 

@@ -31,7 +31,7 @@ images:
     height: 951
     isCached: true
 
-secured: "tHGPZRPF1rHgUxuxXjmfFkuaOL0F9ZsGt1s4BlZR5OEHDsotRxykpB5AQZT5jqLWdn39eA2vdVczp6MK35cu7suw6u+ALYSs/VwzuAknI4MZu7aLIvYFxZGv7vQXV8v6EgA1iq5CuXbG2lbQxpQMDT+CundIAV3OjbGGHda3uQorzDmRM9GoY0lv4bY3wWxbIDMRXKEvZZe3gvoPAFovu7gOOoWexVhOVdTrofOQ+B6EqDrKYPKU381GGIV1cFLJqpQl3W+qx4fBDU7oswn3N8291cpL3/hFwo0d9Eu8XaszAV+t1NmB9rcQKA3AmpZ6/OaCUGMCbOTWGHT1Jf93K/k5LqHHTQ6W9BxeWzz+LrfulL7zXra87RujWwDAPJ7EkEajXaKwWDZ5r4RF3dZi6g==;XU578WjdO5p5wJrBKjhRqg=="
+secured: "qwZ4Zsjs9L+OUvZDE4LfvUD+6Y6xtRQ8kmBWzm+79ZpzKGfQPtSsFA7lt4KEEi2Q8l4zEktN8lBfEEWgCn04jCPGUHqfGeBBWySBDVf65RJasmTunkl0VBF5uoagXIikL8YTuvxWpe38q9RNKHzfw+L/hIMw903Lo5e8AZeaLULMIHfxNPMFCSBBfhYsnOCemd8e594826YHgmxb8sWRsiQBRbA+ZnB82RGOXDaPY5w0mq06NZW4ZMtbJoHZALO57XnXnwvv/Lq+FsE6NsEkaA5a1y0Vxb8wYwQmxbtWadpgb4P3gB9kxUQ0DHRPxhhpcrJsb1AzOe3xhTjtCDTRHn1Xg7/L885LDHiDpJk80Y+OcIEWLMPv+Z5ahr37tRvK7UPxXMhe57EkDFB/BOHy+fz7miYYQH4dag25ZIRXnXWhF1hD/x67l7Pt+aAJBpbP;Lu0Yo+C2LjsQC/evvN/UrA=="
 ---
 <p>Use this app to share all the sessions at&nbsp;Microsoft Business Applications Summit (MBAS) 2019 related to PowerApps, Microsoft Flow, CDS &amp; AI Builder.&nbsp; The excel sheet (static data) used in this app can be <a title="Download the Excel sheet used as static data in the App" href="https://pahandsonlab.blob.core.windows.net/documents/MBAS_SessionList_Data.xlsx" target="_blank" rel="noopener nofollow noopener noreferrer">downloaded from here</a>.</p>
 					

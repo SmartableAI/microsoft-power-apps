@@ -31,7 +31,7 @@ images:
     height: 565
     isCached: true
 
-secured: "Dkva00Amdguaf+0QxdUWGGYau4vu+RfZoIFl7J5Vazd1ipsUnzBhY3Cm6Y2U3JNxgLcPsiXo1v/LcEcjOJIZdzD5XkFJYCVW8ZzA6cQkiHw5OsMxUxOf3vkusmb1IdPaAOQjQFm+KBh8zlyiA/HRZu4NerbS3DYXwdcaY8OOQztQHb/3CDNRGhQqZ4uNoaQNYBADAWDDJPcZq1ZzKFwS6vLOug4pFk3lnQgqBrAIlfBdSSJkL1uy29QoBjG5hK7n6rnoZhKK3hmqozPHcebI1FtIJ42sg0c8hdliLsRpZaIVmfB9VJSYyfXzCNWrZq6eq4zv0bK42gf7tHs4SFxKGRLwSv66QFsw9OLejM0oFOfvxAPw+Hn17iITrZZSKDFmxSKFQhVixa4Gcf3xGn2cNA==;V4f1TdAkYDns+UsxhcAZOQ=="
+secured: "Froemc8KSBqv1yReSQim/ihwCkIrbUx9+M7liWztkTTaI66eLMEBvozcmXuMXEvDFl3oe+om0hkFMN2d4hVJ5/8autSPTZPZeOtqkOl0wt2J7FuTuChMfdmRY3D8FvD57uCOy/hQvQ65mftKE7x9YqIcW/w7ROVstQH0tYUxbIfTJU6LpGaGUVBKmxluDa8DbBVUcm0osjisdvEP9TMLChKZVPwkdDoaSnvpMe9RLIgRB6vGOfcffT83704iXxXiysrD6TpX890T9lWztvG9bIDxg8X/3N6FuwnBrY0Hf2KPo4kzhodCfvHygsF/TLQCngaYe4ben3tp0KIVcGSLvd4iz3DWRQgX1R90cCRHMz+h5U1pFjq5Zenr1+0dUyhG/IAoyRTHNXD+OYXJKTAW+fSDnHe8fYz52liqL1iUZafkIZjydH8P2XrexfWOKP/L;6XAHqonk5eMOTgVk21WIyw=="
 ---
 <p><span>The S</span><span>h</span><span>outouts PowerApps Sample Template, enhanced with 'Like' functionality.&nbsp; Watch the PowerApps Community Call from January 2019 to learn more about this PowerApp and how to edit your Excel sheet to support the&nbsp;</span><span>'Like'&nbsp;</span><span>functionality.&nbsp; You can also&nbsp;</span><span>reference&nbsp;</span><a href="http://toddbaginski.com/blog/how-to-add-like-functionality-to-powerapps/" target="_self" rel="nofollow noopener noreferrer">this blog post<span>&nbsp;</span></a><span>where I walk through adding&nbsp;</span><span>'Likes'&nbsp;</span><span>to the older version of the Shoutouts PowerApps Sample T</span><span>e</span><span>mplate.</span></p>
 

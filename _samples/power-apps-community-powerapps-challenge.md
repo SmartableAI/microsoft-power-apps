@@ -31,7 +31,7 @@ images:
     height: 757
     isCached: true
 
-secured: "rY9xhba6tGfm2Z7cZQP1l1K0eq1R9P5aTHd/D/Y77SMYvL1B/ACUHUTekpyf1jrTfDAt6EzntrtwpXGoNKwY5aRV2idWXMH8Oc+9G26xFQPVpBOUP0evtpvKXi7QCLl7gnfYuE+vfMaq02+tywDUp7wguA09PcbjCJm7AZUNe1vqAsUjZI/FDfmLIUD+mtqxLrI7IR8B+jZN7KPh/tbfvpJH8dV+qVH+HcRkMdsBC0mpp+D+WWT5N8bPtp68TIwHU34mlKs4WffGHWTqPVhYdc88h0wJRErOdcCk70F8YfkyaDSMzY893TAhCcsS/toFSiT+6XVXGR8HckmX29gixlY6ks3KIBkwaSSYd7xHzE1SDw4YOx1Q4HzfJjp/Lscm29vPE6Lu7STiBExqJEnMuw==;cv9lio6aI8dKq8JFqIFAxg=="
+secured: "4Bnn9hmQ1w0h1DGUb2pYMCrcC/JEfvieC/fnGz3jZSW3lUMr/IDJjcxBmpyuPOwtYSFGgdypv9sbOP1KKErXWdXcZnN531tYknnLBLQ188W15GnQI5ryWUBQL1ujxIDWUs7aWLaNVEkzCYsxlcPOD3ZKiliBdECN7CLN8FN2TbwqWCJHGMQSvkLbYIHk+0YTrcIY5zXTOiwamlhgX8XW46kgieoSByBbBoB7243yvnqEGvkcrV6wM+zUO71nWgs7hTY+up66kuDYWK2UbdBu39zZ9EzFMhXSz1kv542GhpgYvHBpg++5kCn8B+y8XhkYfv4CiEsUWMfkH8qRRYGyet66SI9OOdAOtvm+eGHM9Ej7oBZ+dejbYnmhXCrDfmnlN8s2RqPsP2IwvjSrylmRNPzMamzTa77cdLysSspD4sakZleieISQLV3E+9pkQRSp;K/rcq85cWr9bfDWi9J8zDg=="
 ---
 <p>These apps / flows are a demo of the 3 tasks mentioned in this challenge by Audrie Gordon -</p><p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzJVkDds8yROvOeWrHDKUXBUMVM5SVA3TTFFNzZOMzBPR0pFUkM0NTBYTS4u" target="_blank" rel="nofollow noopener noreferrer">Challenge Details</a></p><p>&nbsp;</p><p>Challenge 1. A PowerApp with 2 data sources such that the user can read the data but can't edit it.</p><p>Challenge 2. Tracking inventory of PowerApps Swag using Flow.</p><p>Challenge 3. Saving a photo to a Sharepoint Document library using Flow and adding some more meta-data to it.</p><p><span class="videoUrl">watch?v=T7aLyuEwmw4</span></p>
 					

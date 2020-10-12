@@ -31,7 +31,7 @@ images:
     height: 755
     isCached: true
 
-secured: "26Z39LTFBBgFGO6ergadVL6qDVK4CWo/vbSW+h8C6HiHDX0Bn6T8saBsGR3gp01ElsMW1MQDmp1WVGXSbOcSd5qTGIxuyyNoYaHN9FrX2Twnp3rHqmLADxDX5NZMXlHK6d+Isx+x5X9k6N7hywzAagPepyGAXn89stGvC25ilSFtskxJE9hdB6mGCEqD9aIus6JnRc0HNY3AbW62w/LbvzpZY4fGScwc48HXByLCuqbD5RnILZdBhZgd2LGFcdeZp7Sdl3i1jIrV3N5UrF1Rn4njOwKKdbzJZcb/EF9fEZQ1PRnrskvDFksCNp8CtTJC6lpDLU579diYLGnp6w9BkAk1d0QWsT2KwuxiF1C1gy8ys5rTfGzG3nAwB7WSLMd1ua4+hCT6E6VFKKkmFdli0g==;py9UZEwPxJdiHkL7MoV4pQ=="
+secured: "N7HhVVqSkpFhd1S6BTBY5V8DbZwuoWKNIIXPjmLm//4V1mGFarY4W2swSC3FOG7kJ51c7who0eZxMGCfunV1QRWeSuIU6NtquH8PvFZhwRQzgUnKDeTU86+R6IYI5OrwbPa1x2nxLHejJwJEraXhb1f524Dyb0ZBzdZJb4mlI12wW0e2FNIOWtW2QhRjV7CoQoNclwngtm848chuNeYCiybSPZj5T1cziwftY89Z1A9+J4c6TO87+2SsemRPl7f18fwuPrxu+liziWaQS4rXwdER3VUtcl3pdIRd2Ho9+uceGj+gvoDyOw/MGUlBQje5KUX8D0rEIvA7qf+QY1Nyhpkf1wkZ7o3Tc6x4YjKofn4rLvNiH+/o4R4bk7IyGmyfJVSmvhkYljuckH+FLsOZElFVxEoTDu6M4D0QCfa44vF9949d0hyBjJRCl/gX5nMi;tm0PG1QzUt/gFsIEpreojg=="
 ---
 <p>I prepared a stunning animation that gives your PowerApps app a lot attention.</p><p>&nbsp;</p><p>The animation consists of a background gradient with a smooth transition. Below there are multiple waves sliding from left to right.</p><p>This sample consists of HTML control and timer control.</p><p>&nbsp;</p>
 

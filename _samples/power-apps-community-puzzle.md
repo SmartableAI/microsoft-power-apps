@@ -31,7 +31,7 @@ images:
     height: 1253
     isCached: true
 
-secured: "e/kKgokCnpUb40gpKKsl3ZcnVCskiLKbNc9fvnDVmOdSh18HNgfCJ9FtTycwWhRazkbdts0pETZZ+JdoHFDkYPmuL1auLaN2Reo8xkTRNVt273JHV3GhxdqosBZxyjJ6sEBRwhcIEuY4tIPR2ZUD4x2EH9oPy8sqChK7Zvwtg7bXPHc5SXwimBNWP1CJUiqdSC6xv+c96NaBR+fJqmwBwmS4yAvfaHATdQHp7e17w21TEfKcy9RCDvLAtnn8kI6kHatrWLJHQfB4kR627qLELDh1pvE/Mgx7LZnc1S0/+H6GBb/7hzr2hVqS4GpcNowfhMkIS97LYs3SzQxl9jWdD1JJhm3t1ZyO+4tZQxBIuT/0Sw1BYEugLcVIj0uUJBPlG2wYnWySrMrIw8LtEB/tsw==;41qgVZfBlX9Zo8z7WrhXZw=="
+secured: "UfiqpN7fJsDK/p4ygkj0fa2BJwfd+KoCZL7yWTnQguYMMe8Xk36oRlmyD7PjlGS1FZ4TY6BLK4xShH74l9rPNrjy9nEGVgxmYmi+7po3xYWKrdMgPZgBK/vB37tmqlAm/lENuYguVaH3jJkwiUSxRy+AxilvKfCBeq2kLh0bALIgmd+3uVMWieTw8pgtp1FI2VKcPvHGt6k4b1NqW96+1I7F4cBgf5eYqjQ4/+TTWVF/hALWmas9xCpJuPeZmexVm3BBRA1rJQlDQ089/DJn+bkhKRRWqrroCM7lUp02f6CFfgGypSpkNtQDyX6pD1yP85PT2Z3zlcQPg9exGit1Fz7EYWh6zq5YbPUjYClcby+kohEyVTQzy0DaiXYbGj6mHeUj3brxhnm9U6hU1U012wLQj0Dw1hYkFa+Z/AjmjMPKvUdlLfjgW9JL5bRkly9w;UbHFZuv2s/0bcmyOP9hs3A=="
 ---
 <p>(2019/08/21)</p><p><span>Improved drag and drop response accuracy on mobile devices.</span></p><p>&nbsp;</p><p>(2019/08/19)</p><p>Removed unnecessary connectors.</p><p>&nbsp;</p><p>------</p><p>This is Character Puzzle App.</p><p>&nbsp;</p><p>movie from Twitter<br><a href="https://twitter.com/KodamaJn/status/1162767190937833472" target="_blank" rel="noopener nofollow noopener noreferrer">https://twitter.com/KodamaJn/status/1162767190937833472</a></p><p>&nbsp;</p><p>Characters can be moved by dragging and dropping. If the characters overlap, the positions are swapped automatically.</p>
 

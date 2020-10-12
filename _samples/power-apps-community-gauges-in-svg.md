@@ -31,7 +31,7 @@ images:
     height: 497
     isCached: true
 
-secured: "hpFciAhK5TZuclgZikT9zxKNXjqTQOzSxu06pgY4qhdPp0QaTvmIJmxSF3fdCiG9R5DxXGXQEIz77UHnhUlECuIFvY2V94o5DMhCWPaizcN/UVgSxJfWkypqPZmT+swEJvRd6kiaDEQLtTxBEVJuFGz8lGlZooOr7o7k4o+wBHJNaGSgk3/gfUG/CzOdq53AoChJQ0NX2ZsPeRLfRtorR6lxxcbrIsKA/ymvnN6xq3M7kmSNEclJsB0pseeocx3xYLMn3Gd+TLIu3/DWT8qvyWHYGDC8XPFosoiR3z2CbVVS/nXzxD9aRQ2Q/yTDMqZZpRAYIeIQHyEhZQhD9sQZ5OE/LCQBxdtv+uCGfrjYByhfVb+mNmUxwMsGprvFrlFDQqM1cSUdXKbnyr/LOXfh/g==;o+8lGFm3rE5YVixV25C80g=="
+secured: "zRsiUkF9RhYdPC/MZDnCpQn/NN8sxipiQeESKo0Tm2YVIQDstTrltBtZbj43LGd1A16lqH0Rk6Nm0iMULrpaLby/m1Q76HaRckC6cVAaxckmMr/Ar34i9lCki+pSINJae/E3qIpp7bCSdVIyheYXkH4LtRs3jKjLzNNY7Sb4qZsg13xaQVup+hdpiVSu3/vhqHz5VbW66B7RSnUpnzkcU8gCN+2t/i8v54AJvyeHnl/PRYiaWdyCQHu8IobALhdgJkPkQUsgbIqcf0rb8ANgLMpWv3SJxhOUbytCPPoh+6BpJdOAqOvTKVohjqbr0SdV5Zg41pG2gF7K+gluFQETjCqycEhRF1jlegLwOiAxutfNkf7OMreOJmK1nLbY9uUaE3zlZNgho+xic+0bvqgTRpvlMukJw1yVz7HK3kb9dvteODiRMP4QEM3jIRiV6wQD;T6zZ++gKuL++ELNo06tqVg=="
 ---
 <p><span>Contribution with some meters in SVG, inspiration for allies in improving UI design. next resposive SVG on powerapps screens.</span></p>
 

@@ -31,7 +31,7 @@ images:
     height: 332
     isCached: true
 
-secured: "eXv9hEvo8oUn+GzAPw2GdBxNtOkbAwoT5TlrhjBXf15oWEHdI4TPXWKCoQapT2jXMOqbUgD2dNdP2utqdjJ4rCZWFhS1qS90cdWR/QCcTFncLUjGECHyFI0zJJQw4Pr9xwoXrl9oL8g+3SPeeFjQvv1m58u66hctnw5YfXDnhen0o3DUDIZnWpvLzmGhg2TXcPq/+PH8RSevomDX9RXhEbJp7Ek1DQrJxTX509YYPXj7AoiYby3pfpsxOMsJdnRTexteO7dy2g6i4uNgLeV2WDy6Sv2RLeO1upmFThwefFsu2wul/DTEL3oOJmLy79rl1MAJ+tM6eoUCMiEosGpXQDbrOb2eYsdrUArDwt34Hrwmx+wZYihB0+ig+BKMzzZuUNu4cSDpm3i72ZW/aGkKnQ==;KRScbVrxbNKA8rSnI5e3kw=="
+secured: "RMNf6BpNwGNjTYnpCkjzDRh+bJC5EmypL4MuoAH2D1UgUzauTdFB78bGDyyZSpca5LbOBxo1YAk2Hx/bPHyBhlFRE/qFJWRcRdFTMpRilIem1MSBjWoLosUiPmwkI+SfED73azqzOK7pYnLLNe8BU/mCrrYP9JbL/sJjtxgdR8ZQ72seAoHweGAWqKhOzR7y48xel1zKSDTZKuipRVH1hlOt/UO1Da/vvRULluWzm2iS2dLRVGa/eAHvhZrINkLlMMvNBymcqMNgBft/ixRQc3pQDala6yqHEbqRgFRhFtsK/hw8uhL6AMK5VS8bHcLkWQbU59+Bb5uXUr+DZFJIZbLs/hE2VXOMOXSPdWNtvI1hfyBQB8XC6aDj2WuHQozYusoTUoytoGS4bK7T/lVWiKteZ/6bNPzI5dKhR5jBriPTTOnFMq5pZMsYAsdyTfcV;QwwfwH3Fugdz2gCTardyPw=="
 ---
 <p>A PowerApp example of using custom fonts with the help of SVGs</p>
 <p><span class="lia-inline-image-display-wrapper lia-image-align-inline" image-alt="PowerFont.png" style="width: 999px;"><img src="https://powerusers.microsoft.com/t5/image/serverpage/image-id/62248iA6573B46FDEE4CFA/image-size/large?v=1.0&amp;px=999" title="PowerFont.png" alt="PowerFont.png" li-image-url="https://powerusers.microsoft.com/t5/image/serverpage/image-id/62248iA6573B46FDEE4CFA?v=1.0" li-image-display-id="'62248iA6573B46FDEE4CFA'" li-message-uid="'272163'" li-messages-message-image="true" li-bindable="" class="lia-media-image" tabindex="0" li-bypass-lightbox-when-linked="true" li-use-hover-links="false"></span></p>

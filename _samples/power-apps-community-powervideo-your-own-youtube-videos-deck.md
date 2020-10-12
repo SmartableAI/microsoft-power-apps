@@ -31,7 +31,7 @@ images:
     height: 888
     isCached: true
 
-secured: "LTZar3ohplfEpyYq/zC+sBv2UL0ak6goqB8+xxqtsB3hJSykus499SwmXlmHLve8KIn6rkfOe0drj59HCTCP6pDm266xeDoZHPk6IDWZj4sibf1lZHmQS3gwBDRx8JHorudzNrvXEUryje9g7jTsHtqpP6D1PCVLR7VHoyQYAMWXkxaNQWrZabew2RWL19Z1SwdZFAQzgOvStG9z1zkOoCQYWjdD3rT57hCS8zF8bEIzOkl1UwElWrpVCeBrQ0pVYdVLZVICYItjiEP8VPjUB8irmcR5/KPIzsHGmDUcUFKbg4zI2E/WpcbvFmbYwWqIsjVzi+BEm3cCPhnH8Nwj0XyDRecOjOVPX0s8lT9tlc8SizLCu3ibcpYwKrpq3NQjcV0f2Iqhl2HoyAKwbHIJxQ==;oIvBXgNgizABs1xAOKgPBQ=="
+secured: "surzjBPM3HtQodI7qxaqiuxWldGjQCKZdAHSMHtxjYb6dYa5vQemvVzmc7jmS4GUArl2MKTK+ru5iNT9p+LsrP88u5kHDvuxf55etEWmXEDjzub4PJdMhMUAqCyM+pQHCiNLgEycuGslqkPs1AA6bFVZmZpnmJE1oZWx4Y+ZgDnfVnsbt0GKXcALLtqQ5MeGiWpFwPkSSWQAF46XigiOv3CcaUBDQpPNDF1a2u/B4lXKE3ZGgERm3vM2MzUt+VpsyuwsNjjbyYQW3zgrXmX39LRQSBrBi+zowbgzuaDUGh8C4o8Az6pixbB5vsEhPuYveAkEMh3RZTH0jvWjt8FmwvB5jUOdb3Wnh50TjVvixf1N/nJ/aRc2D4iKUIzsS7e1A7jdgJ8SKkrUhU71HH/qZzbFbUnaeBvl/tLnmcGnKxdygHs+3yx5LM/hTcauHh2U;kyWcQkqHj+R1Wm9HEJlO3g=="
 ---
 <p>An app that helps you watch videos ONLY from the YouTube channels that you are interested in and not any algorithm recommendations.&nbsp;</p>
 <p>&nbsp;</p>

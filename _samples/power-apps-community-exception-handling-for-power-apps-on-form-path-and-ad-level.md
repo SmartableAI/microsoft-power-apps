@@ -31,7 +31,7 @@ images:
     height: 562
     isCached: true
 
-secured: "3PpcU8CEnmN0XsuAl3Wt9M15xpH8lGTL4dvB+FjkA6hAToIekIr+p+Lv5Hy/yxvGaoPKGYXGNJjuHmYpyzUznUaJW8gwLmjHbaWvexl86DbyK6CvmxjWm3lebu0g1ynH8VzyiJB9H634DZgBUdMSY7jprVl/q/NPAdFLwDF2n42gLO4ijsoLn3Ueug5pQ7+kzoy+jIy9nDwXWzuoJZ/yx+m6tHEHRjNbTVW3HQ0UR6YaaBHG3B5zNKH7d9kev8vFlF3YNLKczUbgAao5GfmKy2/0DboQmBUJ/a6GgbTYRpQX2nBnKaHeig8eub50LUhMcsn7qu3vQ/F/NxS5eHQOdIQalz5okM991twEiHcvfbprSRj9ciIkVJedjDki7878Q7c5yjWRa03DCF/7gj/NdA==;5u7Yb4yylPoWfarte1b5xg=="
+secured: "gmsMNI1NibL36CfrW49Zy3U7/HxSVaw4esHeVL5VEA17uhuYbIIAcSn1BdMYlL31ccaOcYyzV5p5UvouOAJe4tvojQ9/Sw3NqHNssaUS8uWtD08eDtMa5wzd1zp733wZXMkhz1rK/S+7Jy1IsrHnTPpncVtNS0GHjRQtglDfzUUFEAnW3fyd9Kzn5Ilbkz0VOBX6OaMBBu0sRLQK4Z7OPp0oGx3JUp4Vd5c+YDLOeWhB5cqjnfj/o3XSWWsPzTjc8XBb+qsFp/+OY/lom08ETaLgBAb91szO6SEIN0CVhgf5kyONTCI0dbLj7qvl/muTFhQG2Yg0OwhKjCpIjccgJf5i9pBN7CflpG2//N/wEqivK2bb3FNPl9qjynNLR8uhNAb6wWZ6NqiWed6XnIPbOlYmR3BIoO2pLS0jIrY5ElP6rhyRhPw331gmcTo6tiyU;DmdzXGilgE2rNh0zraGdgA=="
 ---
 <p>In this App, I have coved the exception handling for the most common exceptions in Power Apps.</p>
 <p>They are:<br>1. Form Submission exceptions</p>
