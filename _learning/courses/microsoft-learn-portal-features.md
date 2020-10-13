@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 72
-  average: 4.513889
+  count: 75
+  average: 4.5066667
 heat: 50
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Portals
 
-secured: "crTsYPp6SOCAygFk6OL4xWxPqgT44NE3DiQzXihfOX+PjIwqon1Pg/krrOdY/w/XNG7EnnFhjtNKxCrfNwxFn/yhWVfNl8T725GpzyUtVW2Blg5QqvcKJw8fmU6bL3x6O5OO1rM02ZNfFRKkm8JQsr930NtBVgBApEVw42rbpZV2bdQoIQKER5WIfFJuSOyxBqdBAD+XRUy76Ax2uKzmGfVtBE0XgxtcvOxrY1rMznge7MphIKEH8Borl1UzhxI+SNiRxEfVAxk5j16FmzH/u73LBGl4oqc8mf9J0qhhea3FNjPzk7mXwWptfFjsofpRMI8FHW2IM2GrYdo7rxtHVk5NiXTn6Zs99sn5RQ1jzOElhMKhVY8mtHohjZoVARAuUv7DyX3kOo+7hwOGsRVinsYo+CHnACofWzknv2aDzJY=;pImoSzV0/XalbLyv6+bXZA=="
+secured: "k1yrFKx++OE16F5k2zkxrDYfiozWgPw5Z3YJStQ+04CtgC+zztnklqxQjnRf3cPLYeCTZBnQdxpkv5j/OPz+Cvvhp94uuH4rVSwGOpiEbjKC+K/7/YJB9J+Zx7kpZllbXjVwVxhfbkIcOWSuoi0q5uQhst3p3j/X8r8PruW/MxGzSXN8I8omptmcjDRhNLgtEO/OD+pSgXe4njJidevYg1nihHxq1RYLcxmJuZuEMX+wePeEgAur3eh5P0zZSlv1oW8Rb50nyCQRfG6SHs+0u9xGemhC7jfXjcgBMS6DpKxY8gM7kCkQZA1pvWw9jrChhim4ldv1yoWJhSsqhwkmOdoe7/HBgjEpthKEdOniVdRbfXvJtc5Fol7V3t40Ov+IidFdXsMT3kuISQXWK0xW1u5VtdgueG0WwiiTSV1E28o=;dtu/Vfl+T5+Lm+2YAVPDcA=="
 ---
 

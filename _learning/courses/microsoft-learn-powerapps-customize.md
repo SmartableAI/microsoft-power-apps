@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT38M
 ratings:
-  count: 7654
-  average: 4.6755943
-heat: 102
+  count: 7707
+  average: 4.6760087
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Canvas apps
 
-secured: "0uU+J3wEr/E8cegEkLoIr46D1/h/yiT38k6RiRqvmMxjtDEVoXyvETWInl6q5ZTHT6Jpgh49tUhR44UzhH++s+qKs00yqPwrqCKmtZFxS7B6TIeadehMzr1t/7/1YK8OQMKYkucmPd0NPmfpRYPuIJ2aIqnTYILAdlP19ktaOhRzxQ4NnpbnW5piolUVvPi4/MaBsg9Ybt8+rVhoXezZmZbld3Ms2wur2MD/xZNNsPt9d36etaUY+Ztgazk0Ka205jFjX7sMxWolMuxDe4/+cpEvtm3Y64fjbgUqXxPne52BnwLwAchIUIX7Bf7pTv15/P3ClGCb96pINFh373FN5YFvLdWrOFTWInlUsg48q9k+VUTFIVfaQPwxwSKMAW77CgDqlr3Op0jeyIVsELL/8GJk6/MNRlT46b7dD0iyaQg=;ky7JuvL7OwRLGeK2FSl8NQ=="
+secured: "1c9d/bLdJtl4zgEyvdQehL2ac3i4gqmTFsiRtj+mdRj/bJ0D0rucBMFz7SclLcDYV6LSzF5xTGqc+AXiAeN8uidEmVLotJep8frNwyUMwJAX+YlSjdwXqOqd6wXKfjJLNPV1UtGk1TvzhPn/T8BxBARU8EvlL5rciHqAeum0jGaTdColznBZ3hI5LOmPjdbau9odNvO8O/Sh3LNRBajBV3YOUXo9Sh56Ao8ZKbVA2ax43rb24FWl3AGbrFACL3WEWYxmYBTGh7QEbwbAclJDLKJAqWZQfDWr7qNZR2sjl/KhrVdH4jwfSqEAOAlQKKkDn6DfHVnnauV/taOsNciFyvNUDk5eyKd33kTORBScRQjjXSJIRv3kMP8dTVT7MjSC5BGeQZnhPK+evewMw0O1EsYlWbisw6uHE3DCahs7vVY=;wQntUeeOUxWknvk0baDD3Q=="
 ---
 

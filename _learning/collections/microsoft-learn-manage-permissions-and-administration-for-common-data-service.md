@@ -4,7 +4,7 @@ excerpt: "Do you need to manage user access rights? In this learning path, you w
 type: collection
 price: Free
 length: PT1H23M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn

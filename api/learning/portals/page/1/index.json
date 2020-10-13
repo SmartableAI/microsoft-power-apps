@@ -4,48 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-intro-portals.md",
-      "title": "Introduction to Power Apps portals",
-      "excerpt": "Extend Common Data Service interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Common Data Service data by using portals.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-intro-portals/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-portals/",
-      "length": "PT48M",
-      "ratings": {
-        "count": 138,
-        "average": 4.6014495
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-portals-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-to-power-apps-portals.md",
       "title": "Introduction to Power Apps portals",
       "excerpt": "Introduction to Power Apps portals",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/introduction-power-apps-portals/",
       "length": "PT25M",
       "ratings": {
-        "count": 107,
-        "average": 4.635514
+        "count": 135,
+        "average": 4.6074076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 61,
+      "heat": 136,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -80,6 +38,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -145,6 +104,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -187,6 +147,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -229,6 +190,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -271,6 +233,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -289,6 +252,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -327,8 +291,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/intro-portals/",
           "length": "PT48M",
           "ratings": {
-            "count": 138,
-            "average": 4.6014495
+            "count": 142,
+            "average": 4.5985913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -345,7 +309,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-portals-social.png",
@@ -354,6 +318,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -369,8 +334,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals/",
           "length": "PT44M",
           "ratings": {
-            "count": 94,
-            "average": 4.7021275
+            "count": 96,
+            "average": 4.6875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -396,6 +361,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -411,8 +377,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/portal-features/",
           "length": "PT30M",
           "ratings": {
-            "count": 72,
-            "average": 4.513889
+            "count": 75,
+            "average": 4.5066667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -430,6 +396,7 @@
             "Intermediate"
           ],
           "heat": 50,
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -445,8 +412,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/portals-architecture/",
           "length": "PT26M",
           "ratings": {
-            "count": 65,
-            "average": 4.6
+            "count": 67,
+            "average": 4.5820894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -472,6 +439,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -490,6 +458,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -528,8 +497,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals-studio/",
           "length": "PT40M",
           "ratings": {
-            "count": 119,
-            "average": 4.6134453
+            "count": 121,
+            "average": 4.6115704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -555,6 +524,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -570,8 +540,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/portals-metadata/",
           "length": "PT49M",
           "ratings": {
-            "count": 12,
-            "average": 4.75
+            "count": 13,
+            "average": 4.769231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -597,6 +567,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -639,6 +610,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -682,6 +654,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -700,6 +673,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -721,7 +695,7 @@
         "domain": "aprildunnam.com"
       },
       "publishedDateTime": "2020-09-17T07:11:46-07:00",
-      "heat": 55,
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/M_tvnAmHMZY/maxresdefault.jpg",
@@ -730,6 +704,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -751,7 +726,7 @@
         "domain": "pragmaticworks.com"
       },
       "publishedDateTime": "2019-08-21T08:47:40-07:00",
-      "heat": 53,
+      "heat": 55,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hwazNDRqLNU/maxresdefault.jpg",
@@ -760,6 +735,38 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-power-apps-portals-entity-lists-and-record-level-permissions.md",
+      "title": "Power Apps Portals Entity Lists and Record Level Permissions",
+      "excerpt": "Learn how to show data in a PowerApp Portal page with Entity Lists and how to only show the user's own data with Entity Permissions and Web Roles. You'll see how to prepare your entity to build relationships between an entity and a user. Then see how to send invitations to the user to put them in a given",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-power-apps-portals-entity-lists-and-record-level-permissions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-power-apps-portals-entity-lists-and-record-level-permissions/",
+      "originalUrl": "https://youtube.com/watch?v=lOPKwAWhwTU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lOPKwAWhwTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M8S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-05-07T15:48:21-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lOPKwAWhwTU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -798,8 +805,8 @@
           "webUrl": "https://docs.microsoft.com/learn/modules/portals-access-common-data-service/",
           "length": "PT50M",
           "ratings": {
-            "count": 37,
-            "average": 4.4054055
+            "count": 41,
+            "average": 4.4390244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -825,6 +832,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -868,6 +876,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -910,6 +919,7 @@
               "isCached": true
             }
           ],
+          "content": "\r\n",
           "type": "course",
           "price": "Free",
           "topics": [
@@ -928,6 +938,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "collection",
       "price": "Free",
       "topics": [
@@ -970,6 +981,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1012,6 +1024,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1054,6 +1067,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1069,8 +1083,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals-studio/",
       "length": "PT40M",
       "ratings": {
-        "count": 119,
-        "average": 4.6134453
+        "count": 121,
+        "average": 4.6115704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1096,6 +1110,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1111,8 +1126,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals/",
       "length": "PT44M",
       "ratings": {
-        "count": 94,
-        "average": 4.7021275
+        "count": 96,
+        "average": 4.6875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1138,6 +1153,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1180,6 +1196,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1222,11 +1239,55 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
         "Power Apps",
         "Common Data Service",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-portals.md",
+      "title": "Introduction to Power Apps portals",
+      "excerpt": "Extend Common Data Service interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Common Data Service data by using portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-intro-portals/index.json",
+      "webUrl": "https://docs.microsoft.com/learn/modules/intro-portals/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 142,
+        "average": 4.5985913
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-portals-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
         "Portals"
       ]
     },
@@ -1265,6 +1326,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1307,6 +1369,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1322,8 +1385,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/portal-features/",
       "length": "PT30M",
       "ratings": {
-        "count": 72,
-        "average": 4.513889
+        "count": 75,
+        "average": 4.5066667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1341,6 +1404,7 @@
         "Intermediate"
       ],
       "heat": 50,
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1356,8 +1420,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/portals-access-common-data-service/",
       "length": "PT50M",
       "ratings": {
-        "count": 37,
-        "average": 4.4054055
+        "count": 41,
+        "average": 4.4390244
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1383,6 +1447,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1426,6 +1491,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1441,8 +1507,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/portals-architecture/",
       "length": "PT26M",
       "ratings": {
-        "count": 65,
-        "average": 4.6
+        "count": 67,
+        "average": 4.5820894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1468,6 +1534,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1510,6 +1577,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1552,6 +1620,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1567,8 +1636,8 @@
       "webUrl": "https://docs.microsoft.com/learn/modules/portals-metadata/",
       "length": "PT49M",
       "ratings": {
-        "count": 12,
-        "average": 4.75
+        "count": 13,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1594,6 +1663,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "course",
       "price": "Free",
       "topics": [
@@ -1624,6 +1694,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -1654,6 +1725,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
