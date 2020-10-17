@@ -1,14 +1,14 @@
 ---
 title: "Propose a solution as a Solution Architect for Power Platform and Dynamics 365"
 excerpt: "Learn how to propose a solution."
-webUrl: https://docs.microsoft.com/learn/modules/propose-solution/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/propose-solution/
 type: course
 price: Free
 length: PT40M
 ratings:
-  count: 314
-  average: 4.6496816
-heat: 50
+  count: 316
+  average: 4.648734
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power Apps
 
-secured: "Hcb4KmDOjqX9Xi0dr48nxvUNFpbPJsY3dDRLdlRQAQObqx7AbSj+e131VhKGsruLEbO9TC0+8pBF6nbdGdct9pcDWF2xEWF5TrxP0AYnQRB9/ygpt4FiiMYy2jWFjYHPOn/EoYScH3dQo1ZDtO8rELLNRGc/LSoJLH/uM+oxUeUskQzLy8Mn5vTozjkD42RBDismSGYGavom0iexB9Kk3e5PpIKgnZvR7Dp/UNpu0Gut10AFUKE8bxxsxh3QcH+bEpokjh3Hmi5RUKHOoOHb620rOnR9tI3ofehYnDq7MQvpb3jW46+mf9IYn6tvZfX9JlxQqucXF57/wEZcwQ5hzs9EIzZS9hfgwdSQ9yWP2kvv4orPdvLi0JT9JBSWCt4GZOKbJwikHKPirCrJk//SKka1j0FyVtWWRySosh01S5o=;2lAMVVcAwcEiJ2SJK138ww=="
+secured: "HiFoeJkix63fV0Uo226cymLpt+ZeQrMWjKLVQJMxIXxzVB8XPWZk8J4PGDrfx0GM7S5LRcSsGr+piq9e/rDBuXWhwlL7kZBqDtYJk1beU9DmU05PWA7CuMVnF6/73KlXhA1ICg/Q8Q4jdLnDMewBSfvTgRTDsBR2Cb475qR/In9bjJTAzzk7xZmBLMkjuFqa+REaF+7ySZlG8WB3O5k0oy8XZCM6BYu7ndZlO1uCHUEd3FF6xSV+ho72f1goAczcfEZ3Ufc8PTtZfBistk70HtEcxVgSNyHsGFwZhShDwYiSCfGihkS9mjkuamoamtF2XOBhJDQZU9fkpJricHlWrTO5TnKUCMW0CU+UHvfKV+Ekkz9g8wgFhzBFSoAqlU5ureN88MHyZXI7T2lsKQ3qAg==;/X7118R3ybcnoncu25cYJA=="
 ---
 

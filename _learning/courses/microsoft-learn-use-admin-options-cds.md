@@ -1,14 +1,14 @@
 ---
 title: "Use administration options for Common Data Service"
 excerpt: "Do you need to use administration options that are available for Common Data Service? This module will show you how you can use solutions within Common Data Service and administer environments."
-webUrl: https://docs.microsoft.com/learn/modules/use-admin-options-cds/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/use-admin-options-cds/
 type: course
 price: Free
 length: PT35M
 ratings:
-  count: 124
-  average: 4.314516
-heat: 50
+  count: 129
+  average: 4.3178296
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "w5ijD24OFYRTABQeczpvniGUuWuYZ5Z2M8vSgLu/MFffqtidGbFEZJuwVl68eLOXNrHZ7eUn+EuYEfsmybKUdVJCsl/gDY40HfVca68NBoYxve9N+i9M3H86jPk6cfGLkKvSM0Y6Vc6r/5nE1awNzWeGVLfn3FEuU6hkLHWHdjKWQpeZXpdXgRtriDCMMTQ9ymOm0oK7Jn8U2z8Vg10+J1zWCJN8QvXtv2jSgrdlMjKJz//48TVcQgy4zHRmKHd4LDMbbFmQERgdTrzZh/F8MJhdUJQOpPr+plD9MIAWu1I3xvujeZgf/mp/bzTj6X66HhQkeueHfm9aoIa4K4sCJGRBvGUrkKPinY3QvjxiplCZZ/vcL8V3qufZZo5HRnVBiOiTiNBuZAVKX9VenmZxfxlZxBRMY15eSt/C6x8ixnQ=;PqI81PfKjc/QWe+sRB6Qgg=="
+secured: "n2Ou3kdpLVL33Es+fF5Mh1lqM0jvo6sCNxyP3vEMF7LpOzHPKtuc576VKGhgfud9TmSql+YS5hTkYTHD4cX7pDE5Q5nL7EhAxmHa7u3J8+OgOo+rTgPf9CCPkRe8+sgMT6txAd9LzrmD08HJshRoerAF27NcMFOGgNcv4mnrDxJWwSXwegEGcXXt9Ne37RxjPt5M6DYHXcRXgBMGoinonq8HdqZyylLUTF9QpnkmR4U8BsUiY9+93tMMghL5jb87bBzrhqY5R5XjRZtqAhkbTNwxSwpy2O7E7T/afsH573GArs/WUo5TP4VYz6FwMoZBIHv3eke3XpOU6RqBrlHGNj43a2rJE74goimgUS3A/jhDkygx/t+A6NyuiWDwvtMJJ/AmwrlfJFcztpiUSwfUpQ==;G+UWKgaJCxuZIl00dpND+g=="
 ---
 

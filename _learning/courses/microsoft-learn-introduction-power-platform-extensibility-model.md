@@ -1,14 +1,14 @@
 ---
 title: "Introduction to extending the Microsoft Power Platform"
 excerpt: "This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of the Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code."
-webUrl: https://docs.microsoft.com/learn/modules/introduction-power-platform-extensibility-model/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform-extensibility-model/
 type: course
 price: Free
 length: PT40M
 ratings:
-  count: 735
-  average: 4.627211
-heat: 50
+  count: 737
+  average: 4.6282225
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "NB7QwO+2qFnGl/d+fsZp4ooIufTMHinFB3jR8AU/nBMQ+TgOfFfMnWNKL/nJAqPCeo3a2F4saJfIlT1ekYo5nEYYPr187EBBmO9WT/t4OwW9jbJwSc3Q2TwgX84jyvg/1otqgi6TOAtio4JxWVhOnWmTRseqlwBtbwrhUE6zCQEDYpveHrATy4jsOhMT/qe0bTVCUWlNHlIJDMKMy4sVvZ3b0l+Tv88xHtEBrOmBxvy4f1MWFkKCBCYxNINaZmeYFp73gNmHEW+RgBz+MAOhyrNYipKIHkh0C/b7R63LCezyGIhE7aonEkNRkRs8ixnrYnnc9TSKSIR4CNgeoYFuvGnY6QArrK4avOSsebK+4m1fRPAVzMkXlVpVt5WotZbojFpbxj9sKEF2XV/E8lCaiF4FlZjr1pcp8N7FdaZLXKo=;rCCz7WnGglqOatVHYUdk4g=="
+secured: "BK+mf2kywV0/FrHwN22/UZxN8b5ImyXTSnJ4Q2KRHxsIZgA4+QU2F8drX8+hOnKDA10aQY2ASf7uf0/TP84IBrY0udtKC4ygBwUcGe1z8BiDT1K0lZacW0xu6HONufQVyHFxkOIKFPDPTnWsHHLCGR6BzSzEUflqf5XS/BgHeBL5ocs0+ZFCryxLEj9S6WiP7wifSZCRt8856n0Jsbj7p1qQ0n0Na5is2+NiL1aMIYzhR+r6zNgsWLd0OWiMYfctNFX9926u18zQbLKzXf09Z05qibKfJms3aYdOSMGe/i+x8NH0hpiALbCtLrM9erfncxF5gT24j2YAIWo/Nwi9RCMCJ+om9dsqBn0jRwG/hN+Z/+fyp5lv4CUC/MZX45oy7/XzPm3/Ou5nKZ6qgu/wig==;Z/1Uxdu1bqGGzuyIFZ7V1g=="
 ---
 

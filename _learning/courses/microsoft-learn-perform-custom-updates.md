@@ -1,14 +1,14 @@
 ---
 title: "Perform custom updates in a Power Apps canvas app"
 excerpt: "With some Power Apps canvas apps, a form is not the solution.  This module will focus on how to perform custom updates when your data is not in a form."
-webUrl: https://docs.microsoft.com/learn/modules/perform-custom-updates-powerapps-canvas-app/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/perform-custom-updates-powerapps-canvas-app/
 type: course
 price: Free
 length: PT38M
 ratings:
-  count: 355
-  average: 4.7098594
-heat: 50
+  count: 358
+  average: 4.7011175
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "X/gkNoAEbT5tkAYY4JIWgoQ6qioq+jo7WQp+21jupCBtruOfUjUeiIRU38ZLrtb9SLqSJHWEsdGYYQWVHUzvKusLtUE0SW6mLRsaWlx4gN6YPT/lXtDs9yOLQ3Nt2afoZfVT4p4CT8u0bw4T7O2TIZB99uP/PEEbfSevcbrtszzt+rvHuFkSpS/rrWP1KwrZWqupLOcH8va+R946zGF+8//+ikQ3Ni1uqhAzAwL0M3CGP/0WH3WQbJHvpRK3ZGysqCeoxlvf0+Cp2gm6mi4GadK7BL/9KE4gd/iriflSi2/nyf52zMTNBdM8WZHRztngnWjzUOhtOt0yFGRPdgZZnkbIt/Z+QEPuDrh5qJBZDflvhferr0RyFHPomNCDw9UCYA3CVAMPex1vOrN9XQgVpwAgLuNJxYNZsraGdIz9PNM=;q3HcFIFjeYwVQOXs1fXzUw=="
+secured: "bxoU51LDA2bBu2ooJAQ4FlTSTR7e/oHTyAOx9d1qhE7gpbJFO52tuzoQJFWlbtHGpygfgLLdH+PY3SDf8dL3VzQU54Fru3ODYx/KMBJGu+vg4Xn29AiKqbaKMsWpLQG6DgpEfO5hoMLx7iPExCtg+4I6Xq6h6G4ALVPlpjc4lBLLD4gAZHZ+VA/+Htqo+Ha2PNXt3/4FxSOKzY/6mve/xuq5nypCbZwsmYmjVEDj/mBQxXj7pIuV3fW+F5MIzeOrUI+YLLrLc2klEdWPxnvEdpGc7zusUblCik+rn6OZ8kwC4m6cEXCa0JLPFq1xktjA5dVl1unR5v1lrlc+RH77IPsfDA3Lyryf+THHJFYD+s/fo8diH6iOZK03pthRjn4l4/4QY+S3f6kMMKxh79WXMA==;5c3LKAqQrq8D/HI3E/izqQ=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Configure Power Apps portals security"
 excerpt: "The concept of exposing Common Data Service on a public webpage is appealing for addressing numerous business requirements. However, careful consideration is necessary to avoid exposing private or sensitive data. This module will focus on helping you understand and configure portal security to protect static and dynamic content and limit visibility to specific audiences."
-webUrl: https://docs.microsoft.com/learn/modules/configure-security/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/configure-security/
 type: course
 price: Free
 length: PT43M
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "sO0gA50HxlkXeZLOPat40wdg/J90Zb7aE6ZN+mqoSA6FerRXdZJW6YpSipnrFrKVN29jprCzOmG8FdrZTVPZcYf9mZ8/vnYmiJBlxnGcx29KfPCM+6kJuPC4J9SHHte6+9y1nef2eUrZHONl9mO+dc9Ak/ceh1zt//rcInpNXHp4Nu/mIIfrWgdjBXMLR8SZ0N4QwBllidc22H472sNnw57YCOtsT9d5h7ahV7fP6YD8VHF89AljiDcvhsCDT/tB+q7/GQeTfyDrqtYQiHqO6bf4yMUetaYZEAiTPLU86IxrMLu+Y/uohL9VbnveveQ3wdLHglV3SQZYxslDLTugIm7Cv0quVUb1yqLm9NFmaY9YJ1HF5Yuu53FtEP9MB5kqNq/pG5gA9ljTgwgNuDI6d3y4cYfGcqPGAgZHfgulaZQ=;7SDvsNaMA0/0PbnvVL911Q=="
+secured: "22AP0a9y6ZH+b+xL9cAPx4wdj6h/ERC71wZwFjI/x/kNEdFgTxhZAXva8HZh04wiqiBh8fiyS9KqTiQegPTgqG66PH2htAyjhwgKtSohQKPEzBCkIxNlchFUvszXiJOk6DJ7JDQkxz/8HwwOD54C1FyxHv8bbiFvA7iqdq3UiRQ3SxwlMhhso85KC4OnDQXpUzZrNzcSrVK88GiLVK/FPGJXsuKcEXPl2Mf1+PpPTNXD/mm98VElwLENJMoguUGKa5fEMROmBYxzNpRzVYJP8wbfJ9BJikBcOBwZ5pugpYzowbUpc0BudrtXEa+O52gw3xjFl5M+LuJeoUjzhCL6hOhJWy/V4B+aBtjAQYpsYx1mepDGjkONlRc14dBmn0wI+4P7uPUl2UxGiWIZrNaoHw==;CTdFQn1RkG9tkjVs3SM/vA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Author a basic formula that uses tables and records in a Power Apps canvas app"
 excerpt: "Learn how to author a basic formula that uses tables and records in a Power Apps canvas app."
-webUrl: https://docs.microsoft.com/learn/modules/author-basic-formula-tables-records-powerapps/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-tables-records-powerapps/
 type: course
 price: Free
 length: PT43M
 ratings:
-  count: 643
-  average: 4.572317
-heat: 50
+  count: 647
+  average: 4.574961
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "wCaTB3jVmKxz+JTFWKtmxFnT3dDFLI9fKGN2ddSXoPONcTKicb0rx8TL3oJ32yXCRqvUCQl0nWsp0yjrsRgqAHUo6kVCQyRvQNjJADIC6tV1229BFcD+FJFtWBj4jLCROFOxQE7moN9GByAuJeH2VLG0nYK8Py0nwJDZ+e1xZyUzNl1hoBsCqZxqeiGGUNwmLIKJa6b/r7TJpyU+khsqXUj1KjcpsdoTp/Otbnof3yFyPnUWMNwUZQre950W7cNzupN1DNoToS9cXhzzdUPfHGlR3EuBNFf3d8ohtmbjhyww05Uxe+9XW/XkdCDnguwvra+2cfSMEXPA6Cwo4jdoFYGHYinBElfpIPX+jz5E0pij4Ru4bw++gAeKGkvN6/x67BMFykWjohA/Zi4PYkWuQzAzddFAl2P6Vch9NJs6lQQ=;OpRYvQS53Zg6DIIowJfykQ=="
+secured: "nAEgRKRyhM72ZgYQtrr0D1iPLYt6GJwtZ37qNloJ0Jj+UIMayH27YHl8xDtbHAQjOpymM9N8bDKcsaMZIYlUcN3O+rpU6o4sY9JUK5MuqPd4s8yMrIVqOkQA0pHkUYxZbW7ewnqOWUq358pyd7ThOP2Mk8vuRv5ENJJf0cme2e+8+toMNlAGpdLEWk5V+vlk/5lJN+nADCIzKnGn47w+E+41BSq14/HoqaecFxJ1I88XxCHLFBn+hARzspbr+6fZ5X+obzJzjcm/XfmxW8dLCuoEyTgDHS4lCPYooQUOeQRG2cX0ivu++cTw6QmI3AsApop9P6CazILq+qAt/iO1pADsPxDM8EljwZigNjZxzHSapDy40fj5l0UVl6kCico7Ceip1a9f82nvtDtkFcXQqQ==;rWkt51TUYgCJcO/wNlsFew=="
 ---
 

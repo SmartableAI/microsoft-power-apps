@@ -1,14 +1,14 @@
 ---
 title: "Power Platform - Introduction, business value, and demos"
 excerpt: "Explore the capabilities of Power Platform applications, as seen in demonstrations and customer case studies."
-webUrl: https://docs.microsoft.com/learn/modules/intro-to-power-platform-mba/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-to-power-platform-mba/
 type: course
 price: Free
 length: PT35M
 ratings:
-  count: 3674
-  average: 4.7479587
-heat: 51
+  count: 3675
+  average: 4.7480273
+heat: 126
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Ihsn2TvszKECeyVAfG9uNR9OHSw8wevuLTHJkK6GqtZjb+WWob7UxQkNOGhMRf2f9Rgwi6mK9HxHSS64Eicp2EpYTXc511Vop5SYNfkS4zbR6mEGsHC63mlyaLPnE1r5r63W195ZqkZ3HB/uXvx5v12yahPFX81PWnQh5JRUtS0qziVTr/g9UBR+2rCyBatyXM5kNGu2mb481qVobuMLwDAx91djrWPL9OpFl3zzGBvzey4ZtdSmdjXQDXj+sHfmufH8C4BumJyzzoI5Fdo8ciTrgNrAy11LTS61u3Hv7XRq51h7AL+c32tL8oHqaqeHxhNfpmto5n8WQmSe53LC7ga1yzFiZtWcn8J5hxR9njLJXeraDSBLkGNG14IihLvK2WBULV3gGJl397ik9ShpZM1Z38A3Fl6W3DltJ4kX3xw=;C/9ZjKNMqyPFiI0CPoZH4w=="
+secured: "eHR669iJnbKFwhdL965f0uQ2DoW9ga5u3vutj1nMvxNdIjraKlBWOuxVwdX0ee6gbUACEJ3uqhlrT2hY7YiZBw9F1gyWlRmg+IutWu9QTzWOmDVLK+FtyGJxIIV8i8OCx0r7YiHkTSBe4Bv7DQ+qRy1hxHChsVZ7Jb7ltjr2ZRnEcjmM9v8KHJJfRrep8QnyVW3rh/oEJCk0bQyBAk62nerGDiSzeX47XgwnsAwimxd6CgrYdsbJUwywzFQllpeJj+aV7hRNDlJ6MQKGopz9KWV/WujP402rRt6hyyVNM3xysmTUjb7ddkcifj5I2YnM4qGDsYGuCo82sm+YjbcHTW3MjDv/JF65D1QJZtsXH1LXZ9r9mD4drbMc7TCtGWzd8jdBoGUNLQ1s9iizTSjbBw==;Mz5sxLjwCxZbPRiKjhVbYw=="
 ---
 

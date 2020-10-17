@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Power Apps portals"
 excerpt: "Extend Common Data Service interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Common Data Service data by using portals."
-webUrl: https://docs.microsoft.com/learn/modules/intro-portals/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/intro-portals/
 type: course
 price: Free
 length: PT48M
 ratings:
-  count: 142
-  average: 4.5985913
-heat: 50
+  count: 144
+  average: 4.5972223
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "hrsljZsvKCVmtmONfB7FKj1ZJjof+6zfZwt2WKU38D6nQOrOxrGRj+SAfW6RXxzI1gJByTP/5NqRUa60PsiyMk1/dhhuVPuu4XPWeUWZNUf3uQX9T8FSDOdfwjzaUjyrv/iY+Fj4h3/+72dvsyzlHnVgV4j8tQjQbXjMRi7bqzjEGsvDXAdvh8KGcbEsygmcr2ESfddiVV9Ndv3Tr1/WWKzvWe/L+5ZeQ6h42dxdJo9FXDBSDefsJvo+1XntSkVEmFawqdYejbiO6p9n/H9U02pFxDpFe+DRE/MjSFVG3KFi8ABHTp1lkuumVVDQMMZG5nI0k8dJTMumaOebUeQ9y4UG6lSeJDJQ9YsvGhSvWPOZbXSLvTLoK7hI2IVteukr2Javo9AYR9vbtR0MhgeZ2ZD++jdNHt57nxlKfiFUdco=;k13C95k5DUmKp7ytRkSHWg=="
+secured: "b3CsC5APZ/CHq+SAyfVGddAghRzAHntVCU2CHaYNiEjH0xuToRGGxMfuwFFcBwQWsftYeIWymKEC/YqTwL3CYOrmrvTt6scou0cBZdpT5XrcE0R1KmpALfZ1IHUw5BnHJ0iWUa8mEyYQd9raBxNcmg4yN0C1GdkmQv1BNYGN+1mKv4Bj9HAgYJ1lrUQuSpElNEgowTWjPIEfZnz18bfrzkFlIVZllLbIJ3jWkOoZlK+CK12YCh6UOeGj7h8O/0IMp5KXCeXAydhjYmt6NrIiVSbEdfDS7QKfkRy5powGBkv85Wl6e/RZP/FSwwGLQVoIgA+x40nrn5VXKhmYTANFJFgoQOxYuyV3fpyuX/lWG9in7rXaHMYdUnT3Yst8fALhN3rhsj+l9k8GYORPNXE15w==;a/AMUjTDKskpOhpYoNWZiw=="
 ---
 

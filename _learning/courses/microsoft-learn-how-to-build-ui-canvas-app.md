@@ -1,14 +1,14 @@
 ---
 title: "How to build the UI in a canvas app in Power Apps"
 excerpt: "Do you want to build a better UI for app users? This module helps you do that using themes, icons, images, personalization, different form factors, and controls."
-webUrl: https://docs.microsoft.com/learn/modules/how-to-build-ui-canvas-app/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/how-to-build-ui-canvas-app/
 type: course
 price: Free
 length: PT41M
 ratings:
-  count: 720
-  average: 4.6819444
-heat: 50
+  count: 723
+  average: 4.681881
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "kt1Legs8M9n8QsNwpX6tqwIJ3R9IfYY04ROGCdkY6trZZFzWjLorzEntmm+/Ii6HuChDCjUd00IuTJ9lPU+jDQMEmP7WbdYLhXYUJR5XIMiBngru0+v7gcQQaOgl6SBOgi7A5qIV6bZyV8vkHtiSIaz+WnN233RVpDErMI+WstPrakMclx6U4TdtyE0iXUTBwJKx91r5EbCJM7J0AkeHdyEkjA4NBwO6Ihe5tl+cnyroGbuEY68QitMFrPxKyfmkDLeUxv4BVy5jiX4DnlJ+JLWW6yLUc9c/taEACfvgC4yI3nuO7Nvgg20kzXtVRN/mFkX/VbfyiKlzvBENsL+JWpr/T82dRda8jyY6if1+W+PjoTY2phP/ImQqWhTGsVMgMXH3NkG2n5d/c4LfiGHPTzkPryStOBi3zhj5WUfqXW8=;8Fv/XdBMLyRJ9DnYiUejJQ=="
+secured: "uMxx7JHGFlo5i/dhKLhylRH3CCUdjQrkqAbKWaZixbRHUPTCstMkKjKINgLjOOSDscd0BJV9I5YZGmhTuZ640ICAyRaWwr5sMBBnWrdkpo3hu/5Zv/Z/eVuIqNvSHiuFibPuicoLrwALEE/RrFHF73IZUb8XnE81dD41DysMXqQTlQZcm9Rtdu2yvYBKT9hlte7RHVW5U7HRPzVSJqcCuqJTZ2vdXalNpKCKdylO+4MzgsFZ8x2/6yXaTkvOd08lHnJ/vh4ghNtWgKyHYaSiP174KMVzwc5XEuXzfc1kpiZPMQvW4bdaOCq1JqU7oCEk7rhAy01tCJbiBXl82RKkxqbBhqY2O+z5eoAHf1sDmEj/VKfsfQuylyyj451X86XThxfAzrMSCZUMKN923faNew==;viM4IDZvazkuJ94JoFEsaw=="
 ---
 

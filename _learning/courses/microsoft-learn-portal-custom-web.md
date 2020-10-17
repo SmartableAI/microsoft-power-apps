@@ -1,14 +1,14 @@
 ---
 title: "Build custom Power Apps portals web templates"
 excerpt: "Create custom Microsoft Power Apps portals web templates."
-webUrl: https://docs.microsoft.com/learn/modules/portal-custom-web/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/portal-custom-web/
 type: course
 price: Free
 length: PT55M
 ratings:
   count: 41
   average: 4.487805
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "KFIY2ODN5jQ0FEI7Dbz1bTGwF2sZKPagFf37inP9eftb7xdq/xtP+Y6Z7rkRhVVn3hAwm4QKI8pCNu+H+AqEDmS0Rc+fVMroK8hKNR9nA7GOuCxpqCpinajwwh5U8dnR7sTia1lF8J4iKQEvUSHLfmkSOmP8UzNw2wnloKv414qLt010wdOE4Dldz70Tmt7Bq/NhsxiH4krW4862i04jplfUC/UO9FcDG/2hb5AddRruGroib3MvTVgXMFR2iwyMubibgEN2whomHqp4b0rUsSasea8k3UUqWCBchpweXAL0kWCuhxWUI+gAnBZqr5/zN4NA0HlGkf8kjG92TXiquk9FSH/RZDAEscSmZpPGHdnVZLrsPHUT7efA2sOLo06c2K8+vEoQMyMNgbkodbdpvjA+RNMrwky89fr7C7q0ks4=;ZnKzgox4Lssl2G5VRFjC5Q=="
+secured: "0GV8W4B47R+RAxbsxzMjIruDkVb3BJRecKI2OIaYusysyLpc4j6cOWhCion2R6s4w+IgoXwGjKcKqOsi66aK7EoPM8bVUrLTwauS1cojyb7ZD4d0x0J1WKIe2I5z+/et3g8Cg2FtFnjo1GVglClYQeI+MHiOmzN+4tmOvc9+6l0F03WYoiFgKoooE+8zUM30LeMlTZbASv5Su3klEnnzL+LPPtOVuK+Rkm2uvDMETCn3UGrcV8qPhsK8DqEOekwUV6LSBPydD1OJTMiF+BYvv2Rx8CNjt3+2ig700INmkSs/n8hzyIaY3z/zIELwTRbQPEtID+7fUy+YWMOclZdlBMeIbIiu7d0o9SSTp+XueitTcMQtjQ9kaWEs1jLtq9r7wCLKKuIYr+6aQCFPxpacEA==;L5at65uIGKGQi55JK9Nq/A=="
 ---
 

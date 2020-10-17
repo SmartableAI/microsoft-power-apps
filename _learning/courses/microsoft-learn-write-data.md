@@ -1,14 +1,14 @@
 ---
 title: "Write data in a Power Apps canvas app"
 excerpt: "Learn how to write data in a Power Apps canvas app."
-webUrl: https://docs.microsoft.com/learn/modules/write-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/write-data/
 type: course
 price: Free
 length: PT48M
 ratings:
-  count: 666
-  average: 4.6096096
-heat: 50
+  count: 669
+  average: 4.61136
+heat: 70
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Canvas apps
 
-secured: "iL/18ryiLu+z4dqkttwSV5lHfFPmgCCjqsyVaym9+2hOvOF+WNoJ0GsVO4mBHNccJoM++OPP8GfUWM+RqwdH9L3uI04WhCH2OPofFxB8lBQinnf+TNN3XPBGYPe3eyUzA6aK2hnaSj0bOsVLF1D8gh82f8GTuAVPofQrmlQGqiJ/cmsG9noRa+LVaMvg//+y1GVwvtH1Fk+29zZ2j1qn9sK1e33+/1hBtCRpgpsuoljA4B9It9d9PzgOD20aJjVgq7P4wYYVhD63QhZB2HjcHWwvlHKEbzyig3dIOCu/dfw4Fp3tvo3p1FeAUzkw3FaMxzuJ3sQiDjJ99GlZvPj4SNMHfZ1hoGyK115bLnmskgpEIpvxWYr3iKyfNLkokMhBqmH7GGsVdv2ST5yWK/5Un5HvtUIUoByAstxZmSrnlpo=;ofAoyLlxYhwSPZ8GdCoJBw=="
+secured: "4CYKoXfTnBnojpzCu6JgtlX2qqLaCtRG8GXITenVi15doW1Yk3b9vY7wbPf3ylOv0War/CiiuHwCRhItFV8D1oTqA18tV/BOM2jOTxr/oNH+bu4TvJxsQnGCW6Kcdszf4vp0avHYfG3QoOxoMOzKvMLiDBmX0whNC4RjxtoIACru6qdX6y8h7APsXSjjbY8rtlzqbjTwUkFOXhTEwyTuRAG5nlpOcGnyNCaWq7lQo7b8eL7ZVwjipDmvpA3i8LMjbWPugw+TgspX/wn+SPB3A5RSGXcpzHGK8iN48udkFu0QtmSbXJxzaXIS5b98TNqlvE1Q0QWcHEIzEs0YFhTpp1YxVRvb1sz3K8HPrm6cCGJeFONT9pBji/EWj/J/QrON0W1UT8P68o2TQuk/67umvQ==;+znXnypR15AbktEnWWI/pg=="
 ---
 

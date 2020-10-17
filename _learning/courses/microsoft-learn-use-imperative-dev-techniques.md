@@ -1,14 +1,14 @@
 ---
 title: "Use imperative development techniques for canvas apps in Power Apps"
 excerpt: "Learn how to use imperative vs. declarative development."
-webUrl: https://docs.microsoft.com/learn/modules/use-imperative-dev-techniques-powerapps-canvas-app/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/use-imperative-dev-techniques-powerapps-canvas-app/
 type: course
 price: Free
 length: PT46M
 ratings:
-  count: 496
-  average: 4.72379
-heat: 50
+  count: 499
+  average: 4.717435
+heat: 66
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "/vHz8wd1/+rs3V4zaGxXdY/Oz3+NnAOm1cv30ZGyBjK3qThM9DNk+6itLnNpU0FY1+//55uRFa5EIYITscEBb9njC7b+nIn2nATXoVEBQ5PZXNklKc0WuvhsZ8XVwCmoXtxPEF3bujo0PR1ms07d6yKxIneG1Gm3qES/ctOV4RH5XFI/1eUBWXSK4HXdVLnrRvmpbmq8N57q3VwzBe8BCbmN3venixXb8VW/Nf5jZiRfPG+jEVqrE151cJvqTstQ647ZpFUWLUWa0rAcmJs1jheH5ii+p+iNbKae5ASryvdTDiP+9LLJ2ijG3mMsk8BsZXRsgLd5Tp6LhJIrmwudymkIVbnbL+LESxhZ9pf/peskAuZm3Tm431NZFSUniXBpuHNLZb0eAC07fCN9JWNqTDrGderIDHwg4lu0MHAa0/A=;38TnzxKVjXEzfUyvkXusMQ=="
+secured: "4x2RQN8kqAc5Z8DQLnDVyY1WtQe86lr0C114MDv6jgYncimI8MLxpajH+eiBVZq2Z03jmDQBkp+lQgYursGf89O1KFpHt7JoVu6Gr+XOu2QOZ0UCsjHfSVJZq4ywK/jQ7zh73moXG68cyRZPFTYuS/+RpEobzL80OF9ahbDZRiL4yafdemeezhXsPR9kZpOctJ8r5pvqA5RJscvy8O070XLWlDvXpvadvrMT2BEWSv4iBK+buEduTxptQCrLYa0hK25LmBjfQXaXUZ7Lmk7jBcX4MAkiF0qRTIgDUVwMwakzWxzj/FEzi7Gje/Ao/3RC1sTzMM4W5dr1kR0FXHW15rUgZu5MgbSaiCBhdHRmu1VS0yikgApEzKTxwuQrPgrXSA0IACc1MHtZYXsklWi/TQ==;7ev8+0iVA8ro43c6BiszIQ=="
 ---
 

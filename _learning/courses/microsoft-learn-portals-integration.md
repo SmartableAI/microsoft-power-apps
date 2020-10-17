@@ -1,13 +1,13 @@
 ---
 title: "Integrate Power Apps portals with web-based technologies"
 excerpt: "Learn how to integrate Power Apps portals with web-based technologies."
-webUrl: https://docs.microsoft.com/learn/modules/portals-integration/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/portals-integration/
 type: course
 price: Free
 length: PT19M
 ratings:
-  count: 17
-  average: 4.8235292
+  count: 19
+  average: 4.8421054
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "7kHGzjcjHm2OlgXBn3lgOTaSex5gXfyLi5u+s3ejm4DLbAxbZcmU+9BEvtJemVYKTfj/DE129iMtMIZAgc7Gpzx2paTCFZjVDfCRitiTBXy9QID+nPB0ycKwmJLlR4uhpEDaGjkRYjpvFJHLZ3oeqjuVk1IflD7Ayl/Qnzi/Mw3Cj15uu86IeI0M01KcKVuGJMTPBqIoa551YfrqGDPh7qNSb3RCr6R2AyzpsfqkTcgRhuX7Pqy5dmD8fAURD9jBChD6SXZPc7p78Z02YVQkerNy+3MLtp15qV7whBMkzb78PhapkNO3dvzPW3d5ACX4q4pFDLf1w1s5VPwibBRHumOq54b8F1NMMuUi+bj2cdQ9WEadMHihzM4HydAyMv3rXfQhwUAs0+xQR8HufHqbtU8eI1XLuVh9x4giepdmSi4=;k5uItRbcYQB4Suf0jO0Wpw=="
+secured: "4qVgljRxKQwQevQdkC1CpoJpenL0jADqbwvupDj2jJV468axAbwrv3JXLABMmn4pxjKAtYRt66/ZFcjE6yQ/KhfucgUVCl0O5D9wjOewcmUj6lcY8bWKZllnThIrN6MD8mCIKZwbjYjFpCjoj/tmj+tvXMZ501VQXsRYg8hZ/hcM3ZYqbDtDVpxS33xkmNI7HKthS7rX2zKK+1DMvu8D7rMlaLinLRwZDZIvffsFJtRau0dWCeGVUSGKuMVy3eY7V2SFQUpjG7OWMOdrNV4MAal9ZYwPhF0j++kIFX7pzlcxzOqQutbJMqDtA7u+LMWqU2pKSKlroX/90r6bAANramIhrsHw3zfWpXRAmZId5mVibRpvJ1+d8dVCVj78nt1t6kU6UULJD8GH/xBje3Q+wQ==;R1XJjzlELaL3Dr0juAvLhA=="
 ---
 

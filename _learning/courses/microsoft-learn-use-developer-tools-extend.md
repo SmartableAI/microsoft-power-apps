@@ -1,14 +1,14 @@
 ---
 title: "Use developer tools to extend the Power Platform"
 excerpt: "This module will focus on the available developer tools that can help you perform development activities with the Microsoft Power Platform."
-webUrl: https://docs.microsoft.com/learn/modules/use-developer-tools-extend/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/use-developer-tools-extend/
 type: course
 price: Free
 length: PT1H5M
 ratings:
-  count: 738
-  average: 4.5176153
-heat: 50
+  count: 740
+  average: 4.518919
+heat: 72
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "QEYKCXMrlr7ovcm5gFQy1/NAD9/JZnqFQzI69QQn6phSMDBVl0e0bgA5R5Kw+jCYh5TZO8L3R+56Ue8BUOlFNj20mysnjkccYYQHvCTz7TYrmYcMNIZVoau6MmXV6qSbxrQaWwanAhEMLN0Oc8cNSJcf6x9ON9QWT3BatyZl54zhtllTvu4OdUiAGXzN94eHFI6h8uxVFmsIFm4C6k1GmVeuOl6HkXvzOViLhaOnydur3uaXXzQCAOD1pXrj+MeQa7m65dyUjidEXide9CoRp+xwuqT+WLG4Ylx+xisNpbWFv1+18349960LCm3rWHzDKeCaVpdBmVv97IYUN6AI8nqhYS3/3tK9y/+gaWQ/+jbeGgSbKll6MMEKT5r7Om/oKH9JYutr2tMKE5hKRQhh2GBBOmxyPZEdUKJgnjsOu8c=;ollI41MtLT6uum/cjg2N6Q=="
+secured: "DQ2CdtZ3f93WIYPlLUPEp3Nxjf//9zYBtXecssyivZcALYmnGopovm7d33G0Eb3pgSyPbSQgR36OssbD7b0xL0yqDokAUm0lVTAnQmE1ILsOysgIEpS9QS0ChDMzUNiqlYbKsJw4ehTOuwn1De3Ki2I1Eaf4as1CnhIFIsHB34tZAZy6t2aCRso6OIHLmfGrKeRvvrkUT3duTaktJcRgmQFGSkFvceoHTelrnAUe0bEamgzOzgl0ur41JIr1gyNHgXEnYqrmDI2aJ0AnXkzHPghcn6vo+eikU7sBFtrgaf4xKtV9fLYUfkOQi3XCBAY/3U7/7r5uL/CMYuMZfK0/NTFlu9VxTxHD3fpvz90YIH4iNd5NGP3mNPnPfrpB+0eQxcBbAs2szuE4etuZjoJRBQ==;8n4po8UklD6LrbPneCIiFw=="
 ---
 

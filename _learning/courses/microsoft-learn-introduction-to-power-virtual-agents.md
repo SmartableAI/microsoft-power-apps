@@ -1,16 +1,14 @@
 ---
 title: "Introduction to Power Virtual Agents"
 excerpt: "Introduction to Power Virtual Agents"
-webUrl: https://docs.microsoft.com/learn/modules/introduction-power-virtual-agents/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-power-virtual-agents/
 type: course
 price: Free
 length: PT17M
 ratings:
-  count: 104
-  average: 4.7788463
-heat: 111
-removed: true
-published: false
+  count: 128
+  average: 4.796875
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -32,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "bMCI1xdek3aZ7rKMntkswdbAVWF77/p+idZLs2q83LdGpu2z5O+Kg8p00ErFGskwxe/M3/7zxKVW9gs0XvCdVENRyqmjIroN5AuDUtT0Yo2+3iL10yTofHfmNNDu+Ar3IkmHVXXFEvTfpHFRuHLMbd00cXfccp9vgAaga611XoTjCKwaDMPxjuGUaFj6XOZA0LPm/kOc308i/4p+nqOj0gAQbwcVePMu/acQ/BzcnG8zHHN5zN2m929lTJ9Rk+5rYXHN8rsaZuChu2ab7uEyaxk3ibzzJ/e/bRm1Ufn2RyYeChs8AYUK01BW12HpFyr88spasKZvVCDVhmOrG20dscrPvRVyitYI3/8pgvkdN1s1bTJ9VOk2Eu4QC4bnsVhAUPHtY28dGKEkX9KUB3lFFADTM4gJZnn3WmsGFAp1GxI=;oIsd9bBd6qcaQl9r9EMVCQ=="
+secured: "vbmOshO6XjU3X5HuzRM6JzWX2EuHsd0+912npmDlxCaJbgPeK/8aTioXtx5svBJVsSPkOhRHRGJGm1g8xCw8yKEhpHJIHo1oeGH0KYblkn5ckroMESUYvtOwaU21rvhXGoFOWGyC7Ndp3F9EppJxit7ABPG5E/2t9JR10OsiB0mJjtAQd+N17v/b+ZU9llcULBQv1ItlNdVDow4F+U8EGGwnv70SM330ef6WUrlfp2UwCmOSdqHi03kY251rAY1I/UWR0p4wVSGBAJHy9vF81iVUC15T1p/EEG5NvWpxmA/axNnEqhjzgkcTp3oCBLCGIbT8ryElsEYrMTNkYMpw/A6qNfKNlVQa60GFZkJm4EvBqqI8KHMR+gR89Q4qSGGa7zKN3E2UmrYedX73hWIC9g==;4UjFQSq7Qak3yIlqVWIK4Q=="
 ---
 

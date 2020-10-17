@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Power Platform developer resources"
 excerpt: "The goal of this module is to give a broad-scoped overview of the developer experience as it relates to the Power Platform.  It will cover a high-level introduction how the ecosystem is represented, with the intended audience being a software developer with limited experience in working with the Power Platform."
-webUrl: https://docs.microsoft.com/learn/modules/introduction-developing-power-platform/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-developing-power-platform/
 type: course
 price: Free
 length: PT37M
 ratings:
-  count: 1135
-  average: 4.660793
-heat: 50
+  count: 1139
+  average: 4.6602283
+heat: 82
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "VkA1VFXhlyGe8WxWY9wlif9Kn2CUPXYUil4cp4b8W1DW3t5gEag8hA8wHbJvbwAiDezENCjSXQZJrJ3v0njg0IW62HVCxlr63lA6uP4yFTj0tWUI3cRwMX3Tqte6PlzR6oubrcJBGwv7QkFtPG/zdjfTi1FphNMwr7erbk7UrlvtYDuPqYc+YiBlCM/djABtT/s/oK1BtEFB0HziCYZBourcrKprhqFCAuDFv+GoNth3vB+Svb64BtkMZl0hn+FWjyyWtYJ2Lc7raLNz82tRTxyCC6lSWY+jmHDLqlWD8cFZRz/CzXSG1EMvGER/sMcfSbLHiKUwRcAOWA5b4uQZ90ZgnRSyD5nmHvCZMUCxFkoeU6Ieyy/T78PXUpY0jzvjz5pztN5gaUWkQ/bQ6i8BLzDrHq05LAznCbk+V9wBoOI=;ENWOqC3j95h0Dh2gwSh/mw=="
+secured: "r9pLLdhoBUOn2A+1wykqy3WpiJIf6E3S1ki4wYeIm8WvVemA+9R4vvWvF07Lhyg1zeFNe+GVVM1QAOnBUkAgbpL+QnaIgHsImzapv7CdG5ZgU9oR6v2s1Ylqj9x91IfPNiZhkmPuB9ZPFubkmVcJ1ZZ17EQSA4AURMWmKiOukObDKMAwPh/YZ7ua0205mvo+ZVRClzR5jwAoSjcV5NUNF5JNomw+P4ue4SFNPIrITcM1APVs1ATT46xjmzLR3RGb59Gye+Uj2HjgB2Kr2Q8vci93HGiOcB0RuhTYcKAiWTFZr6T4LQiW9V64/51Z1m5CQxBgIZc6tzesNu+ctjiLwNbb38Krap77CJI+0a0FVV9pS6iavJCRLy4+XRSosQHmjYuteoJLvgg9400SloxDBA==;7ow66dQnFA3X66ycVwnadQ=="
 ---
 

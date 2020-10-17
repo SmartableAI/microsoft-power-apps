@@ -1,14 +1,14 @@
 ---
 title: "How to build a canvas app"
 excerpt: "How to build a canvas app"
-webUrl: https://docs.microsoft.com/learn/modules/build-app-solution/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/build-app-solution/
 type: course
 price: Free
 length: PT21M
 ratings:
-  count: 3865
-  average: 4.705304
-heat: 58
+  count: 3906
+  average: 4.705325
+heat: 129
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "6sriG7JbaAqJ5MWoTMY0c4jFcYrNOgi/CisT3HLVkWBySPUYzE2M5MY4BO9LeR7iOeqNpXchmtbDVIvSmHC94DcF3nNxEDZN1p5G2Pp3rYVjjHH7tRZSQTB4Azspp4d/Dp1557JS0hDc6scfAa05F5zKDKtZEbwwOyvcGSBuGIqntzZq9wFzWxT7hO6CQwDEW2CQ8u3bCNcI/CseZjWlGTxkgWrM9VUQ/Ap195C85MZi102uXuD0upf1Re+57lzXAjuqO5G3j525By0dlxxvmzKyEFuVrv++sr7sn3usuNrbzEJz2fDJASrs9bNzublBb6BUSsIN0E+3mChlcLAk3ldDw9dfJBcIHbY72bMh425Ldw622nNulvfZbOit/Jv2XjfMp0fCwVtrdimS7l4HlNSVdCEV2S4nRkZMuB/TQC8=;FzktYxFtWfK1lu3xtIkj2g=="
+secured: "XUPrkv/VK1kKCzyfIwfLE04Gwsxa6WgSMT4jXQO1kljiXF3+Z9KhMS9ZNvKip0G5nYhN7sPWBouz73tKrtTNl+s44QhuFe8jlH0wUFBcnktRCepeTzMq6q1p4lrEm3IXETRqhnpZkvsp4BQlf3iV8aEDUbxI0APKGCrilDv7SbLwZVqKVu/uSNvMssuTgjmTxRrG5FBxER4jtzUH+AEdas0FofjEKB/pIOrFmc1ZW2Apo9p8W3Bp9yexDZGWEUjyPj6m+69saGmMn9JpG3GsvY6XQ2sPnDVdmPQqUOq5v8Dck4/SQlcEFh7VYC5UKb3ICxO2JdUDGMKKb7jm3M7DKd43H2CPwTCp/zUN5XsZvoKi+7yd02iBKOi5SYRRztvoVWjdEfaa0QLkVdDL2DT1zA==;frVuGuJn598klx3vucxNZA=="
 ---
 

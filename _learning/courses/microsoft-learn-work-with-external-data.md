@@ -1,14 +1,14 @@
 ---
 title: "Work with external data in a Power Apps canvas app"
 excerpt: "Do you need to connect an app to access data? Then this module is for you. It focuses on connecting your app to a data source."
-webUrl: https://docs.microsoft.com/learn/modules/work-with-external-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-external-data/
 type: course
 price: Free
 length: PT58M
 ratings:
-  count: 926
-  average: 4.5529156
-heat: 50
+  count: 930
+  average: 4.551613
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Canvas apps
 
-secured: "EE9Vb2jfav8dPN/PPFSTgCneGkPElLeK4xaKpxQ5HRVnlRZ9smzHwdRdZFRch+2tTA22kEDWJZ50Piya3Xm2fUJr/RYUyT4sn9ULZhsoyepk+XcEqTCGB2umFG4tvWe7ujQutLNn9pCv6ujSWEl6vnun8OCoYzfCwwVq9oDhq+NrY2f2iMeDVS1bt7+lTOd5dasM23HnPugTIo8eTnvFLXR9Kf4tdB+dyDXGqkbwS6QoOmcujbE4ymraR+7PlaeT0gqZXpQu1xPC6rXe7o15U7PF5NAjD4A2LrTyQRNdk3/Oz6fPz31snn1pqS/4ZunNpPlp8dQporUhmTVdbD776a/w/Jc8JO+nlSCdK6HNd+VKVHRgAkGXS3vCutrAnMYeMUjWU5Iy+VYo53Lo7gZT/7f18DRo/5mEQoDIBPDDcP8=;FcVQnMHJvn/LS5vn7hcy9A=="
+secured: "u+YCuiEquKZVbR/YurYFBNZsHBQt2Q7JAq7cAmmk9iFROQ20602D/uoetcG1V6udmZuqNe3+FqF8oyfW0NGRmVcPoDBgQSg0JT01goFRhyZJtXEQk/6wlHuL41TscbW6jcifjbWX7qknN/1oCHOPDxTIWE5i/NFyTR1VRFKAYDmhnFja5uj/8QcmlVT0dhKlONrpB9Md1e9LMYQ7cGy2fcQ8RuPuDI8poY17yyiIJYyc6LDFlyJslBSnSFF+l/Gh7pOohJeSwC8C9AA/ANdeuruyFBAvTwdVFDpqr8gQscZL0p5uezw82/5zxPGreTvha0xvJ1KBJvGNMW0A40VFJkY3AgQOOv+qMbpU6Kq0nvlWhkL+WczYhWUQifcaJWkGA2oiIpGcO9Wqg9P2xICpDA==;887z5PHi5F1gOc7yxQKg/g=="
 ---
 

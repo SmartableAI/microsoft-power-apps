@@ -1,14 +1,14 @@
 ---
 title: "Access Common Data Service in Power Apps portals"
 excerpt: "The ability to show and interact with Common Data Service data on a website is a core benefit of implementing a Microsoft Power Apps portal. This module focuses on the several techniques and methods to display and interact with Common Data Service data in Power Apps portals."
-webUrl: https://docs.microsoft.com/learn/modules/portals-access-common-data-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/portals-access-common-data-service/
 type: course
 price: Free
 length: PT50M
 ratings:
-  count: 41
-  average: 4.4390244
-heat: 50
+  count: 43
+  average: 4.418605
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 325
     isCached: true
 
-secured: "EzQ9csXAqJ+EPpIHgaKxgnB2Gdh6SCNF70nbNdMp0QyRqaFzbSMuwUJePz9H/7Q0zmctxx6C91vwdApzmUUH/eqQr1I7zJ0yoODOPxmdVC30FpEvkqyZFuJ7CLkm13u7HbhuBjSAGm0my0Tu0KUHZQa9l3/0w7yW1iTjPjev0u3hyj+jI5B+lMBMyD/4nLNLou6rQGJmFfZWb0VYiVMmFlo84RawMS9ZKZ/8f4pNTGUC8epD1Fl9aQEl0iA15Fpy32IGXJaWw6+QKa1NE2LI2PzErkOwf6G+De4dVJSlYI7neNpszlM1JX0hBYXQRZBmlJtvHTHDVrw4nC/8y+5cdAZho8NZ2l0KKWWwJyUhjMoCbCWzvG9RhCniIfpXY9LxnyYauBoymB1jRMrW5Y3Ru1LnMrruxY1iASaf8J+LUhY=;hQj1162zM2hQ4+sVsHeeRQ=="
+secured: "iEv4nM+RB7OM8Wj1dwk/n2QgmlNxmh5USlWV7gKH9dL854ykXyZvxnXuGCMmx6fx2w7IK8Y+6cUJal6ZSFe7xPG47Rpd5DOkePqDRtMGhZtl46iYuqlnY767gpOGtsZKeU/taTjNz+x/plOY6MIh3CRSwKaAimsZ5VZvEM+xB6V4wmH4XXHhSGCIWTy5PNw5SKTdpYb7WnogGKmvwDcQd9o9t3tJSJ+tRYDAKb5vKrey2Ok9dXdwpXTSx1C7ZtE1I6mPHlN3As9wzb/AR+Q/Pru8En01kTKK8nB9jEukWoibm1YrGHFuOm/slXtVrAzpmGmP/jh5VWtp0uWwRkIU/VPOQ7WPZRj2ND4Y11cvYimaK6cRthN/KOVEjBfMqAR1Xjr1nWvENyDxreg7mghcHg==;rvqeoyiuqq3orvBjoxQ12w=="
 ---
 

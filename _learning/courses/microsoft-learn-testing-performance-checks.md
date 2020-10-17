@@ -1,14 +1,14 @@
 ---
 title: "Complete testing and performance checks in a Power Apps canvas app"
 excerpt: "Do you want to test your app and improve it's performance? This module will help you understand how to test an app and improve performance."
-webUrl: https://docs.microsoft.com/learn/modules/testing-performance-checks-powerapps/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/testing-performance-checks-powerapps/
 type: course
 price: Free
 length: PT39M
 ratings:
-  count: 357
-  average: 4.7282915
-heat: 50
+  count: 360
+  average: 4.7222223
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "AGR8O1yb1cSe9bNZq0H0no00r4mDcKsq61NkADjAcKpG6/19mPsQJHVD7l/Ld5TlkkQ5LBmS7GMiTpHMv21qSscRxUnzXZB7MLLNxRJC4TJ1b37PVnakqEUgtPOwdWAxMYW0RVoWvQG/yaWZaPD0xcrAA7op0pdfgkFe9x6WX7v88KR+IpAGMQn8PDyu3FO3tNL6/uoR32xKrsyAZnqBo3xRnHNMn7RcZX90lBbVkOd9eWcoSzo2mSTYM9pZNOj9n0WQc+XLrJegZEU4vvJz9JR9pgD04yGOIntqu3QVKkWA7cojllMtkpSuqrk9qnOv3sisQGB3ocvWw6pew/Rz3NlAO1zKB2XFhKygwDuDjvyySw+fVolI+fNOBeVYXIqvsSu0/HboKHf8nlPCfsKVPEyW2+miQHcMdqgLkUtjyFs=;7QfRWJ7oHrS+0TpXikzKTw=="
+secured: "9fgNJqukPnND83OQrD5LgxYRdT7JZfB4xOhUhJiLAVcJEyllSgCuNZ5zE3Lwjw5AuDEKQ+zQ/dcZJyb5D9EMo/SVi8okJZtLofiifXax7XeVgi2FlWzeB/+fMCPx6SmOZqHn3WJ/dmFT9rOFJDOxFXampKn74mM6g20OXtt9QH1X6Mj5zyFl5uyHkONUIAH9EjEzimZm51wtmJH6BSjdBCpzDHTFsZyg+qDemZktZz2WpOOKSNGUBkGvkZwAduZRXW2HFuFy8Cv7yB3ontsRGJJTt6fyA2TjT0cyhqLt1WXlaGb6MGtVvkPv2ZyTg/D+adjLr869P4uKydYFeb2T2+/+X3uikGuRmmNuu4lHXUYRGbdeosFjsALI1rWDIcV26lSC7EdG/N1iEVf8smSrBA==;fmskGCRpgNeN5mrWfdbfpA=="
 ---
 

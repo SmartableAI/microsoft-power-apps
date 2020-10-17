@@ -1,14 +1,14 @@
 ---
 title: "Get started with security roles in Common Data Service"
 excerpt: "Do you want to use security roles to limit user permissions? This module will show you how you can set permissions to limit access to an environment or limit which users can view, edit, or delete data in an environment within Common Data Service."
-webUrl: https://docs.microsoft.com/learn/modules/get-started-security-roles/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-security-roles/
 type: course
 price: Free
 length: PT48M
 ratings:
-  count: 147
-  average: 4.5646257
-heat: 50
+  count: 149
+  average: 4.57047
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "AD/B2KDunZ3R/XVWgU1SMOssX0Hh5qrxMGgtkNeVJDD6hfBVXSqGvHTHVmi+dv+DEXP2gBOElOwaekUu2UJvNXqSMdW1HWW7LES9Q2UtiM/EsFR0ZfdHYzeLwCun53G01wwe27le7HimebbdUgKdH1gG7D1jzrRUNBV6a70zmGNISn9J4Bh9qPug+NCd6hliQf4lQGM1e7/nK/8Ck5UMttxqv3IEwhGu6fXlGhfBwrQasM1DgvCUjRBXwHIVjTuUvxMwsZn1IkOy/4LhBvtTvSL0is/Jr5mYtzy4Wc/t2m88GzpVSLNJXYTdxYrLoxUmxOL5Moz56FjcQTYrmIZVNKfeSfVoMgDu1PgCHUotT82gdmIu7JXni9SIS3hNBKaY5O2I+twpeKklO+6Lr+t28RSEyruUT7lTbUJHRXR40u4=;z0JzTaTUtWbRrXPc0l9UQw=="
+secured: "kDnICzjn//CkZEYMzZuqy5BPADH37WXfgcNO2BBVwuZMHvs/byx9F/yiV9J0+OakqZ29Is3mBZwYkIjoMfWY8uV8WKri1EeykZkJ6/H/2IYUUl+QhLpciFRs4SXW2MtOiFWlHRO7IR2jZQ7KT4I6ZcvJFEEq8AhmzKT3gxvJ674bMENeOMZ7+xW7UJweQmfDxvp85W6uDtnUlO0cMaHFOg9L1wAFXYNt5IJPv4zj2NvbvzmdPJDzrmuUiOs0peznA6ocziENpA6SDBvBgtHrL6AF+KgYRyGH3q7QwpfYTD9/0/808Aykdd5vrKtGxHssSN+dSrJFPpa6U0YIj61o4yyGTigLr0v/fP1Tvp3R/2vdCB1lLo7U2MhiBrVi1DjKV4ku09COZP3QukM81ao0mw==;KZX9KVKUD/yEuccK5dm12Q=="
 ---
 

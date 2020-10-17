@@ -2,7 +2,7 @@
 title: "Power Apps Delegation"
 excerpt: ""
 type: collection
-heat: 63
+heat: 66
 
 provider:
   name: Reza Dorrni

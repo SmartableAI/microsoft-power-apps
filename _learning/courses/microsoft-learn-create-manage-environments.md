@@ -1,14 +1,14 @@
 ---
 title: "Create and manage environments in Common Data Service"
 excerpt: "An environment is a space to store, manage, and share your organization's business data that is stored within an instance of a Common Data Service database.  You can set up one or many environments, depending on the needs of your organization. This module explores these environments and how you can use them with instances of Common Data Service databases."
-webUrl: https://docs.microsoft.com/learn/modules/create-manage-environments/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-manage-environments/
 type: course
 price: Free
 length: PT42M
 ratings:
-  count: 905
-  average: 4.592265
-heat: 52
+  count: 913
+  average: 4.594743
+heat: 77
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "7aN5zSDk+YRcpjsY5Zk4UJ0TLjObr21pugKr4wJo8w7YrFwTIDxwq1MTaUd3TkDZCJB+41LkM4Z/ExZOfXWFbG+zJl4XgQe9vdypq72zojLuJTZofyFFhWtKZCYSHgMEwMPsX1MdhsLCTXRtZ6v2z71uwMuAN2gUxDe29nfC2dIjXMGlRMrXQG8ir7gp26RncaGRGm4imaGOY9LdroMdIlngFJ83m0+8JVFtyY2rN2gAMIhuMmRqlDXnH4q2R3wgw6pw1c0MJ1WSMZ9meePw0mjjWxwaU5L1MMlU8C3PuG5d9YeYQIM6yQePzy3r4bRwuQBn/9e8mB5y+gv9UuAPcYzZiEr3iXLov9850jl62aaX4bY7MZOSwNMRTsPz2jL2EbNe7kc+oMfuZbaH4FzyyCP7RJBYniLBgY/nxV9qqKM=;JvQr5Xb5bdNRX1lhtHqp3A=="
+secured: "kxtZpLwYmldlUdaTzC3+caRXfZFOmSeII1BNmvn233e0kzvbTc/1pXHrI6EgbQSs3gKs7dMLN75zAHHOzpXhQrqfutGZURRq8SUZ3g3hcPJoMvYkH27lNpLz3fCB1KztKRJzd4Ya3qGftC4XRKe8c7QavpI3RZ1ZRhoT1goM0Wyd6sqmlvS71Wn/5ZS3EsjKM7Kev3ieVVhFv54nLTuw/5w7oAUBWi+q4tN9C4Qg1CUb5e222K0tpKaZIUF41O1lzRbVD2eLMQpsH9sXs51ohYXnjA5qOjXgkaO0K1LVA7b9/cm0PIsC2Hf8e2w+MhuiWjF882fliThsa4oaWfeTMIj9+eBBhgX19U+PlBvgNobqDdZ7oXq6P+F2Cn17YGEyQXOh1YM8fTxDo5jgZlXRWw==;MS3U9jXaJxQCcy1utRjiNw=="
 ---
 

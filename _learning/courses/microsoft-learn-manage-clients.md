@@ -1,16 +1,14 @@
 ---
 title: "Manage Dynamics 365 clients"
 excerpt: "Manage every Microsoft Dynamics 365 user with access to all the functionality and data included on their solution through a client. Let's focus on the pros and cons of every client and best practices when deploying these clients."
-webUrl: https://docs.microsoft.com/learn/modules/manage-clients/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-clients/
 type: course
 price: Free
 length: PT1H23M
 ratings:
-  count: 368
-  average: 4.2391305
-heat: 85
-removed: true
-published: false
+  count: 369
+  average: 4.2411923
+heat: 61
 
 provider:
   name: Microsoft Learn
@@ -32,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "NEhkECigD/tvR7+jH6IE1xgIKanfhLOFGdneq1QMvcoxdS+FwjsGrxIErAixkXiSihuJ6mOIrqNzCUf9uBrNrub2/ZaL8DM7fm/mjzB+Glc0iBznaGAwmEVjcUnm8H0kA+BzCi3uwo71IPISwF9gnYW2RxJmyPyiYIUnjH5tmYcp5V+tJLZYTx7LxSbNwlkmzjQ5Q6dTL1XGFW5VQZwpec6mx/lSVxU5LDYjDUKbTdIxkf55MGgvgbhVKC8QsP6ZKulT5HBQ30iU+QiPs2Sz87mVwyZ2pqlL98Vx6+aXQEQ2ePFHYAARiN/+vIdgZcC7PCdcicK3dwcOs0AQeCn/B8h2mLeqqfQCbvj80KBcXYNkknA8Ii4Y6qIdjSPP0zSyJpbPdnrWpJJlBYn3zfNScjmkLaYZtD9dAgNlRGCgidc=;NC1UbkPy7IuHQANP5QLrdw=="
+secured: "rxePPpes0HbnBgD2uZTlJyjNQnUipqgTo/Mg6/ESXC2afZbYZ2nktXe4873iMeCBF2KngMLZgkAEdo6ObtlD3iXeNJpTjnDL84C52XRdxMgWbjT8YGZvCRS8kyZVqCX0AyAvJ11KkJ4FNAlpNx1eY/90rPDh49VoQ/DpyyfSbSa2H+ek4MeafxRWTNsIti5vFSTbcWVwwFbnZYBjEEpYSeldDySwQIDvRVj2Qx5HLMlMQFXvqkh5weY96wN58oEW95dmaefxaEAt2ltcE7f61zAwOzJ2/mVtfPo4fUGs47UBIAf6tW7DNMo+qD9gK74xWoXzjPdvCPj8igBe/qr1hrGgSI5Gp+4nzfqnF/xunrbTivic+4ftO4w7HTKXByp69IcS46cDNDSnGxYNDuCDVA==;U/SEsuJ6XaTcFbwSszMBfg=="
 ---
 

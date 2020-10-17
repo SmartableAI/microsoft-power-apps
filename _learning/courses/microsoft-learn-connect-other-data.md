@@ -1,14 +1,14 @@
 ---
 title: "Connecting to other data in a Power Apps canvas app"
 excerpt: "Learn how to connect to other data in Power Apps canvas app."
-webUrl: https://docs.microsoft.com/learn/modules/connect-to-other-data-in-powerapps-canvas-app/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/connect-to-other-data-in-powerapps-canvas-app/
 type: course
 price: Free
 length: PT32M
 ratings:
-  count: 374
-  average: 4.6604276
-heat: 50
+  count: 375
+  average: 4.6613336
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "v4uJXylpRT+Ozk3JDlHGfO+/TiQt+e46np7mHTsJOfo23wSTWcxDACULMNYOn4nhAsWmndObD59uWhxEAH/l53cXcCyap8hZZl8jMYqk0e/eN5TiToAtToi0ZXTDLKKUtHcW5LnRcm6MfP9n6V8TlwpqGCg2IMYi3ULt3WRzqiXvP5e2kgQcJzVM+G2qQ/Nbe85aF2cKIJoH6P8IADQ/pxrzL9ponnp9o6XVEqUKVhdFUSeFcS20rthsmx8FZcXD1OLKxOyryuYx+JvMEXsXQw2c/9xqmcLSLzEPi9GJyanIc4LsSL+V+AWTqesgjc2+6ooACDjwtaTvlW50Z31ODAriBpwPbkogbh+mGAMuHpfmN4rTXKFzkv8+ji7ifGiNuvSkvJccFwtYCsptRDRow+vXyDcIxrQc5DKKNtBaF/8=;YLnmgxeU7Gkfy0Ev0Y9dcw=="
+secured: "4bFI7P4Uyf55gNmXB0z+vd9Pu6HbnJbQT7fO5AbRFvWjxupGVf8tpMSauXce2Q0mfagyqBthmArL9xu/Fr04xbio/YHqgtRRikany3Z0bTzzTp2LNQua9taa7EKyS5DbV48q3Nw+3c/UCxDIa6b0Mech9FFUnwSX938p6eDVxxe0kaZARp784PwLN2UvHwMwzw/BUx5YcwdcaObMsQtRDJrkvx2BJD6oQEDpWqR4DAWchUNYSgHt74EOXys9tooQfHZFTPkAXz1INVp1iD6fyWDHlQEymxOw3jkWtqhpdkEh5UAXY+kh+4w0rmHaXOSVn/siGhw2eCLEmGPXkhtclNVg/eopfQ/onUn15NWHEci1OjvYBHDM5LYxSO65ZxDA+FzrJdpD479mx2Kwk6VXyg==;3qechWoK7ni8KnAv5lSsCQ=="
 ---
 

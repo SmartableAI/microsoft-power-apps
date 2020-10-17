@@ -1,16 +1,14 @@
 ---
 title: "Plan and manage your Power Automate environment"
 excerpt: "Every organization has unique requirements based on their size, location, data residency requirements, and desire for democratized access to tools like Power Apps and Power Automate. This module discusses considerations that impact how an organization chooses to secure and govern their Power Platform environments."
-webUrl: https://docs.microsoft.com/learn/modules/plan-manage-environment/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/plan-manage-environment/
 type: course
 price: Free
 length: PT58M
 ratings:
-  count: 79
-  average: 4.594937
-heat: 50
-removed: true
-published: false
+  count: 81
+  average: 4.5555553
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -26,6 +24,6 @@ levels:
 topics:
   - Power Apps
 
-secured: "uTI7GUg56fQILzHVSkHbapFWrrwz2v7vzzUBPP+B39ywZrcfnxAdniZYNpzMRzaYl/q7SgSgOArMW1Pkxrt00Fhl422/xUNJwvajeRLtCjKJhWkOFlCN5cElrvDOzBTbrb8xMJ0BZoYa6K8MhDzBMJND4CaClFK9GJe5Qf+gkhkskoZ3tj94wkx/XlTTaCVS9kFUlNBY4mozCCoByBkWOkj0wwnOXy7cSEzaWU8GVvJ2FkUX2qJ5j7rKd5Kumw8Sxi6Acz7JsIesmfYjTnAg5LExzZgjILmESS6cJFeXyaVc8YqERLCPqmVpzQ1AA8yPCRWgItbbUekQWqPbx8Ya63mJZ3XwdetLXNOoQ67NQ6yE94UwwzR+LYa0fz7J9X0EnB2MEuSILwAjr1LguGTfkSpbTr/EoSyt9SqzIhGVxpo=;GCwaOszUa/uSvm9GzDIOug=="
+secured: "+tgGOE5RL0/VEzpOyPRvbR1ZrFNVTwTHJnbJRSCoEl7yNvzpNJVV9euZ8JX+78r0WDPxf+WlHf6cR3ly4f/gRhUDpIefeVeBP8n8SpFfbMzqQcZe8VOZKdJPqak2Csij9W0LPkW7gusq9P6EKa09axNilRc4XY07WsUkhxDbTKXTaBbbJh0CH20gLQZDO9aU9e5jK8VcBS5s+NxvVbyD1y70Alv9iinJLPknann2bGHroIZUwlgp/3cfz4hja/z5kKi4nOEbW1CP8HpwjhuiPL4WsMqLVpAPb4A2gHnum2dn1RW6mQUd8FAsLKAzAUZlvZzsPP7drw/MI7qeJdlWv+UNXGf4VKzleL6RmUDDjrlhmi4kUsYQoU41E7/lJZd/ZSojULzMRXhNem1oRPOE0g==;xXyXNd46YbM4eF6KzFP09w=="
 ---
 

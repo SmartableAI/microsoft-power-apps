@@ -1,14 +1,14 @@
 ---
 title: "Get started with Common Data Service"
 excerpt: "Common Data Service lets you securely store and manage data that's used by business applications. Standard and custom entities within Common Data Service provide a secure and cloud-based storage option for your data."
-webUrl: https://docs.microsoft.com/learn/modules/get-started-with-powerapps-common-data-service/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps-common-data-service/
 type: course
 price: Free
 length: PT1H1M
 ratings:
-  count: 2229
-  average: 4.5594435
-heat: 56
+  count: 2239
+  average: 4.5596247
+heat: 103
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Common Data Service
 
-secured: "LOIC/2pWDFntlZDUkNt2t7H8G9dYz1+jRBOE6QLQkrOrWtOGFD6Nz/knez49Us2gkUarIPXL72egKUw/CUr7Y9+nkfcya3eiVp5SHwWVhWaTxzx8dyDlZamCwJpu1L6bnqXV5h3ZxKMqMuF24Lra1FQIk6xm7yvcbemoyue3R/dIV7vlm1dzNg2hxpYjVEXBamjzghQNeVt6mpZd7fRgDdlgPWZxayFJxF1csMd9wiaKwqofjZ6qtWpUJ9T5qmWU23cZQzjbybgPCwq7ZRssUoRodyCb0vtYkXbq+dL7Fy0LeWqfwAnR2GKeQ4A0ZgHNxegAVCo/9G5BTIzDaf9Xhl+JeQIqxI53wKL/SxhSD/3zR5LeJ8qFIa3S75uaqCdPh5nFjuIJNwGgv9633yMvRQrSdR0Tu+BdNZBwxPitfC4=;fdYeKcSwetEiF0QuHdJjzg=="
+secured: "quvVhoV2yzEmLGH75wE/b4pXXT7LLprPtxnGdqDrmibg215OgiapB4KkR7D7LnMTYHvr+bhlNPb0sCrOsKMZJ9HKZdAMgUxXbPSUI+fwxiSjqKNPqF0Kzq8NEsBRe7bpS7Zyh+xRggsFTqQey/HoeXfvDLBNXlrEdrxbut75UiJiFZNZqJY9683SdyaE5iq3OcgpRLsRFLlWBXdTkYLs9Uv0KTPA+CNO2X6MhooH1jFOH9/6KP816pHf/mi9GVskkhCamfh3dWMmqDGFLYmE8QH91EUcy1e61a3ke5Yeg5jZbI5YSWyoLYBtFeXqbMw2l1FxAc+cWqDMGJMhWYfHrtbI+PyJrewcQ6kxsHFosHl7uDVMvKrWq8q2vIeb89IuKz4d96qz1npRzeYASb/NLQ==;EUIfgP1f+zrbttV7ZQCR2A=="
 ---
 

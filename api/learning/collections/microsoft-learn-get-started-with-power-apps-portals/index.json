@@ -8,11 +8,11 @@
       "title": "Introduction to Power Apps portals",
       "excerpt": "Extend Common Data Service interaction to external and internal audiences such as customers, partners, and employees. Use portals to set up an interactive, web-based sales, services, support, and social engagement application platform to connect with customers, engage with communities, manage site content, and empower your channel partners. Empower anyone inside or outside your organization to interact with Common Data Service data by using portals.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-intro-portals/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/intro-portals/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-portals/",
       "length": "PT48M",
       "ratings": {
-        "count": 142,
-        "average": 4.5985913
+        "count": 144,
+        "average": 4.5972223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 55,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-portals-social.png",
@@ -51,11 +51,11 @@
       "title": "Explore Power Apps portals",
       "excerpt": "Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-explore-portals/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals/",
       "length": "PT44M",
       "ratings": {
-        "count": 96,
-        "average": 4.6875
+        "count": 99,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/explore-portals-social.png",
@@ -94,11 +94,11 @@
       "title": "Discover Power Apps portals features",
       "excerpt": "Power Apps portals provide a common set of core features to app makers to build powerful portal applications. Numerous Power Apps features map directly to Microsoft Dynamics 365 apps that are specific to particular business requirements and external audiences. Other Dynamics 365 applications, such as Marketing and Supply Chain Management, also use components of portals or alternate technologies.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portal-features/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/portal-features/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portal-features/",
       "length": "PT30M",
       "ratings": {
-        "count": 75,
-        "average": 4.5066667
+        "count": 77,
+        "average": 4.4935064
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -115,7 +115,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 52,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -129,11 +129,11 @@
       "title": "Power Apps portals architecture",
       "excerpt": "This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/portals-architecture/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-architecture/",
       "length": "PT26M",
       "ratings": {
-        "count": 67,
-        "average": 4.5820894
+        "count": 68,
+        "average": 4.5882354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -150,7 +150,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/portals-architecture-social.png",
@@ -172,11 +172,11 @@
       "title": "Explore Power Apps portals Studio",
       "excerpt": "Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, entity lists, and entity forms.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-explore-portals-studio/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/explore-portals-studio/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/",
       "length": "PT40M",
       "ratings": {
-        "count": 121,
-        "average": 4.6115704
+        "count": 123,
+        "average": 4.593496
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -193,7 +193,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/explore-portals-studio-social.png",

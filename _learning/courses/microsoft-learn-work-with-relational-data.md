@@ -1,14 +1,14 @@
 ---
 title: "Work with relational data in a Power Apps canvas app"
 excerpt: "Learn how to work with relational data in Power Apps canvas apps."
-webUrl: https://docs.microsoft.com/learn/modules/work-with-relational-data-powerapps-canvas-app/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-relational-data-powerapps-canvas-app/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 492
   average: 4.589431
-heat: 50
+heat: 65
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "McZZXZKCXuvy3h2s2v9CfopEySky3iBdUUXr6cGyxYL8bc8QzkzFse0KzIIGYhKdANeZsBH5GcleE1SBQ/EMEkotphXWHuQMcwJnWDqVebMElaZGRXBHcDHsLTyH4RbzjyK96RAexJcLDssa+FtfkaUgV0CWuaVIFFhXrqAu/Da7h6pdMNKW8SF5AWi15GXuBKkIaG2kgmJb7u75F0EG4ZX17QqrvL8N8mILAD53EGY8UwNT2Iw+XkxYh/lj3WASe/ZeCpAoq4yPDK+MSvjZszk+kBSSobeQghrdlCxEiTyEeyQm8Qmz64Jo43WUr2hkyPbVsYFo15kqvhnz+euQB3SA3XMTTEV4KmR2b5fg2mXQpJcafRVimF3LFccx+j431NTvrm86xxM5DY2RFvH929DIDTQKh8zt5JhoKaQ9J5c=;y7yq3IG6fyLPXcmeusl9RA=="
+secured: "kEs4b8wiTnKs9yKRsEytmQHkxYcHuoR2OgXAhdgS8UBH7DNKgl32MEXVpZISa5mUUx2jT7UphsFh1LkBaMY604cVxK/GO729rx8L8RZT4umy+yiFbz8kXyADWyEdXoBAG7E5/MGLbQmDpcsi/Q+ZRPVGWOGI2gPO9ojS1PVtaSfZ5eup7QEvYCWrQAqodzkSB/YX894/RGdhCab+gFQyXK+ZahlgQ/8PExkTK7JBvbhQKdVgogviBETjg0Vu/FzFWcAET6s/GkcFcF+4QOaQ2DVHxzompT/fFoooJxpiy4ZV9OPHeNV4zfsfaDr5rHxnOCvK0KR1JlZzW6nIdsHSerWdfZGRNHG5vqfaTtT919LRwzaIqPYF2nFO3VQ+Fk97NuSeZRK2yfB1KgyfQGXosQ==;zSfuqAnaLtX6tDpJbozyAA=="
 ---
 

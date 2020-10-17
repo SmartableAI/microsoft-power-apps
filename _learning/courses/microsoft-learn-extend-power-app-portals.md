@@ -1,14 +1,14 @@
 ---
 title: "Extend Power Apps portals"
 excerpt: "The world of business software applications has embraced a movement toward building apps that use low-code/no-code methods. This movement is one of the pillars of Microsoft Power Platform, including Power Apps portals. However, many projects often include functionality or features that can only be addressed with advanced software development techniques. This module explains how to extend portal functionality by using software development and how to use application lifecycle management (ALM) techniques to deploy portals."
-webUrl: https://docs.microsoft.com/learn/modules/extend-power-app-portals/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/extend-power-app-portals/
 type: course
 price: Free
 length: PT37M
 ratings:
-  count: 30
-  average: 4.366667
-heat: 50
+  count: 31
+  average: 4.387097
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "J3U0FSqoPzFEZ7X4xNh+vru/NHDvAFHDY+mz2NRPwXUT+jkG9ViBNXgfiiJB7XcGqtzuAfLO/zNHFQITSSIuN6vIa0FoEqnTTc8p7cWBjN0yga7u3Hs5EOkjndFbsL2/NO7zqk4H5jTJhRMVUl/9Y6/phwvYVTozC0tvi1y0VhGVIOp0ro+i+iFOlzEgI0UB98OM+QilEjteydEchsH0tWoPRW4VEZtjfUXg2zjbPeVdkjw+FHMVuLJUDUFVpuQXwc61zsGaQ290/7ZVhltAalXeVSzgkULf54m2E7oE+iNd4A/hWIe4ACb12qouzo7AKNr+SaaQHig7j6E3tafjI/TBe+eLIX72ClcRVYNK+euuS+vmcwWgpXSA26BOFnDI09oXjK6SPUwSAD8Xq69/bDupckPC6GZSfzEC3koxX1U=;ib90vG+r/mZcjNRN9689iw=="
+secured: "JUGUI73kSbuwIEhn83KCOkau5GAH0yYzNltHsqsJRp3thl5Gy8Y2x4Dl+Z6zKPMVITHStQxErk7pqznykVxyG+BCq4iuphC+1wAjuGosuES+BsOJ7hTGsamnlU2WNBbbyZUHysEE8aoQxVrvrn8dbqOFLqzq4w+VInDhegAb19jkE1NlKDejZt6iqVYr/CFMTJ67/V4OEg57yvDeyz0HsZl4PZghk3nlRSyuCNDkvslTf3ImOWXdRQhvXjplX4AVS0f21Z/b6BcxUrd/srSRrjmcTSZsRjvLLRfkbdh84C73P8C4CBFCrt3+3EamCOZqHEzyZs1VUmMIW2loNeHMDdbTXGMSBIgpCDcYKxgo5jrNiFGF8p5IIurxxGtpS9BGsrg5PoS0XNij4M2XCZhBDQ==;F4npfR/nsBBjkE0Bp31EFQ=="
 ---
 

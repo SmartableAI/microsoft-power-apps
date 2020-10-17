@@ -1,16 +1,14 @@
 ---
 title: "Perform fit gap analysis"
 excerpt: "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform."
-webUrl: https://docs.microsoft.com/learn/modules/fit-gap-analysis/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/
 type: course
 price: Free
 length: PT35M
 ratings:
-  count: 349
-  average: 4.7163324
-heat: 85
-removed: true
-published: false
+  count: 354
+  average: 4.7146893
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -26,6 +24,6 @@ levels:
 topics:
   - Power Apps
 
-secured: "5Q5XlIzbzLjG6S4uDgD1dIyIYgIQOWla1zuRvTQvYOKOLmppE3UN0ZXhKVVye2fZKysJhu6DHchrNQJDV1fjufOMdz2Azqkm00WJHC5TUW7XDVEYcqn+I0UnzV2VQE7sgPth8eyvLKyYttxru9i+69AEYHawBqaqTXj0+7GhzP0z2CPlOibzAfzHsk496ciNs3LV79YoZ2AyDlBmtFP7oVaIIJ4hQfMO7ccT09Ic66T/BCzhqesIHm3ztrrEuIBzTATSBAv7Y+bV4EFhnRn4n4RDbKTWo8Z4z6mpOv1fshrWqV75XH59/luOvgRJ+A7wvYzhvt9HBezfI8DTW2jEjBv9A/D1WJAtb47xf6OQY2mwPxqATQJNHAoquN4yzAQJxYR+co8VNlUbeq0UVVhNrT9GoRJpQndBxY7iKQoRso0=;HCdo0H2wX1+yICWGoW1ZsA=="
+secured: "cHtyJ5woqWtSwkwVSDoXS4yEmDY+aMypjsVgos9NXB1Q7e9DXg5JB93vl6iQpWWj4Bpb8/UWR7cPuWmZ3DvqfZRtrpXjJ4gUd+OsqVZKvkrOU0qMJCTlOcXwaXRzrYs0dMpvMI0QWkOT+mVaBeQVP3RdoYnSCjBCjcoNpfOv+7HhkmpI5dXv5ZV0E7w0VJRNe25guMWYywU9qx+2B0+TqrABofqAzPRmeqaC9R2h1SK2yAYF7OA4KE3W/+Zq1roCQ/RWmJ0FbamCcffzW7lV8m6ClDB9e/CrAdEBPxXQX53tAGPD/hyi2fwZWigxkG2Zsjv2fFul/HYCVzJ5p6ExcotMjT5CHBMQAKah2yE0mzpF8LhI1JtvpU43pDeFMzjUKG/kPx5C4g9ETioIpQpWpg==;qJm3ZDOFyu/h9sh7malPuw=="
 ---
 

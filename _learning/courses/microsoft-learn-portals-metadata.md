@@ -1,7 +1,7 @@
 ---
 title: "Work with Power Apps portals metadata"
 excerpt: "Makers are required to understand the various Power Apps portals metadata components so they can configure the portals app for a variety of unique requirements. This module uses the Portal Management app to configure various portals features by editing the portals metadata."
-webUrl: https://docs.microsoft.com/learn/modules/portals-metadata/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/portals-metadata/
 type: course
 price: Free
 length: PT49M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "GXnYPcJVelCw7gUdES6UcbQQQ2FKLk9cpm1jZjWmtBtJzs1G+ZXsYlCWVwa/l8++E6qMpV0nTR8LagUAjA2ySiYMnQod8NPb8KIfUMB4cIQJXwQgTAbOoh6qWdTxpkzvfb9rzQJUvw5K+7zDFl1GAs6I1zsXYLzDsG0+nMVTROnRQ8itCE6Oz3uM+Fy5jxDVhiGT6Y3Qos3DQOgNQzhDeG3fAw+HCtAdjm4Ey0xGz5O9gxqZmelfjdndJk8DqNedZw3ofJEYQfM8ew1JM/xpoG7477qUJtdTbUm4NapRiGglXP15OaWh0C2iSQazNooCL/xtBhnjniGl+BFIVxiotrUrdv+OLzEW0KHwX9FYX0dHLfO5M2IJrN2f6OzHtbcByiK/3wSK+zAmx51TvewJwd5Blp/DdS58Qy07VEHgLNY=;yY5DHYBhC3Ii4jOkbtd2/w=="
+secured: "nYw8nUUIeQVBKhdqbMvMZ2KH+gcKv2xQTOVl9SOeqFfK8NbbxML2+JYMKXuqwBcHk6b46IXSOX5izCDFF8g5u+2eM2Gm5TwYu5RYgxKE6LIpBzCDV6U0NF6YPFoWumNoMAssrAcr4xAhUl/dlGmKT8DTvHEDCNaoI8GtFSttkZatWsywOwkfrWl7ejvS6dq7CYETxO+kbDm/saIjdZg/ZbuPrlM/bnv223UiQ357f9W40BnhP5MjsPf9Vm2UQw3nm1XoM0h3RhBqzklN7UVQPz05VLKGSevwJBzYNR412ig1XvTP3rGXxOegAtb0+4fe51aMD/LT2VI8HUCTNZBYTElUrDbUw0BdCqRJRN8Qby1AA8LNb0hZZLK04Bm61eWOs3F+EiufZxN8Riyfh9/7OA==;KrpEe/MSVCb5BC/W4iV1Zw=="
 ---
 

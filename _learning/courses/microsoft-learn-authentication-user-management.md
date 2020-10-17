@@ -1,13 +1,13 @@
 ---
 title: "Authentication and user management in Power Apps portals"
 excerpt: "Learn how to authenticate with Power Apps portals."
-webUrl: https://docs.microsoft.com/learn/modules/authentication-user-management/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/authentication-user-management/
 type: course
 price: Free
 length: PT23M
 ratings:
-  count: 11
-  average: 4.7272725
+  count: 13
+  average: 4.6153846
 heat: 50
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "IxvxpijL+Bj/henrcNhX3WSsB6zLGSKHZFv5DRqky2EKHkYYU905I4h8QnhrrF+mprH2oiY2mKzvj+IeGvTvC5QHKgMb8AAkDal6mhXuZSWVUhwOPHhTnP71GzCZ4yyQG8LmWBg8lQ+gTuSh7nXYLh9CSC57J+HHsaeEfryzPHgRC73Xn/pUQ5EfLBCKR378eNK7QZw+jkaSVeB5z/33Wg8zXtgaw8Jxyb/m4/0Pq+YxMVzb7xWX31uxXrFnKCmORGy+UHWFNTfL3S/lK2QH9IF720m/jWEWkk2a06P3qRUJ9dVrPQMPJ/eEqXrh0QZFEvuPigjS3LtZ7euydltVMnKVZPTjBAW2V92j4vGdUCtQWEuQ3b0ZauFvoQL1VSUBESU29bpStSbG7jHD6n2Z/GO0SsOzNZ05Y0u/Pf4DX9M=;Fml4nxxS7waripPczlisOw=="
+secured: "q7smyjyopW/rBqBUmMWS1ihueqwPHHrVDWYIpZSGELslBgUNnD76SuFa5JSNn5ma2sgiyYzO4oWLPTHCv4TF1XCfnfCjNwZ6jBdNk1a360Wt0VpcQiWkurmh2A944xZ/f6mOES6t0avpToSvWRnDOvbgHlYU+LRLAnbHDVcZcLua8EL6anGoT35nB+8ytcmE0VxGxsggKIf1ZialAiiuXJavTdGhMkmqVsMJSDhrrPg0/XNzIc7FfxUniCZSVuOIgrIT0wD1AWB5e2ql+1XPIYEy/qBZpuqEff0Btjo+AO03STZa3VAx9Rcw09uQq/Gp0azZI+0xXt0mg4nWpfvQYddleAcf+ANNUB95pMI5eDrGVTj0Afa2CFSqrRbUVvc+t5CcTe1qDcxzaJkqGbmlvQ==;1qmFgRfSlPPkO2rL04JXUQ=="
 ---
 

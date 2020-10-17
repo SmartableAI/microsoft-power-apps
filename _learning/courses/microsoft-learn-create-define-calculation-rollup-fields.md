@@ -1,14 +1,14 @@
 ---
 title: "Create and define calculation or rollup fields in Common Data Service"
 excerpt: "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set."
-webUrl: https://docs.microsoft.com/learn/modules/create-define-calculation-rollup-fields/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/create-define-calculation-rollup-fields/
 type: course
 price: Free
 length: PT42M
 ratings:
-  count: 78
-  average: 4.6025643
-heat: 50
+  count: 79
+  average: 4.607595
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "7MHOmagv2FTik4XoUMPvRzV9+hGuJOK7axRHxlXMgspraYjPuZ3hrZnXmWDGXxKhEDbnWc8Eg5cuMBzmAhWkf+XTvjdsIYZnNuYjCNGEgqGzGYO7X4js+GJ8QScAB1K6stGJkplrVZ/3oGrEttvvoboCTbeMe/zWmAcRy/K9PQ4YNagpOOGzx4bbVCinhdxbDExEZZMh5Zvil/H1mn52a2rNFx3i8f0HSj5GQ5e2Sp1EUFr0QVZuRtXiV3TeoRywMVv6DucTIhleHFTFcsm5DNZmsq+JVatzkni0+MumhmyzO1jF1if6jsdp9Zmr3ixyRfPT4sfD7Fz27i1FSGTwnQJI/2gpwqGtd3+chIlZfkBJdMCbVX5zTZvtVca+TbzirEiU2yG+MHzfR/vUwODLzb+scAcQl/5oDNmikIs/pRw=;UqK2UKaxeEwoUvFjPr5Krw=="
+secured: "L2dNhqQqv954yWSKbI1d/523dCZ+6+jvom1ut5egolpCEk+LXGjE1A2Lqh6PyZomrAMjrJrUHFTsdkxH7Rw05XjzhuUGzaZk5RA5jxjWnNTfQMbYdNOMVfV086sKha+66Y9cK3jnzoUSsoj8P9hRd14JfwyYsSwlh1Bx49RVnvDMAC2RtHIDi5Z78EsejyzRhO6r8Xe+yMvRvLSFLI/rEnCqLPsABQ8/rSGf3VSALO1vmdGMUAVhegkhUL9+Ks8JJtaGi42PEv3eLmk6SUag5mwiM7U2nMExd1l4h1Jnp8XE5DYHmFAPxd2uGMGraf40d2eaqWU/CAiccXZFedYmMfVJBN4LucB55U7NExatwpQezt/gUa1MpHdwfYEZ0mj8o5fzPCImfUeK/1bKMltQCQ==;+h5wZOClti6yN9UUGeUrCg=="
 ---
 

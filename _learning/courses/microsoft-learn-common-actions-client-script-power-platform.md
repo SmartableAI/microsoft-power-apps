@@ -1,14 +1,14 @@
 ---
 title: "Performing common actions with client script"
 excerpt: "The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during the Microsoft Power Platform implementations."
-webUrl: https://docs.microsoft.com/learn/modules/common-actions-client-script-power-platform/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/common-actions-client-script-power-platform/
 type: course
 price: Free
 length: PT1H27M
 ratings:
   count: 166
   average: 4.674699
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "sVQWz+hIrw/x6ZhYFXcBz93gfJVoqOV1N38Rd1UPy+70qyWXJxafgswCD6qRfHgyFjMn5kbl/g9Qc3IMxGDyiGDlvvj1bqY0xkN8tf9cy+ZWvlsaUB6ZKo8wAh99nqHc5GW8Wn8YYcDccLl2RzIQTZ0XCKNln0xDbpvn37QIgUF1zweOW7ESaQyawJV105xWej0Vj+noo00JCClI1zCmyFK+Jm5nl1LkEldJm23QuQmbiI2prnRnTBU2z5tZeVQKv3Krm7g/2v0qvTKfj4K08lWQGbbwaZJ23A8LduPDKSUS5rmVIc0bKuK+XH+FheloaeuhjfPA8nDqKBRw+FgFx1d4wStOKI1NEs+tivCxbbh7FKWjGzwTHS65TZnPm/gP9UoFD811aSQuApvjtbiZV0xi1tlfmG0zQPE2/tyyzMs=;UCMgo2CZ0Ug4CZ78tTyEuw=="
+secured: "p8eHJ8KxohqsPO3pBWvfOUwfBCAoBJsaskZ94ugDm/BJZ2oZF3FlgAMLNHj1rWe8pfPRa6oXhwJmVoUybvJpxPrG3wo38CQYApGIjJpbfRsjOazn3e/j5sMKSdK4lwoNA3zcPEKqD6Zd4+Kf6H55M9erQtCgsurrHYllxLX3Ru0X6elKdo4R7XNloG9TIg5+55jtD/Zug+tD2Zkzo4gU39O5tOibEZd1p+hu4RGSeSIwU46WK1tb5bBLS2Tv+LfOPeKzC+QR5w/ESPft+lQX5rvkfXly4yrCTHHswqDFZaaoVfWMmxY4ubPd5jreeHw6953aoEwT0k4okzyNfpvSjwTQs5FXdsXA+LoBmJ8jOtiQpyM4I1G9Ny6ddVTf0iWTbxuQwTtnks2D/GHgpv8O4w==;9vDBtrpZQ6IhBp43HS5gIA=="
 ---
 

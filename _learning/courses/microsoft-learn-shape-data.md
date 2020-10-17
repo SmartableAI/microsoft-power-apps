@@ -1,14 +1,14 @@
 ---
 title: "Shape data in a Power Apps canvas app"
 excerpt: "When you create a canvas app, do you need to show the user all the data? What if you want to show only the data that is relevant to them? This module will help you address this issue."
-webUrl: https://docs.microsoft.com/learn/modules/shape-data/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/shape-data/
 type: course
 price: Free
 length: PT58M
 ratings:
-  count: 694
-  average: 4.592219
-heat: 50
+  count: 697
+  average: 4.5911045
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Canvas apps
 
-secured: "Q1xVtAWDea+Tv1/s6fG+5GttJID1CcNIHKVEAJu8IoJYGP3J4bpNUU7ffR0EYSIvUl7rwfPK6zACpKSdT4z45a7BBjKrKZj0VzcmuTedc9X5jJE8T83WwjgSjNe4tLpEoJ/RKWbLRoljF1xxtS4kYL4Z+xS3+SLmQCwvc6BFwxuJRfc0lduQ206lVobRspbE/Fv4P3jG90BGYNhv91CJOTn3taB/f07VBd/JsZvIjdZGGnYli5FjWgfpph+PtZWcoIiLel6cZY4dpP7diOM/c/yCiXZLEgoL2zf+qR5V2rHVqDQX6mXsdydR/85afJUkTSzSSR7na0AdeIgBO9UpkJB5Wxat3bbE+mrbLB10eQ1MUxDQGmLW0QOWnJmqaQ9yNuVqq8PhvxK8usTHuvYITLh25GnC1Gad8xywRTLnnsM=;8A126TXfwHJF9iUIOt+v2w=="
+secured: "j0m897L020LkDYdSRU2zmYGTSFjHe9qMPCU6tTcrAoR/phYGRzGSvb7t2xnoIizj012oglJi77Xn+2F0X0mwVM9aNtVeo0Ip3HEIeJ41q+xnhGIxXwc1PMyppAi3TcJyC+SBMeMzbY1oHB7QI/JbDSnWDsj1JrhCeHlzy4luvrsIT6DtveA+9Rwn5hOOVedNcjK9/8UxmznLQnZQL+vLGz1ELBymc0S+uEOs7ejmMuorLpEG1mUSuwMH4W+CkfW3tuJYS8SRIPkzBTSRLpLDoy07DSh6dYFyxrl1vjuu5urkxXDqu6UhfC7c9JgKK5z1HCpAgqr8b3OO2vuN4AhGH/O6PJNagbPLfwGJlznsUHrOhWu4sDKqObpRdwFvLJ/v07rmH/PGCPDJyp1rHgR7+A==;0/XkCGP8S9HaWY0XkZG36Q=="
 ---
 

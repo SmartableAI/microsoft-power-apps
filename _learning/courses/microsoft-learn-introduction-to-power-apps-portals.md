@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Power Apps portals"
 excerpt: "Introduction to Power Apps portals"
-webUrl: https://docs.microsoft.com/learn/modules/introduction-power-apps-portals/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-power-apps-portals/
 type: course
 price: Free
 length: PT25M
 ratings:
-  count: 135
-  average: 4.6074076
-heat: 136
+  count: 167
+  average: 4.60479
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "F8RJpJGcVDKEtv8bddgw/e1vkj2Jb2oTiIsoA4UMCYRY30VrgYYNUvQnO+zaSrw3nWtNG7X/xnXHZ3V0Kf2CR3f3bdf+ZaPD/o/wAGajSIDXZfkzuFqTqf3mGVAIeyxCNtYYnXHSYyT4i04vpb5NMNPgHDT8jJ0giEKlduy7BV3tiPCP2dvpBkcbPsOFpfvI1b80BbQ4jbglQjOAwZjMf1VGuhn8MI29tusY4tc8CBlk2lPN7aoQJIM5XgAWotab/lkHhV2r/bB5nkU6GIrXbMw3h7VuX5YnZGcfrVfrd/BZSlx0ZhZFyIdh1aXIyuYbjrOf3xiLHXTa/cwCHzdpjZnS9Zk+hOZm+WhS/FXu1j4C0WRAjFT/XS3IW/ukxEr9iIOY+d4KV8dHFYUtODYI7lGYExWOTx4a0neRKfcxN6U=;ljidsGoJjetqIIH8eaM/7Q=="
+secured: "QMYu7Eb1sUyFymwNpPRk9T9yHbbqPM/wOdZwBet6aazvSP2K8kg7sKoWj2cDGoGdalEfOqMbofjoIOvMWzBB+5GAsTaqVNnmUSNhFZSucRhJaKSBIAHP8+BGqBQuLsNV1qhgPp2Dz53TnSKTF64HlIey5F09mgM842YU6AdHXM4DBAvqKcwJtjrutQH+o1eixWfZ21k+hGhxTPhce1vOOOuz4HHmzybD5k6/YLQlqWCLvj+OZZyNNDM0YaB+5Ml1KI6WDcLNSQD1LJbNFS2bPezWhUnH3nvUllo3mk4h5I7AVrebzdv618MmKG7aql0nGF93xUUCrCOoVDWm28l+WvrhdtixlC5UIwLDnqq21bgpAcYTyQ5C7IG/pfqXRJTyOR0OM7yrm+jjd0nqnLeOjQ==;5QjjrsH5qEkgErUgOKASiw=="
 ---
 

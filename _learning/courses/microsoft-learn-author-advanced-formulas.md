@@ -1,14 +1,14 @@
 ---
 title: "Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps"
 excerpt: "Do you have need for a complex formula in your app? This module can help you author that formula."
-webUrl: https://docs.microsoft.com/learn/modules/author-advanced-formulas-powerapps/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/author-advanced-formulas-powerapps/
 type: course
 price: Free
 length: PT32M
 ratings:
-  count: 420
-  average: 4.6309524
-heat: 50
+  count: 424
+  average: 4.625
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "JSg2tyoqYKGYz8GDJR2sW0ZVNJlLzUYxspGaIRr72T/JcJe6lOHh3cV0/o2exEe1/8Kqjsi4fgAZhBIQILh/zxhb9L3aIEgUH4icLUAwWb7LixUtR4emmyoY5FCBhfot5JYSw9pXqvbk8rZRbBKVJ6d0Kj8+7hpztoKY4pKmBxy/emBKaHU5k8Scy34Lz5Rfyx12twgaizoDJXOYbUA8LAS7YYtF3JANAOoFpZo3M2JbP7TlGzh2d5DeatjqScnFEsKf7xJLP7OX9l1XUu5X6xkEVneoP/RJni3qk0YaLvcoswNC5zZTkQvnBHUGIrcllLWnF4cWG+KkJCrgwQmwinFhprjbHph75fbBVlFuSf4BZ6XEVAGlyUUzUM0weZ1OUdCzgsjy5ZOisK8Oyq1clEHfuKBtrQL4X6+KevoJPbQ=;vRD/nokm8yR+qE65Kay42Q=="
+secured: "LfBx8Ku2KJdtIDQvjgT1rhhMRYwCfXeYQ0NAXGis30mLQfvrw1Yxf79QDKG7DczFxDbHnVOHX45GgN6E4nEKJAKnfEurmsMD9SqDHc+HRO03T9WvGNE8EMox9lnuYfcFzhK1vIt1g/b4p4OKzfWWByts0Eq0jVP4xCoBxJOd/eVX09hf+8Zt0HWYSn3dnj63JUt0xvuy9O4XnxIP+ki4M3GnSgCn1wooCntPT+YLb4ZDGnlblRt+seF+7eBgH2Rx35Wi1jxmdMly0bT/zfQ7AYpwtgR3hvhdN4YyIfAMBuwY47gMot8oT+ciXyHHsFv92C5i8E/HJa34X0c3xvUKgcb1rJGux9BGF15/cAdZK0tFkw/eIHTueh4dN0+MKmykUZE1uu4nE2xBaDgJsYn7Jw==;w2jNsOnI3pw4rQEWDNeOEw=="
 ---
 

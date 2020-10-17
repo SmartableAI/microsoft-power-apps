@@ -1,14 +1,14 @@
 ---
 title: "Customize a canvas app in Power Apps"
 excerpt: "Learn how to customize an app by adding controls, images, and logic."
-webUrl: https://docs.microsoft.com/learn/modules/customize-apps-in-powerapps/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/customize-apps-in-powerapps/
 type: course
 price: Free
 length: PT38M
 ratings:
-  count: 7707
-  average: 4.6760087
-heat: 72
+  count: 7747
+  average: 4.67652
+heat: 165
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Canvas apps
 
-secured: "1c9d/bLdJtl4zgEyvdQehL2ac3i4gqmTFsiRtj+mdRj/bJ0D0rucBMFz7SclLcDYV6LSzF5xTGqc+AXiAeN8uidEmVLotJep8frNwyUMwJAX+YlSjdwXqOqd6wXKfjJLNPV1UtGk1TvzhPn/T8BxBARU8EvlL5rciHqAeum0jGaTdColznBZ3hI5LOmPjdbau9odNvO8O/Sh3LNRBajBV3YOUXo9Sh56Ao8ZKbVA2ax43rb24FWl3AGbrFACL3WEWYxmYBTGh7QEbwbAclJDLKJAqWZQfDWr7qNZR2sjl/KhrVdH4jwfSqEAOAlQKKkDn6DfHVnnauV/taOsNciFyvNUDk5eyKd33kTORBScRQjjXSJIRv3kMP8dTVT7MjSC5BGeQZnhPK+evewMw0O1EsYlWbisw6uHE3DCahs7vVY=;wQntUeeOUxWknvk0baDD3Q=="
+secured: "NdUjXW/XZHSwcTgkLx6GehduWfVYDMu1iY88iC2Dv+ecnsPiJnEq+kb8CtTOp1vs/v9PzAT64aImADv0xMnQ9aFNPK9j8sOvGROlEJBxuRfMJXwJGIepfELkgR+PdLKWWdtu7JdJ8vY0p7WsGvRqGkzpOsHusHqqB7H0KVWQqB0W1W0hm66lJQY6q6EMSvndUYatmvfgof1x8AqSCCKlqd88HOHFewEzTlffQBgEhbJq8S775UCItLxDP4aytTAe1WTLh+iE6vapGVaUGVoBYhwy2DoefMTXKvRE8FLyE74PRzPQaCFATBy6f4cAm1+/DxJXKjLGo6NztuCwpoAWsGOmlOHUP1OaurDtrag9QgOExj8/+p/oiKN45Bj5rZouhLT+K9i6jUjKJG5FixXyTg==;PhnxxSZRQuI/K/lO/7CCSw=="
 ---
 

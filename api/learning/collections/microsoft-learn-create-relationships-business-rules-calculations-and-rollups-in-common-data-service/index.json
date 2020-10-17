@@ -8,11 +8,11 @@
       "title": "Create a relationship between entities in Common Data Service",
       "excerpt": "Do you need to create relationships between entities? This module will show how and why you can separate data into entities and how to relate between entities to build complex and robust business solutions. It will also explain the different kinds of relationships that you can define between entities in Common Data Service.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-relationship-between-cds-entities/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-relationship-between-cds-entities/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-relationship-between-cds-entities/",
       "length": "PT55M",
       "ratings": {
-        "count": 103,
-        "average": 4.592233
+        "count": 105,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-relationship-between-cds-entities-social.png",
@@ -51,11 +51,11 @@
       "title": "Define and create business rules in Common Data Service",
       "excerpt": "The ability to build business rules that ensure consistent business logic regardless of the app accessing that data set is imperative to a successful business operation. This module will show you how you can build business rules that are triggered anytime they are used within Common Data Service.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-define-create-business-rules/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/define-create-business-rules/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/define-create-business-rules/",
       "length": "PT44M",
       "ratings": {
-        "count": 102,
-        "average": 4.6666665
+        "count": 104,
+        "average": 4.673077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 133,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/define-create-business-rules-social.png",
@@ -94,11 +94,11 @@
       "title": "Create and define calculation or rollup fields in Common Data Service",
       "excerpt": "Do you want to use rollup or calculation fields? This module shows you how to build calculations or rollups that are defined and triggered within the data in Common Data Service, regardless of the app that accesses that data set.",
       "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-create-define-calculation-rollup-fields/index.json",
-      "webUrl": "https://docs.microsoft.com/learn/modules/create-define-calculation-rollup-fields/",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-define-calculation-rollup-fields/",
       "length": "PT42M",
       "ratings": {
-        "count": 78,
-        "average": 4.6025643
+        "count": 79,
+        "average": 4.607595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -115,7 +115,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",

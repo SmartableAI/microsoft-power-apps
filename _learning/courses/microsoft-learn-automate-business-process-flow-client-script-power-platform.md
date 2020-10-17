@@ -1,14 +1,14 @@
 ---
 title: "Automate business process flows with client script"
 excerpt: "This module will focus on educating developers on how to perform common techniques in regard to automating business process flows, along with explaining the context of when these scenarios might be applied."
-webUrl: https://docs.microsoft.com/learn/modules/automate-business-process-flow-client-script-power-platform/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-business-process-flow-client-script-power-platform/
 type: course
 price: Free
 length: PT1H31M
 ratings:
   count: 149
   average: 4.6644297
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "Q8FjF/omQXh/2uZM1M06I1vRyCR4gcWXDZvkmVPA9mvlL2VUxdHHmcaMCYMFU0YkUfUf/ew6o+vhNtCDbECctBztijlfC9ANND8dnEVg2Z7B1Tp6o1XUmZBJ8xkPUeUTIzppGtRPzu58ht5cvUdFl0RBzH2G9Pn8+Qw8zpu8q73OuhPPscPPKdlTXKJysXPISEUnHZqSZiTzOj5r0aayZUf4+geyWE7Ri036FBGCBbJfsZAhlYdUjFuVzZy6BD3a6HWRpi7lCog5cgQrWgLVDkba4FH2XDCIfz5vSJoouDpfkeyMTSex0SRlkWa56paBg5vGtRouXIwTVO9GeNLVbz26pbotv+4NXOGl9BY6vs/ism+97MXeA8K9PlFytEGkGmvSKSA6M2m7Qq0OOnXu2UP9tYRwMV9zVbS666Giiwc=;r2N/z37IxTFLvY5K+bMHQw=="
+secured: "VkFWwEto464x0QOfnUJ6JnrhPx4l+6o5lOeI95U7umD12yZHs1JQOAmCfDN+Cm20A8rEk0c5jkPOqTZwCSjq6qSGA7rIAoXET3aZOWS4wNqP3d5J6erEjoZkWnmN5ZHW9g1TxZoYhNEWiMZ06kGSApAqsNd/UXVY3F26dDE4UqdZNhxlLOAxutogQ09QU+NwRzXOB8xQh7pbRTh1gw/3WVtCnWB5bqLhqOg1fcnw3hozffHiDth5r0YCCLfUR4GGjlyiWW09//1LJGK2BP0QMgTMlGYC4kqq8B5RFRbgOovwRkO7u017SyQdtSvQMRbjFuFMo8+Rp5+4mkGuHVRJNQNdu5+0SuR5asMYaUZAC6sj8tNSCs4/lw3SLD3Sris0qmzzG7AYjZwoXhlVYfAn0g==;iYVh3tVbUMvBT41cBhzpcg=="
 ---
 

@@ -1,16 +1,14 @@
 ---
 title: "Implementation recommendations for Power Automate environments"
 excerpt: "Do you want prescriptive recommendations for how organizations should choose to implement security and governance? This module will provide recommendations based on popular use cases, including Office 365 and Dynamics 365 configurations. In addition, edge cases such as custom and HTTP connectors are discussed. Tooling will also be discussed, including the DLP Editor Tool, from the Center of Excellence (COE) toolkit, which allows administrators to understand the impact of the DLP change that they are about to make."
-webUrl: https://docs.microsoft.com/learn/modules/implementation-recommendations/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/implementation-recommendations/
 type: course
 price: Free
 length: PT1H14M
 ratings:
-  count: 65
-  average: 4.6
-heat: 50
-removed: true
-published: false
+  count: 67
+  average: 4.552239
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -26,6 +24,6 @@ levels:
 topics:
   - Power Apps
 
-secured: "BO8rMbP8Ihn9sHQdK1hDE49gLKQZikh+PnN+jWtaTHzWhXrnFOts41IWDOa4riH/SkvPqGrA/+09VwZ40azFjSHlIsoF6QSYPX/zVIVTe2aIC9nHqLXuvQyg3sUZtt9yHISoypPXF6CI9JQsckUY7+RD2I6OlcOSU606HtLUU+lO8czE8wH5ys5iXjscxALGPs7js+yFXtr/YhgT6vAiJQiqQpsgJDm3n/6xJGmpAnmMC1IQGx80mGUUiGvDyw0KfnJBmevgay8uZGhdvaUaTF70Mb9A0gkXrnYTlzcvGroo6oKvvrn4ynlXupkhw8InL2pgIHDriZ9Lln4O9JrtQFUbWVSA5mr/R5W8JjfX88Y56B10OWZK/DdxvTymC5XKmZqDySthgJ4vMcrI3cN7kspSTAbDJHBhbRbHd999fek=;7PURrKiHa+TPANO2Q3XBkA=="
+secured: "+OXeJlnoySQ3aZEldopXuUeATBazt7aDWA7NH+h+y/9Xri4cLpPUpETng7BG0u1tf96RaqEM8p8xG7mX0Qjk4CBHWW/HrfGpx6zBa7ARpc7529XfpOEfHLBoyDmx/repcjG894ZBS16J7uo013nY+cVE57wUlKO8l/sB9wrHOpy6Qmn6QC9cYZPm2VsbYH6BRkM5zsEqFZHrsGxHpwSCd9doUjUc8NPCIhEFHtNohh2hy/fDYm4XB1S/Ks0yzrBqyLPma+8TbzKBNSxCTGiKPWyo0Fgzkq02v8pgTViYCQtzPauY6akumjeaOHZZeAHD0jZHTsj0gPF1Z4tmdibovwlb/eOe2fi5YzVwBiS6dIaoLvEja/0u8JYH8yPA4oUdIXDz5y+2ZjliIChzvT5Erw==;G7Iz9HKL0eoYfu1Z8jGHNw=="
 ---
 

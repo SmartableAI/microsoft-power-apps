@@ -4,7 +4,7 @@ excerpt: "Create client scripting, perform common actions with client script, an
 type: collection
 price: Free
 length: PT3H41M
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn

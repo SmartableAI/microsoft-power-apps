@@ -1,14 +1,14 @@
 ---
 title: "Load/export data and create data views in Common Data Service"
 excerpt: "Common Data Service lets you load data into or export entities from other entities by using Microsoft Excel. You can also create views to quickly review data that is stored within an entity."
-webUrl: https://docs.microsoft.com/learn/modules/load-export-data-create-data-views/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/load-export-data-create-data-views/
 type: course
 price: Free
 length: PT40M
 ratings:
-  count: 360
-  average: 4.65
-heat: 52
+  count: 368
+  average: 4.646739
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "qQiJO672bKljmOWaS5fGkUcKPR4zY1NXrhYl0L9Bm+HdMLoZQeI2gCzbYACuXd1zwFpVCnS01mPfDEexgbILNcPSoNW7Jr4Zt7E1/b8rE9ucChtGsT+47xVhO2+m3hOmjWkA82Bbs/JSHYZd9eDJbx2kLWRPNoClMuIvu3OyowXDRbWsiydzZtS1Oph4bl3oXmzHaSbHoYK/rCMPg+amDR7Upj/EyjrpnhOcQ983uF6nJ+fjcBwKmNEnubBHxlTjcxekvTCUVW/padlVOWr9xxAfeTv/9vZDax/DZp/ICrCXh8qNgPDFydAI5VMPnFiMb08m/pjqSmK+5rsuNLo3KIc0lJUJv9WAFoPdmJqKAtRso5j+tENafY49ZIeocMPXowiW6lyG5XGivDi9wgM4sDA049/MyW9qff/NNswSpA8=;zwXJ1D6gPPFQ8Yn3Rqhesw=="
+secured: "9uSHFER8r3et5PEzPIQPHr9oXbudzv4Px8QUEjJW4ynvptVlo4ONG5v0SLebqFoQmwwBxr1vYK4lI4MGzllSx3x/r7+04BKT0ekaXThA6SxadJG6Vs+SGHmskByddDX0i4oc2x2fg/+d9PMChj8myhqqKfreYPOUN5uYOI3TvztWCeMPvtT7HJ0fD7vPvddB6a6IWgKOrXZnpkUMko6yGdNeMZKBDjneQwqE9/MM1TSXQHB9mTpFtKSA9j6aNR/04lSM53Fn88739TQiKDEPRxFapBZL/F1O5DyU97Q8J79OK2sv3t6FItYf6udgFxe/r8qxRajO4dKXd3BC7O+yS7V364hvhm/CxtvIhjb1hIhuX3xgRU3+sNSnD4s/D/yMeJEMkYwmK4yZ2SNEU8U24w==;YCJ1QzKB9GP8cfM37+DGzA=="
 ---
 

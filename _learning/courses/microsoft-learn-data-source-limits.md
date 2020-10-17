@@ -1,14 +1,14 @@
 ---
 title: "Work with data source limits (delegation limits) in a Power Apps canvas app"
 excerpt: "Delegate data with Power Apps."
-webUrl: https://docs.microsoft.com/learn/modules/work-with-data-source-limits-powerapps-canvas-app/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/work-with-data-source-limits-powerapps-canvas-app/
 type: course
 price: Free
 length: PT33M
 ratings:
-  count: 405
-  average: 4.6246915
-heat: 50
+  count: 407
+  average: 4.6265354
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "w4XfqinbqzXDeVJIKz8CMw90J0viD3SB7OAmsHhISApbGdLmRwVOAfMlecWAEQiQzJi+iumxvS0LMLIQkXpeS2/GD8joLrJlzm6OPLwtQlIha96KKznEVl+cr6bLKWEtKQx0GANiqJzVt2nGs/kDJZ2mgn2C2gKUHeEcC5bBVqoZJ3fqo3lbo6iA3OMSVvKpxQ93Y4YfuNLSsp1lP/Or7ASlikCdF+sHRYAZYDS59e+jRrPIUNb42dZzvutZH8rGvq2loITBDnrGHhidmUf8P7A2/QoppC/Vtj2qteCw6CQw6VDPKBur2K8LUq4pY8QTXk1Egdyf0yvScQJEyR54xQU92cndKJHRqn+k9INkJxUl3enQuz7OLxjltzqdz90N9vq+Wm5VP4FwiZD3UxkiMRqiWpHz0sQTAxMR0qblUcc=;RJh5xqTIUDqP1v09GPXibQ=="
+secured: "vCETDBTCLCpkX5gAsFyFySBHHyXKuE5vRr58h7cxFIZ7gd1KxFtpjbKzaExchLhFZHMSkVmWL9xtjzih5Z8hq/M0nXoHGux8jT6OjnhoEsBRMSA9gJ0NySuLy+yKRy4QcsvHTanShZGjIHfVK4c0WRDxOVxuaF8oxSMWAKN9HTYUEaob35hEE5aotad2VZRF3ygtHv/lJ5nkm50EgBdmkg1xmrRYCveFHpwJx26tOW7P/tJQNJBqXkeo4IcGUQJyUamB5/4iJ0XPexoan8WAj4AwSKa+tzqiRdty09x8d8lk63gv4ds5zPE4Y46a/05qx93SeuiczAkjk5wU8TZ/5K9LLpsXckGoyOSevAeaN1GWUhFeQn54FxZYoQFCcZZoLyq+6JVbF6KQ+eZrPxMlUA==;2MjjxMUxQEBi1drp0xuk9Q=="
 ---
 

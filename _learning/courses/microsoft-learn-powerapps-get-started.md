@@ -1,14 +1,14 @@
 ---
 title: "Get started with Power Apps"
 excerpt: "Learn the basics of Power Apps and how you can use it in your organization."
-webUrl: https://docs.microsoft.com/learn/modules/get-started-with-powerapps/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps/
 type: course
 price: Free
 length: PT1H3M
 ratings:
-  count: 16450
-  average: 4.667538
-heat: 83
+  count: 16539
+  average: 4.667634
+heat: 211
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "r3bY1tm7CI+23INFIhY8mop8a2McJaT5s8JUwI9Rc4YjutgoNDvn6QpnRqFp226Q5LdbyuDrDgl0h64XiJfaXN39UTO2wuJ1CRc1pv5KeZV1GXY3WwEcTIZVMr6DvYMUuOVWvuI15oEJv/cXb9MdoZ783tvlS6kcu0QfeIRrCFZ0IyDkaqdomNT6X50K4fWt2k54dA+BxN1rnGVZY3EB5tpZa8BR+eu7mriqfmlbmNkgqWf/WjPaG243cJhlHuYxR2MykQ+0/VDMKiZq+jy6AgtfVBF6amluInrJYGfR4pA/H8e0PuwC0TWcT09IBetMB4qzILvFNo21VWlRNriMm91jTpxn2KFcPC3V8dZ3TsiyRGuk8y43Wgbu09x6VTq0cw28WrkfajL0FfL3C2sBigyI75reY7+rf6eC8vB5CbgajmvA8b33MlT4FN0/JkIN;huLGWBRbZUch/GtMz+P2CQ=="
+secured: "2BdzSzR/jmuZqKGdtDRwZZkOz1UF/bsRwa0IiYXnxxI1gl0MBQtUIKZ/OMvSpauzIha/faCcVC7PvVhIa1CSQ3B8yz6mpBdgn72UlUS9GBEWI3Z8G+s2kZPcr1EwSP2pJTVE1PArSUPFiY3mhQNLvYnJm7rXeDa2hkdypOPFKYekzC+alRC0UJEgiC+EsJhrdqBsL5SWlOlpaPH6VxsZNOKKYr8aAjyIUWSKX6/Sey0DpW1Ky3+NjCV9Cg1FN3lNF0nlvwrVcoioJn+Du/qf/0xwv4JwMZluRxSMZJys/97+fwtY+GJXNhIZfbeb/vbhl7Q9TFFxJJ8QbZwkAQ+yHICugn+/jCPK/5Et6nBf6S/QIy9PoZMk1cCdpNa+HyzOzHdReFP42tcRYeRNV5tBMw==;HUI9ZxV6WBon4/YWFVOQww=="
 ---
 

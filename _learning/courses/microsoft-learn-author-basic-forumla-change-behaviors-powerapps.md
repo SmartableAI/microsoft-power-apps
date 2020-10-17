@@ -1,14 +1,14 @@
 ---
 title: "Author a basic formula to change behaviors in a Power Apps canvas app"
 excerpt: "Learn how to author a basic formula to change behaviors in a Power Apps canvas app."
-webUrl: https://docs.microsoft.com/learn/modules/author-basic-formula-change-behaviors-powerapps/
+webUrl: https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-behaviors-powerapps/
 type: course
 price: Free
 length: PT51M
 ratings:
-  count: 701
-  average: 4.599144
-heat: 50
+  count: 704
+  average: 4.6008525
+heat: 71
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "GHoAEUMW8JcOC0Mv3FULhHuCqTJJY/ZCryFddUPfDbRnlBz0X2Dw5iLcIqNrpsmNOj12Y5WrFQEZjvG2IFDHoy6AOoc4AFH4w33dVj/CWbQzM///w4IO6BQceCHTDLHG9ZXe2zfvi7biVLx7fihZyiXlMV/aDITpM3poVXkPj2pgBWuuNW3NrXSd1HVRRCiDCHxSp1z/rGAaNSLx5pMFni9k5DKOOxOG2zSlIh5+qaR4HkpcFfbYWfYqk48AiK+vX1uBtQgtSnnCPTF/kMgjXo1JVorDETcmTRDjkrMF8Fwb6pMCE4SMpCbUxcWzC8oLikZt0q1Qyq98mHRgWB72BdFmoTjJqk7tgO+AtsYd2xvPdz+0G0H4GNw6UHJYc7MewGdhkO5BZHervZRU3f6VrUIkVOYk8lHtko1KAnoEUqM=;1lItpHXVdYUSKWf/VEHTuQ=="
+secured: "gmsBcnuRwo6ApVrLIaRuvlbol1ioZS7MsCoXtJh2S4ZuuYvkHW82+0HJaRmz4JC7I/bY87QTGxJB0L99sn6yjWcLG+dNuz9ZqpaPR7+/vwmRPWtcXFO6E2Ed5KCMHY+83EpaSK1byDOpTfRKY9RrLPdgE9g0CxugcqKKQMAYqMHGkvOkjRSoA0aGdkRTgZ4mjOvDUVZHrdIiKU1ozLDwZFQzxEiUEUBalK6Cl8P+Q/afkHbe6hm2XM8+T5/+hgi/wwlQBoUgZaNUAkBh6lbXfa1Dj/NWCMbVzCufqvM7JKrSdng7cmiyoaGLceHKmRn532xXsz/XMoXTeXGxQehOoHnhIB1VMtQsvi+3aOUbc5ubnT1VKZ1LkE6rwyXw1IyAbwqYKcnq51OUhQV8Pg9eeg==;EbDNWsLS0SS2DB8VyCttKw=="
 ---
 

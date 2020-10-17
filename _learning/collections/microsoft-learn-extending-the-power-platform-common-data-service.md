@@ -4,7 +4,7 @@ excerpt: "Getting started with extending the Power Platform Common Data Service 
 type: collection
 price: Free
 length: PT2H3M
-heat: 50
+heat: 76
 
 provider:
   name: Microsoft Learn

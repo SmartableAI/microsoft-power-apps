@@ -4,7 +4,7 @@ excerpt: "Learn how to extend Power Apps portals."
 type: collection
 price: Free
 length: PT2H22M
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
