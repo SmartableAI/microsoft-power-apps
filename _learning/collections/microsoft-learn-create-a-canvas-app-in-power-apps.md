@@ -4,7 +4,7 @@ excerpt: "Do you want to create apps to help make your business more efficient? 
 type: collection
 price: Free
 length: PT2H23M
-heat: 165
+heat: 167
 
 provider:
   name: Microsoft Learn

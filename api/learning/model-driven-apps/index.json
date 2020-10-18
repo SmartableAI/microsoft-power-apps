@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
       "length": "PT1H14M",
       "ratings": {
-        "count": 2893,
-        "average": 4.5475287
+        "count": 2895,
+        "average": 4.546805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 114,
+      "heat": 115,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -46,8 +46,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-model-driven-apps-common-data-service/",
       "length": "PT37M",
       "ratings": {
-        "count": 1929,
-        "average": 4.598756
+        "count": 1931,
+        "average": 4.5986533
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -64,7 +64,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 98,
+      "heat": 100,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -165,7 +165,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/common-actions-client-script-power-platform-social.png",
@@ -225,7 +225,7 @@
         }
       ],
       "size": 3,
-      "heat": 55,
+      "heat": 56,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png",
@@ -242,6 +242,5 @@
         "Model-driven apps"
       ]
     }
-  ],
-  "nextPage": 2
+  ]
 }
