@@ -10,7 +10,7 @@ website: https://t.co/tAcqSdqguf
 twitter:
   username: rezadorrani
   url: https://twitter.com/rezadorrani
-  followers: 2109
+  followers: 2110
 
 topics:
   - Power Apps
