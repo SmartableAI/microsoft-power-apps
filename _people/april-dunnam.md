@@ -27,7 +27,7 @@ topics:
   - Power Apps
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1313252080405172225/ACsVJFqU_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1323737136793899013/t0S1j_uM_400x400.jpg
     width: 400
     height: 400
     isCached: true
