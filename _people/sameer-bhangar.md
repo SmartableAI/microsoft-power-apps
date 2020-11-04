@@ -18,7 +18,7 @@ website: https://t.co/nrTQtfl3ll
 twitter:
   username: sameerbhangar
   url: https://twitter.com/sameerbhangar
-  followers: 888
+  followers: 887
 
 linkedin:
   url: https://www.linkedin.com/in/sameerbhangar
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Sameer Bhangar"
 
-secured: "e9GE+ObNnPVYTw6ogjZJ/Gav6xb7gef+sOVO/dwzrPmihOTPpDL3Ov2sVP6HbWHlgRcDUg7qx13HIqDglLLNajEv6cF73iYcWnHCI3tvTIc02YTioUkKzz3ISCWrUQbtJ8c6eIt12BKbHYbTMT4x6k5dCyssUTg04VzsFPhXPN0O26eVFTtd5MQaM4XEdbQjGJqK+mdztSQzS11u7DAO5eEHRS0sqaxGncDCFrfZYJr20PTlztv1G7IgoZaSL+V7QY8WiGgnA1A6Wg5eWSlCim0/QfQrwzkMWXk9FuTOvBY0y1zu4id8FyoLoddg4ciNZxlTV0lQyOYhnC8NhdJIcpxDNn77QyqoPgeuElq/K9IF4lOlFZ9qStK0sZWv52JldL5DzidspSPzK5a+T0N/+A==;aZL/qgSCQKNqfGfH//T2Yg=="
+secured: "oWnAfR48g5uRodmc9f+DeubfyJQLVK1IzcRYSWJTQ7ygsgnYXpD/Yqssrc4k0IPhauzMlwS8L+tGQwxvusn3jc5fFGEkRnuvcXIN6JUBDK+LlQBdk7XlDXpd/L7MYLtgtuNEiDt2K5Y1aQ1WtzjriYpy3NgoR8r0nfCJf8N7aoq2hu2Wu37ceAt3H+jG3CB548sGEHo4ft5SxF4ZbdegXN8gT8PmZrC9/XgX63tEhdF1cFXuWnMtkhvRh7xuwCUM6BKjcKfkeWiComcMoKY9SJXKqfs/qXbOx3zA9NA7GFKMnHdkme9E0mXn4UeeVRqBWpSX1FyoZO/Iz0NRwpYWgh/olKglL4n8sZCQU0dIswmnaJZiJGIsnylE3ONdP+nGKRLr1vu91H6U7sIUWwx+zA==;a0GUJm+kW9qsPLtdQhI39g=="
 ---
 
