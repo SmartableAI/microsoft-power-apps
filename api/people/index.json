@@ -4,52 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/charles-lamanna.md",
-      "title": "Charles Lamanna",
-      "excerpt": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/people/charles-lamanna/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/people/charles-lamanna/",
-      "type": "profile",
-      "name": "Charles Lamanna",
-      "bio": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
-      "location": "Bellevue, WA",
-      "twitter": {
-        "username": "clamanna",
-        "url": "https://twitter.com/clamanna",
-        "followers": 2670
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/charleslamanna"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 106,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Charles Lamanna",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/reza-dorrani.md",
       "title": "Charles Lamanna",
       "excerpt": "Father | Speaker | Trainer | MVP | #PowerApps & #PowerAutomate Community Super User | YouTuber Right-pointing triangle http://youtube.com/c/rezadorrani | Learn - Share - Clockwise rightwards and leftwards open circle arrows",
@@ -68,13 +22,47 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 102,
+      "heat": 114,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Charles Lamanna",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/shane-young.md",
+      "title": "Shane Young",
+      "excerpt": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/people/shane-young/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/people/shane-young/",
+      "type": "profile",
+      "name": "Shane Young",
+      "bio": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
+      "location": "Cincinnati, OH",
+      "website": "https://t.co/91p5BQ3pUe",
+      "twitter": {
+        "username": "ShanesCows",
+        "url": "https://twitter.com/ShanesCows",
+        "followers": 13452
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/cincyshane"
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Shane Young",
           "isCached": true
         }
       ],
@@ -115,7 +103,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 98,
+      "heat": 83,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
@@ -128,34 +116,46 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/shane-young.md",
-      "title": "Shane Young",
-      "excerpt": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/people/shane-young/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/people/shane-young/",
+      "path": "_people/charles-lamanna.md",
+      "title": "Charles Lamanna",
+      "excerpt": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/people/charles-lamanna/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/people/charles-lamanna/",
       "type": "profile",
-      "name": "Shane Young",
-      "bio": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
-      "location": "Cincinnati, OH",
-      "website": "https://t.co/91p5BQ3pUe",
+      "name": "Charles Lamanna",
+      "bio": "CVP at Microsoft, Founder @ MetricsHub. Works on Power Apps, Power Automate, Power Virtual Agent, Common Data Service and Dynamics 365.",
+      "location": "Bellevue, WA",
       "twitter": {
-        "username": "ShanesCows",
-        "url": "https://twitter.com/ShanesCows",
-        "followers": 13453
+        "username": "clamanna",
+        "url": "https://twitter.com/clamanna",
+        "followers": 2670
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/cincyshane"
+        "url": "https://www.linkedin.com/in/charleslamanna"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "Power Apps"
       ],
-      "heat": 89,
+      "heat": 72,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Shane Young",
+          "title": "Charles Lamanna",
           "isCached": true
         }
       ],
@@ -195,7 +195,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 78,
+      "heat": 65,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459747717862805504/CJIGZejd_400x400.png",
@@ -242,7 +242,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 72,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
