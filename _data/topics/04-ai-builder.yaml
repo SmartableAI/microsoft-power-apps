@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: ai-builder
+name: AI Builder
+parent: Power Apps
+keywords:
+  - ai builder
+hashtags:
+  - "#AIBuilder"
+services:
+  learning: https://smartableai.github.io/microsoft-power-apps/api/learning/ai-builder/
+  news: https://smartableai.github.io/microsoft-power-apps/api/news/ai-builder/

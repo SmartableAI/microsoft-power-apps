@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Power Apps
+  - AI Builder
 
 images:
   - url: https://i.ytimg.com/vi/tVIpwCKwCxg/maxresdefault.jpg

@@ -4,16 +4,18 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/videos/microsoft-will-power-apps-scale-to-my-business-needs-one-dev-question-dona-sarkar.md",
-      "title": "Will Power Apps scale to my business needs? | One Dev Question: Dona Sarkar",
-      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar explains how customizable Power Apps can be and how they can work for you.    For more information, visit: https://powerapps.microsoft.com/build-powerapps/?WT.mc_id=onedevquestion-c9-donasa   Try Azure for free: https://aka.ms/TryAzure7",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-will-power-apps-scale-to-my-business-needs-one-dev-question-dona-sarkar/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-will-power-apps-scale-to-my-business-needs-one-dev-question-dona-sarkar/",
-      "originalUrl": "https://youtube.com/watch?v=fpOvfX0OU6s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fpOvfX0OU6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M39S",
+      "path": "_learning/courses/microsoft-learn-work-with-external-data.md",
+      "title": "Work with external data in a Power Apps canvas app",
+      "excerpt": "Do you need to connect an app to access data? Then this module is for you. It focuses on connecting your app to a data source.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-work-with-external-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-external-data/",
+      "length": "PT58M",
+      "ratings": {
+        "count": 954,
+        "average": 4.5513625
+      },
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -24,11 +26,148 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-27T08:03:21-07:00",
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-relational-data.md",
+      "title": "Work with relational data in a Power Apps canvas app",
+      "excerpt": "Learn how to work with relational data in Power Apps canvas apps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-work-with-relational-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-relational-data-powerapps-canvas-app/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 499,
+        "average": 4.5931864
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fpOvfX0OU6s/maxresdefault.jpg",
+          "url": "https://docs.microsoft.com/learn/achievements/work-with-relational-data-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
+      "title": "Work with requirements as a solution architect for Power Platform and Dynamics 365",
+      "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 294,
+        "average": 4.734694
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-write-data.md",
+      "title": "Write data in a Power Apps canvas app",
+      "excerpt": "Learn how to write data in a Power Apps canvas app.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-write-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/write-data/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 687,
+        "average": 4.6157207
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-opening-mobile-applications-from-powerapps.md",
+      "title": "Opening Mobile Applications From PowerApps",
+      "excerpt": "Have you tried using the Launch() function in PowerApps to open up a website but wished you could have it open up the actual app on your mobile device instead?  In this video, I walk you through how you can do that with PowerApps.  I'll show demos on how to open the native phone applications for Twitter,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-opening-mobile-applications-from-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-opening-mobile-applications-from-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=3Puf3Ki8wbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Puf3Ki8wbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M54S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3Puf3Ki8wbk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -42,23 +181,23 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-power-platform-ignite-2019-announcements-power-automate-rpa-pbi-security-and-more.md",
-      "title": "Power Platform Ignite 2019 Announcements - Power Automate, RPA, PBI Security, and more",
-      "excerpt": "Get the rundown on all of the Power Platform Microsoft Ignite 2019 announcements.   Power Automate and Power Apps RPA AI • Key phrase extraction • Language detection • Text recognition • Sentiment analysis Chat bots Teams • Company app gallery, pin to left rail • More triggers and actions • Adaptive",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-power-platform-ignite-2019-announcements-power-automate-rpa-pbi-security-and-more/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-power-platform-ignite-2019-announcements-power-automate-rpa-pbi-security-and-more/",
-      "originalUrl": "https://youtube.com/watch?v=6lHb-trtd3Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6lHb-trtd3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M57S",
+      "path": "_learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds.md",
+      "title": "Power Apps Timer Value to Hours, Minutes, Seconds",
+      "excerpt": "#PowerApps #TimerControl Have you ever needed to track how long it's taking to complete a process in your Power App?  Using the Timer Control you can do that, however, the output of that timer value is stored in an unfriendly format.  In this video, I show how you can take that timer value and format",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-apps-timer-value-to-hours-minutes-seconds/",
+      "originalUrl": "https://youtube.com/watch?v=dDjOVwR1AXc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDjOVwR1AXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M14S",
       "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
       },
-      "publishedDateTime": "2019-11-04T06:21:37-08:00",
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6lHb-trtd3Q/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dDjOVwR1AXc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -72,23 +211,23 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-powerapps-code-comments-inline-block-and-documentation.md",
-      "title": "PowerApps Code Comments inline block and documentation",
-      "excerpt": "In this video, you will learn how to add PowerApps Comments and documentation to your apps. Handy trick that will make future you happy. We cover inline comments, block comments, and a documentation screen.  Video on how I built the Password App https://www.youtube.com/watch?v=GiN47Is_634  PowerApps",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-code-comments-inline-block-and-documentation/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-code-comments-inline-block-and-documentation/",
-      "originalUrl": "https://youtube.com/watch?v=KUunAjDbuKE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KUunAjDbuKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M55S",
+      "path": "_learning/videos/april-dunnam-powerapps-ai-object-detection-how-to.md",
+      "title": "PowerApps AI Object Detection How To",
+      "excerpt": "In this video, I show how to set up and use the new AI Object Detector component in PowerApps.  I show how to create the model, train it and use it within a PowerApps Inventory tracker application.    For more details on the Objection Detection capabilities, check out the Microsoft documentation:  https://docs.microsoft.com/en-us/ai-builder/object-detector-component-in-powerapps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-powerapps-ai-object-detection-how-to/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-powerapps-ai-object-detection-how-to/",
+      "originalUrl": "https://youtube.com/watch?v=iivd7-WXT8o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iivd7-WXT8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M36S",
       "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
       },
-      "publishedDateTime": "2018-06-14T09:57:38-07:00",
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KUunAjDbuKE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/iivd7-WXT8o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -102,23 +241,54 @@
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder.md",
-      "title": "Artificial Intelligence in PowerApps with AI Builder",
-      "excerpt": "Free training every Tuesday at 11am EST https://pragmaticworks.com/resources/...   Do you want to learn how to use Artificial Intelligence in PowerApps?    In this demo-heavy presentation, you'll see how to integrate PowerApps applications into Power BI reports making your reports actionable.  Pragmatic",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-artificial-intelligence-in-powerapps-with-ai-builder/",
-      "originalUrl": "https://youtube.com/watch?v=tVIpwCKwCxg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tVIpwCKwCxg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M9S",
+      "path": "_learning/videos/april-dunnam-powerapps-json-function-ai-builder.md",
+      "title": "PowerApps JSON Function & AI Builder",
+      "excerpt": "See how to use the new JSON function and Business Card Reader AI Control to OCR a business card, add it to a database, convert the image to JSON and add as a file in SharePoint.  All with zero code required.  Here's a link to the corresponding blog post: https://www.sharepointsiren.com/2019/06/ocr-and-image-upload-with-powerapps/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-powerapps-json-function-ai-builder/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-powerapps-json-function-ai-builder/",
+      "originalUrl": "https://youtube.com/watch?v=zbOfgdrRRrk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zbOfgdrRRrk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M56S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
       },
-      "publishedDateTime": "2019-10-31T05:11:26-07:00",
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tVIpwCKwCxg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zbOfgdrRRrk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-powerapps-security-trimming.md",
+      "title": "PowerApps Security Trimming",
+      "excerpt": "#PowerApps #SharePoint #PowerAppsSecurity In this video, I outline a method to implement Security Trimming/Custom Permissions inside your PowerApps application.  This approach utilizes a SharePoint list and native PowerApps functionality to accomplish the security trimming in three easy steps: 1) create",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-powerapps-security-trimming/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-powerapps-security-trimming/",
+      "originalUrl": "https://youtube.com/watch?v=uBAVcXrHWK0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uBAVcXrHWK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M46S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-05-18T07:39:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uBAVcXrHWK0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -132,23 +302,83 @@
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-brainstorming-and-gathering-your-powerapps-business-requirements.md",
-      "title": "Brainstorming and Gathering your PowerApps Business Requirements",
-      "excerpt": "PowerApp a Day Episode #7 (HR Shoutout App) -  Time to start up a new PowerApps application. In this live session, you'll watch a real brainstorming session while we build the application on the whiteboard and in mockup software Balsamiq.  Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-brainstorming-and-gathering-your-powerapps-business-requirements/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-brainstorming-and-gathering-your-powerapps-business-requirements/",
-      "originalUrl": "https://youtube.com/watch?v=vn9-mwjP7v4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vn9-mwjP7v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M5S",
+      "path": "_learning/videos/daves-tech-tips-comment-code-in-powerapps-beginner-tip.md",
+      "title": "Comment Code in PowerApps (Beginner Tip)",
+      "excerpt": "One of the best beginner tips for PowerApps has to be to comment you code. One day someone will be supporting your apps....This might include you.  In this tutorial we will show you the various ways that this can be done.  Come on, be the person who comments his\\her code. Make the world a better place.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/daves-tech-tips-comment-code-in-powerapps-beginner-tip/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/daves-tech-tips-comment-code-in-powerapps-beginner-tip/",
+      "originalUrl": "https://youtube.com/watch?v=dnreydsFSHw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dnreydsFSHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M1S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
       },
-      "publishedDateTime": "2018-09-11T11:28:05-07:00",
+      "publishedDateTime": "2019-12-20T11:59:12-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/vn9-mwjP7v4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/dnreydsFSHw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-enable-spell-check-in-power-apps-.md",
+      "title": "Enable Spell Check in Power Apps ✅",
+      "excerpt": "Very short video Tutorial to show how to enable spell check on Text Input Controls for both single and multi line modes in Microsoft Power Apps",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/daves-tech-tips-enable-spell-check-in-power-apps-/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/daves-tech-tips-enable-spell-check-in-power-apps-/",
+      "originalUrl": "https://youtube.com/watch?v=3FT4RzyWCA8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3FT4RzyWCA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT55S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2019-12-02T23:13:28-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3FT4RzyWCA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-powerapps-advanced-bpm-using-flow-part-1-introduction-tutorial.md",
+      "title": "PowerApps - Advanced BPM Using Flow | Part 1. Introduction (Tutorial)",
+      "excerpt": "Part 1 of PowerApps BPM & Workflow  - Using Flow series: https://www.youtube.com/playlist?list=PLxhCbU5zMGwslg6Xc40eNaSI_vKV83ugL  In this video, we will go through the basics of BPM and give a high-level overview of what could be achieved with this method of using PowerApps and Flow.  If you have any",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/daves-tech-tips-powerapps-advanced-bpm-using-flow-part-1-introduction-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/daves-tech-tips-powerapps-advanced-bpm-using-flow-part-1-introduction-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=WCm9iX8MfOs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WCm9iX8MfOs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M36S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2019-06-04T17:33:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WCm9iX8MfOs/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -162,23 +392,53 @@
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-building-a-power-app-gathering-requirements-for-forgotten-parks.md",
-      "title": "Building a Power App - Gathering Requirements for Forgotten Parks",
-      "excerpt": "Forgotten Parks Build Episode 1 - In this first video on building a Power App, we setup the requirements for the Power App we will be building for non-profit organizations, Forgotten Parks (http://www.forgottenparks.org). This video focuses solely on gathering the requirements we'll be using and some",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-building-a-power-app-gathering-requirements-for-forgotten-parks/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-building-a-power-app-gathering-requirements-for-forgotten-parks/",
-      "originalUrl": "https://youtube.com/watch?v=oQMxgJXtrRM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oQMxgJXtrRM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M20S",
+      "path": "_learning/videos/daves-tech-tips-powerapps-app-exit-confirmation-prompt-message-tutorial.md",
+      "title": "PowerApps - App Exit Confirmation Prompt Message (Tutorial)",
+      "excerpt": "In this video, we do a quick introduction to the new exit confirmation message functionality in PowerApps. Previously we had to create a message box (from scratch) to achieve the same functionality!  What makes me even more excited is that this seems to hint that Microsoft is starting to spend time on",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/daves-tech-tips-powerapps-app-exit-confirmation-prompt-message-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/daves-tech-tips-powerapps-app-exit-confirmation-prompt-message-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=k8asxVCQ9Ro",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k8asxVCQ9Ro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M37S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
       },
-      "publishedDateTime": "2020-02-14T06:41:19-08:00",
+      "publishedDateTime": "2019-05-29T23:25:35-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/oQMxgJXtrRM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/k8asxVCQ9Ro/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/daves-tech-tips-powerapps-creating-a-command-bar-instead-of-buttons-tutorial.md",
+      "title": "PowerApps - Creating a Command Bar Instead of Buttons (Tutorial)",
+      "excerpt": "PowerApps Button controls are hugely powerful things that we use A LOT, but there are some very good reasons to consider using a gallery as a Command Bar to make it easier to manage the 'buttons', logic and business rules in your apps.  In this beginners video tutorial we will demonstrate how to create",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/daves-tech-tips-powerapps-creating-a-command-bar-instead-of-buttons-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/daves-tech-tips-powerapps-creating-a-command-bar-instead-of-buttons-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=jl89-y78EO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jl89-y78EO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M39S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2020-03-04T12:38:15-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jl89-y78EO8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -192,23 +452,54 @@
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-connecting-to-common-data-services-cds-with-management-studio-ssms.md",
-      "title": "Connecting to Common Data Services (CDS) with Management Studio (SSMS)",
-      "excerpt": "In this video, you'll see the latest cool Common Data Services (CDS) feature that allows you to connect to CDS using Management Studio. After you connect, you're able to query CDS and perform much of the same queries you do in T-SQL against CDS.   Pragmatic Works Training and Consulting : https://www.pragmaticworks.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-connecting-to-common-data-services-cds-with-management-studio-ssms/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-connecting-to-common-data-services-cds-with-management-studio-ssms/",
-      "originalUrl": "https://youtube.com/watch?v=cv1l7EfG65o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cv1l7EfG65o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M26S",
+      "path": "_learning/videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app.md",
+      "title": "Access Management for Power Apps Canvas App | Sharing Power Apps Canvas App",
+      "excerpt": "During this video, we will learn the most important concept which Access Management in Power Apps Canvas App. This concept is very useful when you publish the Power Apps and you need to provide access among the group of users to access the app.  We will learn how we can share Power Apps Canvas App with",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-access-management-for-power-apps-canvas-app-sharing-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=rNvw1tUi3Ks",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rNvw1tUi3Ks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M12S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-07-07T13:21:29-07:00",
+      "publishedDateTime": "2020-09-29T18:33:27-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cv1l7EfG65o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rNvw1tUi3Ks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps.md",
+      "title": "Apply Sort on Multiple Column in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 15th part of the Power Apps Beginner Series. During this chapter, we will talk about how we can perform Sort operation on multiple columns of the Power Apps Grid.  The sort is the very basic functionality.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-apply-sort-on-multiple-column-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=lC7_7DYDDDE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lC7_7DYDDDE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M26S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T02:55:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lC7_7DYDDDE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -222,23 +513,23 @@
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-covid-wellness-accelerator.md",
-      "title": "COVID Wellness Accelerator",
-      "excerpt": "In this video, Brian builds an end to end application with Power Apps and SharePoint for COVID Back to Work Wellness safety. The PowerApp can check employees' wellness for eligibility to work in the office and make sure the employees acknowledge the company's safety policies. If you have Office 365,",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-covid-wellness-accelerator/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-covid-wellness-accelerator/",
-      "originalUrl": "https://youtube.com/watch?v=XbsEiQiEy98",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XbsEiQiEy98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT52M14S",
+      "path": "_learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four.md",
+      "title": "Build Power Apps Using Form Processing AI Model and Store Data to SharePoint List – Part  Four",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the fourth part of this series. In this video, we will discuss how we can build a Power Apps consuming Form Processor Component,",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-build-power-apps-using-form-processing-ai-model-and-store-data-to-sharepoint-list-part-four/",
+      "originalUrl": "https://youtube.com/watch?v=lV-uhYWS_tE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lV-uhYWS_tE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M49S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-07-13T13:36:31-07:00",
+      "publishedDateTime": "2020-04-09T00:52:44-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/XbsEiQiEy98/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/lV-uhYWS_tE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -248,27 +539,28 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "AI Builder"
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-going-offline-with-power-apps-import-and-export-controls.md",
-      "title": "Going Offline with Power Apps Import and Export Controls",
-      "excerpt": "In our previous video, we showed how to go offline in Power Apps. This video focuses on what happens when you want to close the app and still keep your data. Brian shows you how to use the Import and Export controls to export a file out and import that dataset into an additional app or the same app when",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-going-offline-with-power-apps-import-and-export-controls/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-going-offline-with-power-apps-import-and-export-controls/",
-      "originalUrl": "https://youtube.com/watch?v=MrJnOnpf0Po",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MrJnOnpf0Po\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M14S",
+      "path": "_learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two.md",
+      "title": "Building CDS Model to Build Prediction AI Model using AI Builder – Part Two",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-building-cds-model-to-build-prediction-ai-model-using-ai-builder-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=zPliS2MezA8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zPliS2MezA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M35S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-12-06T08:17:19-08:00",
+      "publishedDateTime": "2020-05-17T01:51:09-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MrJnOnpf0Po/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zPliS2MezA8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -278,27 +570,28 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "AI Builder"
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-how-to-create-a-power-apps-community-plan-environment-and-cds-database.md",
-      "title": "How to Create a Power Apps Community Plan Environment and CDS Database",
-      "excerpt": "Matt Peterson shows quickly how to set up the free Power Apps Community edition plan. The plan can be used to test and train in Power Apps but does not have the ability to share applications. He also shows how to create the Common Data Services (CDS) database).",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-how-to-create-a-power-apps-community-plan-environment-and-cds-database/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-how-to-create-a-power-apps-community-plan-environment-and-cds-database/",
-      "originalUrl": "https://youtube.com/watch?v=Tgsl77olCMc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tgsl77olCMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M23S",
+      "path": "_learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three.md",
+      "title": "Create a Text Classification model using AI Builder – Power Platform AI Builder Series – Part Three",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: Power Platform AI builder provides a facility to perform Text Classification and allows us to define",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-create-a-text-classification-model-using-ai-builder-power-platform-ai-builder-series-part-three/",
+      "originalUrl": "https://youtube.com/watch?v=qgz5xCACXvs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qgz5xCACXvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M32S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-06-16T07:34:39-07:00",
+      "publishedDateTime": "2020-04-16T02:13:08-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Tgsl77olCMc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qgz5xCACXvs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -308,207 +601,28 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "AI Builder"
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-integrating-microsoft-cognitive-services-computer-vision-api-into-powerapps.md",
-      "title": "Integrating Microsoft Cognitive Services Computer Vision API into PowerApps",
-      "excerpt": "PowerApp a Day Episode #19 (Caption App) - Learn how to use PowerApps and Microsoft Cognitive Services Computer Vision to automatically create captions on your images you upload.  Power App Training: https://pragmaticworks.com/Training/On-Demand-Training/Introduction-to-Powerapps  OnChange of the Photo:",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-integrating-microsoft-cognitive-services-computer-vision-api-into-powerapps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-integrating-microsoft-cognitive-services-computer-vision-api-into-powerapps/",
-      "originalUrl": "https://youtube.com/watch?v=KKon0Yqwu38",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KKon0Yqwu38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model.md",
+      "title": "Create, Train and Publish an Entity Extraction Custom AI Model",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this entire",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-create-train-and-publish-an-entity-extraction-custom-ai-model/",
+      "originalUrl": "https://youtube.com/watch?v=PFEA4nkRyDs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PFEA4nkRyDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT17M16S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-09-27T12:20:35-07:00",
+      "publishedDateTime": "2020-06-21T19:33:43-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KKon0Yqwu38/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-integrating-microsoft-translation-services-and-weather-into-powerapps.md",
-      "title": "Integrating Microsoft Translation Services and Weather into PowerApps",
-      "excerpt": "PowerApp a Day Episode #17 (SalesPerson App) - In this video, you'll learn how to simplify communication with your customers with Microsoft Translation Services, built into your PowerApps application. Use the services to translate emails, text in input boxes and other cool techniques.  We also show how",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-integrating-microsoft-translation-services-and-weather-into-powerapps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-integrating-microsoft-translation-services-and-weather-into-powerapps/",
-      "originalUrl": "https://youtube.com/watch?v=4deOCqXCZho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4deOCqXCZho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M53S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2018-09-25T11:18:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4deOCqXCZho/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-kill-manual-processes-with-powerapps-and-flow.md",
-      "title": "Kill Manual Processes with PowerApps and Flow",
-      "excerpt": "Learn how to digitally transform your business processes, workflows and kill manual paperwork with PowerApps and Flow.  Need beautiful apps and reports built for your organization? Pragmatic Works can help you with our shared development service. http://www.powerplatformpros.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-kill-manual-processes-with-powerapps-and-flow/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-kill-manual-processes-with-powerapps-and-flow/",
-      "originalUrl": "https://youtube.com/watch?v=GSMjFdF8SKw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GSMjFdF8SKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M24S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-04-02T15:34:36-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GSMjFdF8SKw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-learn-power-platform-with-pragmatic-works-hackathons.md",
-      "title": "Learn Power Platform with Pragmatic Works Hackathons",
-      "excerpt": "Pragmatic Works Hackathons let you train your team by building PowerApps, Power BI and Azure solutions with one part training and one part building a prototype with your own data.  On-Demand Learning courses FREE trial: https://success.pragmaticworks.com/ondemandlearning-free-trial",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-learn-power-platform-with-pragmatic-works-hackathons/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-learn-power-platform-with-pragmatic-works-hackathons/",
-      "originalUrl": "https://youtube.com/watch?v=4Xl71GETuLI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Xl71GETuLI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M47S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-10-08T09:44:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4Xl71GETuLI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-making-powerapps-galleries-more-usable-with-the-templatefill-property.md",
-      "title": "Making PowerApps Galleries More Usable with the TemplateFill Property",
-      "excerpt": "App A day Episode 27: Learn how to use the TemplateFill property to make your PowerApps galleries more usable.  For more PowerApps training, visit http://www.pragmaticworkstraining.com  Or we're passionate about building apps for you: http://www.powerplatformpros.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-making-powerapps-galleries-more-usable-with-the-templatefill-property/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-making-powerapps-galleries-more-usable-with-the-templatefill-property/",
-      "originalUrl": "https://youtube.com/watch?v=zs7BnTR1H-M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zs7BnTR1H-M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M5S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-05-21T13:44:32-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zs7BnTR1H-M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-power-apps-disconnected-and-offline-mode.md",
-      "title": "Power Apps Disconnected and Offline Mode",
-      "excerpt": "Learn in Power Apps how to handle create a data-driven application that might occasionally be disconnected from the network or be offline. The key to this app is the Connection.Connected property.  Learn more at https://www.pragmaticworkstraining.com  OnCheck property of the toggle:  If(     !IsEmpty(colOffline),",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-power-apps-disconnected-and-offline-mode/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-power-apps-disconnected-and-offline-mode/",
-      "originalUrl": "https://youtube.com/watch?v=RrkyfO68pYI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RrkyfO68pYI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M37S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-12-04T12:00:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RrkyfO68pYI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook.md",
-      "title": "PowerApps Portals External Authentication with Facebook",
-      "excerpt": "Episode 36: Learn how to use external authentication provider, Facebook with PowerApps Portals to allow users to register and login to your site easily.   Check out our free PowerApps App In A Day Class: http://success.pragmaticworks.com/aiad  We'd love to build an app for you: http://www.pragmaticworks.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-facebook/",
-      "originalUrl": "https://youtube.com/watch?v=egfnaXIqpwU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/egfnaXIqpwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M5S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-07-22T14:07:31-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/egfnaXIqpwU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PFEA4nkRyDs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -519,27 +633,57 @@
       "price": "Free",
       "topics": [
         "Power Apps",
-        "Portals"
+        "AI Builder"
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin.md",
-      "title": "PowerApps Portals External Authentication with LinkedIn",
-      "excerpt": "Episode 35: Learn how to use external authentication provider, LinkedIn with PowerApps Portals to allow users to register and login to your site easily.   Check out our free PowerApps App In A Day Class: http://success.pragmaticworks.com/aiad  We'd love to build an app for you: http://www.pragmaticworks.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-powerapps-portals-external-authentication-with-linkedin/",
-      "originalUrl": "https://youtube.com/watch?v=8Zx2RBhwV4I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Zx2RBhwV4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M10S",
+      "path": "_learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps.md",
+      "title": "Gallery Vs Data table in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 13th part of the Power Apps Beginner Series. During this chapter, we will talk about what is the basic difference between Data table and Gallery control in Power Apps!  In our previous sessions we have",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=BsqqVFlDrLw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BsqqVFlDrLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-07-19T13:21:44-07:00",
+      "publishedDateTime": "2020-09-15T21:57:56-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8Zx2RBhwV4I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BsqqVFlDrLw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two.md",
+      "title": "Get Started to Build with Form Processing AI Model – Power Platform AI Builder Series – Part Two",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the second part of this series. In this video, we will discuss how we can build a model for Form Processing using AI Builder?",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-get-started-to-build-with-form-processing-ai-model-power-platform-ai-builder-series-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=UDs3EIYCOTw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UDs3EIYCOTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-08T22:32:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UDs3EIYCOTw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -550,29 +694,29 @@
       "price": "Free",
       "topics": [
         "Power Apps",
-        "Portals"
+        "AI Builder"
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-powerapps-reusable-component-beginner-tutorial.md",
-      "title": "PowerApps Reusable Component Beginner Tutorial",
-      "excerpt": "PowerApp a Day Episode #23  -  Learn how to use one of the newest features in PowerApps: components. In this video you'll see how to create a basic one and re-use it across multiple screens. With these components you can build logic into a component and one change pushes to all screens that use it.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-powerapps-reusable-component-beginner-tutorial/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-powerapps-reusable-component-beginner-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=1n9dUduWk4g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1n9dUduWk4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M30S",
+      "path": "_learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate.md",
+      "title": "Get Started with AI Builder Prediction Model Using Power Apps Canvas App through Power Automate",
+      "excerpt": "AI Builder - Prediction Model - Step by Step Series  Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-get-started-with-ai-builder-prediction-model-using-power-apps-canvas-app-through-power-automate/",
+      "originalUrl": "https://youtube.com/watch?v=dO9n7LWWtXk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dO9n7LWWtXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M13S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-03-01T12:39:53-08:00",
+      "publishedDateTime": "2020-05-17T01:39:13-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1n9dUduWk4g/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/dO9n7LWWtXk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -580,29 +724,31 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "AI Builder",
+        "Canvas apps"
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-saving-powerapps-user-preferences-across-sessions.md",
-      "title": "Saving PowerApps User Preferences Across Sessions",
-      "excerpt": "PowerApp a Day Episode #22  -  Learn how to use save user preferences and how to build a tutorial for your users that can be automatically skipped  in the future after they click Skip.  This pattern can be used for menus and color saving as well.   Power App Training: https://pragmaticworks.com/Training/On-Demand-Training/Introduction-to-Powerapps",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-saving-powerapps-user-preferences-across-sessions/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-saving-powerapps-user-preferences-across-sessions/",
-      "originalUrl": "https://youtube.com/watch?v=UcgzIa2uQrY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UcgzIa2uQrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M25S",
+      "path": "_learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction.md",
+      "title": "Get Started with Custom Entity Extraction AI Model using AI Builder | AI Builder Entity Extraction",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this session, we will be discussing one of the important components of AI Builder which is Entity Extraction.  Entity Extraction AI model available in two forms – OOTB Entity Extraction AI Model and Custom Entity Extraction AI Model.  During this session",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-get-started-with-custom-entity-extraction-ai-model-using-ai-builder-ai-builder-entity-extraction/",
+      "originalUrl": "https://youtube.com/watch?v=StWsJurUOTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/StWsJurUOTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M1S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2018-10-18T11:39:14-07:00",
+      "publishedDateTime": "2020-06-21T19:03:44-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UcgzIa2uQrY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/StWsJurUOTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -610,27 +756,153 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "AI Builder"
       ]
     },
     {
-      "path": "_learning/videos/progmatic-works-the-powerapps-quick-start-engagement-to-build-powerapps-quickly.md",
-      "title": "The PowerApps Quick Start Engagement to Build PowerApps Quickly",
-      "excerpt": "Most companies have tons of legacy applications sitting in Access databases or old technologies gathering dust. At Pragmatic Works, we love to transform organizations by modernizing those applications. The Quick Start engagement is a one-week engagement to build your first application and see the power",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-the-powerapps-quick-start-engagement-to-build-powerapps-quickly/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-the-powerapps-quick-start-engagement-to-build-powerapps-quickly/",
-      "originalUrl": "https://youtube.com/watch?v=A84WF0Z7TiA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A84WF0Z7TiA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M21S",
+      "path": "_learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3.md",
+      "title": "How to Build, Train and Publish Prediction Model using AI Builder? – Part 3",
+      "excerpt": "Welcome to Power Platform AI Builder Series. In this series, we will be talking about one of the most important components of AI Builder which is – Prediction Model   During the first part of the series, we will be talking about What is Prediction and how it is useful with our business data to predict",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-how-to-build-train-and-publish-prediction-model-using-ai-builder-part-3/",
+      "originalUrl": "https://youtube.com/watch?v=m0g7tH8xXms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m0g7tH8xXms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M46S",
       "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-10-10T12:25:18-07:00",
+      "publishedDateTime": "2020-05-17T01:57:41-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/A84WF0Z7TiA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/m0g7tH8xXms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two.md",
+      "title": "How to Import Text Classification Data to Common Data Service (CDS)? – AI Builder Series – Part Two",
+      "excerpt": "Welcome to Power Platform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Text Classification”.  Text Classification with AI Builder: The first question arises in our mind is What is Text Classification and how does it help to our",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-how-to-import-text-classification-data-to-common-data-service-cds-ai-builder-series-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=pcn09VZfvIw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pcn09VZfvIw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T01:33:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pcn09VZfvIw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder",
+        "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-publish-power-apps-canvas-app.md",
+      "title": "How to Publish Power Apps Canvas App?",
+      "excerpt": "During this video, we will learn how we can publish Power Apps Canvas App. Sometimes, there are situations where we need to share the Power Apps with the other users to work on. Before we do that, we need to Publish our Power Apps. During this session I’m going to explain the same procedure in detail.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-how-to-publish-power-apps-canvas-app/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-how-to-publish-power-apps-canvas-app/",
+      "originalUrl": "https://youtube.com/watch?v=l5YUg2p-ZZs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l5YUg2p-ZZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M47S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-29T17:46:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l5YUg2p-ZZs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three.md",
+      "title": "How to Train and Publish Form Processing AI Model? – Power Platform AI Builder Series – Part Three",
+      "excerpt": "Welcome to PowerPlatform with AI series. During this entire series, we will talk about one of the important components of AI Builder which is – “Form Processing”.  You are watching the third part of this series. In this video, we will discuss how we can train our Form Processing model and Publish the",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-how-to-train-and-publish-form-processing-ai-model-power-platform-ai-builder-series-part-three/",
+      "originalUrl": "https://youtube.com/watch?v=OunHKFnIjqM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OunHKFnIjqM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M4S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-09T00:02:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OunHKFnIjqM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-measure-in-mr-take-measurements-of-distance-area-and-volume-in-mr.md",
+      "title": "Mixed Reality in Power Apps – Measure in MR – Take Measurements of Distance, Area and Volume in MR",
+      "excerpt": "How to Measure Area and Volume with Power Apps Mixed Reality?  This video answers you how we can measure Area, Volume, and distance with the Mixed reality component – “View in MR”. During this video, we will use the “Measure in MR” component to measure Distance, Area, and Volume in Mixed Reality. “Measure",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-measure-in-mr-take-measurements-of-distance-area-and-volume-in-mr/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-measure-in-mr-take-measurements-of-distance-area-and-volume-in-mr/",
+      "originalUrl": "https://youtube.com/watch?v=jC8ukyvaSb0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jC8ukyvaSb0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M48S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-09T03:08:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jC8ukyvaSb0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -644,83 +916,23 @@
       ]
     },
     {
-      "path": "_learning/videos/reza-dorrni-component-libraries-overview-power-apps.md",
-      "title": "Component Libraries Overview - Power Apps",
-      "excerpt": "Component Libraries enable reusing components across Apps within an environment. The components within a component library act like a master copy of the component.   Read more: https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/microsoft-powerapps/canvas-components-are-generally",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/reza-dorrni-component-libraries-overview-power-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/reza-dorrni-component-libraries-overview-power-apps/",
-      "originalUrl": "https://youtube.com/watch?v=KR9d3meY9BE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KR9d3meY9BE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M45S",
+      "path": "_learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-mr-component.md",
+      "title": "Mixed Reality in Power Apps - View in MR Component",
+      "excerpt": "During this video, I will demonstrate second Mixed Reality Component which is – “View in MR”. With “View in MR” Component we can view 3D Objects in Mixed Reality. We can use “View in MR” component in the Power Apps to let users see how a particular item might fit within a specific space. Here, I have",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-mr-component/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-mixed-reality-in-power-apps-view-in-mr-component/",
+      "originalUrl": "https://youtube.com/watch?v=wjB54iD5qzo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wjB54iD5qzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT28M6S",
       "provider": {
-        "name": "Reza Dorrni",
+        "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-23T12:58:28-07:00",
+      "publishedDateTime": "2020-10-07T06:00:47-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KR9d3meY9BE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/reza-dorrni-part-5-powerapps-delegation-gallery-filtering-using-person-column-single-and-multi-select.md",
-      "title": "Part 5 - PowerApps Delegation & Gallery Filtering using Person column (single and multi select)",
-      "excerpt": "This is part 5 of my PowerApps delegation Vlog series - PowerApps Delegation & Gallery Filtering using Person column (single and multi select)  This video will walk you through the concept of achieving delegation and filtering with Person column  Part 1 - What is delegation in PowerApps  https://youtube.com/watch?v=gwiErbYtRdA",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/reza-dorrni-part-5-powerapps-delegation-gallery-filtering-using-person-column-single-and-multi-select/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/reza-dorrni-part-5-powerapps-delegation-gallery-filtering-using-person-column-single-and-multi-select/",
-      "originalUrl": "https://youtube.com/watch?v=tPxE_-DcWkg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tPxE_-DcWkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M5S",
-      "provider": {
-        "name": "Reza Dorrni",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-10-29T20:31:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tPxE_-DcWkg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/reza-dorrni-power-apps-captcha-component-responsive-reusable-control.md",
-      "title": "Power Apps Captcha Component - Responsive Reusable Control",
-      "excerpt": "Step by step walkthrough of building a responsive & reusable Captcha Component in Power Apps.  Donwload Component:  https://github.com/rdorrani/PowerApps/blob/master/Components/Captcha/CaptchaComponent.msapp  Components Playlist: https://www.youtube.com/playlist?list=PLTyFh-qDKAiF_WeYXLbMt5NmRg3T35WRS",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/reza-dorrni-power-apps-captcha-component-responsive-reusable-control/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/reza-dorrni-power-apps-captcha-component-responsive-reusable-control/",
-      "originalUrl": "https://youtube.com/watch?v=Fon5zzghWHA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fon5zzghWHA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M12S",
-      "provider": {
-        "name": "Reza Dorrni",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-04-26T16:07:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Fon5zzghWHA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wjB54iD5qzo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -733,5 +945,6 @@
         "Power Apps"
       ]
     }
-  ]
+  ],
+  "nextPage": 14
 }
