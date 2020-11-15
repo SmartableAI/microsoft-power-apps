@@ -5,8 +5,8 @@ excerpt: "In this overview video, we highlight some of the new capabilities incl
 publishedDateTime: 2020-05-18T23:26:26Z
 originalUrl: "https://youtube.com/watch?v=h70jOr56EKs"
 type: video
-quality: 131
-heat: 131
+quality: 148
+heat: 148
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h70jOr56EKs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - Power Apps
+  - AI Builder
 
 images:
   - url: "https://i.ytimg.com/vi/h70jOr56EKs/maxresdefault.jpg"
