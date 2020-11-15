@@ -58,7 +58,7 @@
             "domain": "aprildunnam.com"
           },
           "publishedDateTime": "2020-09-17T07:11:46-07:00",
-          "heat": 139,
+          "heat": 59,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/M_tvnAmHMZY/maxresdefault.jpg",
@@ -89,7 +89,7 @@
             "domain": "aprildunnam.com"
           },
           "publishedDateTime": "2020-08-19T20:39:42-07:00",
-          "heat": 136,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/8bNCBe2wzYI/maxresdefault.jpg",
@@ -137,7 +137,7 @@
         }
       ],
       "size": 20,
-      "heat": 163,
+      "heat": 70,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-H4ljf4FuTE/maxresdefault.jpg",
@@ -291,6 +291,154 @@
           "url": "https://i.ytimg.com/vi/gwiErbYtRdA/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/henry-ouang-powerapps-tutorials-demonstrations-by-henry-ouang.md",
+      "title": "PowerApps Tutorials & Demonstrations by Henry Ouang",
+      "excerpt": "",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/henry-ouang-powerapps-tutorials-demonstrations-by-henry-ouang/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/henry-ouang-powerapps-tutorials-demonstrations-by-henry-ouang/",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/henry-ouang-learn-powerapps-learn-how-to-link-powerapps-with-excel.md",
+          "title": "Learn PowerApps - Learn How to Link PowerApps with Excel",
+          "excerpt": "Thank you so much for the support. I love hearing from you guys and love keeping in touch!  I show you how to create PowerApps that are linked with Microsoft Excel documents and specific tables within.  This process is specifically useful for databases that are used within the Microsoft Power Platform.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-learn-powerapps-learn-how-to-link-powerapps-with-excel/index.json",
+          "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-learn-powerapps-learn-how-to-link-powerapps-with-excel/",
+          "originalUrl": "https://youtube.com/watch?v=ZywH_ejeq3E",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZywH_ejeq3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M41S",
+          "provider": {
+            "name": "Henry Ouang",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2019-09-02T20:48:40-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ZywH_ejeq3E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "_learning/videos/henry-ouang-learn-powerapps-autofill-templates-in-sharepoint-tutorial.md",
+          "title": "Learn PowerApps - Autofill Templates in Sharepoint Tutorial",
+          "excerpt": "Thank you so much for the support. I love hearing from you guys and keeping in touch!  I show you how to make a PowerApp that auto-fills Microsoft Word templates!   Learn how to instantaneously create auto-filled Word Templates that save directly to your folder. You can use this technology for Contracts,",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-learn-powerapps-autofill-templates-in-sharepoint-tutorial/index.json",
+          "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-learn-powerapps-autofill-templates-in-sharepoint-tutorial/",
+          "originalUrl": "https://youtube.com/watch?v=sToM68hQoTw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sToM68hQoTw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT20M58S",
+          "provider": {
+            "name": "Henry Ouang",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2019-09-02T20:48:40-07:00",
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/sToM68hQoTw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "_learning/videos/henry-ouang-powerapps-scan-log-barcodes.md",
+          "title": "PowerApps - Scan & Log Barcodes",
+          "excerpt": "I show you how a PowerApp to scan and log barcodes into sharepoint works. This can be specifically useful in a logistics center where items need to be tracked.  If you have any questions, drop me an email or comment below!  admin@enteleca.com  Connect with me on LinkedIn: https://www.linkedin.com/in/henry-ouang-6a6162134/",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-powerapps-scan-log-barcodes/index.json",
+          "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-powerapps-scan-log-barcodes/",
+          "originalUrl": "https://youtube.com/watch?v=TDzXuCHx_H4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TDzXuCHx_H4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M39S",
+          "provider": {
+            "name": "Henry Ouang",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2019-09-02T20:48:40-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/TDzXuCHx_H4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        },
+        {
+          "path": "_learning/videos/henry-ouang-powerapps-auto-fill-templates.md",
+          "title": "PowerApps - Auto-Fill Templates",
+          "excerpt": "I demonstrate how auto-generation applications work with PowerApps.  Tutorial Link: https://www.youtube.com/watch?v=sToM68hQoTw&t=21s  Let me know if you have any questions! Drop me an email or a comment below.  admin@enteleca.com  Connect with me on LinkedIn: https://www.linkedin.com/in/henry-ouang-6a6162134/",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-powerapps-auto-fill-templates/index.json",
+          "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-powerapps-auto-fill-templates/",
+          "originalUrl": "https://youtube.com/watch?v=MPLhEj4wWLk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MPLhEj4wWLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M50S",
+          "provider": {
+            "name": "Henry Ouang",
+            "domain": "youtube.com"
+          },
+          "publishedDateTime": "2019-09-02T20:48:40-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/MPLhEj4wWLk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power Apps"
+          ]
+        }
+      ],
+      "size": 15,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZywH_ejeq3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -1794,7 +1942,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/portals-metadata-social.png",
@@ -2136,8 +2284,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 17173,
-            "average": 4.6674433
+            "count": 17174,
+            "average": 4.667404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2213,8 +2361,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-apps-in-powerapps/",
           "length": "PT42M",
           "ratings": {
-            "count": 7077,
-            "average": 4.690123
+            "count": 7078,
+            "average": 4.690167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2398,6 +2546,177 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps.md",
+      "title": "Use basic formulas to make better Power Apps canvas apps",
+      "excerpt": "Do you want to use formulas to improve functionality and change a behavior in your Power Apps canvas app? This learning path can help you accomplish your goal.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps/",
+      "length": "PT2H16M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps.md",
+          "title": "Author a basic formula to change properties in a Power Apps canvas app",
+          "excerpt": "Want to enhance your Power Apps canvas app? You can use basic formulas to make changes to control properties.  This will include changing the format, position, simple calculations, and implementing conditional formatting.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-properties-powerapps/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 1113,
+            "average": 4.6145554
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps.md",
+          "title": "Author a basic formula to change behaviors in a Power Apps canvas app",
+          "excerpt": "Learn how to author a basic formula to change behaviors in a Power Apps canvas app.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-behaviors-powerapps/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 726,
+            "average": 4.6060605
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/change-behaviors-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps.md",
+          "title": "Author a basic formula that uses tables and records in a Power Apps canvas app",
+          "excerpt": "Learn how to author a basic formula that uses tables and records in a Power Apps canvas app.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-tables-records-powerapps/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 668,
+            "average": 4.577844
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/tables-and-records-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-create-relationships-business-rules-calculations-and-rollups-in-common-data-service.md",
       "title": "Create relationships, business rules, calculations, and rollups in Common Data Service",
       "excerpt": "Do you need to create data relationships, business rules, calculations, and rollups in Common Data Service? These modules help you use Common Data Service to build powerful business solutions that will transform your operations, processes, and your entire organization. The learning path Get started with Common Data Service introduces you to Common Data Service and many of the key concepts which include environment, entities, fields, and options sets.  This learning path continues and expands the exploration of Common Data Service with an overview how to form relationships between entities, how to build business rules to perform logic based upon your organization's needs, and how to add calculations and rollup fields.",
@@ -2532,7 +2851,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-define-calculation-rollup-fields-social.png",
@@ -2771,8 +3090,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-cds-developers-power-platform/",
           "length": "PT30M",
           "ratings": {
-            "count": 893,
-            "average": 4.6774917
+            "count": 894,
+            "average": 4.676734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3328,177 +3647,6 @@
       "topics": [
         "Power Apps",
         "Common Data Service"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps.md",
-      "title": "Use basic formulas to make better Power Apps canvas apps",
-      "excerpt": "Do you want to use formulas to improve functionality and change a behavior in your Power Apps canvas app? This learning path can help you accomplish your goal.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps/",
-      "length": "PT2H16M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps.md",
-          "title": "Author a basic formula to change properties in a Power Apps canvas app",
-          "excerpt": "Want to enhance your Power Apps canvas app? You can use basic formulas to make changes to control properties.  This will include changing the format, position, simple calculations, and implementing conditional formatting.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-properties-powerapps/",
-          "length": "PT42M",
-          "ratings": {
-            "count": 1113,
-            "average": 4.6145554
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps",
-            "Canvas apps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps.md",
-          "title": "Author a basic formula to change behaviors in a Power Apps canvas app",
-          "excerpt": "Learn how to author a basic formula to change behaviors in a Power Apps canvas app.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-behaviors-powerapps/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 726,
-            "average": 4.6060605
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/change-behaviors-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps",
-            "Canvas apps"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps.md",
-          "title": "Author a basic formula that uses tables and records in a Power Apps canvas app",
-          "excerpt": "Learn how to author a basic formula that uses tables and records in a Power Apps canvas app.",
-          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-tables-records-powerapps/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 668,
-            "average": 4.577844
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/tables-and-records-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power Apps",
-            "Canvas apps"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
       ]
     },
     {

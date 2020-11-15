@@ -4,6 +4,66 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/powerapps911-powerapps-date-and-time-functions.md",
+      "title": "PowerApps Date and Time Functions",
+      "excerpt": "In this video, you will learn about the PowerApps Date and Time functions. We cover Today(), Now(), datetimevalue, datediff, dateadd, and more.   Formula Reference https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/formula-reference  For PowerApps help or training check out https://www.PowerApps911.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-date-and-time-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-date-and-time-functions/",
+      "originalUrl": "https://youtube.com/watch?v=EbYMN4ouOvQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EbYMN4ouOvQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M28S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-01-24T13:10:26-08:00",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EbYMN4ouOvQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-hide-button-based-on-user-and-other-fun.md",
+      "title": "PowerApps Hide Button Based on User and other fun",
+      "excerpt": "In this video, you will learn how to show and hide buttons based on the logged on user and other techniques to make your App more adaptive to the situation. We use LookUp, IsBlank, Not, User, Office 365 Groups, and more to pull this off.  For PowerApps training check out https://www.PowerApps911.com/training",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-hide-button-based-on-user-and-other-fun/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-hide-button-based-on-user-and-other-fun/",
+      "originalUrl": "https://youtube.com/watch?v=0MB-z9cyFCQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0MB-z9cyFCQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M44S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2019-07-27T14:15:11-07:00",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0MB-z9cyFCQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/powerapps911-powerapps-sharepoint-complex-columns-patch-person-choice-and-lookup-fields.md",
       "title": "PowerApps SharePoint Complex Columns - Patch person, choice, and lookup fields",
       "excerpt": "In this video, you will learn how to Patch SharePoint Complex Columns with PowerApps. This includes Person, Choice, and Lookup columns. You will see how to do this both with controls like dropdown and comboboxes and with just a button.  '@odata.type': \"#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference\"",
@@ -1165,7 +1225,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/portals-metadata-social.png",
@@ -1880,6 +1940,37 @@
       ]
     },
     {
+      "path": "_learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained.md",
+      "title": "Power Apps Canvas vs Model Driven vs Portals Explained",
+      "excerpt": "#PowerApps #PowerAppsTypes #Beginner Are you new to Power Apps?  Then this video is for you!  After you watch my video on \"How to Get Started with Power Apps\", this video is a good next step in that learning path.   I'll explain what Power Apps is and go over the three different types of Power Apps that",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/",
+      "originalUrl": "https://youtube.com/watch?v=M_tvnAmHMZY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M_tvnAmHMZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-09-17T07:11:46-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M_tvnAmHMZY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_learning/videos/powerapps911-intro-to-the-powerapps-if-statement.md",
       "title": "Intro to the PowerApps If Statement",
       "excerpt": "In this video, you will learn about the PowerApps If statement. The If function is the cornerstone of all apps so the more you know the better. We cover the basics of If logic, how to use the function, and cover PowerApps If multiple conditions. Fun stuff.",
@@ -2000,8 +2091,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 17173,
-            "average": 4.6674433
+            "count": 17174,
+            "average": 4.667404
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2077,8 +2168,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-apps-in-powerapps/",
           "length": "PT42M",
           "ratings": {
-            "count": 7077,
-            "average": 4.690123
+            "count": 7078,
+            "average": 4.690167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2130,8 +2221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/how-build-model-driven-app/",
       "length": "PT24M",
       "ratings": {
-        "count": 447,
-        "average": 4.590604
+        "count": 448,
+        "average": 4.591518
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2172,8 +2263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-apps-portals/",
       "length": "PT25M",
       "ratings": {
-        "count": 392,
-        "average": 4.6505103
+        "count": 393,
+        "average": 4.6513996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2205,105 +2296,6 @@
       "topics": [
         "Power Apps",
         "Portals"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-powerapps-customize.md",
-      "title": "Customize a canvas app in Power Apps",
-      "excerpt": "Learn how to customize an app by adding controls, images, and logic.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-customize/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-apps-in-powerapps/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 7995,
-        "average": 4.6772985
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-powerapps-manage.md",
-      "title": "Manage apps in Power Apps",
-      "excerpt": "Manage app versions, app sharing, and environments in Power Apps.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-manage/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-apps-in-powerapps/",
-      "length": "PT42M",
-      "ratings": {
-        "count": 7077,
-        "average": 4.690123
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 58,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-a-better-powerapps-data-model-flexible-and-fast.md",
-      "title": "A better PowerApps Data Model - Flexible and fast",
-      "excerpt": "In this video, you will learn how to implement a better data model for PowerApps. Instead of one giant, wide list you will use several skinny lists to restructure your data. This will end in you building apps faster, let user maintain themselves, and more flexibility across the board. This is a must",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-a-better-powerapps-data-model-flexible-and-fast/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-a-better-powerapps-data-model-flexible-and-fast/",
-      "originalUrl": "https://youtube.com/watch?v=7XXo9wjnJvc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7XXo9wjnJvc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M52S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-04-26T12:01:38-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7XXo9wjnJvc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
       ]
     }
   ],

@@ -4,6 +4,83 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
+      "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
+      "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 455,
+        "average": 4.674725
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-portals-studio.md",
+      "title": "Explore Power Apps portals Studio",
+      "excerpt": "Portal makers spend the majority of their time configuring portals by using Microsoft Power Apps portals Studio. It is important that portal makers have a full understanding of the capabilities and also the limitations of using portals Studio. This module will focus on understanding and using Power Apps portals Studio to create and customize portal websites. Power Apps portals Studio allows makers to add and configure webpages, layout components, static content, custom CSS files, entity lists, and entity forms.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-explore-portals-studio/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-portals-studio/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 133,
+        "average": 4.6165414
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-portals-studio-social.png",
+          "width": 642,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-portals.md",
       "title": "Explore Power Apps portals",
       "excerpt": "Dynamics 365 starter portals are pre-configured portal solutions that are available to help accelerate deployment. Typical portal projects will have unique requirements, but a starter portal provides an environment that is immediately suitable for specific scenarios and audiences.",
@@ -261,8 +338,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-cds-developers-power-platform/",
       "length": "PT30M",
       "ratings": {
-        "count": 893,
-        "average": 4.6774917
+        "count": 894,
+        "average": 4.676734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -963,49 +1040,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-portals-metadata.md",
-      "title": "Work with Power Apps portals metadata",
-      "excerpt": "Makers are required to understand the various Power Apps portals metadata components so they can configure the portals app for a variety of unique requirements. This module uses the Portal Management app to configure various portals features by editing the portals metadata.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-metadata/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-metadata/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 18,
-        "average": 4.7222223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-metadata-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-power-platform-mobile-management.md",
       "title": "Microsoft Power Platform Mobile management",
       "excerpt": "As the world becomes more mobile, understanding Microsoft Power Platform mobile capabilities allows functional consultants not only ensure seamless access from mobile devices, but also take advantage of its unique form factor when implementing Dynamics 365 solutions.",
@@ -1182,49 +1216,6 @@
       "price": "Free",
       "topics": [
         "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-testing-performance-checks.md",
-      "title": "Complete testing and performance checks in a Power Apps canvas app",
-      "excerpt": "Do you want to test your app and improve it's performance? This module will help you understand how to test an app and improve performance.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-testing-performance-checks/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/testing-performance-checks-powerapps/",
-      "length": "PT39M",
-      "ratings": {
-        "count": 375,
-        "average": 4.7306666
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/testing-performance-checks-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Canvas apps"
       ]
     }
   ],

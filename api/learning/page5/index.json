@@ -4,6 +4,126 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/videos/powerapps911-powerapps-email-attachments-with-the-office-365-connector-and-attachment-control.md",
+      "title": "PowerApps Email Attachments with the office 365 connector and attachment control",
+      "excerpt": "In this video, you will learn how to use the PowerApps Attachment Control to send email attachments. We use the attachment control so the user can attach both files and images.  For PowerApps training or consulting check out https://www.PowerApps911.com",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-email-attachments-with-the-office-365-connector-and-attachment-control/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-email-attachments-with-the-office-365-connector-and-attachment-control/",
+      "originalUrl": "https://youtube.com/watch?v=Ws6xEr5N1cU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ws6xEr5N1cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M5S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2019-08-10T09:58:01-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Ws6xEr5N1cU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-on-premise-data-gateway.md",
+      "title": "Powerapps on premise data gateway",
+      "excerpt": "In this video, you will learn how to install and configure the PowerApps on premise data gateway. This will allow you to connect to your on prem SharePoint, SQL, and other data sources from PowerApps out in the cloud.   PowerApps Gateway Docs https://docs.microsoft.com/en-us/powerapps/gateway-reference",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-on-premise-data-gateway/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-on-premise-data-gateway/",
+      "originalUrl": "https://youtube.com/watch?v=uqx_h4Ym8ng",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uqx_h4Ym8ng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M16S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-03-08T13:48:28-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uqx_h4Ym8ng/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-confirmation-popups-screens-in-powerapps.md",
+      "title": "Confirmation Popups Screens in PowerApps",
+      "excerpt": "PowerApp a Day Episode #16 (SalesPerson App) - Learn how to present your users with popup screens to confirm a harmful action.   Power App Training: https://pragmaticworks.com/Training/On-Demand-Training/Introduction-to-Powerapps  Adding spinners to our application: https://www.youtube.com/watch?v=YfYf-AkY1P8",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-confirmation-popups-screens-in-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-confirmation-popups-screens-in-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=SaDEVOgOlYY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SaDEVOgOlYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M38S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-24T11:12:20-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SaDEVOgOlYY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-how-to-generate-pdfs-from-power-apps-and-debug-problems.md",
+      "title": "How to Generate PDFs from Power Apps (and debug problems)",
+      "excerpt": "Learn how to create PDF documents from PowerApps using Power Automate (Microsoft Flow) and how to debug when things go wrong.   I'd love to build an app for you or train your team: https://www.pragmaticworks.com  HTML code that goes to PDF: Concat code: Concat(     Gallery1.AllItems,     (HTML CODE GOES",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-how-to-generate-pdfs-from-power-apps-and-debug-problems/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-how-to-generate-pdfs-from-power-apps-and-debug-problems/",
+      "originalUrl": "https://youtube.com/watch?v=pCq0SVDmtMI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pCq0SVDmtMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M10S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-03-02T06:58:27-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pCq0SVDmtMI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/progmatic-works-publishing-and-sharing-powerapp-applications.md",
       "title": "Publishing and Sharing PowerApp Applications",
       "excerpt": "PowerApp a Day Episode #4 (Time Card App) - Now that your application is almost complete, it's time to publish and share the application. Learn how to deploy your application to make it accessible from phones, web, SharePoint and Dynamics. Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
@@ -788,126 +908,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZOz3HvKDWMk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-powerapps-barcode-scanner-app.md",
-      "title": "PowerApps Barcode Scanner App",
-      "excerpt": "WARNING - This function has changed. See my pinned comments for more info.   updated 3/2/2019 PowerApps Barcode Scanner - Updated! https://youtu.be/kWUvttbYpu4 this new video is what you need.   In this video, you will learn how to use the PowerApps Barcode Scanner function. Turns out the Barcode Scanner",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-barcode-scanner-app/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-barcode-scanner-app/",
-      "originalUrl": "https://youtube.com/watch?v=60ondObDBH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/60ondObDBH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M2S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2018-08-12T06:34:24-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/60ondObDBH0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-powerapps-calendar-create-invite-using-the-outlook-connector.md",
-      "title": "PowerApps Calendar Create Invite using the Outlook Connector",
-      "excerpt": "In this video, you will learn how to create calendar invites in Outlook using Power Apps. Attendenees, location, recurrence, status, and more are all covered in full detail. We leave no stone unturned.  Power Apps Training https://training.PowerApps911.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-calendar-create-invite-using-the-outlook-connector/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-calendar-create-invite-using-the-outlook-connector/",
-      "originalUrl": "https://youtube.com/watch?v=MeQDIBrJjRg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MeQDIBrJjRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M14S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-04-06T11:19:33-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MeQDIBrJjRg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-powerapps-component-libraries-share-and-reuse-across-the-org.md",
-      "title": "PowerApps Component Libraries - Share and reuse across the org",
-      "excerpt": "In this video, you will learn about Power Apps component Libraries and how you can use them to build and publish components that can be used across the company. This is the consistency solution you have been looking for.  Link to introduction to PowerApps components if you need ithttps://www.youtube.com/watch?v=AqZkUQ78e50",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-component-libraries-share-and-reuse-across-the-org/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-component-libraries-share-and-reuse-across-the-org/",
-      "originalUrl": "https://youtube.com/watch?v=8Sdx7baJEuU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8Sdx7baJEuU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M59S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2020-05-17T15:23:38-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8Sdx7baJEuU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-powerapps-excel-auto-increment-column.md",
-      "title": "PowerApps Excel Auto Increment Column",
-      "excerpt": "In this video, you will learn how to create an Excel primary key with PowerApps. Lots of data sources like SQL and SharePoint handle this for you but if your data source does not then this is the video for you. You will use the Last function and some form customizations to accomplish the goal.  Getting",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-excel-auto-increment-column/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-excel-auto-increment-column/",
-      "originalUrl": "https://youtube.com/watch?v=plKw_xfVfwY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/plKw_xfVfwY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M33S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2018-05-07T09:58:43-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/plKw_xfVfwY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

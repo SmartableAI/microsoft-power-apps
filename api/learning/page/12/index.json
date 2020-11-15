@@ -4,6 +4,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-testing-performance-checks.md",
+      "title": "Complete testing and performance checks in a Power Apps canvas app",
+      "excerpt": "Do you want to test your app and improve it's performance? This module will help you understand how to test an app and improve performance.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-testing-performance-checks/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/testing-performance-checks-powerapps/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 375,
+        "average": 4.7306666
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/testing-performance-checks-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-use-admin-options-cds.md",
       "title": "Use administration options for Common Data Service",
       "excerpt": "Do you need to use administration options that are available for Common Data Service? This module will show you how you can use solutions within Common Data Service and administer environments.",
@@ -1002,44 +1045,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fPE5LJif0sw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-will-power-apps-scale-to-my-business-needs-one-dev-question-dona-sarkar.md",
-      "title": "Will Power Apps scale to my business needs? | One Dev Question: Dona Sarkar",
-      "excerpt": "In the One Dev Question series, Principal Cloud Advocate Dona Sarkar explains how customizable Power Apps can be and how they can work for you.    For more information, visit: https://powerapps.microsoft.com/build-powerapps/?WT.mc_id=onedevquestion-c9-donasa   Try Azure for free: https://aka.ms/TryAzure7",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/microsoft-will-power-apps-scale-to-my-business-needs-one-dev-question-dona-sarkar/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/microsoft-will-power-apps-scale-to-my-business-needs-one-dev-question-dona-sarkar/",
-      "originalUrl": "https://youtube.com/watch?v=fpOvfX0OU6s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fpOvfX0OU6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M39S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-04-27T08:03:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fpOvfX0OU6s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

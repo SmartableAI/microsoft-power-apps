@@ -4,6 +4,156 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/videos/daves-tech-tips-powerapps-with-function-basic-introduction-tutorial.md",
+      "title": "PowerApps With Function - Basic Introduction (Tutorial)",
+      "excerpt": "PowerApps released the With function recently and we can see so much potential for it. Where Set() creates global variables that could be used throughout the app, and UpdateContext() creates variables that are only accessible on one screen, With() allows for variables to be used in context of one specific",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/daves-tech-tips-powerapps-with-function-basic-introduction-tutorial/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/daves-tech-tips-powerapps-with-function-basic-introduction-tutorial/",
+      "originalUrl": "https://youtube.com/watch?v=anENfEVzCsk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/anENfEVzCsk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M6S",
+      "provider": {
+        "name": "Dave's Tech Tips",
+        "domain": "ukuvuma.co.za"
+      },
+      "publishedDateTime": "2019-08-17T01:09:24-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/anENfEVzCsk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps.md",
+      "title": "Generate Barcodes inside of PowerApps!",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you how to use barcodes4.me's free API service to generate unlimited free barcodes inside of PowerApps! Users can decide what information they want to have the barcode value be - could",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=3-GuyDtViXI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3-GuyDtViXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M27S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-02-15T02:09:13-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3-GuyDtViXI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-learn-powerapps-and-flow-generating-pdfs-from-powerapps.md",
+      "title": "Learn PowerApps and Flow - Generating PDFs from PowerApps",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  Many of you have requested the infrastructural design that needs to be implemented within PowerApps to successfully generate PDFs from within the application. I've finally come out with a tutorial on how",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-learn-powerapps-and-flow-generating-pdfs-from-powerapps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-learn-powerapps-and-flow-generating-pdfs-from-powerapps/",
+      "originalUrl": "https://youtube.com/watch?v=RI6mMq7S6Es",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RI6mMq7S6Es\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M31S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-10-23T03:55:30-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RI6mMq7S6Es/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-auto-fill-templates.md",
+      "title": "PowerApps - Auto-Fill Templates",
+      "excerpt": "I demonstrate how auto-generation applications work with PowerApps.  Tutorial Link: https://www.youtube.com/watch?v=sToM68hQoTw&t=21s  Let me know if you have any questions! Drop me an email or a comment below.  admin@enteleca.com  Connect with me on LinkedIn: https://www.linkedin.com/in/henry-ouang-6a6162134/",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-powerapps-auto-fill-templates/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-powerapps-auto-fill-templates/",
+      "originalUrl": "https://youtube.com/watch?v=MPLhEj4wWLk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MPLhEj4wWLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M50S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-09-02T20:48:40-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MPLhEj4wWLk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas.md",
+      "title": "PowerApps Dashboard UI/UX Template Brainstorming Ideas!",
+      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you some ideas I had for designing a dashboard. You can freely pull anything you want from these videos and copy them for your own! Impress your boss, co-workers, etc.  I highly recommend",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas/",
+      "originalUrl": "https://youtube.com/watch?v=fHZl38umZFU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fHZl38umZFU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M13S",
+      "provider": {
+        "name": "Henry Ouang",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-07-16T23:13:18-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fHZl38umZFU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/henry-ouang-powerapps-performance-optimization-measure-your-performance-improvements.md",
       "title": "PowerApps Performance Optimization - MEASURE Your Performance Improvements!",
       "excerpt": "In this video, I give you a little tip on how to time your functions and how long they take! This gives you a little bit more insight of how fast your application is running and how fast you improve it!   You can definitely use this to give MEASURABLE results to improving your application!  Let me know",
@@ -782,156 +932,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/nWcQ5MsQ1Xw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-texting-with-powerapps.md",
-      "title": "Texting with PowerApps",
-      "excerpt": "Eps 33: Learn two techniques to send text messages from a PowerApp application. One is through a Launch command and the other is with a 3rd party data connector, TxtSync.   For PowerApps training and App Building services, please reach out to us at https://www.pragmaticworks.com  The connector requires",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-texting-with-powerapps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-texting-with-powerapps/",
-      "originalUrl": "https://youtube.com/watch?v=9x3aJkV0s1Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9x3aJkV0s1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M29S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-07-08T09:31:22-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9x3aJkV0s1Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-the-power-apps-filter-and-search-command-with-debugging.md",
-      "title": "The Power Apps Filter and Search Command (with debugging)",
-      "excerpt": "Learn how to filter and search galleries, data tables or anything inside of PowerApps using Filter and Search commands. You'll learn some of the delegation gotchas around those commands and how to debug issues.  Understanding delegation: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/delegation-overview",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-the-power-apps-filter-and-search-command-with-debugging/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-the-power-apps-filter-and-search-command-with-debugging/",
-      "originalUrl": "https://youtube.com/watch?v=n7AVokduLjo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n7AVokduLjo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M56S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2020-01-31T12:17:24-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n7AVokduLjo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-using-and-securing-power-apps-environments.md",
-      "title": "Using and Securing Power Apps Environments",
-      "excerpt": "Learn how to organize and secure Power Apps environments. In this video, Brian shows you how to create a new environment for your dev, QA and production PowerApps applications. He also shows how to add users and secure the environment at a high level and how to turn on certain features.  Pragmatic Works",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-using-and-securing-power-apps-environments/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-using-and-securing-power-apps-environments/",
-      "originalUrl": "https://youtube.com/watch?v=BfONiXC2LMU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BfONiXC2LMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M10S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2020-05-15T12:33:06-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BfONiXC2LMU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-using-the-powerapps-ai-builder-object-detector.md",
-      "title": "Using the PowerApps AI Builder Object Detector",
-      "excerpt": "Learn how to use the AI Builder for object detection. In this app build project, you'll see how to do automatic inventory by just taking pictures of what you want to inventory in PowerApps or Microsoft Flow.  Check out our great training at https://www.pragmaticworkstraining.com.   We love to build apps",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-using-the-powerapps-ai-builder-object-detector/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-using-the-powerapps-ai-builder-object-detector/",
-      "originalUrl": "https://youtube.com/watch?v=R4LYI8f46ic",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R4LYI8f46ic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M12S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2019-11-01T08:21:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R4LYI8f46ic/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/reza-dorrni-canvas-components-overview-power-apps.md",
-      "title": "Canvas Components Overview - Power Apps",
-      "excerpt": "Canvas components make it easier to build reusable controls, such as navigation menus and dialogs.   The ‘master’ / ‘instance’ behavior makes it easy to reuse them as building blocks inside the app or shared between apps.  By creating a component library, app makers easily share and update one or more",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/reza-dorrni-canvas-components-overview-power-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/reza-dorrni-canvas-components-overview-power-apps/",
-      "originalUrl": "https://youtube.com/watch?v=4Y0fWojokH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Y0fWojokH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M18S",
-      "provider": {
-        "name": "Reza Dorrni",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-23T12:58:17-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4Y0fWojokH0/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

@@ -4,6 +4,105 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-powerapps-customize.md",
+      "title": "Customize a canvas app in Power Apps",
+      "excerpt": "Learn how to customize an app by adding controls, images, and logic.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-customize/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/customize-apps-in-powerapps/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 7995,
+        "average": 4.6772985
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-powerapps-manage.md",
+      "title": "Manage apps in Power Apps",
+      "excerpt": "Manage app versions, app sharing, and environments in Power Apps.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-manage/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-apps-in-powerapps/",
+      "length": "PT42M",
+      "ratings": {
+        "count": 7078,
+        "average": 4.690167
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 58,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-a-better-powerapps-data-model-flexible-and-fast.md",
+      "title": "A better PowerApps Data Model - Flexible and fast",
+      "excerpt": "In this video, you will learn how to implement a better data model for PowerApps. Instead of one giant, wide list you will use several skinny lists to restructure your data. This will end in you building apps faster, let user maintain themselves, and more flexibility across the board. This is a must",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-a-better-powerapps-data-model-flexible-and-fast/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-a-better-powerapps-data-model-flexible-and-fast/",
+      "originalUrl": "https://youtube.com/watch?v=7XXo9wjnJvc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7XXo9wjnJvc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M52S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2020-04-26T12:01:38-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7XXo9wjnJvc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/powerapps911-build-a-consent-form-with-powerapps-using-the-pen-input-and-send-it-as-an-email-attachment.md",
       "title": "Build a consent form with PowerApps using the Pen Input and send it as an email attachment",
       "excerpt": "In this video, we build a mobile consent form with PowerApps to help teach some of its core concepts including how to send the Pen Input as an email attachment.  Video on customizing this form with popups and conditional formatting https://www.youtube.com/watch?v=IvapIsBbM-U  Video on sending an email",
@@ -651,6 +750,36 @@
       ]
     },
     {
+      "path": "_learning/videos/april-dunnam-power-apps-sorting-multi-column-sort-sort-button-sort-and-filter.md",
+      "title": "Power Apps Sorting - Multi Column Sort, Sort Button, Sort and Filter",
+      "excerpt": "#PowerApps #Sorting This Beginner Fundamentals Quick Tip is all about Power Apps Sorting.  You'll learn the basics of sorting including how to plan for sorting with delegation in mind, how to sort by multiple columns, how to add sorting in combination with filtering and more!  Table of Contents: 00:00",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-apps-sorting-multi-column-sort-sort-button-sort-and-filter/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-apps-sorting-multi-column-sort-sort-button-sort-and-filter/",
+      "originalUrl": "https://youtube.com/watch?v=8bNCBe2wzYI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8bNCBe2wzYI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M35S",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-08-19T20:39:42-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8bNCBe2wzYI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/powerapps911-azure-sql-database-tutorial-with-an-end-result-of-a-working-powerapps-sql-app.md",
       "title": "Azure SQL Database tutorial with an end result of a working PowerApps sql app",
       "excerpt": "In this video, you will learn how to get started using Azure SQL Databases. This video is focused on making sense to technical and non-technical users alike with a focus on getting you productive as quickly as possible.    If you are into PowerApps this is everything you need to know to go from building",
@@ -789,126 +918,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NzhwTrXA-cQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-powerapps-email-attachments-with-the-office-365-connector-and-attachment-control.md",
-      "title": "PowerApps Email Attachments with the office 365 connector and attachment control",
-      "excerpt": "In this video, you will learn how to use the PowerApps Attachment Control to send email attachments. We use the attachment control so the user can attach both files and images.  For PowerApps training or consulting check out https://www.PowerApps911.com",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-email-attachments-with-the-office-365-connector-and-attachment-control/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-email-attachments-with-the-office-365-connector-and-attachment-control/",
-      "originalUrl": "https://youtube.com/watch?v=Ws6xEr5N1cU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ws6xEr5N1cU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M5S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2019-08-10T09:58:01-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ws6xEr5N1cU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/powerapps911-powerapps-on-premise-data-gateway.md",
-      "title": "Powerapps on premise data gateway",
-      "excerpt": "In this video, you will learn how to install and configure the PowerApps on premise data gateway. This will allow you to connect to your on prem SharePoint, SQL, and other data sources from PowerApps out in the cloud.   PowerApps Gateway Docs https://docs.microsoft.com/en-us/powerapps/gateway-reference",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-on-premise-data-gateway/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-on-premise-data-gateway/",
-      "originalUrl": "https://youtube.com/watch?v=uqx_h4Ym8ng",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uqx_h4Ym8ng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M16S",
-      "provider": {
-        "name": "PowerApps911",
-        "domain": "powerapps911.com"
-      },
-      "publishedDateTime": "2018-03-08T13:48:28-08:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uqx_h4Ym8ng/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-confirmation-popups-screens-in-powerapps.md",
-      "title": "Confirmation Popups Screens in PowerApps",
-      "excerpt": "PowerApp a Day Episode #16 (SalesPerson App) - Learn how to present your users with popup screens to confirm a harmful action.   Power App Training: https://pragmaticworks.com/Training/On-Demand-Training/Introduction-to-Powerapps  Adding spinners to our application: https://www.youtube.com/watch?v=YfYf-AkY1P8",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-confirmation-popups-screens-in-powerapps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-confirmation-popups-screens-in-powerapps/",
-      "originalUrl": "https://youtube.com/watch?v=SaDEVOgOlYY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SaDEVOgOlYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M38S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2018-09-24T11:12:20-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SaDEVOgOlYY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-how-to-generate-pdfs-from-power-apps-and-debug-problems.md",
-      "title": "How to Generate PDFs from Power Apps (and debug problems)",
-      "excerpt": "Learn how to create PDF documents from PowerApps using Power Automate (Microsoft Flow) and how to debug when things go wrong.   I'd love to build an app for you or train your team: https://www.pragmaticworks.com  HTML code that goes to PDF: Concat code: Concat(     Gallery1.AllItems,     (HTML CODE GOES",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-how-to-generate-pdfs-from-power-apps-and-debug-problems/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-how-to-generate-pdfs-from-power-apps-and-debug-problems/",
-      "originalUrl": "https://youtube.com/watch?v=pCq0SVDmtMI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pCq0SVDmtMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M10S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2020-03-02T06:58:27-08:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pCq0SVDmtMI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

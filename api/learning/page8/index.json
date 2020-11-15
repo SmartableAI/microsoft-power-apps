@@ -4,6 +4,126 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/videos/progmatic-works-creating-a-powerapps-leaderboard-groupby-and-countrows-functions.md",
+      "title": "Creating a PowerApps Leaderboard (GroupBy and CountRows functions)",
+      "excerpt": "PowerApp a Day Episode #10 (HR Shoutout App) -  Time to make our HR application fun by adding some gamification into our shoutout application. Learn how to build small reports with the GroupBy and Sum functions to create a leader board in PowerApps.  Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-creating-a-powerapps-leaderboard-groupby-and-countrows-functions/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-creating-a-powerapps-leaderboard-groupby-and-countrows-functions/",
+      "originalUrl": "https://youtube.com/watch?v=q42ibovAqZc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q42ibovAqZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M31S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-17T07:50:34-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q42ibovAqZc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-power-apps-azure-active-directory-ad-connector-integration-example.md",
+      "title": "Power Apps Azure Active Directory (AD) Connector Integration Example",
+      "excerpt": "In this video, you'll learn how to integrate Active Directory or Office 365 Groups into your PowerApp to show or hide certain functions in the application based on being a member of certain groups. For example, you can use this technique to hide the administrator pieces of the app unless they're in an",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-power-apps-azure-active-directory-ad-connector-integration-example/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-power-apps-azure-active-directory-ad-connector-integration-example/",
+      "originalUrl": "https://youtube.com/watch?v=EjFKMXFbYzo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EjFKMXFbYzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M7S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-02-14T07:02:41-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EjFKMXFbYzo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-power-apps-ui-design-tips-1.md",
+      "title": "Power Apps UI Design Tips #1",
+      "excerpt": "In this video, Brian shows some tips to bring your user interfaces in PowerApps to the next level. He covers adding drop shadows to make zones in your applications pop, using tabs to save real estate in your app and using variables to store your colors.  For training and consulting on Power Apps check",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-power-apps-ui-design-tips-1/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-power-apps-ui-design-tips-1/",
+      "originalUrl": "https://youtube.com/watch?v=qIpXmOa30gw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qIpXmOa30gw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M55S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-05-23T15:37:29-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qIpXmOa30gw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-the-powerapps-search-function.md",
+      "title": "The PowerApps Search Function",
+      "excerpt": "PowerApp a Day Episode #21 (Shoutout App) - Learn how use the Search function to run a query against a data source to pull only selective data.   Pragmatic Works Training : https://pragmaticworks.com/training/on-demand-training  Delegatable sources and commands: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/delegation-list",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-the-powerapps-search-function/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-the-powerapps-search-function/",
+      "originalUrl": "https://youtube.com/watch?v=YklmFVvNJWI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YklmFVvNJWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M26S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-10-03T05:54:09-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YklmFVvNJWI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/progmatic-works-using-power-apps-solution-packager-and-publishers-to-move-apps-to-new-environments.md",
       "title": "Using Power Apps Solution Packager and Publishers to Move Apps to New Environments",
       "excerpt": "Learn how to use a Power Apps Solution and Publishers to package a Common Data Services (CDS) set of objects and apps to a new environment.  Learn about creating a new solution, creating your entities and app inside the solution, and then how to package the solution up and import. Also, learn about the",
@@ -211,6 +331,177 @@
       "price": "Free",
       "topics": [
         "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps.md",
+      "title": "Use basic formulas to make better Power Apps canvas apps",
+      "excerpt": "Do you want to use formulas to improve functionality and change a behavior in your Power Apps canvas app? This learning path can help you accomplish your goal.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/collections/microsoft-learn-use-basic-formulas-to-make-better-power-apps-canvas-apps/",
+      "length": "PT2H16M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps.md",
+          "title": "Author a basic formula to change properties in a Power Apps canvas app",
+          "excerpt": "Want to enhance your Power Apps canvas app? You can use basic formulas to make changes to control properties.  This will include changing the format, position, simple calculations, and implementing conditional formatting.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-formula-change-properties-powerapps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-properties-powerapps/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 1113,
+            "average": 4.6145554
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps.md",
+          "title": "Author a basic formula to change behaviors in a Power Apps canvas app",
+          "excerpt": "Learn how to author a basic formula to change behaviors in a Power Apps canvas app.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-forumla-change-behaviors-powerapps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-change-behaviors-powerapps/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 726,
+            "average": 4.6060605
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/change-behaviors-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps.md",
+          "title": "Author a basic formula that uses tables and records in a Power Apps canvas app",
+          "excerpt": "Learn how to author a basic formula that uses tables and records in a Power Apps canvas app.",
+          "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-author-basic-formula-tables-records-powerapps/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/author-basic-formula-tables-records-powerapps/",
+          "length": "PT43M",
+          "ratings": {
+            "count": 668,
+            "average": 4.577844
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/tables-and-records-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power Apps",
+            "Canvas apps"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/change-properties-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Canvas apps"
       ]
     },
     {
@@ -861,156 +1152,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/m_j_xN7-LjU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/daves-tech-tips-powerapps-with-function-basic-introduction-tutorial.md",
-      "title": "PowerApps With Function - Basic Introduction (Tutorial)",
-      "excerpt": "PowerApps released the With function recently and we can see so much potential for it. Where Set() creates global variables that could be used throughout the app, and UpdateContext() creates variables that are only accessible on one screen, With() allows for variables to be used in context of one specific",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/daves-tech-tips-powerapps-with-function-basic-introduction-tutorial/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/daves-tech-tips-powerapps-with-function-basic-introduction-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=anENfEVzCsk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/anENfEVzCsk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M6S",
-      "provider": {
-        "name": "Dave's Tech Tips",
-        "domain": "ukuvuma.co.za"
-      },
-      "publishedDateTime": "2019-08-17T01:09:24-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/anENfEVzCsk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps.md",
-      "title": "Generate Barcodes inside of PowerApps!",
-      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you how to use barcodes4.me's free API service to generate unlimited free barcodes inside of PowerApps! Users can decide what information they want to have the barcode value be - could",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-generate-barcodes-inside-of-powerapps/",
-      "originalUrl": "https://youtube.com/watch?v=3-GuyDtViXI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3-GuyDtViXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M27S",
-      "provider": {
-        "name": "Henry Ouang",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-02-15T02:09:13-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3-GuyDtViXI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/henry-ouang-learn-powerapps-and-flow-generating-pdfs-from-powerapps.md",
-      "title": "Learn PowerApps and Flow - Generating PDFs from PowerApps",
-      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  Many of you have requested the infrastructural design that needs to be implemented within PowerApps to successfully generate PDFs from within the application. I've finally come out with a tutorial on how",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-learn-powerapps-and-flow-generating-pdfs-from-powerapps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-learn-powerapps-and-flow-generating-pdfs-from-powerapps/",
-      "originalUrl": "https://youtube.com/watch?v=RI6mMq7S6Es",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RI6mMq7S6Es\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M31S",
-      "provider": {
-        "name": "Henry Ouang",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-10-23T03:55:30-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RI6mMq7S6Es/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/henry-ouang-powerapps-auto-fill-templates.md",
-      "title": "PowerApps - Auto-Fill Templates",
-      "excerpt": "I demonstrate how auto-generation applications work with PowerApps.  Tutorial Link: https://www.youtube.com/watch?v=sToM68hQoTw&t=21s  Let me know if you have any questions! Drop me an email or a comment below.  admin@enteleca.com  Connect with me on LinkedIn: https://www.linkedin.com/in/henry-ouang-6a6162134/",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-powerapps-auto-fill-templates/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-powerapps-auto-fill-templates/",
-      "originalUrl": "https://youtube.com/watch?v=MPLhEj4wWLk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MPLhEj4wWLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M50S",
-      "provider": {
-        "name": "Henry Ouang",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-09-02T20:48:40-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MPLhEj4wWLk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas.md",
-      "title": "PowerApps Dashboard UI/UX Template Brainstorming Ideas!",
-      "excerpt": "Thank you so much for the support. I love hearing from you guys and will do my best to get back!  In this video, I show you some ideas I had for designing a dashboard. You can freely pull anything you want from these videos and copy them for your own! Impress your boss, co-workers, etc.  I highly recommend",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/henry-ouang-powerapps-dashboard-uiux-template-brainstorming-ideas/",
-      "originalUrl": "https://youtube.com/watch?v=fHZl38umZFU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fHZl38umZFU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M13S",
-      "provider": {
-        "name": "Henry Ouang",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-07-16T23:13:18-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fHZl38umZFU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

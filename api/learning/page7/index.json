@@ -4,6 +4,126 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/powerapps911-powerapps-string-manipulation.md",
+      "title": "PowerApps String Manipulation",
+      "excerpt": "In this video, you will learn about how to do string manipulation in PowerApps. This core skill helps you when you need to change text that comes from users or data sources to meet your needs. Functions covered include: * Left * Right * Mid * Substitute  * Replace * Find * Len  Check out our upcoming",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-string-manipulation/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-string-manipulation/",
+      "originalUrl": "https://youtube.com/watch?v=1tUkZJ3VM3g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1tUkZJ3VM3g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M58S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-10-14T13:26:33-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1tUkZJ3VM3g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/powerapps911-powerapps-tooltip-for-inline-help-popup-help-and-a-time-sheet-app.md",
+      "title": "PowerApps Tooltip for inline help, popup help, and a time sheet app",
+      "excerpt": "In this video, you will learn how to use the PowerApps tooltip to provide inline help for both tablet and mobile apps. For mobile apps the concept uses a popup because you can't hover on a mobile app.  PowerApps Conditional Formatting and Popups https://www.youtube.com/watch?v=IvapIsBbM-U",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-powerapps-tooltip-for-inline-help-popup-help-and-a-time-sheet-app/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-powerapps-tooltip-for-inline-help-popup-help-and-a-time-sheet-app/",
+      "originalUrl": "https://youtube.com/watch?v=1tJk7LxgocA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1tJk7LxgocA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M55S",
+      "provider": {
+        "name": "PowerApps911",
+        "domain": "powerapps911.com"
+      },
+      "publishedDateTime": "2018-12-11T14:25:43-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1tJk7LxgocA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-integrating-powerapps-into-power-bi-reports.md",
+      "title": "Integrating PowerApps into Power BI Reports",
+      "excerpt": "PowerApps a Day Episode #13 (TimeCard App) -  In this video, you'll see how to integrate small PowerApps applications into Power BI reports to make your reports actionable.    PowerApps and Power Platform Training : https://pragmaticworks.com/training/on-demand-training  - - - - - - - - - - - - - - -",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-integrating-powerapps-into-power-bi-reports/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-integrating-powerapps-into-power-bi-reports/",
+      "originalUrl": "https://youtube.com/watch?v=rHcvKtnT_MM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rHcvKtnT_MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M50S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2018-09-19T11:41:17-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rHcvKtnT_MM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
+      "path": "_learning/videos/progmatic-works-power-apps-licensing-guide-which-license-is-best-for-you.md",
+      "title": "Power Apps Licensing Guide - Which license is best for you?",
+      "excerpt": "In this video, we discuss the various PowerApps licensing options you have. Learn which one is best for you for development, large scale projects and smaller scale free projects.   We want to build your next Power App: https;//www.pragmaticworks.com  Want to learn more about Power Apps, check out our",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-power-apps-licensing-guide-which-license-is-best-for-you/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-power-apps-licensing-guide-which-license-is-best-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=kX6tSpEftsk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kX6tSpEftsk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M30S",
+      "provider": {
+        "name": "Progmatic Works",
+        "domain": "pragmaticworks.com"
+      },
+      "publishedDateTime": "2020-03-20T06:35:02-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kX6tSpEftsk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_learning/videos/progmatic-works-powerapp-nested-galleries-and-the-office365-user-functions.md",
       "title": "PowerApp Nested Galleries and the Office365 User Functions",
       "excerpt": "PowerApp a Day Episode #3 (Time Card App) - We're now going to build an application from scratch using PowerApps to allow people to enter their time. You'll learn how to use nested galleries and integrate with the Office365 Functions to capture the user's email address.  Power Platform and PowerApps",
@@ -901,126 +1021,6 @@
           "url": "https://i.ytimg.com/vi/-S8rkDG9qDU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-creating-a-powerapps-leaderboard-groupby-and-countrows-functions.md",
-      "title": "Creating a PowerApps Leaderboard (GroupBy and CountRows functions)",
-      "excerpt": "PowerApp a Day Episode #10 (HR Shoutout App) -  Time to make our HR application fun by adding some gamification into our shoutout application. Learn how to build small reports with the GroupBy and Sum functions to create a leader board in PowerApps.  Power App and Power Platform Training : https://pragmaticworks.com/training/on-demand-training",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-creating-a-powerapps-leaderboard-groupby-and-countrows-functions/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-creating-a-powerapps-leaderboard-groupby-and-countrows-functions/",
-      "originalUrl": "https://youtube.com/watch?v=q42ibovAqZc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q42ibovAqZc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M31S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2018-09-17T07:50:34-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q42ibovAqZc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-power-apps-azure-active-directory-ad-connector-integration-example.md",
-      "title": "Power Apps Azure Active Directory (AD) Connector Integration Example",
-      "excerpt": "In this video, you'll learn how to integrate Active Directory or Office 365 Groups into your PowerApp to show or hide certain functions in the application based on being a member of certain groups. For example, you can use this technique to hide the administrator pieces of the app unless they're in an",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-power-apps-azure-active-directory-ad-connector-integration-example/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-power-apps-azure-active-directory-ad-connector-integration-example/",
-      "originalUrl": "https://youtube.com/watch?v=EjFKMXFbYzo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EjFKMXFbYzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M7S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2020-02-14T07:02:41-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EjFKMXFbYzo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-power-apps-ui-design-tips-1.md",
-      "title": "Power Apps UI Design Tips #1",
-      "excerpt": "In this video, Brian shows some tips to bring your user interfaces in PowerApps to the next level. He covers adding drop shadows to make zones in your applications pop, using tabs to save real estate in your app and using variables to store your colors.  For training and consulting on Power Apps check",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-power-apps-ui-design-tips-1/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-power-apps-ui-design-tips-1/",
-      "originalUrl": "https://youtube.com/watch?v=qIpXmOa30gw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qIpXmOa30gw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M55S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2020-05-23T15:37:29-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qIpXmOa30gw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/progmatic-works-the-powerapps-search-function.md",
-      "title": "The PowerApps Search Function",
-      "excerpt": "PowerApp a Day Episode #21 (Shoutout App) - Learn how use the Search function to run a query against a data source to pull only selective data.   Pragmatic Works Training : https://pragmaticworks.com/training/on-demand-training  Delegatable sources and commands: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/delegation-list",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/progmatic-works-the-powerapps-search-function/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/progmatic-works-the-powerapps-search-function/",
-      "originalUrl": "https://youtube.com/watch?v=YklmFVvNJWI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YklmFVvNJWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M26S",
-      "provider": {
-        "name": "Progmatic Works",
-        "domain": "pragmaticworks.com"
-      },
-      "publishedDateTime": "2018-10-03T05:54:09-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YklmFVvNJWI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
