@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT27M2S
 publishedDateTime: 2018-08-12T13:34:24Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/60ondObDBH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IheJoBvHU9u6UsNZ9QL278LawQwRovrb40Q/G8TpB+bEHnPdjeG83SH7XJ/bcWVUPmYu6crGXU8+fosccwTPPspzYwf+awRZOAgPcj5/obav9QSv048h0Z9i6CcMDrCxI2QWD8T/RdVFxQ06/9dL2BvS7aETcl1NyUDlPG+ub1JEWLomBHxIFCpayidhX8cHq+BNElT4U3SatKK7NlRrQHTyVvxyenLPw9UKTmqQSYNOSZd13J3pMxaLz6btsU6SF9t16yhU39KhmZCc62vM+xolXPp7gfO7ePGvVw/nfVe3bE1OkzR+TuHgEzIFdzEEsBAUxHcuarIc7Li0B2eJgdW5gkhUlGrv9fsOxT7+xxeP+bZlmm6RJaxUwyKrJGhuSTnSbIM2EHUdINcnc4glkFp3yp0w8CgI2Ep5wMGObzA=;70Mg5aq0aXyu7DKUnyXJPQ=="
+secured: "/3lgrbyG9jP+SOLi+irvi1x1ilTwaeQf7cHCWeXmQrFi+1tVcWaWVWfPOYVBslDNvbuGwHgpB7QkouVH32yWTZkJBdCLv5MDx/CSplF3ZdPBloxKHu4hpWpfU7aUzSRGGgSVWTtE+QE1bcTxtoTGAZwA+p+jrQPC4XEcL7pMLh+JX5x+zzenjhu44uj2cjqreERrkb7RBwqY7NyJvEEYnxN5urU/XfkZSEjtCvMO5CNNfblWl/+7L9ItWiZOWmxuhsZ9viypaSOlsSCZMUuOPuwgIXgC+zNYBz/pusW7IPOuFrAVGmpzjEeLmFwucikCKdLZz91ybaU8I4XB1iT0yWr4zLrUh376smrTtS/EN+uWb3744aYvAJOAwdnTVUpF4uPNIYmI+yAZbkVh6urV27N4tvJFNQo7/macq6yfRqw=;1fsMpH/zucYRBTwS2K/Mow=="
 ---
 

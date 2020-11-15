@@ -2,7 +2,7 @@
 title: "Intermediate Power Apps Topics by April Dunnam"
 excerpt: ""
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: April Dunnam

@@ -2,7 +2,7 @@
 title: "Beginner Power Apps Topics by April Dunnam"
 excerpt: "If you are new to Power Apps then this playlist is for you!  It's full of beginner level Power Apps topics to get you started building low code apps"
 type: collection
-heat: 67
+heat: 163
 
 provider:
   name: April Dunnam
@@ -27,6 +27,8 @@ items:
   - videos/april-dunnam-powerapps-rounded-image
   - videos/april-dunnam-powerapps-reorder-gallery-items
   - videos/april-dunnam-power-apps-editable-table
+  - videos/april-dunnam-powerapps-patch-multi-select-fields
+  - videos/april-dunnam-print-in-power-apps-without-power-automate
 
 topics:
   - Power Apps

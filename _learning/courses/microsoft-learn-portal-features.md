@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT30M
 ratings:
-  count: 77
-  average: 4.4935064
-heat: 52
+  count: 90
+  average: 4.4888887
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,12 @@ topics:
   - Power Apps
   - Portals
 
-secured: "4IXHQR0wC5LMOPIxwngLA2t+HpQmcb1wqYuZOlFH1bj1zK6m6J5Ey4ClokfLyXd0CVafuSMrlMugt0XbRZjveahZ3i9mzZFB4zK+b7XeptEY+2zE36SkOpNkJV0dVx4WONoZ4cnF+PvguhpBTKc8LFbo1HhHkGab+PNTC2dSDrWQ7RfSgiWUrw0BAZeOiniyVHaEPsR44yz0X9hOh91M6T5oxpwLYp6iwL8HmR7pGJIU/dkJ8yB/jCaS2WAMAg6oRCMDFJiarfXc1TdWs1KDPQ2cfRdlw6RmO+RKFLIbFTGHE8t/c3vrCBRjJjCYEhd1DUpVaDBCR7SrUmh1y8u2BSnY4Cx/JHyI4Vocay3jINcQeWogEEtKNKUgyCYwqzEDw5nssSs3O71pnaLRSiqPDQ==;t01t2ac/qOX6L/TEiWhZqQ=="
+images:
+  - url: https://docs.microsoft.com/learn/achievements/portal-features-social.png
+    width: 643
+    height: 321
+    isCached: true
+
+secured: "L4AQE9eXY5DnE84xFzA89sV3SVlo6C/XU+qJrBr9DCt970YzPaNxph8/HjXZUmyNoTk3EjcAO/HAjq0Mxm2giWc4L89cUMA/WQRMfUVG7mCYPdY+XxkW1U+msBab6JC1KAU9ORmyF/cX+sNwuAapRKgy5pdtMoMLhBodEOMZamIkKieiBGRJGRBk31GC8zAKAyCRDWYtbr+RV+abSaeaCE4Nqy6As95JBE12g3cc5Y37CU8KDxUgEwXcY5QsgbIeIqi9Q5MX28NsVpnu0qSb553q/IEQd6C9vD9yM5JGy8Cvl6LhZvknbHPGaF2BJhE7Utwn6eyiirk5zWcciGfQZRws5BKyZRrZY0qEFsbG9Ldh1tnVFm300qpDEB5rJLyL9oE+p5m8ZYotiDup4VntOMDC1P7M28m82fdkuXsU858=;Obz1+1DN+yZET9GdNquUIA=="
 ---
 

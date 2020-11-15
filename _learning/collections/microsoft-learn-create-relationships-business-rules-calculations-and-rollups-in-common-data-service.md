@@ -4,7 +4,7 @@ excerpt: "Do you need to create data relationships, business rules, calculations
 type: collection
 price: Free
 length: PT2H21M
-heat: 53
+heat: 50
 
 provider:
   name: Microsoft Learn

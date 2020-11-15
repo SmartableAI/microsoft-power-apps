@@ -4,41 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-powerapps-design-model-driven-apps.md",
-      "title": "Get started with model-driven apps in Power Apps",
-      "excerpt": "Model-driven app design is an approach that focuses on quickly adding components to your apps. These components include dashboards, forms, views, and charts. With no code, or very little, you can make apps that are simple or very complex. Unlike in canvas app development, where the designer has total control over the app layout, much of the layout in model-driven apps is determined by the components you add. In other words, the emphasis is more on quickly viewing your business data and making decisions than on intricate app design.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-design-model-driven-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
-      "length": "PT1H14M",
-      "ratings": {
-        "count": 2895,
-        "average": 4.546805
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 115,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Model-driven apps"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-model-driven-apps-common-data-service.md",
       "title": "Introduction to model-driven apps and Common Data Service",
       "excerpt": "Do you want to quickly build apps with little to no code? This module will focus on the building blocks of Common Data Service and model-driven apps. These key components will help you build quick business apps in your organization.",
@@ -46,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-model-driven-apps-common-data-service/",
       "length": "PT37M",
       "ratings": {
-        "count": 1931,
-        "average": 4.5986533
+        "count": 2011,
+        "average": 4.5992045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -64,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 100,
+      "heat": 53,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -72,6 +37,41 @@
         "Power Apps",
         "Model-driven apps",
         "Common Data Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-powerapps-design-model-driven-apps.md",
+      "title": "Get started with model-driven apps in Power Apps",
+      "excerpt": "Model-driven app design is an approach that focuses on quickly adding components to your apps. These components include dashboards, forms, views, and charts. With no code, or very little, you can make apps that are simple or very complex. Unlike in canvas app development, where the designer has total control over the app layout, much of the layout in model-driven apps is determined by the components you add. In other words, the emphasis is more on quickly viewing your business data and making decisions than on intricate app design.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-powerapps-design-model-driven-apps/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-model-driven-apps-in-powerapps/",
+      "length": "PT1H14M",
+      "ratings": {
+        "count": 2960,
+        "average": 4.5483108
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 52,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Model-driven apps"
       ]
     },
     {
@@ -105,8 +105,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/web-resources-power-platform/",
           "length": "PT43M",
           "ratings": {
-            "count": 219,
-            "average": 4.6392694
+            "count": 229,
+            "average": 4.633188
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -123,7 +123,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 57,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png",
@@ -147,8 +147,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/common-actions-client-script-power-platform/",
           "length": "PT1H27M",
           "ratings": {
-            "count": 166,
-            "average": 4.674699
+            "count": 175,
+            "average": 4.6514287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -165,7 +165,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/common-actions-client-script-power-platform-social.png",
@@ -189,8 +189,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-business-process-flow-client-script-power-platform/",
           "length": "PT1H31M",
           "ratings": {
-            "count": 149,
-            "average": 4.6644297
+            "count": 158,
+            "average": 4.64557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -207,7 +207,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/automate-business-process-flow-client-script-power-platform-social.png",
@@ -225,7 +225,7 @@
         }
       ],
       "size": 3,
-      "heat": 56,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/web-resources-power-platform-social.png",

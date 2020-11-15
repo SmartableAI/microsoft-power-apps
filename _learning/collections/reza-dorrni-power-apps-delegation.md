@@ -14,9 +14,10 @@ items:
   - videos/reza-dorrni-part-3-powerapps-delegation-gallery-filtering-using-sharepoint-choice-lookup-and-yesno-columns
   - videos/reza-dorrni-part-4-powerapps-delegation-gallery-filtering-using-multi-select-choice-and-lookup-columns
   - videos/reza-dorrni-part-5-powerapps-delegation-gallery-filtering-using-person-column-single-and-multi-select
-  - videos/reza-dorrni-power-apps-with-sharepoint-as-a-data-source-key-points-to-consider
   - videos/reza-dorrni-power-apps-delegation-workarounds-count-rows-max-min-blank-date-values
   - videos/reza-dorrni-power-apps-aggregate-functions-no-delegation-warnings-with-sum-average-count
+  - videos/reza-dorrni-building-performant-power-apps-by-reza-dorrani
+  - videos/reza-dorrni-power-apps-with-sharepoint-as-a-data-source-key-points-to-consider
 
 topics:
   - Power Apps
