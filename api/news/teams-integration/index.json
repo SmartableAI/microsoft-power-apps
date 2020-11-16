@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-16-reshape-the-future-of-work-with-microsoft-dataverse-for-teamsnow-generally-available.md",
+      "title": "Reshape the future of work with Microsoft Dataverse for Teams—now generally available",
+      "excerpt": "Common Data Service, the sophisticated and secure backbone that powers Dynamics 365 and Power Platform, has been renamed to Microsoft Dataverse. This low-code data platform is rapidly changing the way organizations around the world build apps and innovate business processes. A fresh name is just one",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/reshape-the-future-of-work-with-microsoft-dataverse-for-teams-now-generally-available/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/reshape-the-future-of-work-with-microsoft-dataverse-for-teams-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T01:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-power-apps-community-call-oct-21st-charting-components-custom-apps-in-teams-and-an-enhanced-sharepoint-web-part.md",
       "title": "Power Apps Community Call Oct 21st: Charting components, custom apps in Teams and an enhanced SharePoint web part",
       "excerpt": "October brings us a very special community call as we are going to unveil /announce a new community offering from Canviz.\r\nCanviz has been working on Power Apps charting components for much of 2019 and have graciously decided to give them to the community. This component will include nine of the most",
