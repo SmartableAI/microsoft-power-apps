@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-19-manage-microsoft-dataverse-for-teams-environments.md",
+      "title": "Manage Microsoft Dataverse for Teams environments",
+      "excerpt": "Microsoft Dataverse for Teams empowers users to build custom apps, bots, and flows in Teams. When a team owner adds this capability to their team, a Power Platform environment with a Microsoft Dataverse for Teams database is created and linked to their team. With limited capacity of Dataverse for Teams",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/manage-microsoft-dataverse-for-teams-environments/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/manage-microsoft-dataverse-for-teams-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T18:49:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams.md",
       "title": "Microsoft announces general availability of new Power Apps and Dataverse for Teams",
       "excerpt": "You can now build apps and chatbots using minimal code directly within Microsoft Teams, thanks to the general availability of Power Apps and Power Virtual Agents apps, as well as Dataverse for Teams.",
