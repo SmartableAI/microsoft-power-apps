@@ -21,5 +21,10 @@ levels:
 topics:
   - Power Apps
 
+images:
+  - url: https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4zQNZsgJwlMD2FuRJHpySm/923245c5ba5d25e2b9a04eae08ec3fc1/woman-working-on-power-apps.jpg
+    width: 400
+    height: 400
+
 ---
 

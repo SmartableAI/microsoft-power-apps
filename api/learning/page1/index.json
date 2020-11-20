@@ -64,23 +64,54 @@
       ]
     },
     {
-      "path": "_learning/videos/powerapps911-power-apps-svg-make-your-apps-prettier-and-easier-to-use.md",
-      "title": "Power Apps SVG make your apps prettier and easier to use",
-      "excerpt": "In this video, you will learn to use Power Apps SVGs to make prettier and easier to use apps. These small HTML controls let you do everything from make scalable images to full fledge animated visuals. Imagine Power BI style visuals in Power Apps without all of the extra licensing. Cool stuff!  w3Schools",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-power-apps-svg-make-your-apps-prettier-and-easier-to-use/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-power-apps-svg-make-your-apps-prettier-and-easier-to-use/",
-      "originalUrl": "https://youtube.com/watch?v=ms2dbLAjEiM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ms2dbLAjEiM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT34M30S",
+      "path": "_learning/videos/powerapps911-build-and-customize-your-first-teams-app-with-power-apps-full-training.md",
+      "title": "Build and Customize your first Teams App with Power Apps   Full Training",
+      "excerpt": "In this video, you will learn EVERYTHING you need to get started with building custom apps in Microsoft Teams with Power Apps and Project Oakdale. Adding the app, creating and customizing your first table, building an app, and more. This video is basically a free training class so I hope you enjoy.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/powerapps911-build-and-customize-your-first-teams-app-with-power-apps-full-training/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/powerapps911-build-and-customize-your-first-teams-app-with-power-apps-full-training/",
+      "originalUrl": "https://youtube.com/watch?v=o-0s3Pqh0TI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o-0s3Pqh0TI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43M5S",
       "provider": {
         "name": "PowerApps911",
         "domain": "powerapps911.com"
       },
-      "publishedDateTime": "2020-10-09T09:15:04-07:00",
-      "heat": 135,
+      "publishedDateTime": "2020-09-21T15:41:18-07:00",
+      "heat": 138,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ms2dbLAjEiM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/o-0s3Pqh0TI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Teams integration"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-introduction-to-power-apps-what-is-power-apps.md",
+      "title": "Introduction to Power Apps | What is Power Apps?",
+      "excerpt": "This is the Introduction chapter of Power Apps. Here, we will learn What is Power Apps and why should we choose Power Apps? Also, we will learn how we can build the application using Power Apps. We will walk you through the overview of Power Apps Canvas App, Model Driven App and Portal App as well.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-introduction-to-power-apps-what-is-power-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-introduction-to-power-apps-what-is-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=1i2ktyXIWQk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1i2ktyXIWQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M59S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-07T04:25:05-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1i2ktyXIWQk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -94,63 +125,46 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-collection-in-power-apps.md",
-      "title": "Collection in Power Apps",
-      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 7th part of the Power Apps Beginner Series. During this chapter, we will talk about Collections in Power Apps.  During this chapter, we will talk about what is the collection in Power Apps and how we",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-collection-in-power-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-collection-in-power-apps/",
-      "originalUrl": "https://youtube.com/watch?v=uw6Aud_O-1Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uw6Aud_O-1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M13S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+      "path": "_learning/courses/microsoft-learn-portals-architecture.md",
+      "title": "Power Apps portals architecture",
+      "excerpt": "This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-architecture/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 76,
+        "average": 4.5789475
       },
-      "publishedDateTime": "2020-09-13T09:10:01-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uw6Aud_O-1Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps.md",
-      "title": "Gallery Vs Data table in Power Apps",
-      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 13th part of the Power Apps Beginner Series. During this chapter, we will talk about what is the basic difference between Data table and Gallery control in Power Apps!  In our previous sessions we have",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/",
-      "originalUrl": "https://youtube.com/watch?v=BsqqVFlDrLw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BsqqVFlDrLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M57S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-09-15T21:57:56-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BsqqVFlDrLw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/portals-architecture-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power Apps"
+        "Power Apps",
+        "Portals"
       ]
     },
     {

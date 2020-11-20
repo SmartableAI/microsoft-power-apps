@@ -4,49 +4,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-portals-metadata.md",
-      "title": "Work with Power Apps portals metadata",
-      "excerpt": "Makers are required to understand the various Power Apps portals metadata components so they can configure the portals app for a variety of unique requirements. This module uses the Portal Management app to configure various portals features by editing the portals metadata.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-metadata/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-metadata/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 18,
-        "average": 4.7222223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-metadata-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-power-platform-mobile-management.md",
       "title": "Microsoft Power Platform Mobile management",
       "excerpt": "As the world becomes more mobile, understanding Microsoft Power Platform mobile capabilities allows functional consultants not only ensure seamless access from mobile devices, but also take advantage of its unique form factor when implementing Dynamics 365 solutions.",
@@ -508,10 +465,10 @@
       ]
     },
     {
-      "path": "_learning/courses/udaciy-microsoft-power-platform.md",
+      "path": "_learning/courses/udacity-microsoft-power-platform.md",
       "title": "Microsoft Power Platform Online Free Course",
       "excerpt": "Learn to build powerful and effective solutions with ease with Microsoft Power Platform. Created in partnership with the Microsoft Power Platform team, this course will introduce you to efficient low-code solutions for data analytics, app development, and artificial intelligence. In this course, you'll learn how to build a fully functional Android or iOS app with Power Apps. You'll learn to build an app with a compelling user interface, use a datastore to implement app functionality, and create a workflow with Power Automate, and implement Azure AI Builder.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/udaciy-microsoft-power-platform/index.json",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/udacity-microsoft-power-platform/index.json",
       "webUrl": "https://www.udacity.com/course/microsoft-power-platform--ud091",
       "length": "P1M",
       "provider": {
@@ -530,6 +487,14 @@
         "Beginner"
       ],
       "heat": 50,
+      "images": [
+        {
+          "url": "https://www.udacity.com/www-proxy/contentful/assets/2y9b3o528xhq/4zQNZsgJwlMD2FuRJHpySm/923245c5ba5d25e2b9a04eae08ec3fc1/woman-working-on-power-apps.jpg",
+          "width": 400,
+          "height": 400,
+          "isCached": false
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -1021,6 +986,36 @@
       "topics": [
         "Power Apps",
         "AI Builder"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps.md",
+      "title": "Gallery Vs Data table in Power Apps",
+      "excerpt": "Welcome to Power Apps Step by Step Beginner tutorial series. My self Dhruvin Shah you are watching the 13th part of the Power Apps Beginner Series. During this chapter, we will talk about what is the basic difference between Data table and Gallery control in Power Apps!  In our previous sessions we have",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/dhruvin-shah-gallery-vs-data-table-in-power-apps/",
+      "originalUrl": "https://youtube.com/watch?v=BsqqVFlDrLw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BsqqVFlDrLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-15T21:57:56-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BsqqVFlDrLw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power Apps"
       ]
     }
   ],
