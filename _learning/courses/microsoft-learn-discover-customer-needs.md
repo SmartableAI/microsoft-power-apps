@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT36M
 ratings:
-  count: 455
-  average: 4.674725
+  count: 457
+  average: 4.676149
 heat: 50
 
 provider:
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power Apps
 
-secured: "j6ezoULRQZOOAWBZVGtSohPlqedvq6CjvKuPT/LkEJ/ls9mSOglVSF/VRPuV48NucYoRM1uNqHj91QU5J1Nejdz2HqFq031J3J9kjbBH1Y0igINt5H0kcWxsdWn1IGlHyDCLwryIc0JYKk6dF29KAJ5foK/9OzrAsdjpqfkpBqNqvAGYhm76WpfZt35bVIOncy6ptysOzKGbA0PVjB8MenrmoN++dgAbHGVO2q1pvnEhFywStpbPyCUjE1nys0MJacDcQ0j6Qs2pQxTwRzY9Lkf87vB/Aowy3vKKGyZdH0Bm7JNjIe49XvkvF8rzEfkmqgw6VJdCwUDCWn3HSCmYIQ9b3a60cHmyhfdsdXxN2eP3I452TX869+WOiuFj8OcsPisXiO7LDl0ninYlXGdHxv2X+t7SIFHYF8MfZ2S5wik=;uSFXSx+E99rjxnjcCQjwMA=="
+secured: "L4E1hmpJHhRVWSqjXqgdGmKoJ3B9LOprc0ZSdCBdqK16RUVN9V6sIgNjtuv2LliwQ12opMq9bhQLAVZn7DJHrofmmFfZ8sQEMCKuuMXy4q1pqftC9cHEuVLBORJWyVDL3l5hd9H2nOk9PbvkKV3B9H2lHyRDjTtibt4aLHXadDy8rehe1gGm52nyTxZLj4tqhZKzB4Xg3frQDbBelCQ0VL0z5lS0yVy/ajeesrpL8wkVpZtuv/oSc3Ce2FCcepUzRH3Yn9s5VGLAoFQNOswWAZIR+cBSX7vnbBFB6eLTfbZoP8w/SNvDMIevCDGDrl7nFxmBzvbDh0++ETHMi2PPSAaq00x77FJVuBmCGKLO8rV5/tfeprCQwAohQLzL6O0KnkRHWwl3UELLWTQ3cFfexkdBWhKaFpKeSCEBnA9xsFo=;sxsSsMA3w8qtKB3HqjoReA=="
 ---
 

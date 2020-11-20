@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT58M
 ratings:
-  count: 715
-  average: 4.5888114
+  count: 717
+  average: 4.589958
 heat: 50
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Canvas apps
 
-secured: "lqPgx2iFZauQ0SKhUnw4ylBh6k+1LdPqIDo2b4E8uJAey8SkFPDdO9jndN6DknLf2aMqd/fzL145zpAJa7Em8+75ZdmZRyDFKPNd5xuK7AnUmAPV/Qc5OVfbHry5EiAqV7U7AtyWLnQOjYOjVkRdCDIKsbGvhGWughGKt1zrv9SnS8g8xnPdntwbrp07waICQ1rOx36eFzhKvTlz7dG4xTgmfoF8DVXAT/2x+wPZx21uHvInTs8uIxwvwfO1UVL9vLSQs1gSgb4mrAIEaDm/B86S2gVfwldqtu+O4RbquXSFmM1BP/IfExyuDnqw1k6XKwTBRyADvGZOQrLo5hPl/wp8uzVpYUWEzNifTB0h9dbgTSS/CytNHos6+CttJHX6er+FbmZq9naiqgHnuVmcXb2QPR60/jk7IVC4aTRt6XA=;ItsfKSB5Ixc/sZ5P+d409w=="
+secured: "uhBXlqBEexRLPBwzLoRcPDSSbYPQRk9SeeGl6w5X2HsHBQy051UHA14aZpTF+DEpjuB0QkfVqo9yosydYgi7xHNPoWg1fUAyFnKoidMQ8HMX+iN4wFFriiJtMkXN6C0Q+sA10BIotkctkaC6cuYCrCTwR6RYoTqpeIOyZjs0giY81sd0Km7EvCaSvGZXyHYmFyFsqQvXzOHg/UAObKQxM7rdHyKpTmyLj/gO3kKFPAa892h8sapP6IzfcJO6iWqCCOW+oIic6uh5eGV2jDjgkC/m1sqdCoYyENIC+iaK/ol1woHv6Wc4g3PoCtNi48VV5/8tkRzZg1i+6roEz6D8qCSQwMQpixfKT5O4KSz/D9vS3kXYvuisBwhRpP31EmnH9ubCtDdVD6Itr19+nzEzPv1ffa3ehy7txyIHgn9UfT0=;h4W+Tuw/bDx9gX6ZwBb7aQ=="
 ---
 

@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT1H14M
 ratings:
-  count: 2960
-  average: 4.5483108
+  count: 2969
+  average: 4.5483327
 heat: 52
 
 provider:
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Model-driven apps
 
-secured: "IETVdrxv+1YJee2E/kEhV6CTTKgN8F5eR+DdKYQG5oeJa8yWt4X0vOwkVGTag0zsmmjK4fPm+vbOcNGEO3c5mNm8VVKyGGl2zOAOkHJ3M0H9RZIPEI05jE3eh9NQhte51HwbDiTNCYNVYt1N08Po23W8UkRbF/dI2t/lkJ7V9KZ7+NEpdm10WFXjqDpDKwQWYWFfLdwexLdRurTmGDe0T2tx3Po8pUxE3ac0pvC/VZZEiug7LSMNXq4f1IYtoloM6Jy4A024tnhAYPl9fa+H0sr+LXLkNrAZr2W/v8G6RxWSkgVAF7gYeZ9cAraO55eKHK8HMhz6buCGvYPGCtGJkX9wVkhSYw87WgK4COY05hNPa6gR5v0uOML7atAZCMcDuIHjKAJ7LOIeSNinHa33WsQhIz5pl8TK7sVNMNjo5bQ=;dbNBYTlmtpy3uqmI8tA8RQ=="
+secured: "B1KFKZx5jkeG5fhmGEfq5x2tViLZqsvuDcTUiWH/8sGQ1ynua5dLDNuzH6s6v2sHsSfCKLOvLarVetMRkEzy6p2WCv/AE9I711wbMzd3mlpjClvDNu7+lYkb45HHXY1PoYSk2hkC1v98Lbp40+sphSZTg6JqVhofXCMdKhOY1aZFo7S1XA4MrCgOjLwlliVW6CpV8rm7ywaS+8K1fDXCvtLIZE55qg99pv8PxAjcCWwVv6Bo9TQPFypFW4wmZBZcSkm7oJY3XHAisuL9nWa1vD6NfR87wQlBNJlqSkQwFDepRhT0GslQRN1vS/Y9vsaqWLFmJRlN7jzojvF9pDLbG/eMrjPN/Swp0iJ8m/XgwWbcLx37IK4pZqGBlxWxhZnCXrbpJYV+N9IJponUDi8fwyTtz2QWorieUw2e9oy46ps=;UlZG9bvF+T8mweL1o3ADMA=="
 ---
 

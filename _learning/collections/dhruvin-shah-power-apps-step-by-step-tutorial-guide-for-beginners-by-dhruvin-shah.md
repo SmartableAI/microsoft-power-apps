@@ -2,7 +2,7 @@
 title: "Power Apps - Step by Step Tutorial Guide for Beginners by Dhruvin Shah"
 excerpt: "Welcome to Power Apps Beginner Series. This series is dedicated to all Power Apps Beginners. Anyone who wanted to add their first step in Power Apps, they can go through this series. These are Power Apps beginner’s tutorial. The entire Power Apps Beginner tutorial is free of cost. I divided the entire Power Apps beginner series into 20 different parts."
 type: collection
-heat: 157
+heat: 62
 
 provider:
   name: Dhruvin Shah

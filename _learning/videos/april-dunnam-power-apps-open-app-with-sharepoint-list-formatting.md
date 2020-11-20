@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M18S
 publishedDateTime: 2020-05-18T14:39:58Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/23NvSB4cu5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XsHeju3rBuybG07eNpJbdoWNZDTAbRzehtpwNzEN6kTlzk4rJ9XhgQ5KXSRVQd1u2NcBqYTKtj6BN/AOEz6eCeWDaY9gDrqRR1g1rluQ511Ihl6HRiWxOC4EeGuOlmqmsywozZzpYQXVUZX3CujahtKm4T3PS3Pj4d2RK2TFJU9787Bch+mfjMtUNFjjJIIjPEyAjh66uYYQbEErdkfypZcjwzctI8bpl5qTFUPgndmps5fisB6inNmlXsbYRE3QebwOeZ5e0nfEfpfcmavrhcWd+2KdyMUDC00fLoNItlWX5yglN9BAhfTYL48hCGVbh2qA7sNqNBLimD8tNergQLxpbJLnnuqNE2FAJVfkHzMvnFzN9TpZjruK6CMeEyVpiavek/OOs9nlo4C2TnCLtMtpQjneova31sFcy2tTjZU=;5sXrCifxZx8FFLldf8w/UA=="
+secured: "YdJUzYRzEZQ8LT6LEMotxe+Paok4cxpZbqfn/f8O7QVTkthFzpeqNWMWsIwC3II9gPETnF0azGUlx/KvPUo6dX9Xf/32OeKHhyMsvmw3mZwJfuACCk/32lZ9YiLz7Ctb5JFBhEfb3F8z/8nqbi9P5FUTuOpY3fe3HeHgM/Oc4AZjA+uonPyTyR6/jYjCHscCg+5D4jOK7/rnm+DxGCoz5v+dS6WOa9f4d7Wd9noPtRTAVT8dDsr0N8PfScO0AiPqrg3H7FCYnQM+luTNCmei1E+NntfsNSydqJhiLGJX1o+qfvk9FtUpTm6aLwLtM+CYWvy4RLDNCDGi/XR0HgHkBWPG9iS2sKLDfkcl8n69SO8mS+FUdOCQnbRqg2pr1FJiM20ZAlJIcxMK6xQZN5ofGOg3HgCqGuEVxBmqwc7aOW4=;u/N5MlsXNlhrO8J3cKeXMA=="
 ---
 
