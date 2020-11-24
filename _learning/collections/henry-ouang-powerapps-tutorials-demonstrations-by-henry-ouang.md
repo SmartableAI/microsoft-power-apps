@@ -2,7 +2,7 @@
 title: "PowerApps Tutorials & Demonstrations by Henry Ouang"
 excerpt: ""
 type: collection
-heat: 63
+heat: 66
 
 provider:
   name: Henry Ouang

@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H14M
 ratings:
-  count: 2969
-  average: 4.5483327
-heat: 52
+  count: 2973
+  average: 4.548604
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,6 +25,6 @@ topics:
   - Power Apps
   - Model-driven apps
 
-secured: "B1KFKZx5jkeG5fhmGEfq5x2tViLZqsvuDcTUiWH/8sGQ1ynua5dLDNuzH6s6v2sHsSfCKLOvLarVetMRkEzy6p2WCv/AE9I711wbMzd3mlpjClvDNu7+lYkb45HHXY1PoYSk2hkC1v98Lbp40+sphSZTg6JqVhofXCMdKhOY1aZFo7S1XA4MrCgOjLwlliVW6CpV8rm7ywaS+8K1fDXCvtLIZE55qg99pv8PxAjcCWwVv6Bo9TQPFypFW4wmZBZcSkm7oJY3XHAisuL9nWa1vD6NfR87wQlBNJlqSkQwFDepRhT0GslQRN1vS/Y9vsaqWLFmJRlN7jzojvF9pDLbG/eMrjPN/Swp0iJ8m/XgwWbcLx37IK4pZqGBlxWxhZnCXrbpJYV+N9IJponUDi8fwyTtz2QWorieUw2e9oy46ps=;UlZG9bvF+T8mweL1o3ADMA=="
+secured: "RlOrI4trAcRCWOL+YGEbybjR4u0aq6Hs5ZyTb6aa10nRGjz+4X1vJ9Q+cZlLStscjWDz1YcC/01A2miQ3PmIBhafh3KQNxSkBokzwLI6ldzTjtaOLpEfJy+oDGTZbh0R2sO0QwWFT2gJHSQgSH+5O8ReMQ68MaioCcctgAueYMc8oQlRQUxJnK0lNNgerspLr3lVUGAJ2ljvI941/5BieFeSzs4SWkgy7YFkXtYXs+xLbSB3HthfofHO8sv15n8Faa6gC+X42df0Yo8K5XMYsorY75+EDbii5mHtFU+a1sZd6g86rxGLJmDc54LyD19SmCXf1HKu5NC1F/HLahprxyO3/pSyPn9m+y+Zk3598UVJOt+wvcxmeoesl+ps1lpZB+F2vRqutvtnArr2AgyVQnbrA1m2H7LqTGHLivMQdVU=;vNF6RqgwlM2appfBzrtn9w=="
 ---
 

@@ -2,7 +2,7 @@
 title: "Mixed Reality in Power Apps by Dhruvin Shah"
 excerpt: "Welcome to Power Apps Mixed Reality Step by Step Series. Here, you can learn about the capabilities of Mixed Reality within the Power Apps. This is the Power Apps advanced tutorial series, we will leverage the capability of MR and build our first Mixed Reality App using Power Apps. Here, we will develop our first No-Code Mixed Reality application using the Mixed Reality in Power Apps. "
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: Dhruvin Shah

@@ -4,7 +4,7 @@ excerpt: "Do you want to learn how to build solutions that can leverage a standa
 type: collection
 price: Free
 length: PT4H15M
-heat: 62
+heat: 61
 
 provider:
   name: Microsoft Learn

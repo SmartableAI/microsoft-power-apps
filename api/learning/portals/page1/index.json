@@ -4,80 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-portals-architecture.md",
-      "title": "Power Apps portals architecture",
-      "excerpt": "This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-architecture/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-architecture/",
-      "length": "PT26M",
-      "ratings": {
-        "count": 76,
-        "average": 4.5789475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/portals-architecture-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
-      "path": "_learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained.md",
-      "title": "Power Apps Canvas vs Model Driven vs Portals Explained",
-      "excerpt": "#PowerApps #PowerAppsTypes #Beginner Are you new to Power Apps?  Then this video is for you!  After you watch my video on \"How to Get Started with Power Apps\", this video is a good next step in that learning path.   I'll explain what Power Apps is and go over the three different types of Power Apps that",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/",
-      "originalUrl": "https://youtube.com/watch?v=M_tvnAmHMZY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M_tvnAmHMZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M",
-      "provider": {
-        "name": "April Dunnam",
-        "domain": "aprildunnam.com"
-      },
-      "publishedDateTime": "2020-09-17T07:11:46-07:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M_tvnAmHMZY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power Apps",
-        "Portals"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-administer-power-apps-portals.md",
       "title": "Administer Power Apps portals",
       "excerpt": "Learn how to administer Power Apps portals.",
@@ -151,8 +77,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-integration/",
           "length": "PT19M",
           "ratings": {
-            "count": 23,
-            "average": 4.826087
+            "count": 24,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -194,8 +120,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authentication-user-management/",
           "length": "PT23M",
           "ratings": {
-            "count": 16,
-            "average": 4.625
+            "count": 17,
+            "average": 4.647059
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -408,8 +334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portal-features/",
           "length": "PT30M",
           "ratings": {
-            "count": 91,
-            "average": 4.4945054
+            "count": 92,
+            "average": 4.5
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -469,7 +395,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/portals-architecture-social.png",
@@ -579,8 +505,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-metadata/",
           "length": "PT49M",
           "ratings": {
-            "count": 18,
-            "average": 4.7222223
+            "count": 20,
+            "average": 4.65
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -728,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-apps-portals/",
       "length": "PT25M",
       "ratings": {
-        "count": 431,
-        "average": 4.6450114
+        "count": 470,
+        "average": 4.657447
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -746,7 +672,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 59,
+      "heat": 60,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -757,6 +683,37 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
+      "path": "_learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained.md",
+      "title": "Power Apps Canvas vs Model Driven vs Portals Explained",
+      "excerpt": "#PowerApps #PowerAppsTypes #Beginner Are you new to Power Apps?  Then this video is for you!  After you watch my video on \"How to Get Started with Power Apps\", this video is a good next step in that learning path.   I'll explain what Power Apps is and go over the three different types of Power Apps that",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/learning/videos/april-dunnam-power-apps-canvas-vs-model-driven-vs-portals-explained/",
+      "originalUrl": "https://youtube.com/watch?v=M_tvnAmHMZY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M_tvnAmHMZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M",
+      "provider": {
+        "name": "April Dunnam",
+        "domain": "aprildunnam.com"
+      },
+      "publishedDateTime": "2020-09-17T07:11:46-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M_tvnAmHMZY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power Apps",
@@ -777,7 +734,7 @@
         "domain": "pragmaticworks.com"
       },
       "publishedDateTime": "2019-08-21T08:47:40-07:00",
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hwazNDRqLNU/maxresdefault.jpg",
@@ -943,8 +900,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portal-custom-web/",
           "length": "PT55M",
           "ratings": {
-            "count": 46,
-            "average": 4.4565215
+            "count": 47,
+            "average": 4.4680853
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1005,8 +962,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/authentication-user-management/",
       "length": "PT23M",
       "ratings": {
-        "count": 16,
-        "average": 4.625
+        "count": 17,
+        "average": 4.647059
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1393,8 +1350,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portal-custom-web/",
       "length": "PT55M",
       "ratings": {
-        "count": 46,
-        "average": 4.4565215
+        "count": 47,
+        "average": 4.4680853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1436,8 +1393,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portal-features/",
       "length": "PT30M",
       "ratings": {
-        "count": 91,
-        "average": 4.4945054
+        "count": 92,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1559,6 +1516,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-portals-architecture.md",
+      "title": "Power Apps portals architecture",
+      "excerpt": "This module focuses on the Power Apps portals architecture, such as how the various components work together to build a portal. Additionally, it explains how the components are installed and come to together in a working portal. The module also describes the maker and configuration tools that you can use to build and customize Power Apps portals.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/learning/courses/microsoft-learn-portals-architecture/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-architecture/",
+      "length": "PT26M",
+      "ratings": {
+        "count": 76,
+        "average": 4.5789475
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/portals-architecture-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power Apps",
+        "Portals"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-portals-integration.md",
       "title": "Integrate Power Apps portals with web-based technologies",
       "excerpt": "Learn how to integrate Power Apps portals with web-based technologies.",
@@ -1566,8 +1566,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-integration/",
       "length": "PT19M",
       "ratings": {
-        "count": 23,
-        "average": 4.826087
+        "count": 24,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1652,8 +1652,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/portals-metadata/",
       "length": "PT49M",
       "ratings": {
-        "count": 18,
-        "average": 4.7222223
+        "count": 20,
+        "average": 4.65
       },
       "provider": {
         "name": "Microsoft Learn",

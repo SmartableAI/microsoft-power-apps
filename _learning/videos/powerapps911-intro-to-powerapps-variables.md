@@ -4,9 +4,9 @@ excerpt: "In this video, you will get an intro to PowerApps Variables. We first 
 originalUrl: https://youtube.com/watch?v=e2_BGekECfY
 type: video
 price: Free
-length: PT19M24S
+length: PT19M23S
 publishedDateTime: 2018-01-16T14:51:27Z
-heat: 68
+heat: 63
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e2_BGekECfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LXGj9Y9qViAH+e5S6lCVZP9a5aqTH990mHWJMVVJmE0I2hJCtSsYQErUNu/hscZEi3jOZyskEZ5mkXMFlqG4TYyfoUsNTsPB9ySbZNonNHd+h3XFGjCtxTPUUT+wa2lmKR1km5MQxUrQzexJ+r75hgdSICITDBYS9lpE7hE2ZcgtEuwAdI2JlTD7aidOu5gUzRrRzZFc1J9JOg/3R9P4hKYfVchfU+jdOfn3/HxMnDpwnxZ0W7+scq61DUer6ZhhBc7BzzgIIcn9aZl365GHb/vldeTcjLhH89tbAuf9lc0yj/ln0obYyEYRATFsJBhHMOGOUtKQ8qPpouUpkQSQ0zja2/9VkHx7XnYNEkPcZpHHy5xvApkoMQuXhuNs6dXM1KGIUp+PiwG0vH+W6JTolPbnYHF3pXGdwYgj15yK9VNmnS2CaDst2XUOQ5ZDwaPO;kEqDjUcK0uWEcsUdnB+RSA=="
+secured: "aPF6Pf1tnXMPiAZ93mcJUjTT2bwQ5XyeuK+8vXC4McH+j45A2XMAOiReSuj98ZSlIOLIUnvrKQTOm9b6hN58s16N0ie8lskI61c5odlC/iBnsjdTKcYcSI8IraXPtn2O4tuuHOFXMQWVG8AhTJqs/O4+Qi1JUg/m/w3QP7oBiD8ctGYkL23KYAR0X1GKL+DkCpvThb2sOtkbrdw/GLacoy9gB4MbNexY1Hr0BnIJ+SFPdkhx3ZoZSbcvZovo4lLHCLC/Q6bkLQyixPbGbovo2ENcSzNK0PlN/YxQCtaPgHqnKxiFeaJJloUE9u1AhPUy/Y4zhp5JKJVh+onmrYS8tHhF3F8/3T/D7yXQ7Y67439g5CzNsv9sfGojoCu/z5Wuh5VHG3qSUQ7jKpSybLRHX91wvpZE3R0c7QkpoWZVd4eSb/BoGrOwZSiEvHiOsCQ+;DDder8n+EJAzSpRoPj4IwQ=="
 ---
 

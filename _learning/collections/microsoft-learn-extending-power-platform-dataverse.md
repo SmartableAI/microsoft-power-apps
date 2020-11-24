@@ -4,7 +4,7 @@ excerpt: "Getting started with extending Power Platform Dataverse."
 type: collection
 price: Free
 length: PT2H3M
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
