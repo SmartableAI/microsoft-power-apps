@@ -6,9 +6,11 @@ publishedDateTime: 2020-12-03T07:40:36Z
 originalUrl: "https://powerapps.microsoft.com/en-us/blog/considerations-for-optimized-performance-in-power-apps/"
 webUrl: "https://powerapps.microsoft.com/en-us/blog/considerations-for-optimized-performance-in-power-apps/"
 type: article
-quality: 87
-heat: 87
+quality: 189
+heat: 189
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jcKoqC9Vfmo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -20,6 +22,7 @@ provider:
 
 topics:
   - Power Apps
+  - Model-driven apps
 
 images:
   - url: "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png"
@@ -27,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "8AHdj70RTk/JC6uW1R4WUaEhU8+5uoBgNmBYtqWNGL6UDXm5P3xOUwICEE7AtqGEwXC/Inr1ubYOKIoowGvJeNqPjw4I/uodY2Zx74y4k7LSmMdfDL85nXa1mpNstmgFK9q92ScCiL7JS843lmv0rLoq61wkDf9N37YEyZFnq7Pt9G8f1NMpIFdIT/VL+MW81aj3+OO1L6ijMAVC8MWV6A2wTYX2C1L3A7u96pKzALlUwGleLVx31A+wbY8qHHtlUFXJ9HdjX9TslCr6ygZQvEYnIaWDRwxxVAnXFvy9hOY0Caq3VRscqvY/jnTTz7uiSwVRDYMIyGbO0KXkGdQTpxyEDa96YoIffUCMLqCpiu4=;FLTcpCGa++gyA3kppAUQkw=="
+secured: "NQghoXpRWktV/41F1LwrodfSctEZ3WYp7+/pZVeIyHj+IW4YvxA4OW5k+86CRO6r1R+WL8OQfA2/yOs/RHiPjUh/DWVy6NDfWwz5Vagvp2W+X8rLprWAwLEg407GFLteZQlb9jr2jZTwuesy4wkRGDXH10wuWVGs1nmTkFesr2h/lEjwrSXuGwXibJlEwhg21uTIApzFEeKtuEZ7wOpEk0FH13xZ+j17TL9qpcZJxs64tQEU1HtQ+nrcOOiSVC4Wqp7F+R6IIj20/Dp3g+G4jzXRKQw5wHB49XZAzMg149zBFLSq4eY8s+xngd3ZnVlTPRxVbHH/3DRvmc1wjF+Wp5MxBVKCej/u/ND6aL352EFSQfLnG4q0j1YXVWUNPe9X8Vddd/31x0oevRfSfQhBtNgKMzPuy8IsGdWlzlgk1Bs=;3QMWFu+HVJDqh56FIL0wGQ=="
 ---
 
