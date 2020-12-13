@@ -10,7 +10,7 @@ website: https://t.co/91p5BQ3pUe
 twitter:
   username: ShanesCows
   url: https://twitter.com/ShanesCows
-  followers: 13540
+  followers: 13544
 
 linkedin:
   url: https://www.linkedin.com/in/cincyshane
