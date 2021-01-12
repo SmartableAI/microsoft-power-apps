@@ -54,6 +54,57 @@
       ]
     },
     {
+      "path": "_news/2021-01-10-stroke-sufferer-uses-power-apps-to-help-other-survivors.md",
+      "title": "Stroke sufferer uses Power Apps to help other survivors",
+      "excerpt": "Modern day hero, Paul Burns shows how Power Apps can be used to help Stroke survivors regain hand and eye coordination",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/stroke-sufferer-uses-power-app-to-help-other-survivors/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/stroke-sufferer-uses-power-app-to-help-other-survivors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-10T11:04:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-announcing-the-general-availability-ga-of-monitor-in-power-apps.md",
       "title": "Announcing the General Availability (GA) of Monitor in Power Apps",
       "excerpt": "Since its early announcement back in October, 2019, Monitor has helped thousands of Citizen and professional developers to efficiently troubleshoot and more rapidly solve issues they come across while building their Power apps and solutions. Now, we are excited to announce this tool is generally available",
@@ -1237,58 +1288,6 @@
       "topics": [
         "Power Apps",
         "Canvas apps"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams.md",
-      "title": "Microsoft announces general availability of new Power Apps and Dataverse for Teams",
-      "excerpt": "You can now build apps and chatbots using minimal code directly within Microsoft Teams, thanks to the general availability of Power Apps and Power Virtual Agents apps, as well as Dataverse for Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams",
-      "originalUrl": "https://www.neowin.net/news/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1590781855_microsoft_teams_4_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-general-availability-of-new-power-apps-and-dataverse-for-teams/",
-      "publishedDateTime": "2020-11-16T17:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps",
-        "Teams integration"
       ]
     }
   ],
