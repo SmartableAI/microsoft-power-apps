@@ -10,7 +10,7 @@ website: https://t.co/91p5BQ3pUe
 twitter:
   username: ShanesCows
   url: https://twitter.com/ShanesCows
-  followers: 13594
+  followers: 13593
 
 linkedin:
   url: https://www.linkedin.com/in/cincyshane
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Shane Young"
 
-secured: "rzWXDCt8r3Xu4uq4rIo4m3DyUk8a8dAmmLhIuoxAk6rN4bzaZVAXq+2QtEqQEzxDAAMivxOs7q+MxfGMZeZPy5yrAyt2Xo4zx8NlN7+9ThzBZpFKUzBmiGDhIUwdP/flCdVWYlsUVcHSvIdKDfcersdopcvjaYx7siCc2m7vt3TOxT6GzDwNxqbKmlHMcRuYQ4eZ00Y62T6jefahGxSWbDU4WzSIqPfWMlfSvxxsLIGoGAvowLT++Avu/dcfDrYnPr+l5yDUNOMZc6Ud4o8bRh9c8+qJ20V8RDvpNnnyh7Ak0PsaYJp3j0kNZ0/EcGrz6+YGky5j0NIOUodpEr1bbmgFqFoM9pfoUwX7k8QDlAMAzoG+lxRb4IoYGfsfO5A89EVagr6TVQbJ0IqOiEcaaKlgE7EOkm7TELxnqUZxEVI=;N9lRa+gdZsNamwPawpZtxA=="
+secured: "+F0Q4prfr2j7FCEJ+KrYH25DveeIq0/0g6YD5xtEYZc5xMs8iIjzIkT35bLyG+MPqdCthU7xtgX8WMKxPkOfLEc2jEbqMluAUZtOy2hWkcMx0vguPmgaFsVmhWYguyhaDCrHGOUJ/s0Q9RlE+0ai3GRtU3f8sIvIq3/9cgiWvvitBxbE2pbU3P1XyS2G6gnztBj6IoIFV2JuyyfnXiHJsmvmCVTXNqsF1M/NamuJNfUYx8SrzUj6TKORtb3SG7jrQajJGQ30NB47WIh5tOIrN45ED4LsJt0Fu4OHaoOnJlT70sobe9D3Qp0fs3UeOMNmNkaMiBwYB11f50T9qM8skz+P+HBoIEQUzcYK8F1idAhcDaBMjWkKntVpO0p1ldfHZ8LbXSS+h1EkKmOrVLpBeUbdrzX6zUOjxjTYRF6Pz6Y=;4TmMxPqv9P1ymBcw9YlCpw=="
 ---
 
