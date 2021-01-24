@@ -17,52 +17,18 @@
       "twitter": {
         "username": "rezadorrani",
         "url": "https://twitter.com/rezadorrani",
-        "followers": 2574
+        "followers": 2575
       },
       "topics": [
         "Power Apps"
       ],
-      "heat": 132,
+      "heat": 108,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1063114045270777856/qeT-jpWr_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Charles Lamanna",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/shane-young.md",
-      "title": "Shane Young",
-      "excerpt": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/people/shane-young/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/people/shane-young/",
-      "type": "profile",
-      "name": "Shane Young",
-      "bio": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
-      "location": "Cincinnati, OH",
-      "website": "https://t.co/91p5BQ3pUe",
-      "twitter": {
-        "username": "ShanesCows",
-        "url": "https://twitter.com/ShanesCows",
-        "followers": 13634
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/cincyshane"
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Shane Young",
           "isCached": true
         }
       ],
@@ -82,7 +48,7 @@
       "twitter": {
         "username": "aprildunnam",
         "url": "https://twitter.com/aprildunnam",
-        "followers": 5770
+        "followers": 5775
       },
       "linkedin": {
         "url": "https://www.linkedin.com/public-profile/in/april-dunnam"
@@ -103,60 +69,13 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 114,
+      "heat": 96,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1326986540329918465/W_IJ6Ih2_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "April Dunnam",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/sameer-bhangar.md",
-      "title": "Sameer Bhangar",
-      "excerpt": "Principal Program Manager - Power Platform CAT team",
-      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/people/sameer-bhangar/index.json",
-      "webUrl": "https://smartable.ai/apps/powerapps/people/sameer-bhangar/",
-      "type": "profile",
-      "name": "Sameer Bhangar",
-      "bio": "Principal Program Manager - Power Platform CAT team",
-      "location": "Seattle, WA",
-      "website": "https://t.co/nrTQtfl3ll",
-      "twitter": {
-        "username": "sameerbhangar",
-        "url": "https://twitter.com/sameerbhangar",
-        "followers": 890
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/sameerbhangar"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power Apps"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Sameer Bhangar",
           "isCached": true
         }
       ],
@@ -196,7 +115,7 @@
       "topics": [
         "Power Apps"
       ],
-      "heat": 50,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1263202626922876928/g6qGbHZ-_400x400.jpg",
@@ -249,6 +168,87 @@
           "width": 400,
           "height": 400,
           "title": "Ryan Cunningham",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sameer-bhangar.md",
+      "title": "Sameer Bhangar",
+      "excerpt": "Principal Program Manager - Power Platform CAT team",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/people/sameer-bhangar/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/people/sameer-bhangar/",
+      "type": "profile",
+      "name": "Sameer Bhangar",
+      "bio": "Principal Program Manager - Power Platform CAT team",
+      "location": "Seattle, WA",
+      "website": "https://t.co/nrTQtfl3ll",
+      "twitter": {
+        "username": "sameerbhangar",
+        "url": "https://twitter.com/sameerbhangar",
+        "followers": 890
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/sameerbhangar"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000719674009/a36fe7ddfab1778b76e5793772e43798_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Sameer Bhangar",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/shane-young.md",
+      "title": "Shane Young",
+      "excerpt": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
+      "sourceUrl": "https://smartableai.github.io/microsoft-power-apps/api/people/shane-young/index.json",
+      "webUrl": "https://smartable.ai/apps/powerapps/people/shane-young/",
+      "type": "profile",
+      "name": "Shane Young",
+      "bio": "SharePoint & PowerApps MVP - SharePoint, O365, Flow, PowerApps consulting? @PowerApps911 | Pure Snark? You found it.",
+      "location": "Cincinnati, OH",
+      "website": "https://t.co/91p5BQ3pUe",
+      "twitter": {
+        "username": "ShanesCows",
+        "url": "https://twitter.com/ShanesCows",
+        "followers": 13633
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/cincyshane"
+      },
+      "topics": [
+        "Power Apps"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/713100007398883329/qUzvsvQ3_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Shane Young",
           "isCached": true
         }
       ],
