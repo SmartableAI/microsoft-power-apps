@@ -16,7 +16,7 @@ affiliation:
 twitter:
   username: rc_says
   url: https://twitter.com/rc_says
-  followers: 2134
+  followers: 2135
 
 linkedin:
   url: https://www.linkedin.com/in/rycu
