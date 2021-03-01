@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-01-new-in-the-coe-starter-kit-review-the-impact-of-dlp-policy-changes.md",
+      "title": "New in the CoE Starter Kit: Review the impact of DLP policy changes",
+      "excerpt": "We are excited to introduce you to the DLP Editor – a new app part of the Center of Excellence Starter Kit. The DLP Editor is a tool you can use to observe the impact of an existing policy or updated/new policy changes you want to make.",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/new-in-the-coe-starter-kit-review-the-impact-of-dlp-policy-changes/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/new-in-the-coe-starter-kit-review-the-impact-of-dlp-policy-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T00:01:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-how-a-robust-power-apps-solution-orchestrates-thousands-of-project-implementations.md",
       "title": "How a robust Power Apps solution orchestrates thousands of project implementations",
       "excerpt": "Customer success equals team success. Use Power Platform to design low code custom apps that assess project implementations. Make sure that your customers and everyone on your team are meeting their goals. Power Platform can work harder and smarter for your organization.",
@@ -1205,57 +1256,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-01-14T00:55:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power Apps"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-now-available-model-driven-app-push-notifications.md",
-      "title": "Now available: model-driven app push notifications",
-      "excerpt": "With our updated push notification connector, you can now send push notifications to model-driven apps with Power Automate. These notifications can direct users straight to a specific page or section of your app &#8211; like the relevant entity view or form. Use any of the hundreds of pre-built connectors",
-      "sourceUrl": null,
-      "webUrl": "https://powerapps.microsoft.com/en-us/blog/now-available-model-driven-app-push-notifications/",
-      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/now-available-model-driven-app-push-notifications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerapps.microsoft.com/images/shared/social/social-share-post-ignite.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T02:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
