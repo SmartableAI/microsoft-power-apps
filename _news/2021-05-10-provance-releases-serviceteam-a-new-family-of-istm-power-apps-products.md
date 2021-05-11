@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Provance Releases ServiceTeam a New Family of ISTM Power Apps Products"
-excerpt: "GATINEAU, QC /  / May 10, 2021 / Provance ® is thrilled to announce the immediate release of ServiceTeam ®, a family of IT Service Management products built on the Microsoft Power Platform. Engineered for Microsoft-centric customers,"
-publishedDateTime: 2021-05-10T14:34:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/269380768/provance-releases-serviceteam-a-new-family-of-istm-power-apps-products"
-webUrl: "https://www.bignewsnetwork.com/news/269380768/provance-releases-serviceteam-a-new-family-of-istm-power-apps-products"
+excerpt: "GATINEAU, QC / ACCESSWIRE / May 10, 2021 / Provance® is thrilled to announce the immediate release of ServiceTeam®, a family of IT Service Management products built on the Microsoft Power Platform. Engineered for Microsoft-centric customers,"
+publishedDateTime: 2021-05-10T14:11:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/business-technology-992614c8612b1ff3a2fbd082905a767f"
+webUrl: "https://apnews.com/press-release/accesswire/business-technology-992614c8612b1ff3a2fbd082905a767f"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Power Apps
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1620451202889.jpg"
-    width: 630
-    height: 420
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Aakscs9OhJWd7LN2EWkxGktASdeDEXuyyamdEeBzDv/yw4FKMZ56mXU8a84nzLWKNSs+gf0iqtj5DTmHbCXEPuZcz86OHZxr2LSlnfu42M+PGcfnKqE6ZDTHdnRd+TLAbTvEUUK1kHzOnJ5jR/eWJrc2BVilsUYEd2m4eTQ8gDN+z9NCcYVrKhKIvfyUi9fmhNRCHAdesfBZ+yFW31ub+fLbkJLsPDma5wNzGj6rtYejcdwxhDak0VyCCUO0Lc1siIrXNfph6/LU9hxJKPo98mxR14M63iE+ezd6SIz2LKs1e1zA2kPoWVecaiM4dGguXnBoHHQdqfdVKWHI4mX5aU06LxbzMl3XtopJeqn+ZPcXA33DzJGsCQsR4lu9WOMcUpZzkrHAX7u0JtHNjMz6mAycnsy8cS+JvPj98rJ3YL/JV3AAd2n5s21Z7r6eLHB0c+z2bCwLuL4FIFUCDX9hbWaBaYpJjnCK/QlGPRSImqAgI6GofhgGeGMHcNwoCF7Nf7wHocj/KpX89GCzB9Y+6w==;oBhZpJ9pQFfbBYNu8aCghA=="
+secured: "JycYK5T9/2HW5Jn3Q2h2o2LFO9X2tveHHKMxah9mVOlOWHhVKUv7Nuy00nWm5ZxzspN5ju0Bi72YGRyWlR9QZ6UXrC7+z8nVibd0WuqBJGSJ9y3O/XEQIbhig13kUDVwI+FX0e1HPRYP3w3yxuBY44FUG0ccs2/HaMSbrpc23rVBD+jT7qQDAofapGQ00EmDPe1JCQv6HoLgF4nntoSWDW5+YmdxoR5IQplVqStxBrjraffJ8UYaF0Jpc4uP6+IJ7VGJUKSHPOTJKlNm4Oawhpy9S9jlXhCDsB2AKDCB5Un5D1cZ++UCpUQ7mEyon7bMmpfIS53OFqYmoUGpnVLe1XwFQrE/a22f02RCulmB/go=;Q3VnTeQOhW6hiomKsgRM3w=="
 ---
 
