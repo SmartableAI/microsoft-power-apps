@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Provance Releases ServiceTeam a New Family of ISTM Power Apps Products"
-excerpt: "\"As the leader in Microsoft-centric products for ITSM and ITAM, we developed ServiceTeam to work within a Microsoft Power Apps or Dynamics 365 environment,\" said Kelly Moodie, CEO of Provance."
-publishedDateTime: 2021-05-10T14:22:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52828920-provance-releases-serviceteam-a-new-family-of-istm-power-apps-products-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52828920-provance-releases-serviceteam-a-new-family-of-istm-power-apps-products-200.htm"
+excerpt: "GATINEAU, QC / ACCESSWIRE / / Provance® is thrilled to announce the immediate release of ServiceTeam®, a family of IT Service Management products built on the Microsoft Power Platform. Engineered for Microsoft-centric customers,"
+publishedDateTime: 2021-05-10T14:28:00Z
+originalUrl: "https://www.digitaljournal.com/pr/provance-releases-serviceteam-a-new-family-of-istm-power-apps-products"
+webUrl: "https://www.digitaljournal.com/pr/provance-releases-serviceteam-a-new-family-of-istm-power-apps-products"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Power Apps
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mW4yUmPapKs1cZUrR7k+fiYn2VSrF0lelC7IpkD5nWnRdZ7HA2yBj0viskwq4QpdQqRZs8ega+/8+65Vr6jGdnSoPoSvLyebOdzlesnXiS2nBy74dPdKOOoQcv8OrFUQUAn851G4w6xKbOGPf3C6GPCMVllyC5tRAeHjyIiRTTW+2CC/qDsTkSrdFNmIteStpJYHYXWFWR2wSDAZDpo9PVgGXjjfmcVKSgftOm8Urh7XM9/QRs2OjzhvdhpNW2AT4DLSFz7855kssOpRL8yhIkDKKFnGWecoJTsHqf/jAaSWP3kCTn5owvIGqxk2bJpiKhBvGhI1jqHuacDx580XUHaiTp1Hh6oDandFhsmyoeI=;4vrGUjYCIRDEmZwFcpPgdg=="
+secured: "5K2U+THrDj/d0zZ8ERet17hsMn6Vfdni4TadG+0EmVkuLJ5HHey3+obvOFpg5tiYo+mDEx7uRHpIARm38gK5TfQpT62+EUv0ufAx0LgZON1duPXfrfRK6NG3ed+8WXuS1b3e0NB+pafiGknBR2fx3irHtL4Slp/464LPVu/9ULhnpkqiVeS/fzfd2aBVTICqHbutq60zcy7+r+dl5L6OMdUEoFGgk7L9ImoqP/PZ4e+1rEVi+wZpandp08oC1NZuyJxQXLATOE+KqNV1wNYqrKr/XZWMORqV/ZqvKRktGyCr8DrRcSAdh4W7XsKHxIvclabQ5R6MRhN1KASv9n4Ues2N2cpKJ034pVmI9mAZkwg=;BI3PaSipLcAMD0yHCiPLPg=="
 ---
 
