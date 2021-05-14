@@ -3,11 +3,11 @@ category: news
 title: "Microsoft Power Apps Ranks High in Low-Code Research Report"
 excerpt: "Microsoft's Power Apps low-code development offering was among four market leaders identified in a new report from research firm Forrester."
 publishedDateTime: 2021-05-13T18:03:00Z
-originalUrl: "https://visualstudiomagazine.com/articles/forrester-lowcode.aspx"
-webUrl: "https://visualstudiomagazine.com/articles/forrester-lowcode.aspx"
+originalUrl: "https://visualstudiomagazine.com/articles/2021/05/13/forrester-lowcode.aspx"
+webUrl: "https://visualstudiomagazine.com/articles/2021/05/13/forrester-lowcode.aspx"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - Power Apps
 
-secured: "j5CGUOZIV0ZE2aCHpAKQFbvi+ScsB7tvx6t3zUNFeaWPV0EazLsFaWf9IEiOjKsbd1zlG9dyUxcmeplCITfBXXRBh6utzTDlZK+fkEucFr+vXENtNB6A9ewPzrycfcNb1ipLlmrxLrhsq+zbRsqct9iNOdBgHntACI1c0F5CKnxPQfCgqrhWolYyRKGD8qopLmlnNO4Cc0LQbBMLqqyAjMqCxX+8wDSZ1r8QNjtNbsXWr854mySDppbY6SvyXRTOKvolC7ezDPQLrJ5PTbpgsacyroB762MwRw+z1vIJUSVfT6KxtLMIPJCp69eb/QammcHyzTfrAOLpGHM4uSTD5K1Xd2mI3TGv0xCiIz1/KMOPJxKb9ty+FmEquLkQ2OztAuRz10sv7ZBEZHXMBkfO/BPDe+z1OzzGjrmc7nLY/duNK8sWLSwLle/eLyOJ4FSLz3igS1lBH/YkibhWO6NVgs7EAnynXo0hgcnJyeSYaQArET0IzceHpa+3CqW+UqgC7g9QMwf7HH2euPniERDY8w==;Z2GbrMxUux4l+c7ywaGv6Q=="
+images:
+  - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GENGuystackingTinyBricks.jpg"
+    width: 647
+    height: 450
+    isCached: true
+
+secured: "ibH4PYng0ku4ynK/CUSsfvjQRTo6PT5B7HR22va5keCSYnOrWZNiwjsY+e41urqR4BXEPvC8LF6qCr8OUKfpPMlz24qcnDQ/Pydheijiwhs8/iLZnx+xMUjE13mFy8OUybmFRuTHqSNyeoxJh2xYEALkZbPxXZ5cJXeP8FJAKDtW6gyjlU3Wlg2GCWM82UMS6dTNm5Ki17cHefEvODq29G8mDvJK7vsoNvKjYajnulR34yWX1SlG1beVSonsTjdFyjoNn5wck6zEIDdtsUgdtAArvco6KxtAiX5JcH14ono+ws5k5gr0P+3svHzE/CKcWobVWU2yX0peukPQ1u/krL9kcg992neNHjRzm+d69uU=;91IbtRaliGJbzi2FAmqzRA=="
 ---
 
