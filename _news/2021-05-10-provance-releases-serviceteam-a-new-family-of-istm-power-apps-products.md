@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Provance Releases ServiceTeam a New Family of ISTM Power Apps Products"
-excerpt: "GATINEAU, QC / ACCESSWIRE / / Provance® is thrilled to announce the immediate release of ServiceTeam®, a family of IT Service Management products built on the Microsoft Power Platform. Engineered for Microsoft-centric customers,"
-publishedDateTime: 2021-05-10T14:28:00Z
-originalUrl: "https://www.digitaljournal.com/pr/provance-releases-serviceteam-a-new-family-of-istm-power-apps-products"
-webUrl: "https://www.digitaljournal.com/pr/provance-releases-serviceteam-a-new-family-of-istm-power-apps-products"
+excerpt: "\"As the leader in Microsoft-centric products for ITSM and ITAM, we developed ServiceTeam to work within a Microsoft Power Apps or Dynamics 365 environment,\" said Kelly Moodie, CEO of Provance."
+publishedDateTime: 2021-05-10T14:22:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52828920-provance-releases-serviceteam-a-new-family-of-istm-power-apps-products-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2021-05/52828920-provance-releases-serviceteam-a-new-family-of-istm-power-apps-products-200.htm"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Power Apps
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Pvdom1F+Mqu4Cwhw458fE3WkJBlCxkgtBQiO3d+ARGuTe8HwPsWIwPnttajexkUIMiuAa3jtdhGIF307yn5tQq9onOT33aIrDXKQje+7hEh/pOvuHvhUo/XG2rlOQuGbsXkr+q8skxU5JhBGXt/E8YSuh6YCjmoL8CBMdwJXV/daoHrEMQA8w/6ZDUTn2yqIX6T9x3Txiwi2tql9ob9uvHqWh+1dEM4xRP+ga+4ZuPeguUyCA4i0aeyLVx3750YGQv8D25bAzk+YCshHyJ0wQQx5ik9dtyl3aK2vPST+ldK1SbAmlJlq/NCTB0jyWmCSbefmrXkFAXsTnvszZV1cJYSmvL5dwtxYvpBlp7jHiosiPgHCwEw55HOINkJc/Ys4FUpDVIoguOwkHtR6LK4+R5IYzuB6anNQYSjpEZhoLerz2DYNuOX96AOfHndvtDGLu3XSYtWl90ExZZnIVY3eq5Lavb6JM/vPYTMn1yfl1K6PQxX9rX48R0Kbq/52jLNraIjK1kuCZGnZI1N9YjOhqw==;FIQHqkmNx4GkHtAfdwih5Q=="
+secured: "HGqWATAiW2R3yVVg2hW1M9kZJjim2E2zY9EP6gnLhGYO3vJB5nsNnzcnB35Vcnb3DhWMdzJ4Ie02p1+4W+Bv+hhG7Z+siI/bpKtj8CM8Eo2cDMM866mWRhV14cyB360wwr//I+SfP5sdHHsexDKoVIBvTqInq6pXP/VGZlRr2tS23HpBj+Q95tPDX+2/auYja6o5JfbDlLUzRlPEltoAk/mmY5Uk7YrveNrcV29NGKrvQ9JS9xu66ccaIdm7bebDuoNFURp7c1GRgXELBjaJCAgGwgBDwiKh9A6QITPqMkVRyH6dxL4vHuL/ESX168BFsajt/YxSPbFq3FFF1OWX/ODsT+I1FgnXAxLGq1gkfXQ=;PlBk2MMJeVeFZiKgFgM7Iw=="
 ---
 
