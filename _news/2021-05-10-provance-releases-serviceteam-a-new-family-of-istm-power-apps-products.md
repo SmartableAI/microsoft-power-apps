@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Provance Releases ServiceTeam a New Family of ISTM Power Apps Products"
-excerpt: "GATINEAU, QC / ACCESSWIRE / / Provance® is thrilled to announce the immediate release of ServiceTeam®, a family of IT Service Management products built on the Microsoft Power Platform. Engineered for Microsoft-centric customers,"
-publishedDateTime: 2021-05-10T14:28:00Z
+excerpt: "\"As the leader in Microsoft-centric products for ITSM and ITAM, we developed ServiceTeam to work within a Microsoft Power Apps or Dynamics 365 environment,\" said Kelly Moodie, CEO of Provance."
+publishedDateTime: 2021-05-10T14:30:00Z
 originalUrl: "https://www.digitaljournal.com/pr/provance-releases-serviceteam-a-new-family-of-istm-power-apps-products"
 webUrl: "https://www.digitaljournal.com/pr/provance-releases-serviceteam-a-new-family-of-istm-power-apps-products"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BSqZg07dwDw5iUKj53BDtSPO32qANXH5XvsHuXiYkFBwvkVJPun5cPp3cpVEqCiwiOwggLIMUQ8OpFNOFdXVdhumDfGMN22+ig5+4MTFaB5mh65geWAxZZN1ka7GzPlIXjWXXmR3kaCd1nHR2YEMyliIgBpgYQwTznxQrSVZVwFOAG8jrt6QhnYlfloDSYfSUPwg6rqx7xay4zjP+xbcu24E2vpN9PKfDsENvXLXZQzif6YXQA9bAhlQLbNBdqbsizOrC9ElJIDLOg2fluvs5QkmexTH8qoQYY4uUm5/tFjWzEE+NRM3KpzcCaguWO1pztzKS39WxD85OgIjasABVyOkU3pYZDKXrD6tADII5AytMrZ0oGUVPHGfUfDk5DXJG621YaOo3S4edZ0ee4Puyb1S6YGcKVq4vStZvCvXEujAKSJkKPaVtcECmTA9KeTnCC6FBlBOLmCYVSX+LZlN96QHoUHfZ0qW3VpWmu4xqDK/buBcPCDEGrbKlXU4jovx0kFOXIXkz+0nQ6J1ElFNFg==;g+scPpK8bwS6fBWlF4b6pA=="
+secured: "aF7cz/miSTgjPfnBRMjyVXnJqqQ8GAVy874CziRqPneAoec/dkEgK75bCdX+uuKRGDpe0tWN/51oqX+9TnzHqPVMxxCnQAXQj3bMz2XogyM7O6ytBXLUe1KBf6fDA+A4NYi875dBqmVIg6i3MvO7298SAvVJ00F9yyNEchvTuseRvEn/Awsaet/+AOPSFel7VQMKsyLp2kSIYyYX6jXQYBMxl2H4Qv0AgFV0bC1ScSwTquRAOuLiFgsswWpi8yevZv8YbzGcxaNr+dlzHqSX//0IorC9qbb1/z++YqOrF/ZE8y+cL+bzbx/T1sq0dB8JXSqWbof1qHBsiqYcXYw83LG4FAhpKGsOLf/ZUyHA5Wk=;5YMu9SXkJfvC86JnqlottQ=="
 ---
 
