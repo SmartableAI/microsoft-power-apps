@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Microsoft fleshes out Power Apps"
-excerpt: "Cloud-hosted low-code development platform adds custom pages, organization-wide app sharing, and an app designer for building model-driven apps from tables, charts, forms, and other components."
-publishedDateTime: 2021-05-05T18:56:00Z
-originalUrl: "https://www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.html"
-webUrl: "https://www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.html"
-ampWebUrl: "https://www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3617869/microsoft-fleshes-out-power-apps.amp.html"
+excerpt: "Microsoft has expanded its Power Apps low-code development platform, introducing custom pages and app designer capabilities as well as app-sharing and new templates. These features were introduced on May 4. The custom pages capability uses the Power Apps ..."
+publishedDateTime: 2021-05-06T08:36:00Z
+originalUrl: "https://www.reseller.co.nz/article/688186/microsoft-fleshes-power-apps/"
+webUrl: "https://www.reseller.co.nz/article/688186/microsoft-fleshes-power-apps/"
 type: article
-quality: 97
-heat: 97
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Power Apps
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/02/electrical_tower_structure_lines_connections_network_power_electricity_by_shane_rounce_cc0_via_unsplash_2400x1600-100788531-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_217034788.jpg"
+    width: 800
+    height: 533
     isCached: true
 
-secured: "AjzRtIpKVHIGDUNTMGX7hFZgTCQwpCGH4doE2dbTFzncMzUmASeHPqBCeAf0EjFEVK8QfvlmV+JR2FEQvgOmK2yFCvGABGe28H0EEq9NFGNRAq/JNv56/am9I4dOWZO6SdSGTphvnbxUoFWcJ5gV6qxe8BlOj/QCjK8mXTEqko79MBK7N0OQaoa6k+T0YfyfJ5XLeIhsz29Ys3Tc26J8d+yH+jszW4V0nq5RQyTPwsRjHkKkQxOjtDmVL7+SqFWt8fB+a1iY0gli2wYP/nR/Z+wp2AzRUTUr3U/7vxnY+B5wtwTc/BQg8fTuLbHZD1HJTLxN20WTJI9n1mwyhfkQ3wOlrnue4bqJIfXhq/vpouw=;UEztzINIzmh4r6FtoxFTGg=="
+secured: "0vXZ+ENRTvTxm0mjtyeQnslONJ+tfqt2/MdKD3r8ACkABJw21zrP0Vv715HV685ceRWaQ1NuxiJKMqe7MrHhP5SWGAwFYxY3Ufj9ipQW7HEpyDNjHtG0C5Ngj+HrekF6YDLYf7jh/jvzgD6zXSoa7HWoG3u6R7QD7MsIbbNvl6nJ3NV/dzXMjtren48zAUHA+wyOestnDfTBbkgcgvrTh9YfCzQKjjnuG9numU/hgz1NgrbtU+Qmg9m7IBRmR/Po5Mt0SdBz5DykMJo3SiDwUOFd73KZPqxbJyaJm1lhvCPSQS1N5yzHQ1Ep+ootrWS8I3OM8FjKhEZWBdDY1iWrBok7p89cw46VYvtgUHKHRiA=;C5gpodpZyObZ2PQDPr3nzw=="
 ---
 
