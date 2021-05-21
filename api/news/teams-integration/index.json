@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-21-add-your-canvas-apps-to-microsoft-teams.md",
+      "title": "Add your canvas apps to Microsoft Teams",
+      "excerpt": "In Nov&#8217;19, we introduced a way to add your canvas apps to Microsoft Teams. Since we added this capability, we&#8217;ve seen several of you take advantage of it to bring personal productivity apps to Teams. Starting this week, we&#8217;re simplifying this experience further by eliminating the need",
+      "sourceUrl": null,
+      "webUrl": "https://powerapps.microsoft.com/en-us/blog/add-your-canvas-apps-to-microsoft-teams/",
+      "originalUrl": "https://powerapps.microsoft.com/en-us/blog/add-your-canvas-apps-to-microsoft-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerappsblogscdn.azureedge.net/wp-content/uploads/2021/05/side-panel.png",
+          "width": 2786,
+          "height": 1718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power Apps",
+        "Canvas apps",
+        "Teams integration"
+      ]
+    },
+    {
       "path": "_news/2021-04-18-april-2021-power-apps-community-call-persistent-apps-in-teams-tabs-custom-functions-libraries-and-gestalt-design-principles.md",
       "title": "April 2021 Power Apps Community Call: persistent apps in Teams tabs, custom functions libraries and gestalt design principles",
       "excerpt": "The April Power Apps community call will be covering: &#8216;Make your Power Apps sessions persistent when switching Teams tabs!&#8217;. Power Apps custom Functions Library and Rory Neary will deliver the final technical session on Make your Power Apps user experience awesome with Gestalt design principles.",
