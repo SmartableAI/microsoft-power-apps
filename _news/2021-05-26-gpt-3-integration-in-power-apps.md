@@ -8,8 +8,8 @@ webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-build-2021-gpt-3
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-build-2021-gpt-3-integration-in-power-apps-teams-development-tools-and-more/article34650665.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-build-2021-gpt-3-integration-in-power-apps-teams-development-tools-and-more/article34650665.ece/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - Power Apps
+  - Teams integration
 
 images:
   - url: "https://www.thehindu.com/sci-tech/technology/ugin1r/article34650685.ece/ALTERNATES/LANDSCAPE_615/Microsoft-Build-2021"
@@ -25,6 +26,6 @@ images:
     height: 384
     isCached: true
 
-secured: "maA8fqYJa2/kDAqMSyVshx2un7HIPtk67mv/+2E3NzRKPZvvAkwDVjio+3WltOaiyVQXfWQApg86WC0YRSjLQT5N08gC3Y6QRvl56SIYEXrPLSvBVCoBybL0u6JIkaPAk0qEsW1s7sfDuWzp59IBXes630CHg5YuswS5hty2pOnhpmDv+45h3I3CQrXzAe91qj6HiYBQXpVDyRm+bfl1yOPT20Do/JaSyYKBhgZpR8fzZ1PDLLEUoeIxWGKcYSjhZlcRh1lpO/A2nYTQpZ3q8jbZpBsMkLYfr/OgZExVYCEcDIyKW9ba00oFIDB7AogXPKk7Jh2dIU4bD4HQbBrIOjMdMRD7+fAS/0TH8Lfpqak=;F3Sdj1vF5JJxDsWduTV8PA=="
+secured: "r8ClBFe7icyvkZ7bt2UVdxqlBv6o6tw1P+fbQfGU0TPjHaUoEmzGKUjjuXposRY507+fXhXarcU38x5dQ2bcAWnQNpGE45bVnrXtXCgsDXt5cCkHw7EBE+OcXbmpfdu95t+btpfFuDCIJF8nxSHSuBDSFBY5lkCWhbd/gm6XuUNKFSIpYDVsNayuX92gA8buyvi/Sd5nIlGToSPnZZqCvWCGOVIVrPTLzPBOSKk6/2OY2OZYiPQwlrA2SeefipoEv7Ep+nzIp7I0XdBdVlPrLcZMwBuW/mslxKfmdK7UYTjFjXp68XoJOETnXqjbI1vwGIzvZ+fOE7Z2xSWrvWM5XLYLbXg3+aE+Q9SFYxxBdqI46RXLAUpehhIeX5xBjbkTdHa/TzUuXs0kF/5SYUia2cdNj3qyztAMgoGwFtEUAuFXRhwkanvYYs8kRoxle7pigJhk/hjI4cwKU/E5vfs8kNTqVCpDi+VCz7CiRpvcF2dUXyYACThps26OZxZYt6nVGTHHD6zKIEjUuKqx+btIhQ==;qLjtFRF/tQrTQGcQYe/cAA=="
 ---
 
