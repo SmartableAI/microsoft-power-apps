@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Microsoft Announces Levtech As Power Apps Partner"
-excerpt: "Levtech Consulting, an RIB Group company, today announced that it has extended its partnership with Microsoft to be a certified Power Apps Partner - dem"
-publishedDateTime: 2021-05-25T07:22:00Z
+excerpt: "Levtech Consulting, an RIB Group company, today announced that it has extended its partnership with Microsoft to be a certified Power Apps Partner Levtech Consulting, an RIB Group company ..."
+publishedDateTime: 2021-05-25T07:30:00Z
 originalUrl: "https://www.albawaba.com/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
 webUrl: "https://www.albawaba.com/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
 ampWebUrl: "https://www.albawaba.com/amp/business/pr/microsoft-announces-levtech-power-apps-partner-1429413"
@@ -25,6 +25,6 @@ images:
     height: 540
     isCached: true
 
-secured: "XtB+Q2ywHU2Itxsd7mELN+CjlQIpN2btAIHhJgywPgNHr2e3kRGQ5LIZnL2BiuRcfHS3bkkF13I0LUQdcUyLI8/7Bvw+aBs7qhPwr5myoemUfGDMV1QNSbAlZee/fngG+QM6w/Aa0i7tztchYHY+BgCI1/9kAmA9A6b2AZacqw0aIXCADf5+G4vY5VZoK8NwK0AmvncLlo9C2olFvc7xyj+TL+0xa4v16K0YUb826IzPpGM5Sof771okbuNTWDiwIlJbESR2lkFfzpa4SsOUmRhgPEztd5YkZ0ljGVG1Hkr0L5DDEdU8Z5AWEdxg2aK2SlOxUpYX9gt/L48c48J8o+llnUwVZsXmC111cFfQx3jIcdNGG1A3JMxVjF2GKosfyzciZj2qOFN+N9cWw/GwussSmvkqp1oF3Sr27k5Z+/4bZe6rRwVcoQOXMvJYDGXvZawhv3OcWRhCu1g9TMyOfkIkJJY2nJtkniSUMa3dT02u6h4lk5vQ35p5d0cfF2t5PVhFiVt1QcCSlJGYbUNBfQ==;9PPwmiwCWSaxlEZgSPRR3w=="
+secured: "c+KXpZxRw5JRn434VgC42AR+/NVmvXhXZoTW3MWb/jtsk2YCIB4oqxtK4XS0rfW9q4c68fF72QEi6V5mhTZRKhsuyCgUcppB9yq3mGlyAVWAXSbOnoT1APMPF+o2odaTx84/zBDNN4Oa0rP9+w2U6Eiqt55TW7CZOByfRctVCTKA3FG2thP1uHk/txeurvCoW2qeuDL42MRumobo6QXEa9Ww+dPdgCYdmM8avRvJvUV+SjrPholHcQ+26vScXKpulJLG9lLvNrrIPZlj2mfT5KLECNap0vykUvKLR9kIOYZRfTP862UcrQslyZDcIFWowbdKNK1dTaCo46RQ4BpAC8a+PzTaV5Hr0Q3aRXDbmf4=;ePiMIS3NckxiknuZcfI7Wg=="
 ---
 
