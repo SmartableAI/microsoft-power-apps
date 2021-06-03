@@ -1,34 +1,26 @@
 ---
 category: news
 title: "Microsoft Build touts Power Apps, Cosmos DB enhancements to develop code faster"
-excerpt: "Microsoft emphasized speed and ease of development in announcements for Power Apps, Power BI, and Cosmos DB at Microsoft Build."
-publishedDateTime: 2021-05-31T00:20:00Z
-originalUrl: "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/"
-webUrl: "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/"
-ampWebUrl: "https://venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/30/microsoft-build-touts-enhancements-to-power-apps-cosmos-db-to-develop-code-faster/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft emphasized speed and ease of development in announcements for Power Apps, Power BI ..."
+publishedDateTime: 2021-05-31T05:55:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-build-touts-power-apps--cosmos-db-enhancements-to-develop-code-faster-10189341"
+webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-build-touts-power-apps--cosmos-db-enhancements-to-develop-code-faster-10189341"
 type: article
-quality: 93
-heat: 93
-published: true
+quality: 53
+heat: 53
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/microsoft-power-apps/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Power Apps
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/05/microsoft-build-2020.png?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "iq3eGNWNrTn45Jrc0/lU2XwuN4wCNWf6/3Xr+jfSkjPcUkMGPTskxSCUHRDgG3HRoljlhcTGrl1g6RvU1Ug2UjRiO3OPrB+LKqBVFixX+7ZMxV28G1k0KgDi+dXeJueb9laWwH4MF2Cp654+3dL3X/F4KjcHGEpIu5yXVbcijLAa10ftzjzJxyIuv6VTCcWvpENtLH+lItjOAzxvpxxBIJdVmOxJP4uOilaYZm6OJrxHqm54ZEJU/Tf45DUBkKkpqT2m2OPXyqp7vQFMQHh3Z5IgQqGB9HlbxVt78EsDJlzXignh7KJ4xjBLwS51oEb8PJJJ5XO41sNfcZcwV08haQhbnMcBscULdS/etRIf93o=;EGNqnXN0u+gKmz2Qnv+wNQ=="
+secured: "HHTgZ+oiSA5+r3WLhWvTCRT0qlWgDXaRKgWFk3+kfSrp85kByjqsC5NjhPvBchsKHRXjQyQkHb72/xdCek0OwvLh1JqbGr7M0NR4ABr8r3mYs0FsKag7NTcz/NdxuGTPf18e+ZOQByxJHu+eGQcy79yi9KivTk8YtpSgOLbwwCC3OIH7fMViwz+Byz3UQGvJmpNC49JWUusbEQKs1HsWNdtLQy6eYOEzACn2j5rY7da3RSTA+RctdG1zpwO2tHQ9E/UL2qtRSOcOyedIfGk6Yut10zaQMP5mBaBatezSCNUao0p4y+IEM4BO4V1qeTxFWxRRt/mJL3ybQsLmBpsIPUHjgFkRW7jmH4D7dUkphtM=;atw+je+I9n9nLE80pPIenQ=="
 ---
 
